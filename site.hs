@@ -21,14 +21,6 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/default.html" siteCtx
             >>= relativizeUrls
 
-    match "index.html" $ do
-        route idRoute
-        compile $ do
-            getResourceBody
-                >>= applyAsTemplate siteCtx
-                >>= loadAndApplyTemplate "templates/default.html" siteCtx
-                >>= relativizeUrls
-
     match "templates/*" $ compile templateCompiler
 
 
