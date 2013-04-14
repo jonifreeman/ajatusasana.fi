@@ -2,11 +2,14 @@
 title: Kuka olen
 ---
 
-Olen tutkija-joogi-harrasterumpali. Toinen jalka tieteessä, toinen
+Nimeni on Stephanie Freeman. Olen tutkija-joogi-harrasterumpali. 
+Toinen jalka tieteessä, toinen 
 hyväolon tuottamisessa, tähtäimessä sillan rakentaminen näiden
 välille. 40-vuotisen elämänpolkuni voisin tiivistää suurinpiirtein
 seuraavaan kolmeen hieman päällekkäiseen vaiheeseen: keho edellä, pää
-edellä ja kehomieli yhdessä. Ensimmäisen kolmanneksen elin pitkälle
+edellä ja kehomieli yhdessä. 
+
+Ensimmäisen kolmanneksen elin pitkälle
 omassa kehossani ja kehostani, opettaen hiphophenkisiä jumppa-ja
 tanssitunteja. Vaikka ilmaisin itseäni kehollani, ja halusin välittää
 eteenpäin hyväoloa, en kuitenkaan osannut kuunnellut omaa kehoani,

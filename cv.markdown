@@ -8,7 +8,7 @@ title: CV
 
 ## EDUCATIONAL BACKGROUND
 
-2013 RYT 200 (Registered Yoga Teacher of Yoga Alliance) Graduated from Yoga Source Finland. 
+2013 RYT 200 (Registered Yoga Teacher) Graduated from Yoga Source Finland. 
 
 2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Grade for doctoral thesis: _Eximia_.
 

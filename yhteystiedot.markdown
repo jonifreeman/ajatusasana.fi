@@ -2,7 +2,7 @@
 title: Yhteistiedot
 ---
 
-Stephanie Freeman, 
+Stephanie Freeman
 
 FT (Filosofian Tohtori)
 
