@@ -34,10 +34,3 @@ main = hakyll $ do
 
 siteCtx :: Context String
 siteCtx = defaultContext
-
-navigation :: ([Item String] -> Compiler [Item String]) -> Compiler String
-navigation sortFilter = do
-    navis   <- sortFilter =<< loadAll "navigation/*"
-    itemTpl <- loadBody "templates/nav-item.html"
-    list    <- applyTemplateList itemTpl defaultContext navis
-    return list
