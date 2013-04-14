@@ -1,0 +1,5 @@
+---
+title: Idea
+---
+
+In english...

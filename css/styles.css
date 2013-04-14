@@ -82,3 +82,10 @@
   padding-bottom: 24px;
 }
 
+.lang {
+  margin-top: 30px;
+}
+
+.lang a {
+  font-size: 10px;
+}

@@ -4,6 +4,7 @@ import Hakyll
 import Data.Monoid (mappend)
 
 --------------------------------------------------------------------------------
+
 main :: IO ()
 main = hakyll $ do
     match "img/*" $ do
@@ -14,15 +15,18 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "*.markdown" $ do
-        route $ setExtension "html"
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/nav.html"     siteCtx
-            >>= loadAndApplyTemplate "templates/default.html" siteCtx
-            >>= relativizeUrls
+    match "*.markdown" $ content "templates/default.html"
 
+    match "en/*.markdown" $ content "templates/default_en.html"
+    
     match "templates/*" $ compile templateCompiler
 
 
 siteCtx :: Context String
 siteCtx = defaultContext
+
+content template = do
+  route $ setExtension "html"
+  compile $ pandocCompiler
+    >>= loadAndApplyTemplate template siteCtx
+    >>= relativizeUrls
