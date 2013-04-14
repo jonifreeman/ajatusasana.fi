@@ -1,0 +1,76 @@
+.logo {
+  margin-left: 120px;
+}
+
+.lehti {
+  margin-left: 250px;
+}
+
+.lehti-up {
+  position: absolute;
+  top: 0px;
+  left: 862px;
+}
+
+.line1 {
+  position: absolute;
+  top: 189px;
+  left: 4px;
+  width: 862px;
+  height: 4px;
+}
+
+.line2 {
+  position: absolute;
+  top: 189px;
+  left: 1072px;
+  width: 100px;
+  height: 4px;
+}
+
+.lehti-mid {
+  position: absolute;
+  top: 189px;
+  left: 862px;
+}
+
+.lehti-down {
+  position: absolute;
+  top: 193px;
+  left: 862px;
+}
+
+#body {
+  margin-left: 120px;
+  margin-top: 70px;
+}
+
+.navi {
+  margin-left: 12px;
+}
+
+.navi li {
+  padding-bottom: 10px;
+}
+
+.navi a {
+  color: #333333;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.content {
+  position: absolute;
+  top: 259px;
+  left: 400px;  
+  width: 470px;
+  line-height: 22px;
+  font-size: 16px;
+  color: #333333;
+}
+
+.content p {
+  padding-bottom: 24px;
+}
+
