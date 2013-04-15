@@ -36,8 +36,8 @@ support your independent practice. This way you will get some extra
 boost for your practice. 5 x 3. Max 10 persons 
 
 * __My Idea & Asana.__ This private 1, 5 hour consultancy session
-works with ideas and tools from the lecture package To the point and
-the Workshop-series One Asana for understanding your unique
+works with ideas and tools from the lecture package 'Motivation & Ideation' and
+the Workshop-series 'Two Asanas' for understanding your unique
 motivation patterns, emotions and pain spots/bodily sensations. This
 private session will provide conceptual and bodily tools for
 understanding your unique bodily proportions, personality, and
