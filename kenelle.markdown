@@ -8,5 +8,5 @@ tiedollista ja kehollista ohjausta yksityisesti.
 * Sinulle, joka haluat yksilöllistä tiedollista ja kehollista ohjausta
 pienryhmässä (max 10 hlöä).
 
-* (Työ) Yhteisöille, jotka hakevat yhteenkuuluvudeen tunnetta ja
+* (Työ)yhteisöille, jotka hakevat yhteenkuuluvudeen tunnetta ja
 inspiraatiota. 
