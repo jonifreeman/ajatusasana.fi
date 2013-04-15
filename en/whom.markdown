@@ -2,7 +2,7 @@
 title: For whom
 ---
 
-Holistic science-and yoga-based life consultancy for
+Science-and yoga-based life consultancy for
 
 * Individuals who prefer private instruction.
 
