@@ -17,7 +17,7 @@ experiencing two asanas (yoga posture) in a thorough and safe
 way. The emphasis is on learning to listen to what your unique and
 valuable body needs. The workshop is suited for anyone regardless of
 age, shape or size of personality/body. Each workshop includes also
-a breathing exercise in the beginning and a deep relaxation or
+a breathing exercise in the beginning, and a deep relaxation or
 meditation at the end. The idea is to practice each asana at home in
 between the workshops. I will provide you with material that will
 support your independent practice. This way you will get some extra
