@@ -2,7 +2,7 @@
 title: Products
 ---
 
-* __To the point.__ A lecture-package on motivation, creativity  and
+* __Motivation & Ideation.__ A lecture-package on motivation, creativity  and
 sociality from a science and yoga perspective. Delivered in a way
 that goes right to the point. What is motivation and how can yoga
 help understand its essence in a more deeper and experiential way?
@@ -12,7 +12,7 @@ settings. These tools can provide new insights for understanding and
 changing yourself and relating to your significant others. 
 
 * __Workshop-series Two Asanas.__ A springboard for independent
-yoga. Each two hour- workshop concentrates on understanding and
+yoga. Each two-hour workshop concentrates on understanding and
 experiencing two asanas (yoga posture) in a thorough and safe
 way. The emphasis is on learning to listen to what your unique and
 valuable body needs. The workshop is suited for anyone regardless of
@@ -24,7 +24,7 @@ support your independent practice. This way you will get some extra
 boost for your practice. 10 x 2. Max 10 persons. 
 
 * __Workshop-series Three Asanas.__ A springboard for independent
-yoga. Each four hour-workshop concentrates on understanding and
+yoga. Each three-hour workshop concentrates on understanding and
 experiencing three asanas (yoga postures) in a thorough and safe
 way. The emphasis is on learning to listen to what your unique and
 valuable body needs. The workshop is suited for anyone regardless of
