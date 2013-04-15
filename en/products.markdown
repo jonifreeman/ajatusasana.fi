@@ -43,3 +43,5 @@ private session will provide conceptual and bodily tools for
 understanding your unique bodily proportions, personality, and
 personal life history, with the aim of  helping you find your own
 life rhythm. 
+
+All services and products in two languages: English and Finnish.
