@@ -39,7 +39,7 @@ kuulisin paremmin. Opin joogaharrastuksen ja sitä seuranneen
 jooga-ohjaakoulutuksen avulla, että luovuus ja tuotteliaisuus eivät
 edellytä ahdistumista ja tuskaa. Voin luoda ja olla luova ilman
 stressiä jos kuuntelen mitä kehoni ja tunteeni minulle ympäristöstäni
-ja itsestäni kertovat. Voi luoda vaikka en ikinä tule olemaan
+ja itsestäni kertovat. Voin luoda vaikka en ikinä tule olemaan
 äiti. Tähän oivallukseen tarvitsin käsitteitä, joilla kyseenalaistaa
 sekä kehollista kokemusta jolla tuntea ja aistia, oman elämän rytmin
 löytämistä. Tässä ja nyt, kokonaisvaltaisen tiede-ja
