@@ -41,4 +41,4 @@ mittasuhteet ja persoonallisuuspiirteiden joukko, sekä
 kokemushistoria, saat henkilökohtaisessa ohjauksessani juuri sinulle
 sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. 
 
-Kaikki palvelut sekä suomeksi että englanniksi.
+Palvelut ja tuotteet kahdella kielellä: suomi ja englanti.
