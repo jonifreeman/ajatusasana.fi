@@ -6,10 +6,10 @@ title: Julkaisut
 
 ## Peer-reviewed articles 
 
-Hyysalo, S., Juntunen, J. & Freeman. S (Forthcoming in  Science
-Studies.). Internet forums and the rise of inventive energy user.  
+Hyysalo, S., Juntunen, J. & Freeman. S (2013b). Internet forums and the rise of inventive energy user. 
+Science & Technology Studies vol.26, no.1 
 
-Hyysalo, S., Juntunen, J. & Freeman. S. (2013). User innovation in
+Hyysalo, S., Juntunen, J. & Freeman. S. (2013a). User innovation in
 sustainable home energy technologies. Energy Policy. 
 
 Freeman, S. (2012) ‘User empowerment or user control? The discursive
@@ -70,14 +70,8 @@ Freeman, S. (In review). Tangible DIY: Motivations of Hard Core Makers.
 Freeman, S. (submitted). Authoring Community: Managerial Sense-Making
 In The Internet era. 
 
-Freeman, S. (2012). Tangible DIY: Motivational Patterns and Social meeting points. Conference Paper. The Making, Materiality and Knowledge-conference. 24-27.9. 2012, Notodden, Norway.
-Hyysalo, S., Juntunen, J.  &, Juntunen & Freeman,
-S. (Submitted). Internet Forums and Citizen Inventiveness in Renewable
-Energy". 
+Freeman, S. (2012). Tangible DIY: Motivational Patterns and Social meeting points. Conference Paper. The Making, Materiality and Knowledge-conference. 24-27.9. 2012, Notodden, Norway. 
 
-Mäkinen, Helminen, Hyysalo, Juntunen, Johnson & Freeman. (Conference
-Paper). “Mountaineering-An integrative approach for finding rare
-research subjects".
 
 ## Conference and seminar presentations
 
@@ -95,6 +89,9 @@ points. Making –conference, 24.-28.9.2012, Oslo, Norway.
 
 Freeman, S. Managing hybrid open source. INUSE get together
 seminar. 7.2.2012, TAIK (School of Arts, Design and Architecture). 
+
+Mäkinen, Helminen, Hyysalo, Juntunen, Johnson & Freeman. (2012). “Mountaineering-An integrative approach for finding rare
+research subjects". Conference paper.
 
 Freeman, S. “Hybrid Open Source Development: implications for CHAT and
 the concept of ’community’.  Symposium “Workplace Encounters between
