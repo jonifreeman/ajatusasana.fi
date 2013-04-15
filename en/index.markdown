@@ -4,7 +4,7 @@ title: Idea
 
 What is the natural rhythm of my life? Would it be possible to live my life in sync
 and in unison with other people’s rhythms? What about with the rhythms of the
-ICT-based economy and working life? How can I get back in touch with
+ICT-based economy and working life? How could I get back in touch with
 my creativity? How and when do I know that I am moving in the right
 direction? How can I accomplish my true self, and at the same time be
 a full-fledged member of society, work life, communities and family? 
