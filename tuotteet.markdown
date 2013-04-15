@@ -8,7 +8,7 @@ ihmisen motivaatio ja miten jooga voi auttaa ymmärtämään motivaation
 olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön
 pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen)
 motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
-organisaatioille, yliopistoille. 
+organisaatioille, (yli)opistoille. 
 
 * __Työpajasarja Kaksi Asanaa.__ Ponnahduslauta lempeään itsenäiseen
 joogaamiseen. Yhdessä kahden tunnin mittaisessa työpajassa
