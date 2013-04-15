@@ -34,7 +34,7 @@ jolloin harjoitukseen tulee syvyyttä ja saat
 lisämotivaatiota. Työpajasarja 5 x 3 tuntia. Max 10 henkilöä. 
 
 * __Oma Ajatus & Asana.__ Henkilökohtainen 1,5 tunnin ohjaussessio,
-jossa yhdistyvät TietoKipinän ja Asana-Työpajojen ideat ja välineet
+jossa yhdistyvät Motivaatio & Ajatus-luennon ja Asana-Työpajojen ideat ja välineet
 sinun motivaatiosi, tunteidesi ja kehon kipupisteidesi
 tutkiskelulle. Koska jokaisella ihmisellä on ainutlaatuiset kehon
 mittasuhteet ja persoonallisuuspiirteiden joukko, sekä
