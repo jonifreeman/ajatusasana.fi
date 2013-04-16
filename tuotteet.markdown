@@ -8,7 +8,7 @@ ihmisen motivaatio ja miten jooga voi auttaa ymmärtämään motivaation
 olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön
 pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen)
 motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
-organisaatioille, (yli)opistoille. 
+organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön mukaan.
 
 * __Työpajasarja Kaksi Asanaa.__ Ponnahduslauta lempeään itsenäiseen
 joogaamiseen. Yhdessä kahden tunnin mittaisessa työpajassa
@@ -20,7 +20,7 @@ syvärentoutuksen/meditaation. Opetettua asanaa on tarkoitus
 harjoittaa ja tutkia workshoppien välissä kotona. Saat mukaasi
 itsenäistä harjoittelua tukevaa materiaalia, jolloin harjoitukseen
 tulee syvyyttä ja saat lisämotivaatiota. Työpajasarja 10 x 2
-tuntia. Max 10 henkilöä. 
+tuntia. Max 10 henkilöä. Työpajan hinta 298 € (sis. alv).
 
 * __Työpajasarja Kolme Asanaa.__ Ponnahduslauta lempeään itsenäiseen
 joogaamiseen. Yhdessä kolmen tunnin mittaisessa työpajassa
@@ -31,7 +31,7 @@ hengitysharjoituksen ja syvärentoutuksen/meditaation. Opetettua
 asanaa on tarkoitus harjoittaa ja tutkia workshoppien välissä
 kotona. Saat mukaasi itsenäistä harjoittelua tukevaa materiaalia,
 jolloin harjoitukseen tulee syvyyttä ja saat
-lisämotivaatiota. Työpajasarja 5 x 3 tuntia. Max 10 henkilöä. 
+lisämotivaatiota. Työpajasarja 5 x 3 tuntia. Max 10 henkilöä. Työpajan hinta 224 € (sis. alv).
 
 * __Oma Ajatus & Asana.__ Henkilökohtainen 1,5 tunnin ohjaussessio,
 jossa yhdistyvät Motivaatio & Ajatus-luennon ja Asana-Työpajojen ideat ja välineet
@@ -39,6 +39,7 @@ sinun motivaatiosi, tunteidesi ja kehon kipupisteidesi
 tutkiskelulle. Koska jokaisella ihmisellä on ainutlaatuiset kehon
 mittasuhteet ja persoonallisuuspiirteiden joukko, sekä
 kokemushistoria, saat henkilökohtaisessa ohjauksessani juuri sinulle
-sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. 
+sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. Käyntikertojen määrä yksilöllisen tarpeen mukaan. Yksi sessio 149 € (sis alv). 
+
 
 Palvelut ja tuotteet kahdella kielellä: suomi ja englanti.
