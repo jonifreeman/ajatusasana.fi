@@ -40,7 +40,7 @@ Research. University of Helsinki.
 
 ## Scientific monographs
 
-Miettinen, Toikka, Tuunainen,  Freeman, Lehenkari, Leminen &  Siltala.
+Miettinen, R., Toikka, K.,  Tuunainen, J., Freeman,S., Lehenkari, J., Leminen, J. &  Siltala, J.
 (2008) "Informaatiotekninen kumous, innovaatiopolitiikka ja
 luottamus". Tekesin katsaus 234/2008. Tekes, Helsinki. 
 
