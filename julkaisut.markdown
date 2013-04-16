@@ -64,14 +64,12 @@ Freeman, S. 2004. The mystery of the ‘black box’: The case of the
 DEA-model in a Finnish Nordic electricity company.  Master’s
 thesis. Faculty of Behavioral Sciences University of Helsinki.  
 
-## Submitted for review/ working papers
+## Submitted for review
 
 Freeman, S. (In review). Tangible DIY: Motivations of Hard Core Makers. 
 
 Freeman, S. (submitted). Authoring Community: Managerial Sense-Making
 In The Internet era. 
-
-Freeman, S. (2012). Tangible DIY: Motivational Patterns and Social meeting points. Conference Paper. The Making, Materiality and Knowledge-conference. 24-27.9. 2012, Notodden, Norway. 
 
 
 ## Conference and seminar presentations
