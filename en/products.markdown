@@ -9,7 +9,7 @@ help understand its essence in a more deeper and experiential way?
 Concrete conceptual tools are offered for examining personal
 patterns of motivation, and their relation to surrounding social
 settings. These tools can provide new insights for understanding and
-changing yourself and relating to your significant others. The price and product tailored depending on the audience. 
+changing yourself and relating to your significant others. The price and product tailored according to the audience. 
 
 * __Workshop-series Two Asanas.__ A springboard for independent
 yoga. Each two-hour workshop concentrates on understanding and
