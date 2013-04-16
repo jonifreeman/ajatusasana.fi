@@ -2,7 +2,7 @@
 title: Who am I
 ---
 
-I am a researcher-yogi-hobbyist drummer. One foot in science, the
+My name is Stephanie Freeman. I am a researcher-yogi-hobbyist drummer. One foot in science, the
 other one in wellbeing, the aim being to build a strong bridge in
 between. My 40 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
