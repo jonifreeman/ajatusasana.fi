@@ -25,6 +25,7 @@ Yritysten Oppimisympäristöissä (Academic Models in Business Learning
 Environments). Aikuiskasvatus 4/2004, 309-321.  
 
 ## Non-peer-reviewed articles 
+Mäkinen, Helminen, Hyysalo, Juntunen, Johnson & Freeman. (2013). “Mountaineering-a combinatory approach for identifying lead users and other rare research subjects ”. Working Papers. Department of Industrial Engineering and Management. https://aaltodoc.aalto.fi/bitstream/handle/123456789/8978/isbn9789526051116.pdf?sequence=1. 
 
 Freeman, S. (2005). Opening the Office: Motivation and Emerging
 Patterns of Participation in a Firm-Community 'Hybrid' Free and Open
@@ -79,7 +80,7 @@ Freeman, S. 2013. I Some fundamentals of human-artifact behavior II
 Observing children's play. Lecture for design students, Notoddean,
 Norway. 30.1.2013. 
 
-Freeman, ,S. 2013. Four concepts of community: who are “we"?
+Freeman, S. 2013. Four concepts of community: who are “we"?
 18.1. 2013, Friday seminar, The department of Management  and
 International business, Management and Organization  unit, Aalto
 University. 
