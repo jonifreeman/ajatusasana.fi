@@ -21,7 +21,7 @@ a breathing exercise in the beginning, and a deep relaxation or
 meditation at the end. The idea is to practice each asana at home in
 between the workshops. I will provide you with material that will
 support your independent practice. This way you will get some extra
-boost. 10 x 2. Max 10 persons. 
+boost. 10 x 2. Max 10 persons. The whole workshop 298 € (incl. VAT).
 
 * __Workshop-series Three Asanas.__ A springboard for independent
 yoga. Each three-hour workshop concentrates on understanding and
@@ -33,7 +33,7 @@ a breathing exercise in the beginning, and a deep relaxation or
 meditation at the end. The idea is to practice each asana at home in
 between the workshops. I will provide you with material that will
 support your independent practice. This way you will get some extra
-boost. 5 x 3. Max 10 persons 
+boost. 5 x 3. Max 10 persons. The whole workshop 224 € (incl. VAT).
 
 * __My Idea & Asana.__ This private 1, 5 hour consultancy session
 works with ideas and tools from the lecture package 'Motivation & Ideation' and
@@ -42,6 +42,6 @@ motivation patterns, emotions and pain spots/bodily sensations. This
 private session will provide conceptual and bodily tools for
 understanding your unique bodily proportions, personality, and
 personal life history, with the aim of  helping you find your own
-life rhythm. 
+life rhythm. The number of session according to individual needs. One session 149 € (incl. VAT).
 
 All services and products delivered in two languages: English and Finnish.
