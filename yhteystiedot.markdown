@@ -1,5 +1,5 @@
 ---
-title: Yhteistiedot
+title: Yhteystiedot
 ---
 
 Stephanie Freeman
@@ -10,7 +10,7 @@ RYT 200 Jooga-ohjaaja
 
 Pääkaupunkiseutu 
 
-[stephanie.freeman@aalto.fi](mailto:stephanie.freeman@aalto.fi)
+Puh. +358405224889
 
 [camisteph@gmail.com](mailto:camisteph@gmail.com)
 
