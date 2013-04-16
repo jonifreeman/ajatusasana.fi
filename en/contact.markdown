@@ -10,7 +10,7 @@ RYT 200 Jooga-teacher
 
 Helsinki metropolitan area 
 
-[stephanie.freeman@aalto.fi](mailto:stephanie.freeman@aalto.fi)
+Tel. +358405224889
 
 [camisteph@gmail.com](mailto:camisteph@gmail.com)
 
