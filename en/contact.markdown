@@ -6,7 +6,7 @@ Stephanie Freeman
 
 FT (Doctor of Philosophy)
 
-RYT 200 Yoga teacher
+RYT 200 Yoga Teacher
 
 Helsinki metropolitan area 
 
