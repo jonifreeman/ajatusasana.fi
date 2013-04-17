@@ -42,6 +42,6 @@ motivation patterns, emotions and pain spots/bodily sensations. This
 private session will provide conceptual and bodily tools for
 understanding your unique bodily proportions, personality, and
 personal life history, with the aim of  helping you find your own
-life rhythm. The number of session according to individual needs. One session 149 € (incl. VAT).
+life rhythm. The number of sessions is determined according to individual needs. One session 149 € (incl. VAT).
 
 All services and products delivered in two languages: English and Finnish.
