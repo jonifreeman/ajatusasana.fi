@@ -31,4 +31,4 @@ understanding your unique bodily proportions, personality, and
 personal life history, with the aim of  helping you find your own
 life rhythm. The number of sessions is determined according to individual needs. One session 149 € (incl. VAT).
 
-All services and products delivered in two languages: English and Finnish.
+All products delivered in two languages: English and Finnish.
