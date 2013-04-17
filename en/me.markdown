@@ -3,16 +3,16 @@ title: Who am I
 ---
 
 My name is Stephanie Freeman. I am a researcher-yogi-hobbyist drummer. One foot in science, the
-other one in wellbeing, the aim being to build a strong bridge in
-between. My 40 year life trajectory could be summarized through the
+other one in wellbeing, the aim being to build a strong bridge 
+between the two. My 40 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
 body/mind in unison.
 
 I lived the first third of my life through and for my body, teaching
-hip-hop-influenced aerobics- and dance classes. Although I expressed
+hip-hop-influenced aerobics and dance classes. Although I expressed
 myself through my body, and wanted to make others feel good through
 movement and music, I was not really listening to what my wise body was
-trying to tell me. I made errors with excess taxation.
+trying to tell me. I made errors, overtaxed it’s capacity.
 
 I started searching for answers in the academia. I was hungry for
 theoretical knowledge, and wanted to understand the workings of the
@@ -25,7 +25,7 @@ psychology–consider the relation between mind, body and society
 inseparable. Scientific work and ambition, accompanied with
 competition, made my body and mind collapse a few times. I had created
 myself a “stress body”. I also went through a stressful and
-unsuccessful IVF-treatment, which was hard on my highly sensitive
+unsuccessful IVF treatment, which was hard on my highly sensitive
 body/person.
 
 The third phase of my life-to-date started a few years ago after yoga
@@ -41,4 +41,4 @@ experiential knowledge–finding my own rhythm of life. My holistic
 science-and yoga-based life consultancy service combines scientific
 knowledge of being a person-in-society with sensitive embodied
 intuitive knowledge, ideology-free yoga and the joy of hip
-hop. Finally, the Body and Mind have become One.
+hop. Finally, the Body and Mind can become One.
