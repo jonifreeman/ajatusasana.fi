@@ -44,7 +44,7 @@ Freeman, S. Constructing a Community – Myths and realities of the open develop
 
 01/2005-12/2009 Government-funded Finnish Post-Graduate School in Science and Technology Studies (Tieteen ja Teknologian valtakunnallinen tohtorikoulu). 
 
-1/2004- 12/2007 TEKES SOCA (Sosiaalinen Sosiaalinen pääoma ja luottamusverkostot) –hanke ,Professor Reijo Miettinen_s project “Sosiaalinen pääoma ja luottamuksen dynamiikka” (Social capital and dynamics of trust in innovation networks”). 
+1/2004- 12/2007 TEKES SOCA (Sosiaalinen Sosiaalinen pääoma ja luottamusverkostot) –project,Professor Reijo Miettinen_s project “Sosiaalinen pääoma ja luottamuksen dynamiikka” (Social capital and dynamics of trust in innovation networks”). 
 
 11/2003 - 3/2011 Former CENTER FOR ACTIVITY THEORY AND DEVELOPMENTAL RESEARCH, now called CENTER FOR RESEARCH ON ACTIVITY, DEVELOPMENT ANF LEARNING (CRADLE), PhD Student in Professor Reijo Miettinen's research group 'Innovation and organization of research. Status doctoral student in The Finnish Graduate School in Education and Learning (FiGSEL) in the Doctoral Programme on Developmental Work Research and Adult Education (DWRAE). 
 
@@ -61,18 +61,19 @@ Human Resource Development-course for Master students (6 credits), Department of
 
 Tieteen ja teknologian ajankohtaisia teemoja–luentosarja (Contemporary themes in Science and Technology Studies-lecture series) 14.02 2009
 
-Oppimisen Teoreettiset Perusteet kurssi (The theoretical foundations of Learning), group rehearsal course 01/2006 
+Oppimisen Teoreettiset Perusteet kurssi (The theoretical foundations of learning), group rehearsal course 01/2006 
 
-Oppimisen Teoreettiset Perusteet kurssi (The theoretical foundations of Learning), group rehearsal course 01/2007
+Oppimisen Teoreettiset Perusteet kurssi (The theoretical foundations of learning), group rehearsal course 01/2007
 
-Oppimisen Teoreettiset Perusteet kurssi (The theoretical foundations of Learning), group rehearsal course 01/2008
+Oppimisen Teoreettiset Perusteet kurssi (The theoretical foundations of learning), group rehearsal course 01/2008
 
 Työ ja Oppiminen (Work and Learning), Open University, Lecture, 10/2007
 
 Työ ja Oppiminen (Work and Learning), Open University, Lecture,10/2008
 
 Qualitative Methods course, group rehearsal course 03-05/ 2008
-I have also participated in the planning of the Master's Degree Program in Adult Education and Developmental Work Research in Helsinki University during 2005 and 2006 and participated in the student admission processes of planning and evaluating exams and interviewing student applicants in 2006.
+
+I also participated in the planning of the Master's Degree Program in Adult Education and Developmental Work Research in Helsinki University during 2005 and 2006 and participated in the student admission processes of planning and evaluating exams and interviewing student applicants in 2006.
 
 # OTHER EXPERIENCE
 
