@@ -11,7 +11,7 @@ body/mind in unison.
 I lived the first third of my life through and for my body, teaching
 hip-hop-influenced aerobics- and dance classes. Although I expressed
 myself through my body, and wanted to make others feel good through
-movement and music, I was not really listening to the wise body was
+movement and music, I was not really listening to what my wise body was
 trying to tell me. I made errors with excess taxation.
 
 I started searching for answers in the academia. I was hungry for
