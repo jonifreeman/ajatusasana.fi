@@ -31,4 +31,4 @@ kokemushistoria, saat henkilökohtaisessa ohjauksessani juuri sinulle
 sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. Käyntikertojen määrä yksilöllisen tarpeen mukaan. Yksi sessio 149 € (sis alv). 
 
 
-Palvelut ja tuotteet kahdella kielellä: suomi ja englanti.
+Tuotteet kahdella kielellä: suomi ja englanti.
