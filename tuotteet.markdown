@@ -22,17 +22,6 @@ itsenäistä harjoittelua tukevaa materiaalia, jolloin harjoitukseen
 tulee syvyyttä ja saat lisämotivaatiota. Työpajasarja 10 x 2
 tuntia. Max 10 henkilöä. Työpajan hinta 298 € per hlö (sis. alv).
 
-* __Työpajasarja Kolme Asanaa.__ Ponnahduslauta lempeään itsenäiseen
-joogaamiseen. Yhdessä kolmen tunnin mittaisessa työpajassa
-opetellaan kolme jooga-asanaa eli liikettä turvallisesti, omaa kehoa
-kuunnellen. Työpaja sopii kaikenikäisille ja muotoisille aikuisille
-kehoille & persoonille. Jokainen työpaja sisältää myös
-hengitysharjoituksen ja syvärentoutuksen/meditaation. Opetettua
-asanaa on tarkoitus harjoittaa ja tutkia workshoppien välissä
-kotona. Saat mukaasi itsenäistä harjoittelua tukevaa materiaalia,
-jolloin harjoitukseen tulee syvyyttä ja saat
-lisämotivaatiota. Työpajasarja 6 x 3 tuntia. Max 10 henkilöä. Työpajan hinta 268 € per hlö (sis. alv).
-
 * __Oma Ajatus & Asana.__ Henkilökohtainen 1,5 tunnin ohjaussessio,
 jossa yhdistyvät Motivaatio & Ajatus-luennon ja Asana-Työpajojen ideat ja välineet
 sinun motivaatiosi, tunteidesi ja kehon kipupisteidesi
