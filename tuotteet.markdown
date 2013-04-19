@@ -18,8 +18,8 @@ ja muotoisille aikuisille kehoille & persoonille. Jokainen työpaja
 sisältää myös hengitysharjoituksen ja
 syvärentoutuksen/meditaation. Opetettua asanaa on tarkoitus
 harjoittaa ja tutkia workshoppien välissä kotona. Saat mukaasi
-itsenäistä harjoittelua tukevaa materiaalia, jolloin harjoitukseen
-tulee syvyyttä ja saat lisämotivaatiota. Työpajasarja 10 x 2
+itsenäistä harjoittelua tukevaa materiaalia. Näin harjoitukseen
+tulee syvyyttä ja saat lisämotivaatiota kehon ja mielen yhteyden tutkiskeluun. Työpajasarja 10 x 2
 tuntia. Max 10 henkilöä. Työpajan hinta 298 € per hlö (sis. alv).
 
 * __Oma Ajatus & Asana.__ Henkilökohtainen 1,5 tunnin ohjaussessio,
