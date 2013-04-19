@@ -20,7 +20,7 @@ age, shape or size of personality/body. Each workshop includes also
 a breathing exercise at the beginning, and a deep relaxation or
 meditation at the end. The idea is to practice each asana at home in
 between the workshops. I will provide you with material that will
-support your independent practice. This will give you an additional boost. 10 x 2. Max 10 persons. The whole workshop 298 € per person (incl. VAT).
+support your independent practice and body/mind exploration. This will give you an additional boost. 10 x 2. Max 10 persons. The whole workshop 298 € per person (incl. VAT).
 
 * __My Idea & Asana.__ This private 1, 5 hour consultancy session
 works with ideas and tools from the lecture package 'Motivation & Ideation' and
