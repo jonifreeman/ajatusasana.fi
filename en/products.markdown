@@ -11,7 +11,7 @@ patterns of motivation, and their relation to surrounding social
 settings. These tools can provide new insights for understanding and
 changing yourself and relating to your significant others. The price and product is tailored to the needs of the audience. 
 
-* __Workshop Series. Two Asanas.__ A springboard for independent
+* __Workshop Series. Two Asanas.__ An alternative for "drop-in" yoga. A springboard for independent
 yoga. Each workshop concentrates on understanding and
 experiencing two asanas (yoga postures) in a thorough and safe
 way. The emphasis is on learning to listen to what your unique and
