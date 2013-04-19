@@ -10,7 +10,7 @@ pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen)
 motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
 organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön mukaan.
 
-* __Työpajasarja Kaksi Asanaa.__ Ponnahduslauta lempeään itsenäiseen
+* __Työpajasarja Kaksi Asanaa.__ Vaihtoehto "drop-in" joogalle. Ponnahduslauta lempeään itsenäiseen
 joogaamiseen. Yhdessä kahden tunnin mittaisessa työpajassa
 opetellaan perusteellisesti kaksi jooga asanaa eli liikettä
 turvallisesti, omaa kehoa kuunnellen. Työpaja sopii kaikenikäisille
