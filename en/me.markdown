@@ -35,7 +35,7 @@ yoga teacher training, I came to realize that being creative and
 productive does not require existential anguish or anxiety. I can be
 creative without stress if I stay true to my bodily sensations and
 emotions, that are telling me important things about my environment. I
-can create even if I never become a mother. Understanding this meant
+can create life even if I never become a mother. Understanding this meant
 the critical examination and use of theoretical concepts, and embodied
 experiential knowledge–finding my own rhythm of life. My holistic
 science-and yoga-based life consultancy service combines scientific
