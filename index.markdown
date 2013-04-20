@@ -16,4 +16,4 @@ henkisesti ja fyysisesti hyvin. Tavoitteena on itsenäinen ja
 itsellinen ihminen, joka viihtyy omassa kehossaan ja ympäristössään. 
 
 
-Keho on viisas kun sitä alkaa todella kuunnella–se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttää. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule kokeilemaan jotain kurssiani!
+Keho on viisas kun sitä alkaa kuuntelemaan–se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttää. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule kokeilemaan jotain kurssiani!
