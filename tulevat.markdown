@@ -2,8 +2,6 @@
 title: Tulevat tapahtumat 2013
 ---
 
-Keho on viisas kun sitä alkaa todella kuunnella–se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttää. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule kokeilemaan jotain kurssiani!
-
 *Työpajasarja Kaksi Asanaa*. Kesällä 2013 poikkeuksellisesti vain 6 krt. Aina klo. 17-19.00.
 * Ma 6.5 
 * Ma 13.5
