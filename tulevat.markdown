@@ -13,6 +13,7 @@ Ma 1.7
 Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. Ilmoittumiset: camisteph@gmail.com.
 
 
+
 Työpajasarja Kaksi Asanaa. yht. 10 krt. Aina klo. 17-19.00.
 Ma 2.9 
 Ma 9.9
