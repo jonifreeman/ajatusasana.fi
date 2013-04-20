@@ -11,8 +11,7 @@ title: Tulevat tapahtumat 2013
 * Ma 1.7
 
 Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. 
-
-Ilmoittautumiset: camisteph@gmail.com.
+<br/>Ilmoittautumiset: camisteph@gmail.com.
 
 
 
@@ -29,6 +28,5 @@ Ilmoittautumiset: camisteph@gmail.com.
 * Ma 4.11
 
 Hinta yht. 298 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. 
-
-Ilmoittatumiset: camisteph@gmail.com
+<br/>Ilmoittatumiset: camisteph@gmail.com
 
