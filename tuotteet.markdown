@@ -9,7 +9,6 @@ olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön
 pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen)
 motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
 organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön mukaan.
-
 * __Työpajasarja Kaksi Asanaa.__ Vaihtoehto "drop-in" joogalle. Ponnahduslauta lempeään, itsenäiseen
 joogaamiseen. Yhdessä kahden tunnin mittaisessa työpajassa
 opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä
@@ -21,7 +20,6 @@ harjoittaa ja tutkia työpajojen välissä kotona. Saat mukaasi
 itsenäistä harjoittelua tukevaa materiaalia. Näin harjoitukseen
 tulee syvyyttä ja saat lisämotivaatiota kehon ja mielen yhteyden tutkiskeluun. Työpajasarja 10 x 2
 tuntia. Max 10 henkilöä. Työpajan hinta 298 € per hlö (sis. alv).
-
 * __Oma Ajatus & Asana.__ Henkilökohtaiseesa 1,5 tunnin ohjaussessiossa yhdistyvät
 Motivaatio & Ajatus-luennon ja Asana-Työpajojen ideat ja välineet
  sinun motivaatiosi, tunteittesi ja kehon kipupisteittesi
@@ -29,6 +27,5 @@ tutkiskelulle. Koska jokaisella ihmisellä on ainutlaatuiset kehon
 mittasuhteet ja persoonallisuuspiirteiden joukko sekä
 kokemushistoria, saat henkilökohtaisessa ohjauksessani juuri sinulle
 sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. Käyntikertojen määrä yksilöllisen tarpeen mukaan. Yksi sessio 149 € (sis alv). 
-
 
 Tuotteet kahdella kielellä: suomi ja englanti.

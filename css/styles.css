@@ -92,6 +92,8 @@
 
 .content li {
   list-style-type: disc;
+  list-style-position:inside;
+  padding-bottom: 10px;
 }
 
 .content h1 {
