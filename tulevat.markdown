@@ -9,7 +9,6 @@ Ma 27.5
 Ma 10.6
 Ma 17.6
 Ma 1.7
-
 Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. Ilmoittumiset: camisteph@gmail.com.
 
 
@@ -25,6 +24,5 @@ Ma 14.10
 Ma 21.10
 Ma 28.10
 Ma 4.11
-
 Hinta yht. 298 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. Ilmoittumiset: camisteph@gmail.com
 
