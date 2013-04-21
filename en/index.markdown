@@ -15,3 +15,5 @@ body. Developing your internal compass can help you navigate the
 social and material environment in a physically and mentally
 beneficial way. The intention is an independent person, who feels good in
 his/her body and in his/her immediate social surroundings. 
+
+The body is wise once you start listening. It whispers, it shouts, it hums, it purrs of contentment. It converses. If our wnant to start a dialogue with your body, you are welcome to try my courses!
