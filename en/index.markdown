@@ -16,4 +16,4 @@ social and material environment in a physically and mentally
 beneficial way. The intention is an independent person, who feels good in
 his/her body and in his/her immediate social surroundings. 
 
-The body is wise once you start listening. It whispers, it shouts, it hums, it purrs of contentment. It converses. If you want to start a dialogue with your body, you are welcome to try my courses!
+Once you start listening, you realize how wise the body can be. It whispers, it shouts, it hums, it purrs of contentment. It converses. Ready to start a dialogue with your body? Welcome to try one of my courses!
