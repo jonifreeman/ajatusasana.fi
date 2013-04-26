@@ -9,7 +9,7 @@ olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön
 pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen)
 motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
 organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön mukaan.
-* __Jooga työpajasarja Kaksi Asanaa.__Uudelainen joogakonsepti: mielen ja kehon välineitä–ajatuksia ja asanoita! Vaihtoehto "drop-in" joogalle. Ponnahduslauta lempeään, itsenäiseen
+* __Jooga työpajasarja Kaksi Asanaa.__ Uudelainen joogakonsepti: mielen ja kehon välineitä–ajatuksia ja asanoita! Vaihtoehto "drop-in" joogalle. Ponnahduslauta lempeään, itsenäiseen
 joogaamiseen. Yhdessä kahden tunnin mittaisessa työpajassa
 opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä
 omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille
