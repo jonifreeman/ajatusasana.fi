@@ -20,7 +20,7 @@ harjoittaa ja tutkia työpajojen välissä kotona. Saat mukaasi
 itsenäistä harjoittelua tukevaa materiaalia. Näin harjoitukseen
 tulee syvyyttä ja saat lisämotivaatiota kehon ja mielen yhteyden tutkiskeluun. Työpajasarja 10 x 2
 tuntia. Max 10 henkilöä. Työpajan hinta 298 € per hlö (sis. alv).
-* __Oma Ajatus & Asana.__ Henkilökohtaiseesa 1,5 tunnin ohjaussessiossa yhdistyvät
+* __Oma Ajatus & Asana.__ Henkilökohtaisessa 1,5 tunnin ohjaussessiossa yhdistyvät
 Motivaatio & Ajatus-luennon ja Asana-Työpajojen ideat ja välineet
  sinun motivaatiosi, tunteittesi ja kehon kipupisteittesi
 tutkiskelulle. Koska jokaisella ihmisellä on ainutlaatuiset kehon
