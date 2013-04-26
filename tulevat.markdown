@@ -2,7 +2,7 @@
 title: Tulevat tapahtumat 2013
 ---
 
-*Työpajasarja Kaksi Asanaa*. Kesällä 2013 poikkeuksellisesti vain 6 krt. Aina klo. 17-19.00.
+*Jooga Työpajasarja Kaksi Asanaa*. Kesällä 2013 poikkeuksellisesti vain 6 krt. Aina klo. 17-19.00.
 
 * Ma 6.5 
 * Ma 13.5
@@ -16,7 +16,7 @@ Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. M
 
 
 
-*Työpajasarja Kaksi Asanaa*. Yht. 10 krt. Aina klo. 17-19.00.
+*TJooga Työpajasarja Kaksi Asanaa*. Yht. 10 krt. Aina klo. 17-19.00.
 
 * Ma 2.9 
 * Ma 9.9
