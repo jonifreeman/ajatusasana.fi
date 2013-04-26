@@ -16,7 +16,7 @@ Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. M
 
 
 
-*TJooga Työpajasarja Kaksi Asanaa*. Yht. 10 krt. Aina klo. 17-19.00.
+*Jooga Työpajasarja Kaksi Asanaa*. Yht. 10 krt. Aina klo. 17-19.00.
 
 * Ma 2.9 
 * Ma 9.9
