@@ -24,7 +24,7 @@ Käyttäytymistieteelliseen Tiedekuntaan. Janosin tietoa ja laajempaa
 yhteiskunnallista kokonaiskuvaa ajan hengestä siinä määrin, että
 väitöskirja Internet-vapaaehtoisyhteisöjen rakentamisesta ja yhteisön jäsenten
 motivaatiopoluista valmistui v. 2011. Jo 13 vuotta on vierähtänyt
-ideoiden ja "pään  sisällä", vaikkakin ammentamani sosiokulttuurinen ja
+ideoiden maailmassa ja "pään  sisällä", vaikkakin ammentamani sosiokulttuurinen ja
 kulttuuripsykologinen teoriatausta ymmärsi mielen ja
 ympäristön, ja pään ja kehon suhteen erottamattomaksi. Tieteellinen työ,
 kunnianhimo ja siihen liittyvä kova kilpailu tuottivat minulle
