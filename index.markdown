@@ -1,7 +1,7 @@
 ---
 title: Idea
 ---
-__Uudenlainen jooga konsepti__
+__Uudenlainen jooga konsepti: mielen ja kehon välineitä–ajatuksia ja asanoita!__
 
 Mikä on luontainen rytmini ja miten saan sen toimimaan harmoniassa
 muiden ihmisten rytmien kanssa? Entäpä tietoteknologistaloudellisten rytmien kanssa? 
