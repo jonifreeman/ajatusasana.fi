@@ -1,6 +1,7 @@
 ---
 title: Idea
 ---
+__A new yoga concept: conceptual tools and bodily excercises–thoughts and asanas!
 
 What is the natural rhythm of my life? Would it be possible to live my life in sync
 and in unison with other people’s rhythms? What about with the rhythms of the
