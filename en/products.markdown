@@ -11,15 +11,15 @@ patterns of motivation, and their relation to surrounding social
 settings. These tools can provide new insights for understanding and
 changing yourself and relating to your significant others. The price and product is tailored to the needs of the audience. 
 * __Yoga Workshop Series. Two Asanas.__ An alternative for "drop-in" yoga. A springboard for independent
-yoga. Each workshop concentrates on understanding and
+yoga. Bodily postures and concepts for moving the mind. Each workshop concentrates on understanding and
 experiencing two asanas (yoga postures) in a thorough and safe
 way. The emphasis is on learning to listen to what your unique and
 valuable body needs. The workshop is suitable for anyone regardless of
 age, shape or size of personality/body. Each workshop includes also
 a breathing exercise at the beginning, and a deep relaxation or
 meditation at the end. The idea is to practice each asana at home in
-between the workshops. I will provide you with material that will
-support your independent practice and body/mind exploration. This will give you an additional boost. 10 x 2. Max 10 persons. The whole workshop 298 € per person (incl. VAT).
+between the workshops. I will provide you with additional material that will
+support your independent practice and  deepen your body/mind exploration. This will give you an additional boost. 10 x 2. Max 10 persons. The whole workshop 298 € per person (incl. VAT).
 * __My Idea & Asana.__ This private 1, 5 hour consultancy session
 works with ideas and tools from the lecture package 'Motivation & Ideation' and
 the Workshop-series 'Two Asanas' for understanding your unique
