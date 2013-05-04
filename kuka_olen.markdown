@@ -1,6 +1,7 @@
 ---
 title: Kuka olen
 ---
+Huhtikuu, 2013.
 
 Nimeni on Stephanie Freeman. Olen tutkija-joogi-harrasterumpali. 
 Toinen jalka tieteessä, toinen
