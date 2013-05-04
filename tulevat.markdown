@@ -29,7 +29,7 @@ _Syksy 2013_
 Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. 
 <br/>Ilmoittatumiset: camisteph@gmail.com
 
-*Jooga Työpajasarja Kaksi Asanaa*. Yht. 8 krt. Aina klo. 17-19.00.
+*Jooga Työpajasarja Kaksi Asanaa*. Yht. 8 krt. Aina klo. 16.00-18.00.
 * Pe 11.10
 * Pe 18.10
 * Pe 25.10
