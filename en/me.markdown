@@ -1,6 +1,7 @@
 ---
 title: Who am I
 ---
+April, 2013.
 
 My name is Stephanie Freeman. I am a researcher-yogi-hobbyist drummer. One foot in science, the
 other one in wellbeing, the aim being to build a strong bridge 
