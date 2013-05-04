@@ -18,8 +18,9 @@ sisältää myös hengitysharjoituksen ja
 syvärentoutuksen/meditaation. Opetettua asanaa on tarkoitus
 harjoittaa ja tutkia työpajojen välissä kotona. Saat mukaasi myös
 itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä, joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle.Näin harjoitukseen
-tulee syvyyttä ja saat lisämotivaatiota. Työpajasarja 10 x 2
-tuntia. Max 10 henkilöä. Työpajan hinta 298 € per hlö (sis. alv).
+tulee syvyyttä ja saat lisämotivaatiota. Työpajasarja 6 x 2
+tuntia: yht. 178 € per hlö (sis. alv). Työpajasarja 8 x 2
+tuntia: yht. 238 € per hlö (sis. alv). Max 10 henkilöä.
 * __Oma Ajatus & Asana.__ Henkilökohtaisessa 1,5 tunnin ohjaussessiossa yhdistyvät
 Motivaatio & Ajatus-luennon ja Asana-Työpajojen ideat ja välineet
  sinun motivaatiosi, tunteittesi ja kehon kipupisteittesi
