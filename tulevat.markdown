@@ -5,7 +5,7 @@ title: Tulevat tapahtumat 2013
 _Syksy 2013_
 
 Paikka: Kasarmikatu 2, 00140 HELSINKI. 
-<br/>Ilmoittatumiset: camisteph@gmail.com
+<br/>Ilmoittautumiset: camisteph@gmail.com
 
 *Jooga Työpajasarja Kaksi Asanaa*. Yht. 6 krt. Aina klo. 17-19.00. Max 10 hlöä.
 
