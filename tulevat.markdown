@@ -30,6 +30,6 @@ Hinta yht. 178 € per hlö (sis. alv).
 * Pe 22.11
 * Pe 29.10
 
-Hinta yht. 238 € per hlö (sis. alv). Max 10 hloö.
+Hinta yht. 238 € per hlö (sis. alv). Max 10 hlöä.
 
-
+Huom! Jos haluat Ajatus & Asana jooga-kurssin ystävä/tuttavaporukalla, ota yhteyttä minuun niin järjestetään juuri teille paras mahdollinen paikka ja aika!
