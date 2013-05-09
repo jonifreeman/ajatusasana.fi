@@ -32,4 +32,4 @@ Hinta yht. 178 € per hlö (sis. alv).
 
 Hinta yht. 238 € per hlö (sis. alv). Max 10 hloö.
 
-Jos haluat jooga-kurssin ystävä/tuttavaporukalla, ota yhteyttä minuun niin järjestetään juuri teille paras mahdollinen paikka ja aika!
+
