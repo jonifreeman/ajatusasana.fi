@@ -2,21 +2,12 @@
 title: Tulevat tapahtumat 2013
 ---
 
-*Jooga Työpajasarja Kaksi Asanaa*. Yht. 6 krt. Aina klo. 17-19.00.
-
-* Ma 6.5 
-* Ma 13.5
-* Ma 27.5
-* Ma 10.6
-* Ma 17.6
-* Ma 1.7
-
-Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. 
-<br/>Ilmoittautumiset: camisteph@gmail.com.
-
 _Syksy 2013_
 
-*Jooga Työpajasarja Kaksi Asanaa*. Yht. 6 krt. Aina klo. 17-19.00.
+Paikka: Kasarmikatu 2, 00140 HELSINKI. 
+<br/>Ilmoittatumiset: camisteph@gmail.com
+
+*Jooga Työpajasarja Kaksi Asanaa*. Yht. 6 krt. Aina klo. 17-19.00. Max 10 hlöä.
 
 * Ma 2.9 
 * Ma 9.9
@@ -26,8 +17,7 @@ _Syksy 2013_
 * Ma 7.10
 
 
-Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. 
-<br/>Ilmoittatumiset: camisteph@gmail.com
+Hinta yht. 178 € per hlö (sis. alv). 
 
 *Jooga Työpajasarja Kaksi Asanaa*. Yht. 8 krt. Aina klo. 16.00-18.00.
 
@@ -40,5 +30,6 @@ Hinta yht. 178 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. M
 * Pe 22.11
 * Pe 29.10
 
-Hinta yht. 238 € per hlö (sis. alv). Paikka: Kasarmikatu 2, 00140 HELSINKI. Max 10 hlöä. 
-<br/>Ilmoittatumiset: camisteph@gmail.com
+Hinta yht. 238 € per hlö (sis. alv). Max 10 hloö.
+
+Jos haluat jooga-kurssin ystävä/tuttavaporukalla, ota yhteyttä minuun niin järjestetään juuri teille paras mahdollinen paikka ja aika!
