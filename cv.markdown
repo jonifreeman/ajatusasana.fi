@@ -44,7 +44,7 @@ Freeman, S. Constructing a Community – Myths and realities of the open develop
 
 01/2005-12/2009 Government-funded Finnish Post-Graduate School in Science and Technology Studies (Tieteen ja Teknologian valtakunnallinen tohtorikoulu). 
 
-1/2004- 12/2007 TEKES SOCA (Sosiaalinen Sosiaalinen pääoma ja luottamusverkostot) –project,Professor Reijo Miettinen_s project “Sosiaalinen pääoma ja luottamuksen dynamiikka” (Social capital and dynamics of trust in innovation networks”). 
+1/2004- 12/2007 TEKES SOCA (Sosiaalinen Sosiaalinen pääoma ja luottamusverkostot) –project, lead by Professor Reijo Miettinen. (Social capital and dynamics of trust in innovation networks”). 
 
 11/2003 - 3/2011 Former CENTER FOR ACTIVITY THEORY AND DEVELOPMENTAL RESEARCH, now called CENTER FOR RESEARCH ON ACTIVITY, DEVELOPMENT ANF LEARNING (CRADLE), PhD Student in Professor Reijo Miettinen's research group 'Innovation and organization of research. Status doctoral student in The Finnish Graduate School in Education and Learning (FiGSEL) in the Doctoral Programme on Developmental Work Research and Adult Education (DWRAE). 
 
