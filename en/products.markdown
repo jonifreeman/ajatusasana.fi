@@ -7,7 +7,7 @@ that goes right to the point. What is motivation and how can yoga help understan
 Concrete conceptual tools are offered for examining personal patterns of motivation, and their relation to surrounding social
 settings. These tools can provide new insights for understanding and changing yourself and relating to your significant others. The price and product is tailored to the needs of the audience. 
 
-__Yoga Workshop Series. Two Asanas.__ An alternative for "drop-in" yoga. A springboard for independent
+__Yoga Workshop Series Two Asanas & Ideas.__ An alternative for "drop-in" yoga. A springboard for independent
 yoga. Bodily postures and concepts for moving the mind. Each workshop concentrates on understanding and experiencing two asanas (yoga postures) in a thorough and safe
 way. The emphasis is on learning to listen to what your unique and valuable body needs. The workshop is suitable for anyone regardless of
 age, shape or size of personality/body. Each workshop includes also a breathing exercise at the beginning, and a deep relaxation or
