@@ -11,7 +11,7 @@ Ajatus & Asana on Tutkivaa Itsetuntemus-Joogaa. 'Ajatus' tuo huomion ihmismielen
 
 Keho on viisas kun sitä alkaa kuuntelemaan–se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttää. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule kokeilemaan jotain kurssiani!
 
-Suurella sydämellä vastaanottaen,
+Suurella sydämellä Sinut vastaanottaen,
 Stephanie Freeman
 
 
