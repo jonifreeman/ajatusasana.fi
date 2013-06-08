@@ -2,7 +2,7 @@
 title: CV
 ---
 
-# NIINA STEPHANIE FREEMAN, CV 
+# N. STEPHANIE FREEMAN, CV 
 
 (Born: Feb. 1973)
 
