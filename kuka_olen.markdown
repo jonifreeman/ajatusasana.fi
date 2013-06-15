@@ -1,5 +1,6 @@
 ---
 title: Kuka olen
+image: stefi.jpg
 ---
 Huhtikuu, 2013.
 

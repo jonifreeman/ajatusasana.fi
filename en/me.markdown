@@ -1,5 +1,6 @@
 ---
 title: Who am I
+image: stefi.jpg
 ---
 April, 2013.
 
