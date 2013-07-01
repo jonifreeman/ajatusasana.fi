@@ -1,5 +1,7 @@
 ---
 title: Tulevat tapahtumat 2013
+image: jooga1.jpg
+imagewidth: 425px
 ---
 
 _Syksy 2013_

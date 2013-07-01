@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import Hakyll
-import Control.Applicative ((<|>))
+import Control.Applicative ((<|>), (<$>), (<*>))
 import Data.Monoid (mappend)
 import Data.Maybe (fromMaybe)
 import qualified Data.Map as M (lookup)
@@ -36,10 +36,10 @@ siteCtx =
 
 imageContext :: Context a
 imageContext = field "image" $ \item -> do
-    metadata <- getMetadata (itemIdentifier item)
-    return $ fromMaybe "" $ fmap mkImage $ M.lookup "image" metadata
-    
-mkImage img = "<image class=\"side-image\" src=\"/img/" ++ img ++ "\" />"
+  metadata <- getMetadata (itemIdentifier item)
+  return $ fromMaybe "" $ mkImage <$> M.lookup "image" metadata <*> M.lookup "imagewidth" metadata
+
+mkImage img width = "<image class=\"side-image\" src=\"/img/" ++ img ++ "\" style=\"width:" ++ width ++ "\"/>"
 
 content template = do
   route $ setExtension "html"

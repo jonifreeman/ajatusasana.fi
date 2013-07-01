@@ -1,6 +1,7 @@
 ---
 title: Who am I
 image: stefi.jpg
+imagewidth: 170px
 ---
 April, 2013.
 
