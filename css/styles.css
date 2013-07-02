@@ -126,3 +126,12 @@
 .lang a {
   font-size: 10px;
 }
+
+.images {
+  display: inline;
+  margin: 0 25px 25px 0px;
+  float: left;
+}
+
+.body {
+}

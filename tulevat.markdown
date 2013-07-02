@@ -1,6 +1,6 @@
 ---
 title: Tulevat tapahtumat 2013
-image: jooga1.jpg
+image: jooga1.jpg,jooga2.jpg
 imagewidth: 425px
 ---
 

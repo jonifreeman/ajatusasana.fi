@@ -37,7 +37,9 @@ siteCtx =
 imageContext :: Context a
 imageContext = field "image" $ \item -> do
   metadata <- getMetadata (itemIdentifier item)
-  return $ fromMaybe "" $ mkImage <$> M.lookup "image" metadata <*> M.lookup "imagewidth" metadata
+  return $ fromMaybe "" $ mkImages <$> M.lookup "image" metadata <*> M.lookup "imagewidth" metadata
+
+mkImages imgs width = concat $ map (\i -> mkImage i width) $ split imgs ','
 
 mkImage img width = "<image class=\"side-image\" src=\"/img/" ++ img ++ "\" style=\"width:" ++ width ++ "\"/>"
 
@@ -47,3 +49,11 @@ content template = do
     pandocCompiler
       >>= loadAndApplyTemplate template siteCtx
       >>= relativizeUrls
+
+split :: String -> Char -> [String]
+split [] delim = [""]
+split (c:cs) delim
+   | c == delim = "" : rest
+   | otherwise = (c : head rest) : tail rest
+   where
+       rest = split cs delim

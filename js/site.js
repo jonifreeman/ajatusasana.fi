@@ -8,4 +8,7 @@ $(function() {
     $('.navi a[href$="' + page + '"]').addClass('selected')
   }
 
+  $('.images').cycle({
+    timeout: 10000
+  })
 })
