@@ -9,7 +9,7 @@ _Syksy 2013_
 Paikka: Kasarmikatu 2, 00140 HELSINKI. 
 <br/>Ilmoittautumiset: camisteph@gmail.com
 
-*Jooga Työpajasarja Kaksi Asanaa*. Yht. 6 krt. Aina klo. 17-19.00. Max 10 hlöä.
+*Jooga kurssi Kaksi Asanaa*. Yht. 6 krt. Aina klo. 17-19.00. Max 10 hlöä.
 
 * Ma 2.9 
 * Ma 9.9
@@ -21,7 +21,7 @@ Paikka: Kasarmikatu 2, 00140 HELSINKI.
 
 Hinta yht. 178 € per hlö (sis. alv). 
 
-*Jooga Työpajasarja Kaksi Asanaa*. Yht. 8 krt. Aina klo. 16.00-18.00.
+*Jooga kurssi Kaksi Asanaa*. Yht. 8 krt. Aina klo. 16.00-18.00.
 
 * Pe 11.10
 * Pe 18.10
