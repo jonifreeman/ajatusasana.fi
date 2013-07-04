@@ -32,16 +32,22 @@ main = hakyll $ do
 siteCtx :: Context String
 siteCtx =
   imageContext `mappend` 
+  imagesContext `mappend` 
   defaultContext
 
-imageContext :: Context a
 imageContext = field "image" $ \item -> do
   metadata <- getMetadata (itemIdentifier item)
   return $ fromMaybe "" $ mkImages <$> M.lookup "image" metadata <*> M.lookup "imagewidth" metadata
 
+imagesContext = field "imagesheight" $ \item -> do
+  metadata <- getMetadata (itemIdentifier item)
+  return $ fromMaybe "" $ fmap mkHeight $ M.lookup "imagesheight" metadata
+
 mkImages imgs width = concat $ map (\i -> mkImage i width) $ split imgs ','
 
 mkImage img width = "<image class=\"side-image\" src=\"/img/" ++ img ++ "\" style=\"width:" ++ width ++ "\"/>"
+
+mkHeight height = "margin-top:" ++ height
 
 content template = do
   route $ setExtension "html"
