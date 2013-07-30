@@ -14,8 +14,7 @@ age, shape or size of personality/body. Each workshop includes also a breathing 
 meditation at the end. The idea is to practice each asana at home in between the workshops. I will provide you with additional material that will
 support your independent practice and deepen your body/mind exploration in relation to your bodily painspots, feelings and motivations. This will give you an additional boost. 10 x 2. Max 10 persons. The whole workshop 298 € per person (incl. VAT).
 
-__Yoga & Self-Knowledge Day.__ Includes a lecture on motivation and emotions, yoga asana practice, meditation & deep relaxation. I will provide you with additional material that will
-support your independent practice. The whole day 145 € per person (incl. VAT).
+__Yoga & Self-Knowledge Day.__ Includes a lecture on motivation and emotions, yoga asana practice, meditation & deep relaxation. I will provide you additional material for supporting your independent practice. The whole day 145 € per person (incl. VAT).
 
 __My Idea & Asana.__ This private 1, 5 hour consultancy session works with ideas and tools from the lecture package 'Motivation & Ideation' and
 the Workshop-series 'Two Asanas' for understanding your unique motivation patterns, emotions and pain spots/bodily sensations. This
