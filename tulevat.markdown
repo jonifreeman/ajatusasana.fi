@@ -8,7 +8,7 @@ imagesheight: 302px
 _Syksy 2013_
 
 Paikka: Kasarmikatu 2, 00140 HELSINKI. 
-<br/>Ilmoittautumiset: camisteph@gmail.com
+<br/> Sitovat ilmoittautumiset Elokuun 25. mennessä: camisteph@gmail.com
 
 *Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 6 krt. Aina klo. 17-19.00. Max 10 hlöä.
 
