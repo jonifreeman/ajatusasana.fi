@@ -8,7 +8,9 @@ FT (Filosofian Tohtori)
 
 RYT 200 Jooga-ohjaaja
 
-Pääkaupunkiseutu 
+Pääkaupunkiseutu
+
+Silloin kun olen Lapissa: Ylläs-Akäslompolo
 
 Puh. +358405224889
 
