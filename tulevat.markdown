@@ -8,7 +8,7 @@ imagesheight: 302px
 _Syksy 2013_
 
 Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
-<br/> Sitovat ilmoittautumiset Elokuun 25. mennessä: camisteph@gmail.com
+<br/> Ilmoittautumiset: camisteph@gmail.com
 
 Kurssit sopivat niin aloittelijoille kuin joogaa jo harrastaneille!
 
