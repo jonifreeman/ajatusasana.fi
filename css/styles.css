@@ -24,7 +24,7 @@
   position: absolute;
   top: 189px;
   left: 1072px;
-  width: 100%;
+  width: 45%;
   height: 4px;
 }
 
@@ -125,6 +125,14 @@
 
 .lang a {
   font-size: 10px;
+}
+
+.facebook {
+  margin-top: 80px;
+}
+
+.facebook img {
+  width: 100px;
 }
 
 .images {
