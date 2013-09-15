@@ -8,8 +8,7 @@ imagesheight: 302px
 _Syksy 2013_
 
 
-*Avoin ilmainen keskustelutilaisuus*, jossa avaan Ajatus & Asana konseptia. [Kirjakauppa Era Nova, ke 25.9 17.00](http://www.eranova.fi/java/NewsList.jsp)
-
+*Avoin ilmainen keskustelutilaisuus*, jossa avaan Ajatus & Asana konseptia. Kirjakauppa Era Nova, ke 25.9 klo. 17.00. Kasarmikatu 2, 00140 HELSINKI. 
 
 
 *Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 8 krt. Aina klo. 16.00-18.00.
@@ -23,8 +22,12 @@ _Syksy 2013_
 * Pe 22.11
 * Pe 29.10
 
-Hinta yht. 238 € per hlö (sis. alv). Max 10 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
-<br/> Ilmoittautumiset: camisteph@gmail.com
+Hinta yht. 238 € per hlö (sis. alv). Max 10 hlöä. 
+
+Ilmoittautumiset: camisteph@gmail.com
+
+Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
+
 
 Kurssit sopivat niin aloittelijoille kuin joogaa jo harrastaneille!
 
