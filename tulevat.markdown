@@ -8,7 +8,7 @@ imagesheight: 302px
 _Syksy 2013_
 
 
-*Avoin ilmainen keskustelutilaisuus*, jossa avaan Ajatus & Asana konseptia. Tervetuloa kirjakauppa Era Novaan ke 25.9 17.00 (http://www.eranova.fi/java/NewsList.jsp*
+*Avoin ilmainen keskustelutilaisuus*, jossa avaan Ajatus & Asana konseptia. Tervetuloa kirjakauppa Era Novaan ke 25.9 17.00 (http://www.eranova.fi/java/NewsList.jsp)
 
 
 
