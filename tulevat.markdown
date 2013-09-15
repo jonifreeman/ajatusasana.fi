@@ -7,22 +7,10 @@ imagesheight: 302px
 
 _Syksy 2013_
 
-Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
-<br/> Ilmoittautumiset: camisteph@gmail.com
 
-Kurssit sopivat niin aloittelijoille kuin joogaa jo harrastaneille!
-
-*Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 6 krt. Aina klo. 17-19.00. Max 10 hlöä.
-
-* Ma 2.9 
-* Ma 9.9
-* Ma 16.9
-* Ma 23.9
-* Ma 30.9
-* Ma 7.10
+*Avoin ilmainen keskustelutilaisuus*, jossa avaan Ajatus & Asana konseptia. Tervetuloa kirjakauppa Era Novaan ke 25.9 17.00 (http://www.eranova.fi/java/NewsList.jsp*
 
 
-Hinta yht. 178 € per hlö (sis. alv). 
 
 *Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 8 krt. Aina klo. 16.00-18.00.
 
@@ -35,6 +23,10 @@ Hinta yht. 178 € per hlö (sis. alv).
 * Pe 22.11
 * Pe 29.10
 
-Hinta yht. 238 € per hlö (sis. alv). Max 10 hlöä.
+Hinta yht. 238 € per hlö (sis. alv). Max 10 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
+<br/> Ilmoittautumiset: camisteph@gmail.com
+
+Kurssit sopivat niin aloittelijoille kuin joogaa jo harrastaneille!
+
 
 Huom! Jos haluat Ajatus & Asana joogakurssin ystävä/tuttavaporukalla, ota yhteyttä minuun niin järjestetään juuri teille paras mahdollinen paikka ja aika!
