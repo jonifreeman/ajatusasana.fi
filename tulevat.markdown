@@ -7,8 +7,7 @@ imagesheight: 302px
 
 _Syksy 2013_
 
-
-*Avoin ilmainen keskustelutilaisuus*, jossa avaan Ajatus & Asana konseptia. Kirjakauppa Era Nova, ke 25.9 klo. 17.00. Kasarmikatu 2, 00140 HELSINKI. 
+Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. 
 
 *Ilmainen tutustumisjoogatunti*. Rauhoittavia avaavia kehon ja mielen liikkeitä. Kirjakauppa Era Nova, ma 30.9 klo. 19.15. Max 10 henkilöä. Ilmoittautumiset camisteph@gmail.com.
 
