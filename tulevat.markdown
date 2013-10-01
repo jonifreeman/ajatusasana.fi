@@ -24,10 +24,6 @@ Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä.
 
 
 
-*Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 6 krt (12 tuntia). Aina tiistaisin klo. 17-19.00 (11.3, 18.3, 25.3, 1.4, 8.4, 15.4)  Hinta yht. 178 € per hlö (sis. alv). Max 8 hlöä.
-
-
-
 Ilmoittautumiset: camisteph@gmail.com
 
 Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
