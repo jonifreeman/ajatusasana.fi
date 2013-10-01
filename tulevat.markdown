@@ -23,10 +23,10 @@ _Kevät 2014_
 Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
 
-*Jooga & Itsetuntemus-viikonloppu* (2 päivää). 1.-3.2 (la-su). Klo. 10.00-16.00.  Yht. 220 € (sis ALV) per hlö. Sisältää kurssimateriaalit. 
+*Jooga & Itsetuntemus-viikonloppu* (2 päivää). 1.-3.2 (la-su). Klo. 10.00-16.00.  Yht. 220 € (sis ALV) per hlö. Sisältää kurssimateriaalit. Max 8 hlöä. 
 
 
-*Jooga & Itsetuntemus-viikonloppu* (2 päivää). 3.-4.5 (la-su). Klo. 10.00-16.00. Yht. 220 € (sis ALV) per hlö. Sisältää kurssimateriaalit. 
+*Jooga & Itsetuntemus-viikonloppu* (2 päivää). 3.-4.5 (la-su). Klo. 10.00-16.00. Yht. 220 € (sis ALV) per hlö. Sisältää kurssimateriaalit. Max 8 hlöä. 
 
 
 
