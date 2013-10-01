@@ -5,9 +5,9 @@ imagewidth: 450px
 imagesheight: 302px
 ---
 
-_Syksy 2013_
-
 Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. 
+
+_Syksy 2013_
 
 
 *Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 8 krt (16 tuntia). Aina perjantaisin klo. 16.00-18.00 (11.10, 18.10, 25.10, 1.11, 8.11, 15.11, 22.11, 29.10).
