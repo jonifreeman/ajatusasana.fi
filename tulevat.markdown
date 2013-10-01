@@ -15,7 +15,7 @@ Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja moti
 Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
 
-*Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 16.00-18.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3)     ).
+*Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 16.00-18.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3).
 
 Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
