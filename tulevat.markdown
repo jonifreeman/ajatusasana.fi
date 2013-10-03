@@ -32,7 +32,7 @@ Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä.
 
 Ilmoittautumiset: camisteph@gmail.com
 
-Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI.
+Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi!
 
 
 Kurssit sopivat niin aloittelijoille kuin joogaa jo harrastaneille!
