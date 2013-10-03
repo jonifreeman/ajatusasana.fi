@@ -10,4 +10,4 @@ _Spring 2014_
 Courses are suitable for anyone. You don't have to have prior experience in yoga. I have used my scientific understanding of learning and motivation in preparing the courses. Hence, yoga could become a lifelong hobby for you.
 
 Registration: camisteph@gmail.com
-Venue: Kasarmikatu 2, 00140 HELSINKI. The cosy and comfortable Hall at Era Novan bookshop. 
+Venue: Kasarmikatu 2, 00140 HELSINKI. The cosy and comfortable Hall at Era Novan bookshop. No mirrors on the wall, just you and others as your reflectors!
