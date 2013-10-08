@@ -1,6 +1,6 @@
 ---
 title: Who am I
-image: stefi.jpg
+image: stefi_syksy.jpg
 imagewidth: 170px
 ---
 April, 2013.

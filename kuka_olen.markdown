@@ -1,6 +1,6 @@
 ---
 title: Kuka olen
-image: stefi.jpg
+image: stefi_syksy.jpg
 imagewidth: 170px
 ---
 Huhtikuu, 2013.
