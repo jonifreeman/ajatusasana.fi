@@ -42,7 +42,7 @@ jooga-ohjaakoulutuksen avulla, että luovuus ja tuotteliaisuus eivät
 edellytä ahdistumista ja tuskaa. Voin luoda ja olla luova ilman
 stressiä, jos kuuntelen, mitä kehoni ja tunteeni minulle ympäristöstäni
 ja itsestäni kertovat. Voin luoda elämää, vaikka en ikinä tule olemaan
-äiti. Äidittömyyden oivallukseen tarvitsin käsitteitä, joilla kyseenalaistaa
+äiti. Äitiydettömyyden oivallukseen tarvitsin käsitteitä, joilla kyseenalaistaa
 sekä kehollista tunteiden ja aistien kokemusta: oman elämän rytmin
 löytämistä. Tässä ja nyt, kokonaisvaltaisen tiede-ja
 hyvinvointipalveluni äärellä, yhdistyvät tieteellinen ymmärrys
