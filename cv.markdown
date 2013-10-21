@@ -10,7 +10,7 @@ title: CV
 
 2013 RYT 200 (Registered Yoga Teacher). Two year teacher training. Graduated under the guidance of Marjo Wuorisalo, the founder of [YogaSource Finland](http://www.yogasource.fi)
 
-2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Educational sciences. Grade for doctoral thesis: _Eximia_.
+2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Educational sciences & Cultural psychology, science and technology studies. Grade for doctoral thesis: _Eximia_.
 
 2004  MA, Helsinki University, Faculty of Behavioral Sciences. Adult Education & Psychology. Grade for Master's thesis: _Magna Cum Laude_. 
 
