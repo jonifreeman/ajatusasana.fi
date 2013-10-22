@@ -10,3 +10,10 @@ Toivottavasti tämä joogamuoto lähtee vielä huikeaan lentoon!
 <cite>Anna</cite>
 
 </blockquote>
+
+<blockquote>
+Kurssi toi minulle oppia oman kehon parempaan "lukemiseen". Kurssin henkilökohtainen, paneutuva ohjaus auttoi jooga-asanoiden soveltamiseen itselle sopivalla, lempeällä tavalla. Kurssi ja kotiin saadut selkeät ohjeet toivat luottamusta ja varmuutta tehdä asanoita itsenäisesti kotona. Koin tämän erityisen tärkeänä, koska olen alkuvaiheessa joogaan tutustumisessa.
+
+<cite>Mervi</cite>
+
+</blockquote>
