@@ -14,7 +14,7 @@ _Syksy 2013_
 
 Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
-*JOOGA & ITSETUNTEMUSPÄIVÄ TAMPEREELLA* LA 23.11 2013 klo. 10.00-17.00! Lempeän dynaamisesti vahvistavia, rauhoittavan avaavia ja antautuvia jooga-asanoita (liikkeitä), erilaisia meditaatioharjoituksia, Yoga Nidraa, djemberummun säestämiä kundalini jooga liikkeitä (kriyas), oman elämän motiivien ja rytmin tutkiskelua kehittämälläni kirjoitusmetodilla (sopii kenelle tahansa) & keskusteluja. Ajatukset ja Asanat suloisessa sovussa saman katon alla. Sopii myös joogaa aloitteleville! Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
+*Jooga & Itsetuntemuspäivä Tampereella* LA 23.11 2013 klo. 10.00-17.00! Lempeän dynaamisesti vahvistavia, rauhoittavan avaavia ja antautuvia jooga-asanoita (liikkeitä), erilaisia meditaatioharjoituksia, Yoga Nidraa, djemberummun säestämiä kundalini jooga liikkeitä (kriyas), oman elämän motiivien ja rytmin tutkiskelua kehittämälläni kirjoitusmetodilla (sopii kenelle tahansa) & keskusteluja. Ajatukset ja Asanat suloisessa sovussa saman katon alla. Sopii myös joogaa aloitteleville! Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
 
 
 
