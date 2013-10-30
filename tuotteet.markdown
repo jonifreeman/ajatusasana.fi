@@ -18,7 +18,7 @@ __Jooga & Itsetuntemus päivät.__ Sisältää luennon motivaatiosta & tunteiden
 __Oma Ajatus & Asana.__ Henkilökohtaisessa 1,5 tunnin ohjaussessiossa yhdistyvät
 Motivaatio & Ajatus-luennon ja Kaksi Asanaa ja Ajatusta-kurssin ideat ja välineet sinun motivaatiosi, tunteittesi ja kehon kipupisteittesi
 tutkiskelulle. Koska jokaisella ihmisellä on ainutlaatuiset kehon mittasuhteet ja persoonallisuuspiirteiden joukko sekä
-kokemushistoria, saat henkilökohtaisessa ohjauksessani juuri sinulle sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. Käyntikertojen määrä yksilöllisen tarpeen mukaan.  Yksittäiset sessiot 149 € (sis alv). TARJOUS: 4 tapaamista kuukaudessa 434 € (sis alv). Kuukausisetin ostajalla mahdollisuus osallistua aina silloin tällöin järjestettäville kertaustunneille tai meditaatio-iltamiin ilmaiseksi 3 krt.
+kokemushistoria, saat henkilökohtaisessa ohjauksessani juuri sinulle sopivat mielen ja kehon harjoitteet oman elämänrytmisi löytämiseen. Käyntikertojen määrä yksilöllisen tarpeen mukaan.  Yksittäiset sessiot 149 € (sis alv). TARJOUS: 4 tapaamista kuukaudessa 434 € (sis alv). Kuukausisetin ostajalla mahdollisuus osallistua ilmaiseksi joogakertaustunneille tai meditaatio-iltamiin 2 krt. Yli 3kk yksityisvalmennuksen lisäetuna lisäksi yksi ilmainen jooga& itsetuntemus päivä
 
 
 Tuotteet kahdella kielellä: suomi ja englanti.
