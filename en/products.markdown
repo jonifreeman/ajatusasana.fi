@@ -19,6 +19,6 @@ __Yoga & Self-Knowledge Day.__ Includes a lecture on motivation and emotions, yo
 __My Idea & Asana.__ This private 1, 5 hour consultancy session works with ideas and tools from the lecture package 'Motivation & Ideation' and
 the Workshop-series 'Two Asanas' for understanding your unique motivation patterns, emotions and pain spots/bodily sensations. This
 private session will provide conceptual and bodily tools for understanding your unique bodily proportions, personality, and
-personal life history, with the aim of  helping you find your own life rhythm. The number of sessions is determined according to individual needs. One session 149 € (incl. VAT).
+personal life history, with the aim of  helping you find your own life rhythm. The number of sessions is determined according to individual needs. One session 149 € (incl. VAT). OFFER: 4 meetings a month 434 € (incl. VAT). Those who buy a monhtly package are entitled to participate in two yoga or meditation classes for free. Those committed to an over 3 month individual training program are entitled one free Yoga & Self-knowledge day. 
 
 All products delivered in two languages: English and Finnish.
