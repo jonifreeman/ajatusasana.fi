@@ -15,7 +15,7 @@ _Syksy 2013_
 Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
 
-*Meditaatio-iltamat* Töölössä pienryhmässä aina torstaisin klo. 18.00-19.30. Poikkeus: iltamia ei 28.11 ja 5.12. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'.
+*Meditaatio-iltamat* Tutustu meditaation eri variaatioihin Töölössä pienryhmässä aina torstaisin klo. 18.00-19.30. Poikkeus: iltamia ei 28.11 ja 5.12. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'.
 
 Yht. 1, 5 tuntia. 22 e per hlö/krt (sis. ALV). Max. 5 osallistujaa. Kyselyt ja ilmoittautumiset:camisteph@gmail.com tai 0405224889
 
