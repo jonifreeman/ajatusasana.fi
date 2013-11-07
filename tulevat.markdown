@@ -14,6 +14,12 @@ _Syksy 2013_
 
 Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
+
+*Meditaatio-iltamat* Töölössä pienryhmässä aina torstaisin klo. 18.00-19.30. Poikkeus: iltamia ei 28.11 ja 5.12. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'.
+
+Yht. 1, 5 tuntia. 22 e per hlö/krt (sis. ALV). Max. 5 osallistujaa. Kyselyt ja ilmoittautumiset:camisteph@gmail.com tai 0405224889
+
+
 *Jooga & Itsetuntemuspäivä Tampereella* LA 23.11 2013 klo. 10.00-17.00! Lempeän dynaamisesti vahvistavia, rauhoittavan avaavia ja antautuvia jooga-asanoita (liikkeitä), erilaisia meditaatioharjoituksia, Yoga Nidraa, djemberummun säestämiä kundalini jooga liikkeitä (kriyas), oman elämän motiivien ja rytmin tutkiskelua kehittämälläni kirjoitusmetodilla (sopii kenelle tahansa) & keskusteluja. Ajatukset ja Asanat suloisessa sovussa saman katon alla. Sopii myös joogaa aloitteleville! Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
 
 
