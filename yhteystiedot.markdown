@@ -6,7 +6,7 @@ Stephanie Freeman
 
 FT (Filosofian Tohtori)
 
-RYT 200 Jooga-ohjaaja
+Diplomi Jooga-ohjaaja
 
 Pääkaupunkiseutu
 
