@@ -8,7 +8,7 @@ title: CV
 
 ## EDUCATIONAL BACKGROUND
 
-2013 RYT 200 (Registered Yoga Teacher). Two year teacher training. Graduated under the guidance of Marjo Wuorisalo, the founder of [YogaSource Finland](http://www.yogasource.fi)
+2013 Diploma Yoga Teacher. Two year teacher training. Graduated under the guidance of Marjo Wuorisalo, the founder of [YogaSource Finland](http://www.yogasource.fi)
 
 2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Cultural Psychology & Science and Technology Studies. Grade for doctoral thesis: _Eximia_.
 
