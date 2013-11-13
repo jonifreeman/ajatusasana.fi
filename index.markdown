@@ -1,7 +1,7 @@
 ---
 title: Idea
 ---
-__Uudenlainen jooga konsepti: ajatuksia ja asanoita–mielen ja kehon välineitä itsetuntemukseen!__
+__Joogaa Ajatuksella - kehon ja mielen välineitä itsetuntemukseen!__
 
 Mikä on luontainen rytmini ja miten saan sen toimimaan harmoniassa muiden ihmisten rytmien kanssa? Entäpä tietoteknologistaloudellisten rytmien kanssa?  Löytyisikö keino päästä takaisin kosketukseen oman luovuuteni kanssa? Miten ja mistä tiedän, että olen matkalla oikeaan suuntaan? Miten pystyn toteuttamaan aitoa itseäni ja samalla olemaan yhteiskunnan, (työ)yhteisön ja perheen täysivaltainen jäsen? 
 
