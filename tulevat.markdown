@@ -46,8 +46,6 @@ Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva 
 
 *Jooga & Itsetuntemuspäivä Tampereella* KEVÄÄLLÄ 2014 (Ajankohta ilmoitetaan myöhemmin). Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
 
-Ilmoittautumiset: camisteph@gmail.com
-
 
 *Kehon ja mielen välineitä työelämän jälkeiselle ajanjaksolle - joogaa eläke-ikäsille*. Onko sinulla päivisin aikaa ja halua tehdä jotain mielekästä?  Haluatko ylläpitää tai parantaa tuki-ja liikuntaelinten hyvinvointia? Haluatko hyvän mielen säällä kuin säällä? Haluatko rentoutua ja nautiskella elämästä? Haluatko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? Tervetuloa eläke-ikäisille suunnatulle joogakurssille Vantaan Petikkoon Koirapalvelu Virike Tmi:n tiloihin Tiilitie 10, 01720 Vantaa. (http://www.koirapalveluvirike.net/2).Joogakurssi alkaa Helmikuussa 2014. Koko kevään aina keskiviikkoisin klo. 11.00-12.15 (Pääsiäisviikkoa lukuunottamatta). Alkamispäivä ke 5.2 ja lopetuspäivä ke 28.5. Yht. 16 tapaamiskertaa. Koko kurssin hinta yht. 275 € per hlö (sis. Alv).
 
