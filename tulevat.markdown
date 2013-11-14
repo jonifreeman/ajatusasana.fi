@@ -44,7 +44,7 @@ Yht. 1, 5 tuntia. 22 € per hlö/krt (sis. ALV). Kuukausisetti 78 €. Max. 5 o
 Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi!
 
 
-*Jooga & Itsetuntemuspäivä Tampereella* LA 23.11 2013 klo. 10.00-17.00! Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
+*Jooga & Itsetuntemuspäivä Tampereella* KEVÄÄLLÄ 2014 (Ajankohta ilmoitetaan myöhemmin). Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
 
 Ilmoittautumiset: camisteph@gmail.com
 
