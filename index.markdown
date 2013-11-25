@@ -6,7 +6,7 @@ __Joogaa Ajatuksella - kehon ja mielen välineitä itsetuntemukseen!__
 Mikä on luontainen rytmini ja miten saan sen toimimaan harmoniassa muiden ihmisten rytmien kanssa? Entäpä tietoteknologistaloudellisten rytmien kanssa?  Löytyisikö keino päästä takaisin kosketukseen oman luovuuteni kanssa? Miten ja mistä tiedän, että olen matkalla oikeaan suuntaan? Miten pystyn toteuttamaan aitoa itseäni ja samalla olemaan yhteiskunnan, (työ)yhteisön ja perheen täysivaltainen jäsen? 
 
 
-Jos haluat löytää stressittömämmän elämän rytmin  Haluatko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? 
+Voisiko meditatiivinen jooga olla vastaus stressittömämpään elämään?  Voisinko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? 
 
 
 
