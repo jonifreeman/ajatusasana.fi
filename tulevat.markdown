@@ -15,7 +15,7 @@ _Syksy 2013_
 
 _Kevät 2014_
 
-*Luento: 'Motivaatio Joogamatolla*. Helsinki Joogafestival 2014 (1.- 2.3 2014 Kaapelitehtaalla. Seuraa tarkemmat aikatulut: http://joogafestival.fi/luennoitsijat/.
+*Luento: 'Motivaatio Joogamatolla'*. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Seuraa tarkemmat aikatulut: http://joogafestival.fi/luennoitsijat/.
 
 
 *Joogakurssi Kaksi Asanaa & Ajatusta*. Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 17.00-19.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3).Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
