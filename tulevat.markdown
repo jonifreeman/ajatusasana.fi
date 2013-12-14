@@ -7,12 +7,6 @@ imagesheight: 302px
 
 Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. 
 
-_Syksy 2013_
-
-
-*Meditaatio-iltamat* Tutustu meditaation eri variaatioihin Töölössä pienryhmässä torstaisin klo. 18.00-19.30. Tänä vuonna vielä kaksi kertaa: 12.12 ja 19.12. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'. Yht. 1, 5 tuntia. 22 e per hlö/krt (sis. ALV). Max. 5 osallistujaa. Kyselyt ja ilmoittautumiset:camisteph@gmail.com tai 0405224889
-
-
 
 _Kevät 2014_
 
