@@ -18,4 +18,3 @@ Puh. +358405224889
 
 Academia.edu kotisivuni: [http://helsinki.academia.edu/NStephanieFreeman](http://helsinki.academia.edu/NStephanieFreeman)
 
-Perustamani keskustelufoorumi herkille ihmisille: [Herkkyysfoorumi](http://p1.foorumi.info/herkkyys/index.php)
