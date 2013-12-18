@@ -13,21 +13,18 @@ _Kevät 2014_
 *Luento: 'Motivaatio Joogamatolla'*. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Seuraa tarkemmat aikataulut: http://joogafestival.fi/luennoitsijat/.
 
 
-*Joogakurssi Ajatus & Asana*. Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 17.00-19.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3).Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
+*Joogakurssi Ajatus & Asana Eirassa*. Tule oppimaan meditatiivinen kotijoogasarja! Jokaisella kerralla opetellaan kaksi uutta liikettä (asanaa) sekä annetaan kaksi asanaan ja itsetuntemukseen kytkeytyvää ajatusta pohdittavaksi. 'Jooga' ja 'Mindfulness' samassa paketissa(ks. tarkempi kurssikuvaus 'Tuotteet' sivulta. Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 17.00-19.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3).Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
 
-*Vakituiset meditaatio-iltamat* Tutustu meditaation eri variaatioihin Töölössä pienryhmässä aina maanantaisin klo. 17.30-19.00. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'. Yht. 1, 5 tuntia. 22 € per hlö/krt (sis. ALV). Kuukausisetti 78 €. Max. 5 osallistujaa. Kyselyt ja ilmoittautumiset:camisteph@gmail.com tai 0405224889.
+*Vakituiset meditaatio-iltamat Töölössä* Tutustu meditaation eri variaatioihin Töölössä pienryhmässä aina maanantaisin klo. 17.30-19.00. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'. Yht. 1, 5 tuntia. 22 € per hlö/krt (sis. ALV). Kuukausisetti 78 €. Max. 5 osallistujaa. Kyselyt ja ilmoittautumiset:camisteph@gmail.com tai 0405224889.
 
-*Joogaa eläke-ikäsille*. Onko sinulla päivisin aikaa ja halua tehdä jotain mielekästä?  Haluatko ylläpitää tai parantaa tuki-ja liikuntaelinten hyvinvointia? Haluatko hyvän mielen säällä kuin säällä? Haluatko rentoutua ja nautiskella elämästä? Haluatko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? Tervetuloa eläke-ikäisille suunnatulle joogakurssille Vantaan Petikkoon Koirapalvelu Virike Tmi:n tiloihin Tiilitie 10, 01720 Vantaa. (http://www.koirapalveluvirike.net/2).Joogakurssi alkaa Helmikuussa 2014. Koko kevään aina keskiviikkoisin klo. 11.00-12.15 (Pääsiäisviikkoa lukuunottamatta). Alkamispäivä ke 5.2 ja lopetuspäivä ke 28.5. Yht. 16 tapaamiskertaa. Koko kurssin hinta yht. 275 € per hlö (sis. Alv).
-
-
-*Jooga & Itsetuntemus-viikonloppu* (2 päivää). 1.-3.2 (la-su). Klo. 10.00-16.00.  Yht. 220 € (sis ALV) per hlö. Sisältää kurssimateriaalit. Max 8 hlöä. 
+*Joogaa eläke-ikäsille Petikossa*. Onko sinulla päivisin aikaa ja halua tehdä jotain mielekästä?  Haluatko ylläpitää tai parantaa tuki-ja liikuntaelinten hyvinvointia? Haluatko hyvän mielen säällä kuin säällä? Haluatko rentoutua ja nautiskella elämästä? Haluatko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? Tervetuloa eläke-ikäisille suunnatulle joogakurssille Vantaan Petikkoon Koirapalvelu Virike Tmi:n tiloihin Tiilitie 10, 01720 Vantaa. (http://www.koirapalveluvirike.net/2).Joogakurssi alkaa Helmikuussa 2014. Koko kevään aina keskiviikkoisin klo. 11.00-12.15 (Pääsiäisviikkoa lukuunottamatta). Alkamispäivä ke 5.2 ja lopetuspäivä ke 28.5. Yht. 16 tapaamiskertaa. Koko kurssin hinta yht. 275 € per hlö (sis. Alv).
 
 
-*Jooga & Itsetuntemus-viikonloppu* (2 päivää). 3.-4.5 (la-su). Klo. 10.00-16.00. Yht. 220 € (sis ALV) per hlö. Sisältää kurssimateriaalit. Max 8 hlöä. 
+*Jooga & Itsetuntemus-viikonloppu Eirassa* (2 päivää). 1.-3.2 (la-su). Klo. 10.00-16.00.  Yht. 220 € (sis ALV) per hlö. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus 'Tuotteet' sivulta). Sisältää kurssimateriaalit. Max 8 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi!
 
 
-Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi!
+*Jooga & Itsetuntemus-viikonloppu Eirassa* (2 päivää). 3.-4.5 (la-su). Klo. 10.00-16.00. Yht. 220 € (sis ALV) per hlö. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus 'Tuotteet' sivulta). Sisältää kurssimateriaalit. Max 8 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi!
 
 
 *Jooga & Itsetuntemuspäivä Tampereella* KEVÄÄLLÄ 2014 (Ajankohta ilmoitetaan myöhemmin). Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
