@@ -13,7 +13,7 @@ _Kevät 2014_
 *Luento: 'Motivaatio Joogamatolla'*. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Seuraa tarkemmat aikataulut: http://joogafestival.fi/luennoitsijat/.
 
 
-*Joogakurssi Ajatus & Asana Eirassa*. Tule oppimaan meditatiivinen kotijoogasarja! Jokaisella kerralla opetellaan kaksi uutta liikettä (asanaa) sekä annetaan kaksi asanaan ja itsetuntemukseen kytkeytyvää ajatusta pohdittavaksi. 'Jooga' ja 'Mindfulness' samassa paketissa(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 17.00-19.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3).Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
+*Joogakurssi Ajatus & Asana Eirassa*. Tule oppimaan meditatiivinen kotijoogasarja! Jokaisella kerralla opetellaan kaksi uutta liikettä (asanaa) sekä annetaan kaksi asanaan ja itsetuntemukseen kytkeytyvää ajatusta pohdittavaksi. Kehon ja mielen välineet samassa paketissa(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Yht. 8 krt (16 tuntia). Aina tiistaisin klo. 17.00-19.00 (14.1, 21.1, 28.1, 4.2, 11.2, 18.2, 25.2, 4.3).Hinta yht. 238 € per hlö (sis. alv). Max 8 hlöä. 
 
 
 *Vakituiset meditaatio-iltamat Töölössä* Tutustu meditaation eri variaatioihin Töölössä pienryhmässä aina maanantaisin klo. 17.30-19.00. Tervetuloa rentoutumaan ja nautiskelmaan meditaatiomatkustelusta! Teetä, lämmitteleviä Kundalini jooga istumaliikkeitä, pranayma hengitysharjoitus, istuma-meditaatio sekä lopuksi makuu-asennossa n. 30 min. pituinen syvä tietoisen rentoutumisen harjoitus 'Yoga Nidra'. Yht. 1, 5 tuntia. 22 € per hlö/krt (sis. ALV). Kuukausisetti 78 €. Max. 5 osallistujaa. Kyselyt ja ilmoittautumiset:camisteph@gmail.com tai 0405224889.
