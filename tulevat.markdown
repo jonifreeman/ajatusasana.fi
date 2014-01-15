@@ -5,7 +5,7 @@ imagewidth: 450px
 imagesheight: 302px
 ---
 
-Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. 
+Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. Kurssit sopivat kaikille! Aloittelija saa heti syväluotaavaa jooga-opetusta, ja pidemmälle ehtinyt pääsee hiomaan asanoita ja ajatusmallejaan.
 
 
 _Kevät 2014_
@@ -29,10 +29,6 @@ _Kevät 2014_
 
 *Jooga & Itsetuntemuspäivä Tampereella* KEVÄÄLLÄ 2014 (Ajankohta ilmoitetaan myöhemmin). Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
 
-
-
-
-Kurssit sopivat niin aloittelijoille kuin joogaa jo harrastaneille!
 
 
 Huom! Jos haluat Ajatus & Asana joogakurssin ystävä/tuttavaporukalla, ota yhteyttä minuun niin järjestetään juuri teille paras mahdollinen paikka ja aika!
