@@ -16,7 +16,7 @@ _Kevät 2014_
 *Joogakurssi Ajatus & Asana Eirassa Maaliskuussa*. Tule rentoutumaan, uudistumaan, ja oppimaan meditatiivinen kotijoogasarja perjantaisin (7.3, 14.3, 21.3, 28.3, 4.4) Eirassa Era Novan tunnelmallisessa salissa klo. 17.30-19.30. Perjantai-ilta on oiva päivä vapautua viikon vilinästä ja kohdata tuleva viikonloppu virkeänä, levollisena ja iloisena!Jokaisella kerralla opetellaan kaksi uutta liikettä (asanaa) sekä annetaan kaksi asanaan ja itsetuntemukseen kytkeytyvää ajatusta pohdittavaksi. Kehon ja mielen välineet saman katon alla (ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Koko kurssi yht.10 tuntia. Hinta jaettavine materiaaleineen & tietoisen rentoutumisen (Yoga Nidra)-äänitteeni kera yht. 165 € per hlö (sis. alv). Max 10 hlöä.
 
 
-*Joogakurssi Ajatus & Asana Pohjois-Espoossa* Tule rentoutumaan, uudistumaan, ja oppimaan meditatiivinen kotijoogasarja perjantaisin (13.3, 20.3, 27.3, 3.4, 10.4, 24.4, 8.5 Yht. 7 tuntia. Juvanpuistonkoulu, liikuntasali 149M2, klo. 19.00-20.00. Koko kurssin hinta jaettavine materiaaleineen yht. 120 e (sis ALV). 
+*Joogakurssi Ajatus & Asana Pohjois-Espoossa* Tule rentoutumaan, uudistumaan, ja oppimaan meditatiivinen kotijoogasarja torstaisin (13.3, 20.3, 27.3, 3.4, 10.4, 24.4, 8.5 Yht. 7 tuntia. Juvanpuistonkoulu, liikuntasali 149M2, klo. 19.00-20.00. Koko kurssin hinta jaettavine materiaaleineen yht. 120 e (sis ALV). 
 
 
 *Joogakurssi* jatkuu Ylästön Urheilijoissa kevätkaudella 2014 (http://www.ylastonurheilijat.com/fi/viikkokalenteri).
