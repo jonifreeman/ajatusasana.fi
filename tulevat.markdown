@@ -10,7 +10,7 @@ Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja moti
 
 _Kevät 2014_
 
-*Luento: 'Motivaatio Joogamatolla'*. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Seuraa tarkemmat aikataulut: http://joogafestival.fi/luennoitsijat/.
+*Luento: 'Motivaatio Joogamatolla'*. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Seuraa tarkemmat aikataulut: [http://joogafestival.fi/luennoitsijat/](http://joogafestival.fi/luennoitsijat/)
 
 
 *Joogakurssi Ajatus & Asana Eirassa Maaliskuussa*. Tule rentoutumaan, uudistumaan, ja oppimaan meditatiivinen kotijoogasarja perjantaisin (7.3, 14.3, 21.3, 28.3, 4.4) Eirassa Era Novan tunnelmallisessa salissa klo. 17.30-19.30. Perjantai-ilta on oiva päivä vapautua viikon vilinästä ja kohdata tuleva viikonloppu virkeänä, levollisena ja iloisena!Jokaisella kerralla opetellaan kaksi uutta liikettä (asanaa) sekä annetaan kaksi asanaan ja itsetuntemukseen kytkeytyvää ajatusta pohdittavaksi. Kehon ja mielen välineet saman katon alla (ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Koko kurssi yht.10 tuntia. Hinta jaettavine materiaaleineen & tietoisen rentoutumisen (Yoga Nidra)-äänitteeni kera yht. 165 € per hlö (sis. alv). Max 10 hlöä.
@@ -28,7 +28,7 @@ _Kevät 2014_
 *Jooga & Itsetuntemus-viikonloppu Eirassa* (2 päivää). 3.-4.5 (la-su). Klo. 10.00-16.00. Yht. 220 € (sis ALV) per hlö. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Sisältää kurssimateriaalit. Max 8 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi!
 
 
-*Jooga & Itsetuntemuspäivä Tampereella* KEVÄÄLLÄ 2014 (Ajankohta ilmoitetaan myöhemmin). Päivän hinta 125 e (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Max. 10 henkilöä. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
+*Jooga & Itsetuntemuspäivä Tampereella* su 27.4 11.00 -18.00. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Tutustumistarjous! Päivän hinta 95  € (sis. ALV) per hlö. Työttömät 65 € (sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889.
 
 
 
