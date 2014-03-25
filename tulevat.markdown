@@ -22,7 +22,7 @@ _Kevät 2014_
 
 **Jooga & Itsetuntemuspäivä Tampereella** su 27.4 11.00 -18.00.Tule rentoutumaan, uudistumaan ja inspiroitumaan itsestäsi! Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Tutustumistarjous! Päivän hinta 95  € sis. ALV) per hlö. Hintaan sisältyy jaettavat kurssimateriaalit. Paikka: Muuttuva Myrskytila(Selininkatu 5,33240 Tampere). Sitovat ilmoittautumiset ja kyselyt: camisteph@gmail.com tai 0405224889. Omat eväät mukaan!
 
-**Jooga & Itsetuntemus-viikonloppu kesäisesssä Eirassa** (2 päivää). 15.-16.6 (la-su). Klo. 10.00-16.00. Tule rentoutumaan, uudistumaan ja inspiroitumaan itsestäsi! Tutustumistarjous! Yht. 180 € (sis ALV) per hlö. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Sisältää kurssimateriaalit. Max 8 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Ei seinäpeilijä-vain sinä ja kanssajoogit heijastuspintanasi. Omat eväät mukaan! Talo tarjoaa hyvää teetä.
+**Jooga & Itsetuntemus-viikonloppu kesäisesssä Eirassa** (2 päivää). 15.-16.6 (la-su). Klo. 10.00-16.00. Tule rentoutumaan, uudistumaan ja inspiroitumaan itsestäsi! Tutustumistarjous! Yht. 180 € (sis ALV) per hlö. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Sisältää kurssimateriaalit. Max 8 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Omat eväät mukaan! Talo tarjoaa hyvää teetä.
 
 
 
