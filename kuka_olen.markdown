@@ -5,10 +5,10 @@ imagewidth: 170px
 ---
 Huhtikuu, 2013.
 
-Nimeni on Stephanie Freeman. Olen tutkija-joogi-harrasterumpali. 
+Nimeni on Stephanie Freeman. Olen vapaa tutkija-joogaopettaja-harrasterumpali. 
 Toinen jalka tieteessä, toinen
 hyvänolon tuottamisessa, tähtäimessä rakentaaa silta näiden
-välille. 40-vuotisen elämänpolkuni voisin tiivistää
+välille. 41-vuotisen elämänpolkuni voisin tiivistää
 seuraavaan kolmeen päällekkäiseen vaiheeseen: keho edellä, pää
 edellä ja kehomieli yhdessä. 
 
