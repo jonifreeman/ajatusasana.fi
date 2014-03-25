@@ -2,7 +2,7 @@
 title: Tuotteet
 ---
 
-__Motivaatio & Ajatus.__ Luennoin ihmisen motivaatiosta, luovuudesta ja yhteisöllisyydestä tiede-ja jooga-taustastani käsin. Mitä on aikuisen
+__Motivaatio & Ajatus.__ Luennoin ihmisen motivaatiosta, luovuudesta, yhteisöllisyydestä ja hyvinvoinnista tiede-ja jooga-taustastani käsin. Mitä on aikuisen
 ihmisen motivaatio ja miten jooga voi auttaa ymmärtämään motivaation olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön
 pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen) motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
 organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön mukaan.
