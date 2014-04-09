@@ -2,10 +2,9 @@
 title: Kenelle
 ---
 
-* Haluatko oppia joogaamaan itsenäisesti paikasta ja ajasta riippumatta
-* Haluatko syventää ymmärrystä itsestä ja maailmastasi?
-* Etsitkö rentoutta, inspiraatiota ja yhteenkuuluvuuden tunnetta elämääsi?
-* Haluatko yksilöllistä tiedollista ja kehollista ohjausta
-pienryhmässä?
+* Sinulle, joka haluat oppia joogaamaan itsenäisesti paikasta ja ajasta riippumatta
+* Sinulle, joka haluat syventää ymmärrystä itsestä ja maailmastasi
+* Sinulle, joka etsit rentoutta, inspiraatiota ja yhteenkuuluvuuden tunnetta elämääsi
+* Sinulle, joka haluat yksilöllistä tiedollista ja kehollista ohjausta pienryhmässä
 
 
