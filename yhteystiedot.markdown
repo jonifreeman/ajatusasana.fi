@@ -8,7 +8,7 @@ FT (Filosofian Tohtori)
 
 Diplomi Jooga-ohjaaja
 
-Pääkaupunkiseutu
+Espoo (Syyskuusta 2014 alkaen Espoon Viherlaaksossa Vanhan Turuntien varressa (Kavallinmäki 13 A
 
 Silloin kun olen Lapissa: Ylläs-Akäslompolo
 
