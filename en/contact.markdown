@@ -6,9 +6,11 @@ Stephanie Freeman
 
 FT (Doctor of Philosophy)
 
-RYT 200 Yoga Teacher
+Diploma yoga teacher
 
-Helsinki metropolitan area 
+Helsinki metropolitan area (Espoo Viherlaakso, from September 2014 onwards)
+
+Also the Finnish Lapland, Ylläs. 
 
 Tel. +358405224889
 
