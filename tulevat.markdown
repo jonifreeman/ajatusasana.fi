@@ -5,7 +5,7 @@ imagewidth: 450px
 imagesheight: 302px
 ---
 
-Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. Kurssit sopivat kaikille! Aloittelija saa heti syväluotaavaa jooga-opetusta, ja pidemmälle ehtinyt pääsee hiomaan asanoita ja ajatusmallejaan.
+Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. Kurssit sopivat kaikille! Aloittelija saa heti syväluotaavaa jooga-opetusta, ja pidemmälle ehtinyt pääsee hiomaan asanoita ja ajatusmallejaan. Tutkiva keho oppii!
 
 
 _Kevät 2014_
