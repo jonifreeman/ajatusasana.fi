@@ -8,7 +8,7 @@ FT (Filosofian Tohtori)
 
 KM (Kasvatustieteen Maisteri)
 
-Diplomi Jooga-ohjaaja
+Diplomi Joogaohjaaja
 
 Pääkaupunkiseutu (Syyskuusta 2014 alkaen viehättävät tilat Espoon Viherlaaksossa Vanhan Turuntien varressa (Kavallinmäki 13 A)
 
