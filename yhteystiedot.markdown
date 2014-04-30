@@ -10,7 +10,7 @@ Diplomi Jooga-ohjaaja
 
 Pääkaupunkiseutu (Syyskuusta 2014 alkaen viehättävät tilat Espoon Viherlaaksossa Vanhan Turuntien varressa (Kavallinmäki 13 A)
 
-Silloin kun olen Lapissa: Ylläs-Akäslompolo
+Silloin kun olen Lapissa: Ylläs-Akäslompolo, Jounin Kaupan Hyvinvointikeskus [https://www.facebook.com/pages/Jounin-Kaupan-Hyvinvointikeskus/670760182961244](https://www.facebook.com/pages/Jounin-Kaupan-Hyvinvointikeskus/670760182961244)
 
 Puh. +358405224889
 
