@@ -5,6 +5,7 @@ title: Yhteystiedot
 Stephanie Freeman
 
 FT (Filosofian Tohtori)
+KM (Kasvatustieteen Maisteri)
 
 Diplomi Jooga-ohjaaja
 
