@@ -2,10 +2,7 @@
 title: Tuotteet
 ---
 
-__Motivaatio & Ajatus.__ Luennoin ihmisen motivaatiosta, luovuudesta, yhteisöllisyydestä ja hyvinvoinnista tiede-ja jooga-taustastani käsin. Mitä on aikuisen
-ihmisen motivaatio ja miten jooga voi auttaa ymmärtämään motivaation olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön
-pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen) motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille,
-organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön mukaan.
+__Motivaatio & Ajatus.__ Luennoin ja teen keskustelun alustuksia ihmisen motivaatiosta, luovuudesta, yhteisöllisyydestä ja hyvinvoinnista tiede-ja jooga-taustastani käsin. Mitä on aikuisen ihmisen motivaatio ja miten jooga voi auttaa ymmärtämään motivaation olemusta paremmin? Tarjoan myös konkreettisia teorian ja käytännön pohjalta kehittämiäni lempeän kriittisiä välineitä (kadonneen) motivaation ja luovuuden tutkiskeluun. Yhteisöille, ryhmille, organisaatioille, (yli)opistoille. Hinta ja tuote räätälöidään yleisön ja tapahtuman mukaan.
 
 __Joogakurssi Ajatus & Asana.__ Vaihtoehto tai kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään, itsenäiseen
 joogaamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja syvän tietoisen rentoutuksen (Yoga Nidra) tai meditaation. Opetettua asanaa on tarkoitus harjoittaa ja tutkia työpajojen välissä kotona. Saat joka kerta mukaasi myös
