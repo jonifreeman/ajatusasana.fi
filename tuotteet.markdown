@@ -8,6 +8,8 @@ __Motivoiva Ajatus & Asana Joogakurssi.__ Vaihtoehto tai kiva lisä "drop-in" jo
 joogaamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja syvän tietoisen rentoutuksen (Yoga Nidra) tai meditaation. Opetettua asanaa on tarkoitus harjoittaa ja tutkia työpajojen välissä kotona. Saat joka kerta mukaasi myös
 itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin loputtua sinulla on kurssin pituudesta riippuen 12 tai 16 jooga liikettä eli asanaa + muutama lepo-asana, hengitys, rentoutus ja meditaatio-harjoituksia, joista saat muodostettua oman kivan jooga-sarjan. Lisäksi sinulla on itsetuntemukseen liittyviä käsitteitä, joilla voit jatkaa lempeää itsetutkiskelua. Kurssin hinta määräytyy sen pituuden mukaan. Esimerkiksi 5 x 2 tuntia: yht. 220 € per hlö (sis. alv) tai 5 x 1 tuntia 110 € per hlö (sis. alv) Max 10 henkilöä.
 
+__Viikottaiset Ajatus & Asana Joogatunnit__ Espoon Viherlaaksossa 1.9 2014 alkaen! Julkaistaan myöhemmin.
+
 __Ylelliset luonto -ja joogaretriitit Lapissa__. Yhteistyössä kauniin Eriklinnan kanssa [http://www.eriklinna.fi/uudet/] (http://www.eriklinna.fi/uudet/) [https://www.facebook.com/Eriklinna.Yllas](https://www.facebook.com/Eriklinna.Yllas)
 Kysy lisää: Stephanie Freeman / Jooga +358 40 522 4889 e-mail: camisteph@gmail.com tai Anna-Liisa Lindström / Eriklinna www.allice.fi +358 500 824 839 e-mail: myynti@allice.fi 
 
