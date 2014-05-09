@@ -12,6 +12,7 @@ _Syksy 2014_
 **Ajatus & Asana avaa Espoon Viherlaaksossa uudet joogatilat Syyskuun 1.** Viikko-aikataulu julkaistaan myöhemmin.
 
 **Joogaviikko Jounin Kaupan Hyvinvointikeskuksessa Ruskaviikolla 39!** 
+
 Ke 24.9 klo. 9.00-10.15 Herättelevä aamujooga. 20 € / hlö
 
 Ke 24.9 klo. 11.30-12.15 Lounasjooga & Rentoutus. 20 €  / hlö
