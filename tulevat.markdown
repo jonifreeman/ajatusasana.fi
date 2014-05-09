@@ -7,6 +7,15 @@ imagesheight: 302px
 
 Olen suunnitellut kurssit siten, että otan huomioon miten ihminen oppii ja motivoituu parhaiten, ja miten joogasta voisi tulla jatkuva osa elämää. Kurssit sopivat kaikille! Aloittelija saa heti syväluotaavaa jooga-opetusta, ja pidemmälle ehtinyt pääsee hiomaan asanoita ja ajatusmallejaan. Tutkiva keho oppii!
 
+_Syksy 2014_ 
+
+**Ajatus & Asana avaa Espoon Viherlaaksossa uudet joogatilat Syyskuun 1.** Viikko-aikataulu julkaistaan myöhemmin.
+
+**Joogaviikko Jounin Kaupan Hyvinvointikeskuksessa Ruskaviikolla 39!** 
+Ke 24.9 klo. 9.00-10.15 Herättelevä aamujooga. 20 € / hlö
+Ke 24.9 klo. 11.30-12.15 Lounasjooga & Rentoutus. 20 €  / hlö
+Ke 24.9 klo. 18.30 -19.45 Rauhoittava iltajooga & minimeditaatio. 20 € / hlö
+La 27.9 klo. 10.00-15.00 Ajatus & Asana Joogapäivä. Mini-retriitti. Asanaharjoituksia, hengitysharjoituksia, rytmijoogaa djembe-rummun säestämänä, meditaatiota, omien motiivien tutkiskelua kehittämälläni välineellä, teetä, keskusteluja, yhdessäoloa ja rentoutumista. Omat eväät mukaan!  110 € / hlö (hinta sis. jaettavat materiaalit).
 
 _Kevät 2014_
 
@@ -19,8 +28,6 @@ _Kevät 2014_
 **Joogakurssi** jatkuu Ylästön Urheilijoissa kevätkaudella 2014 (http://www.ylastonurheilijat.com/fi/viikkokalenteri).
 
 **Joogakurssi Ajatus & Asana Ylläs-Äkäslompolossa Huhtikuussa** Tule rentoutumaan ja oppimaan oma kotijoogasarja! Yhdessä työpajassa opetellaan perusteellisesti 2 uutta jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Jokainen työpaja sisältää myös hengitysharjoituksen ja syvän tietoisen rentoutuksen (Yoga Nidra) tai meditaation. Saat mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Koko kurssin hinta (4 iltaa) jaettavine materiaaleineen yht. 120 e (sis ALV). Mukaan mahtuu max. 10 hlöä. Paikka: Jounin Kaupan 2krs. neljänä iltana Aika: ma 14.4 - to 17.4 2014 klo. 17.00-19.00.
-
-**Jooga & Itsetuntemus-viikonloppu kesäisesssä Eirassa** (2 päivää). 15.-16.6 (la-su). Klo. 10.00-16.00. Tule rentoutumaan, uudistumaan ja inspiroitumaan itsestäsi! Tutustumistarjous! Yht. 180 € (sis ALV) per hlö. Joogaa,meditaatiota & luovaa kirjoittamista(ks. tarkempi kurssikuvaus http://www.ajatusasana.fi/tuotteet.html). Sisältää kurssimateriaalit. Max 8 hlöä. Paikka: Kasarmikatu 2, 00140 HELSINKI. Kirja-kauppa Era Novan yhteydessä oleva ihana, hyvää fiilistä huokuva, tammiparkettinen SALI. Omat eväät mukaan! Talo tarjoaa hyvää teetä.
 
 
 
