@@ -35,7 +35,7 @@ kunnianhimo ja siihen liittyvä kova kilpailu tuottivat minulle
 liikunnalla. Herkkyyteni joutui myös koetukselle, kun kävin läpi
 lapsettomuushoidot ja lapsettomuuteen liittyvän surutyön. 
 
-Kolmas polkuni avatui kun satunnaisena "urheiluharrastuksena" ollut jooga muuttui pikkuhiljaa elämätavaksi kuluneen 14 vuoden aikana. Huomasin, että se mitä kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
+Kolmas polkuni avatui kun satunnaisena "urheiluharrastuksena" toiminut jooga muuttui pikkuhiljaa 14 vuoden aikana elämätavaksi. Huomasin, että se mitä kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
 kuulisin paremmin. Opin joogaharrastuksen ja sitä seuranneen
 jooga-ohjaakoulutuksen avulla, että luovuus ja tuotteliaisuus eivät
 edellytä ahdistumista ja tuskaa. Voin luoda ja olla luova ilman
