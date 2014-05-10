@@ -26,7 +26,7 @@ Toinen polkuni suuntautui Helsingin Yliopiston
 Käyttäytymistieteelliseen Tiedekuntaan. Janosin tietoa ja laajempaa
 yhteiskunnallista kokonaiskuvaa ajan hengestä siinä määrin, että
 väitöskirja Internet-vapaaehtoisyhteisöjen rakentamisesta ja yhteisön jäsenten
-motivaatiopoluista valmistui v. 2011. Jo 13 vuotta on vierähtänyt
+motivaatiopoluista valmistui v. 2011. Jo yli 13 vuotta on vierähtänyt
 ideoiden maailmassa ja "pään  sisällä", vaikkakin ammentamani sosiokulttuurinen ja
 kulttuuripsykologinen teoriatausta ymmärsi mielen ja
 ympäristön, ja pään ja kehon suhteen erottamattomaksi. Tieteellinen työ,
@@ -35,8 +35,7 @@ kunnianhimo ja siihen liittyvä kova kilpailu tuottivat minulle
 liikunnalla. Herkkyyteni joutui myös koetukselle, kun kävin läpi
 lapsettomuushoidot ja lapsettomuuteen liittyvän surutyön. 
 
-Kolmas polkuni avatui kun jooga hiipi elämääni. Huomasin, että se mitä
-kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
+Kolmas polkuni avatui kun satunnaisena "urheiluharrastuksena" ollut jooga muuttui pikkuhiljaa elämätavaksi kuluneen 14 vuoden aikana. Huomasin, että se mitä kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
 kuulisin paremmin. Opin joogaharrastuksen ja sitä seuranneen
 jooga-ohjaakoulutuksen avulla, että luovuus ja tuotteliaisuus eivät
 edellytä ahdistumista ja tuskaa. Voin luoda ja olla luova ilman
