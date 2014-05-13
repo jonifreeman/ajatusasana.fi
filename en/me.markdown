@@ -33,7 +33,7 @@ body/person.
 
 The third phase of my life-to-date started a few years ago after my long lasting yoga
 hobby turned into a lifestyle and professional calling. I realized that what my body needed relaxing and
-winding down so that I could “hear” better. Through my yoga hobby and
+winding down so that I could “hear” better. Through my daily yoga practice  and
 yoga teacher training, I came to realize that being creative and
 productive does not require existential anguish or anxiety. I can be
 creative without stress if I stay true to my bodily sensations and
