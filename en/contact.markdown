@@ -4,7 +4,7 @@ title: Contact
 
 Stephanie Freeman
 
-FT (Doctor of Philosophy)
+PhD (Doctor of Philosophy)
 
 M.A. (Educational Sciences)
 
