@@ -7,7 +7,7 @@ April, 2013.
 
 My name is Stephanie Freeman. I am a researcher-yogi-hobbyist drummer. One foot in science, the
 other one in wellbeing, the aim being to build a strong bridge 
-between the two. My 40 year life trajectory could be summarized through the
+between the two. My 41 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
 body/mind in unison.
 
@@ -31,8 +31,8 @@ myself a “stress body”. I also went through a stressful and
 unsuccessful IVF treatment, which was hard on my highly sensitive
 body/person.
 
-The third phase of my life-to-date started a few years ago after yoga
-crept in to my life. I realized that what my body needed relaxing and
+The third phase of my life-to-date started a few years ago after my yoga
+hobby turned into a lifestyle professional calling. I realized that what my body needed relaxing and
 winding down so that I could “hear” better. Through my yoga hobby and
 yoga teacher training, I came to realize that being creative and
 productive does not require existential anguish or anxiety. I can be
