@@ -5,7 +5,7 @@ title: Contact
 Stephanie Freeman
 
 FT (Doctor of Philosophy)
-
+M.A. (Educational Sciences)
 Diploma yoga teacher
 
 Helsinki metropolitan area (Espoo Viherlaakso, from September 2014 onwards)
