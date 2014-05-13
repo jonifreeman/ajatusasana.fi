@@ -2,6 +2,11 @@
 title: Products
 ---
 
+_Autumn 2014_
+
+*Yoga class in English* On Thursdays at 05.30 pm-06.30 pm. From September 2014 onwards in a new yogastudio in Espoo Viherlaakso(Helsinki Metropolitan area). Address: Kavallinmäki 13 A. For more details: camisteph@gmail.com / 0405224889.
+
+
 _Spring 2014_
 
 
@@ -11,5 +16,5 @@ Lecture: 'Motivaatio Joogamatolla' (Motivation On The Yoga Mat). Helsinki Joogaf
 
 Courses are suitable for anyone. You don't have to have prior experience in yoga. I have used my scientific understanding of learning and motivation in preparing the courses. Hence, yoga could become a lifelong hobby for you.
 
-Registration: camisteph@gmail.com
-Venue: Kasarmikatu 2, 00140 HELSINKI. The cosy and comfortable Hall at Era Novan bookshop. No mirrors on the wall, just you and others as your reflectors!
+
+
