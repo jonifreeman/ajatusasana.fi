@@ -43,8 +43,7 @@ stressiä, jos kuuntelen, mitä kehoni ja tunteeni minulle ympäristöstäni
 ja itsestäni kertovat. Voin luoda elämää, vaikka en ikinä tule olemaan
 äiti. Äitiydettömyyden oivallukseen tarvitsin käsitteitä, joilla kyseenalaistaa
 sekä kehollista tunteiden ja aistien kokemusta: oman elämän rytmin
-löytämistä. Tässä ja nyt, kokonaisvaltaisen tiede-ja
-hyvinvointipalveluni äärellä, yhdistyvät tieteellinen ymmärrys
+löytämistä. Tässä ja nyt, kokonaisvaltaisen hyvinvointipalveluni äärellä, yhdistyvät tieteellinen ymmärrys
 ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen
 kehollinen tieto, aate-vapaa Jooga ja hiphopin ilo. Keho ja
 mieli yhdistyvät vihdoin KehoMieleksi. 
