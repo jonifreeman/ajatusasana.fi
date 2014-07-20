@@ -178,4 +178,37 @@ blockquote cite:before {
 
 .schedule {
   width: 1200px;
+  margin-bottom: 40px;
+  border: 1px solid black;
+}
+
+.schedule td {
+  border-width: 0px 1px;
+  border-style: solid;
+}
+
+.schedule td > div {
+  padding: 6px 0 4px 4px;
+}
+
+.schedule th {
+  width: 14%;
+  font-weight: bold;  
+  padding-bottom: 10px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: #a8d733;
+}
+
+.schedule .course {
+  background-color: #b7c74b;
+}
+
+.schedule a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.schedule a:hover {
+  color: #a8d733;
 }

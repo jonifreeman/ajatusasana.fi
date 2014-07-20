@@ -94,7 +94,7 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
- <div class="course">
+ <div class="session">
   **17.30 - 19.00** <br />
   [RytmiJooga](#rytmi)
  </div>
