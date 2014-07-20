@@ -212,3 +212,7 @@ blockquote cite:before {
 .schedule a:hover {
   color: #a8d733;
 }
+
+.location-map {
+  padding-bottom: 20px;
+}
