@@ -219,6 +219,20 @@ blockquote cite:before {
   color: #a8d733;
 }
 
+.prices h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.prices table {
+  margin-left: 20px;
+  width: 800px;
+}
+
+.prices table td:first-child {
+  width: 20%;
+}
+
 .location-map {
   padding-bottom: 20px;
 }

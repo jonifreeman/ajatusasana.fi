@@ -3,7 +3,7 @@ title: Viherlaakson viikko-ohjelma
 ---
 
 Viikko-ohjelma
---------------
+==============
 
 <table class="schedule">
 <thead>
@@ -42,14 +42,14 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **11.30 - 12.30** <br />
- [Rentouttava lounasjooga](#lounasjooga)
+ [Virkistävä lounasjooga](#lounasjooga)
  </div>
  </td>
  <td></td>
  <td>
  <div class="course">
   **11.00 - 12.30** <br />
-  [Ajatus & Asana Joogakurssi](#kurssi)
+  [Ajatus & Asana Joogakurssi](#joogakurssi)
  </div>
  </td>
  <td>
@@ -82,7 +82,7 @@ Viikko-ohjelma
  <td>
  <div class="course">
   **17.30 - 19.00** <br />
-  [Ajatus & Asana Joogakurssi](#kurssi)
+  [Ajatus & Asana Joogakurssi](#joogakurssi)
  </div>
  </td>
  <td></td>
@@ -127,20 +127,123 @@ Viikko-ohjelma
 
 </table>
 
+<div class="prices">
+
+Hinnasto
+========
+
+Hintoihin sisältyy ALV.
+
+Kertamaksu 
+----------
+
+-----     -------------------------
+1h        17€ (tutustumiskerta 10€)
+1,5h      25€ (tutustumiskerta 18€)
+-----     -------------------------
+
+
+Kertamaksu, yksityisohjaus (yksilöt tai ryhmät)
+-----------------------------------------------
+
+-----      ------------------------
+1,5h       110€
+-----      ------------------------
+
+Sarjakortit
+-----------
+
+---------- ---------------------------------
+10 x 1h    150€ (Voimassa 6 kk ostopäivästä)
+10 x 1,5h  230€ (Voimassa 6 kk ostopäivästä)
+---------- ---------------------------------
+
+Motivoivat Ajatus & Asana joogakurssit  Modulit 1, 2 ja 3 
+---------------------------------------------------------
+
+--------- --------------------------------------------------------
+4 x 1,5h  140€ (sisältää jaettavat kotijoogaa tukevat materiaalit)
+--------- --------------------------------------------------------
+
+Ajatus & Asana Miniretriitit  
+----------------------------
+
+------------- ------------------------------------------------------------------------------
+1 päivä (4h)  110€ (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
+------------- ------------------------------------------------------------------------------
+
+Ajatus & Asana valmennuspaketit
+===============================
+
+Oma Ajatus & Asana I
+--------------------
+
+- 400€
+- Alkuhaastattelu
+- Yksityisohjausta 4 x 1h ajanjaksolle n. 2kk 
+- Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
+- Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
+
+Oma Ajatus & Asana II
+---------------------
+
+- 750€
+- Alkuhaastattelu
+- Yksityisohjausta 8 x 1h   ajanjaksolle 4kk      
+- Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
+- Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
+
+
+</prices>
 
 Tuntikuvaukset
---------------
+==============
+
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtamna kaikille tunneille (yhtä jatkotuntia lukuunottamatta) osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
+Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. Lähtökohtamna kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+
+<a id="aamujooga"></a>
+**Lempeän vahvistava aamujooga**
+
+Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. Lähtökohtamna kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+
+<a id="rauhoittava"></a>
+**Rauhoittava iltajooga & Yoga Nidra**
+
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).
+
+<a id="lounasjooga"></a>
+**Virkistävä lounasjooga**
+
+TBD.
+
+<a id="flow"></a>
+**Lempeän vahvistava flow jo jooganneille**
+
+Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. Tunti edellyttää aikaisempaa joogakokemusta ja turvallista asanatekniikkaa. 
+
+<a id="english"></a>
+**Yoga in English**
+
+This yoga class is gentle in its capacity to strengthen the body, mind and soul. Combining asanas (yoga poses) from different traditions in a safe way is a key to a lifelong yoga practice. This class will help you to tune in to your body in native English language. The class is open also to Finnish speakers who want to enhance their English.
+
+<a id="rytmi"></a>
+**RytmiJooga**
+
+Tunnilla tehdään lempeän vahvistavaa joogaa rytmimusiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tunti sopii kaikille.
+
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-4 x 1,5h 140€ (sisältää jaettavat kotijoogaa tukevat materiaalit)
+Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäiseen kotijoogaan. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja syvän tietoisen rentoutuksen (Yoga Nidra) tai meditaation. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman meditatiiviven kotijoogasarjan. Kurssi sopii niin aloittelijalle kuin jo joogaa harrastaneelle. Kurssit 1 & 2.  1 luo pohjan 2 kurssille. 
 
-<a id="miniretriitti"></a>
+<a id="retriitti"></a>
 **Ajatus & Asana miniretriitit**
 
-1 päivä (4h) 110€ (sisältää jaettavat materiaalit ja 10min henkilökohtaisen ohjaussession)
+4 tunnin mittainen mini-irtiotto arjesta! Asanaharjoituksia, hengitysharjoituksia, rytmijoogaa djembe-rummun säestämänä, meditaatiota, omien joogamotiivien tutkiskelua kehittämälläni välineellä, teetä, keskusteluja, yhdessäoloa ja rentoutumista. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus). Omat eväät mukaan! Talo tarjoaa hyvää teetä.
+
 
