@@ -233,6 +233,10 @@ blockquote cite:before {
   width: 20%;
 }
 
+.prices .valmennus {
+  margin-top: 50px;
+}
+
 .location-map {
   padding-bottom: 20px;
 }

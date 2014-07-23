@@ -172,6 +172,8 @@ Ajatus & Asana Miniretriitit
 1 päivä (4h)  110€ (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
 ------------- ------------------------------------------------------------------------------
 
+<p class="valmennus"/>
+
 Ajatus & Asana valmennuspaketit
 ===============================
 
