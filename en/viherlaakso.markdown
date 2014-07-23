@@ -1,5 +1,5 @@
 ---
-title: Viherlaakson viikko-ohjelma
+title: Viherlaakso's weekly programme
 ---
 
 Viikko-ohjelma
@@ -133,87 +133,86 @@ Viikko-ohjelma
 
 <div class="prices ale">
 
-Avajaistarjous
+Offer on opening day
 ==============
 
-Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
---------------------------------------------
+Serial ticket on a day of opening (Saturday 30.8.2014)
+-------------------------------------------------
 
----------- -----------------------------------
-10 x 1 h    100 € (Voimassa 6 kk ostopäivästä)
-10 x 1,5 h  150 € (Voimassa 6 kk ostopäivästä)
----------- -----------------------------------
+---------- -------------------------------------
+10 x 1 h    100 € (Valid 6 months from purchase)
+10 x 1,5 h  150 € (Valid 6 months from purchase)
+---------- -------------------------------------
 
 </div>
 
 <div class="prices">
 
-Hinnasto
+Prices
 ========
 
-Hintoihin sisältyy ALV.
+Prices include VAT.
 
-Kertamaksu 
+Drop in
 ----------
 
------     -------------------------
-1 h        17 € (tutustumiskerta 10 €)
-1,5 h      25 € (tutustumiskerta 18 €)
------     -------------------------
+-----     ------
+1 h        17 € 
+1,5 h      25 € 
+-----     ------
 
 
-Yksityistunnit / -ryhmät
--------------------------
+Private lessons for individuals or groups
+------------------------------------------
 
 -----      ------------------------
 1,5 h       110 €
 -----      ------------------------
 
-Sarjakortit
------------
+Serial tickets
+---------------
 
----------- ---------------------------------
-10 x 1 h    150 € (Voimassa 6 kk ostopäivästä)
-10 x 1,5 h  230 € (Voimassa 6 kk ostopäivästä)
----------- ---------------------------------
+---------- --------------------------------------
+10 x 1 h    150 € (Valid 6 months from purchase)
+10 x 1,5 h  230 € (Valid 6 months from purchase)
+---------- --------------------------------------
 
-Motivoivat Ajatus & Asana joogakurssit  Modulit 1, 2 ja 3 
+Ajatus & Asana Yoga courses  Modules 1, 2 ja 3 
 ---------------------------------------------------------
 
 --------- --------------------------------------------------------
-4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
+4 x 1,5 h  140 € (incl. material)
 --------- --------------------------------------------------------
 
-Ajatus & Asana Miniretriitit  
-----------------------------
+Ajatus & Asana Miniretreat
+--------------------------
 
 ------------- ------------------------------------------------------------------------------
-1 päivä (4h)  110 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
+1 day (4h)  110 € (incl. material and 10 min private session)
 ------------- ------------------------------------------------------------------------------
 
 <p class="valmennus"/>
 
-Ajatus & Asana valmennuspaketit
-===============================
+Ajatus & Asana coaching packages
+================================
 
-Oma Ajatus & Asana I
+My Ajatus & Asana I
 --------------------
 
 - 400 €
-- Alkuhaastattelu
-- Yksityisohjausta 4 x 1 h ajanjaksolle n. 2kk 
-- Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
-- Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
+- Interview
+- Private lessons 4 x 1 h  to be used within 2  months
+- Personal Ajatus & Asana yoga program (incl. materials)
+- Participation to 4 group yoga lessons.
 
-Oma Ajatus & Asana II
+My Ajatus & Asana II
 ---------------------
 
 - 750 €
-- Alkuhaastattelu
-- Yksityisohjausta 8 x 1 h   ajanjaksolle 4kk      
-- Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
-- Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
-
+- Interview 
+- Private lessons 8 x 1 h  to be used within 3 months
+- Personal Ajatus & Asana yoga program (incl. materials)
+- Participation to 8 group yoga lessons.
 
 </prices>
 
