@@ -127,6 +127,21 @@ Viikko-ohjelma
 
 </table>
 
+<div class="prices ale">
+
+Avajaistarjous
+==============
+
+Sarjakortti avajaispäivänä la 30.8 ostettuna
+--------------------------------------------
+
+---------- -----------------------------------
+10 x 1 h    100 € (Voimassa 6 kk ostopäivästä)
+10 x 1,5 h  150 € (Voimassa 6 kk ostopäivästä)
+---------- -----------------------------------
+
+</div>
+
 <div class="prices">
 
 Hinnasto
@@ -138,8 +153,8 @@ Kertamaksu
 ----------
 
 -----     -------------------------
-1h        17€ (tutustumiskerta 10€)
-1,5h      25€ (tutustumiskerta 18€)
+1 h        17 € (tutustumiskerta 10 €)
+1,5 h      25 € (tutustumiskerta 18 €)
 -----     -------------------------
 
 
@@ -147,29 +162,29 @@ Kertamaksu, yksityisohjaus (yksilöt tai ryhmät)
 -----------------------------------------------
 
 -----      ------------------------
-1,5h       110€
+1,5 h       110 €
 -----      ------------------------
 
 Sarjakortit
 -----------
 
 ---------- ---------------------------------
-10 x 1h    150€ (Voimassa 6 kk ostopäivästä)
-10 x 1,5h  230€ (Voimassa 6 kk ostopäivästä)
+10 x 1 h    150 € (Voimassa 6 kk ostopäivästä)
+10 x 1,5 h  230 € (Voimassa 6 kk ostopäivästä)
 ---------- ---------------------------------
 
 Motivoivat Ajatus & Asana joogakurssit  Modulit 1, 2 ja 3 
 ---------------------------------------------------------
 
 --------- --------------------------------------------------------
-4 x 1,5h  140€ (sisältää jaettavat kotijoogaa tukevat materiaalit)
+4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
 --------- --------------------------------------------------------
 
 Ajatus & Asana Miniretriitit  
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-1 päivä (4h)  110€ (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
+1 päivä (4h)  110 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
 ------------- ------------------------------------------------------------------------------
 
 <p class="valmennus"/>
@@ -180,18 +195,18 @@ Ajatus & Asana valmennuspaketit
 Oma Ajatus & Asana I
 --------------------
 
-- 400€
+- 400 €
 - Alkuhaastattelu
-- Yksityisohjausta 4 x 1h ajanjaksolle n. 2kk 
+- Yksityisohjausta 4 x 1 h ajanjaksolle n. 2kk 
 - Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
 - Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
 
 Oma Ajatus & Asana II
 ---------------------
 
-- 750€
+- 750 €
 - Alkuhaastattelu
-- Yksityisohjausta 8 x 1h   ajanjaksolle 4kk      
+- Yksityisohjausta 8 x 1 h   ajanjaksolle 4kk      
 - Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
 - Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
 

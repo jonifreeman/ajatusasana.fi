@@ -219,6 +219,14 @@ blockquote cite:before {
   color: #a8d733;
 }
 
+.ale {
+  color: #fd5b94;
+}
+
+.prices {
+  padding-bottom: 40px;
+}
+
 .prices h2 {
   padding-top: 20px;
   padding-bottom: 20px;
