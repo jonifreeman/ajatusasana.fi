@@ -1,1 +1,0 @@
-../viherlaakso.markdown

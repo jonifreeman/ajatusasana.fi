@@ -71,8 +71,12 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **14.00 - 15.30** <br />
- [Lempeän vahvistava flow jo jooganneille](#flow)
+ **13.30 - 15.00** <br />
+ [Lempeän vahvistava virtaava jooga](#flow)
+ </div>
+ <div class="session">
+ **15.30 - 16.30** <br />
+ [Koirakkomeditaatio ja rentoutus](#dog)
  </div>
  </td>
 </tr>
@@ -239,9 +243,9 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallises
 TBD.
 
 <a id="flow"></a>
-**Lempeän vahvistava flow jo jooganneille**
+**Lempeän vahvistava virtaava jooga**
 
-Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. Tunti edellyttää aikaisempaa joogakokemusta ja turvallista asanatekniikkaa. 
+Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. 
 
 <a id="english"></a>
 **Yoga in English**
@@ -252,6 +256,11 @@ This yoga class is gentle in its capacity to strengthen the body, mind and soul.
 **RytmiJooga**
 
 Tunnilla tehdään lempeän vahvistavaa joogaa rytmimusiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tunti sopii kaikille.
+
+<a id="dog"></a>
+**Koirakkomeditaatio ja rentoutus**
+
+TBD.
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
