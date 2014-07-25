@@ -2,7 +2,7 @@
 title: Konsultaatio
 ---
 
-Luennot, keskustelun alustukset ja työpajat 
+Luennot, keskustelun alustukset ja työpajat.
 
 Aihealueet: motivaatio, yhteisöllisyys, itseilmaisu, keho-mielen yhteys ja jooga.
 
