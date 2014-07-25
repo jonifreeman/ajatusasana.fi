@@ -240,7 +240,7 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallises
 <a id="lounasjooga"></a>
 **Virkistävä lounasjooga**
 
-TBD.
+Tunnilla tehdään kehoa ja mieltä virkistäviä liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
 
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
@@ -265,7 +265,7 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäiseen kotijoogaan. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja syvän tietoisen rentoutuksen (Yoga Nidra) tai meditaation. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen meditatiiviven kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Moduli 1 luo pohjan Moduleille 2 ja 3.
+Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäiseen kotijoogaan. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja syvän tietoisen rentoutuksen (Yoga Nidra) tai meditaation. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen meditatiiviven kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. 
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit**
