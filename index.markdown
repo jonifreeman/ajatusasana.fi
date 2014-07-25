@@ -9,7 +9,7 @@ Haluan antaa sinulle mielen ja kehon välineitä oman sisäisen ja sisäistetyn 
 
 Ajatus & Asana on käyttäytymistieteellistä tutkimustietoa ja meditatiivista joogaa yhdistävä koulutuspalvelu kehon ja mielen hyvinvointiin. Tuotevalikoimaan kuuluvat joogatunnit, motivoivat joogakurssit, retriitit, luennot sekä meditatiiviset kirjoittamistyöpajat. 'Ajatus' tuo huomion ihmismielen luovaan potentiaaliin ja tieteelliseen ymmärrykseeni ihmisen kehitysmahdollisuuksista. Sanskriitin kielinen 'Asana' tarkoittaa asentoa jossa on hyvä olla. Joogaa voisikin luonnehtia hengityksen johdattamaksi mielen ja ja kehon liikkeeksi.  Se on kehomieltä lempeän kunnioittavasti vahvistavaa. Asana-opetuksessa hyödynnän monista eri jooga-traditioista peräisin olevia liikkeitä (esim. Hatha, Yin, Iyengar, Kundalini) tasapainoisen ja turvallisen kokonaisuuden luomiseksi. Opettamani jooga sopii niin aloittelijoille kuin jo joogaa harrastaneille. Pystyn lukemaan ihmisen kehoa herkän hienovaraisesti ja innostavasti.
 
-Keho on viisas kun sitä alkaa kuuntelemaan–se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttää. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule kokeilemaan jotain joogakurssiani!
+Keho on viisas kun sitä alkaa kuuntelemaan–se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttään. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule kokeilemaan jotain joogakurssiani!
 
 Suurella sydämellä Sinut vastaanottaen,
 
