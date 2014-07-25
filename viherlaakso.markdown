@@ -225,12 +225,12 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
 
 <a id="aamujooga"></a>
 **Lempeän vahvistava aamujooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. 
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
@@ -245,7 +245,7 @@ TBD.
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
 
-Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. 
+Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. Tunti sopii kaikille.
 
 <a id="english"></a>
 **Yoga in English**
@@ -260,7 +260,7 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
 
-
+Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu,ihminen rentoutuu. Tunnilla tehdään kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
