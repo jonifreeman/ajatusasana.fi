@@ -220,22 +220,22 @@ Oma Ajatus & Asana II
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtamna kaikille tunneille (yhtä jatkotuntia lukuunottamatta) osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. Lähtökohtamna kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
 
 <a id="aamujooga"></a>
 **Lempeän vahvistava aamujooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. Lähtökohtamna kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).Tunti sopii kaikille.
 
 <a id="lounasjooga"></a>
 **Virkistävä lounasjooga**
@@ -255,12 +255,12 @@ This yoga class is gentle in its capacity to strengthen the body, mind and soul.
 <a id="rytmi"></a>
 **RytmiJooga**
 
-Tunnilla tehdään lempeän vahvistavaa joogaa rytmimusiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tunti sopii kaikille.
+Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tunti sopii kaikille. Tule löytämään ikioma joogapulssisi!
 
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
 
-TBD.
+
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
