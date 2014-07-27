@@ -228,6 +228,11 @@ blockquote cite:before {
   color: #a8d733;
 }
 
+.signup-info {
+  width: 30px;
+  height: 30px;
+}
+
 .signup {
   float: right;
   width: 30px;

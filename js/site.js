@@ -12,7 +12,7 @@ $(function() {
     timeout: 10000
   })
 
-  $('.signup').click(function(e) {
+  $('.schedule .signup').click(function(e) {
     validate()
     var time = $(e.currentTarget).parent('div').find('strong').text()
     var course = $(e.currentTarget).next().text()

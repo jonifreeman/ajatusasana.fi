@@ -59,20 +59,20 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **11.30 - 12.30** <br />
+ **11.30 - 12.30** <br /> <img class="signup" src="img/sign_up.jpg"></img>
  [Virkistävä lounasjooga](#lounasjooga)
  </div>
  </td>
  <td></td>
  <td>
  <div class="course">
-  **11.00 - 12.30** <br />
+  **11.00 - 12.30** <br /> <img class="signup" src="img/sign_up.jpg"></img>
   [Ajatus & Asana Joogakurssi](#joogakurssi)
  </div>
  </td>
  <td>
  <div class="course">
-  **10.00 - 14.00**  <br />
+  **10.00 - 14.00**  <br /> <img class="signup" src="img/sign_up.jpg"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät joka kuun ensimmäinen lauantai](#retriitti)
  </div>
  </td>
@@ -89,11 +89,11 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **13.30 - 15.00** <br />
+ **13.30 - 15.00** <br /> <img class="signup" src="img/sign_up.jpg"></img>
  [Lempeän vahvistava virtaava jooga](#flow)
  </div>
  <div class="session">
- **15.30 - 16.30** <br />
+ **15.30 - 16.30** <br /> <img class="signup" src="img/sign_up.jpg"></img>
  [Koirakkomeditaatio ja rentoutus](#dog)
  </div>
  </td>
@@ -103,7 +103,7 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="course">
-  **17.30 - 19.00** <br />
+  **17.30 - 19.00** <br /> <img class="signup" src="img/sign_up.jpg"></img>
   [Ajatus & Asana Joogakurssi](#joogakurssi)
  </div>
  </td>
@@ -111,13 +111,13 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **17.00 - 18.00** <br />
+ **17.00 - 18.00** <br /> <img class="signup" src="img/sign_up.jpg"></img>
  [Yoga in English](#english)
  </div>
  </td>
  <td>
  <div class="session">
-  **17.30 - 19.00** <br />
+  **17.30 - 19.00** <br /> <img class="signup" src="img/sign_up.jpg"></img>
   [RytmiJooga](#rytmi)
  </div>
  </td>
@@ -130,14 +130,14 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **18.00 - 19.30** <br />
+  **18.00 - 19.30** <br /> <img class="signup" src="img/sign_up.jpg"></img>
   [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td></td>
  <td>
  <div class="session">
- **18.30 - 20.00** <br />
+ **18.30 - 20.00** <br /> <img class="signup" src="img/sign_up.jpg"></img>
  [Rauhoittava iltajooga & Yoga Nidra](#rauhoittava)
  </div>
  </td>
@@ -148,6 +148,8 @@ Viikko-ohjelma
 </tbody>
 
 </table>
+
+Ilmoittautuminen <img class="signup-info" src="img/sign_up.jpg"></img> -nappia painamalla.
 
 <div class="prices ale">
 
