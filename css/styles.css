@@ -25,15 +25,7 @@
   position: absolute;
   top: 189px;
   left: 4px;
-  width: 862px;
-  height: 4px;
-}
-
-.line2 {
-  position: absolute;
-  top: 189px;
-  left: 1072px;
-  width: 45%;
+  width: 100%;
   height: 4px;
 }
 
@@ -56,6 +48,8 @@
 
 .navi {
   margin-left: 12px;
+  margin-right: 30px;
+  float: left;
 }
 
 .navi li {
@@ -78,10 +72,9 @@
 }
 
 .content {
-  position: absolute;
   top: 259px;
-  left: 400px;  
-  width: 470px;
+  float: left;
+  width: 35%;
   line-height: 22px;
   font-size: 16px;
   color: #333333;
