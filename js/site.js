@@ -13,18 +13,19 @@ $(function() {
   })
 
   $('.signup').click(function(e) {
-    console.log($(e.currentTarget).next())
+    var time = $(e.currentTarget).parent('div').find('strong').text()
+    var course = $(e.currentTarget).next().text()
+    $('.signup-popup .course').text(time + " " + course)
     $('.signup-popup').offset($(e.currentTarget).offset())
     $('.signup-popup').css('visibility', 'visible')
   })
 
   $('.signup-popup .signup-button').click(function(e) {
     data = {
-      course:  $(e.currentTarget).next().text(),
+      course:  $('.signup-popup .course').text(),
       name:    $('.signup-popup .name').val(),
       contact: $('.signup-popup .contact').val()
     }
-    console.log(data)
     $.post("signup.php", data, function() {
       $('.signup-popup').css('visibility', 'hidden')
     })

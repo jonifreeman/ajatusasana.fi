@@ -9,6 +9,9 @@ Viikko-ohjelma
   <div class="popup-content">
    <img class="close" src="img/popup_close.png" />
    <h2>Ilmoittaudu</h2>
+   <p>
+     <div class="course"></div>
+   </p>
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Puhelin tai sähköposti: </div><input type="text" class="contact" />
    <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
