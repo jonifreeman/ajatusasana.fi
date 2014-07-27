@@ -3,7 +3,7 @@ title: Idea
 ---
 __Joogaa Ajatuksella - Rentoudu, uudistu, opi ja inspiroidu!__
 
-*Yksilöllistä ja laadukasta joogaopetusta pienryhmissä*
+*Yksilöllistä ja laadukasta joogaopetusta pienryhmissä Viherlaakson Joogahuoneella Espoossa ja Ylläs-Äkäslompolossa*
 
 Mikä on luontainen rytmini ja miten saan sen toimimaan harmoniassa muiden ihmisten rytmien kanssa? Entäpä tietoteknologistaloudellisten rytmien kanssa?  Löytyisikö keino päästä takaisin kosketukseen oman luovuuteni kanssa? Miten ja mistä tiedän, että olen matkalla oikeaan suuntaan? Miten pystyn toteuttamaan aitoa itseäni ja samalla olemaan yhteiskunnan, (työ)yhteisön ja perheen täysivaltainen jäsen? Voisiko meditatiivinen jooga olla vastaus stressittömämpään elämään?  Voisinko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? 
 
