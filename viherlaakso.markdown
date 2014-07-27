@@ -5,6 +5,8 @@ title: Viherlaakson viikko-ohjelma
 Viikko-ohjelma
 ==============
 
+1.9.2014 alkaen.
+
 <div class="signup-popup-ok">
   Kiitos ilmoittautumisesta!
 </div>
