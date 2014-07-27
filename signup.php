@@ -2,7 +2,7 @@
 $to      = 'camisteph@gmail.com';
 $course  = $_POST['course'];
 $subject = 'Ilmoittautuminen: ' . $course;
-$message = 'Nimi: ' . $_POST['name'] . '\n\nKontakti: ' . $_POST['contact'];
+$message = 'Kurssi: ' . $course . "\r\n\r\nNimi: " . $_POST['name'] . "\r\n\r\nKontakti: " . $_POST['contact'];
 $headers = 'From: webmaster@ajatusasana.fi' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
