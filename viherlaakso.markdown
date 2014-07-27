@@ -11,7 +11,7 @@ Viikko-ohjelma
 
 <div class="signup-popup">
   <div class="popup-content">
-   <img class="close" src="img/popup_close.png" />
+   <img class="close" src="/img/popup_close.png" />
    <h2>Ilmoittaudu</h2>
    <p>
      <div class="course"></div>
@@ -43,7 +43,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **8.00 - 9.00** <br /> <img class="signup" src="img/signup.png"></img>
+ **8.00 - 9.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava aamujooga](#aamujooga)
  </div>
  </td>
@@ -59,20 +59,20 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **11.30 - 12.30** <br /> <img class="signup" src="img/signup.png"></img>
+ **11.30 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
  [Virkistävä lounasjooga](#lounasjooga)
  </div>
  </td>
  <td></td>
  <td>
  <div class="course">
-  **11.00 - 12.30** <br /> <img class="signup" src="img/signup.png"></img>
+  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana Joogakurssi](#joogakurssi)
  </div>
  </td>
  <td>
  <div class="course">
-  **10.00 - 14.00**  <br /> <img class="signup" src="img/signup.png"></img>
+  **10.00 - 14.00**  <br /> <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät joka kuun ensimmäinen lauantai](#retriitti)
  </div>
  </td>
@@ -89,11 +89,11 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **13.30 - 15.00** <br /> <img class="signup" src="img/signup.png"></img>
+ **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava virtaava jooga](#flow)
  </div>
  <div class="session">
- **15.30 - 16.30** <br /> <img class="signup" src="img/signup.png"></img>
+ **15.30 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
  [Koirakkomeditaatio ja rentoutus](#dog)
  </div>
  </td>
@@ -103,7 +103,7 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="course">
-  **17.30 - 19.00** <br /> <img class="signup" src="img/signup.png"></img>
+  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana Joogakurssi](#joogakurssi)
  </div>
  </td>
@@ -111,13 +111,13 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **17.00 - 18.00** <br /> <img class="signup" src="img/signup.png"></img>
+ **17.00 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Yoga in English](#english)
  </div>
  </td>
  <td>
  <div class="session">
-  **17.30 - 19.00** <br /> <img class="signup" src="img/signup.png"></img>
+  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [RytmiJooga](#rytmi)
  </div>
  </td>
@@ -130,14 +130,14 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **18.00 - 19.30** <br /> <img class="signup" src="img/signup.png"></img>
+  **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
   [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td></td>
  <td>
  <div class="session">
- **18.30 - 20.00** <br /> <img class="signup" src="img/signup.png"></img>
+ **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Rauhoittava iltajooga & Yoga Nidra](#rauhoittava)
  </div>
  </td>
@@ -149,7 +149,7 @@ Viikko-ohjelma
 
 </table>
 
-Ilmoittautuminen <img class="signup-info" src="img/signup.png"></img> -nappia painamalla.
+Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla.
 
 <div class="prices ale">
 
