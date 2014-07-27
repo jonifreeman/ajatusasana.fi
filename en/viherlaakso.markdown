@@ -149,7 +149,7 @@ Viikko-ohjelma
 
 </table>
 
-Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla.
+Sign up by pressing <img class="signup-info" src="/img/signup.png"></img> -button.
 
 <div class="prices ale">
 

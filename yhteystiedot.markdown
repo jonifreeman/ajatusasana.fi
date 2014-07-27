@@ -17,8 +17,6 @@ Puh. +358405224889
 
 [Academia.edu](http://helsinki.academia.edu/NStephanieFreeman)
 
-Käytän [ukko.fi](http://www.ukko.fi) laskutuspalvelua.
-
 
 **Viherlaakso**
 ===============
