@@ -164,6 +164,14 @@ Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
 10 x 1,5 h  150 € (Voimassa 6 kk ostopäivästä)
 ---------- -----------------------------------
 
+Avajaispäivän joogatunnit:
+
+10.00-11.00 Lempeän vahvistava jooga
+
+12.00-13.00 Lempeän vahvistava virtaava jooga
+
+13.15-14.15 Rauhoittavia joogaliikkeitä sekä syvä tietoisen rentoutumisen harjoitus YogaNidra
+
 </div>
 
 <div class="prices">
