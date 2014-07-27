@@ -13,12 +13,24 @@ $(function() {
   })
 
   $('.signup').click(function(e) {
+    console.log($(e.currentTarget).next())
     $('.signup-popup').offset($(e.currentTarget).offset())
     $('.signup-popup').css('visibility', 'visible')
   })
 
-  $('.signup-popup .signup-button').click(function() {
-    $('.signup-popup').css('visibility', 'hidden')
+  $('.signup-popup .signup-button').click(function(e) {
+    data = {
+      course:  $(e.currentTarget).next().text(),
+      name:    $('.signup-popup .name').val(),
+      contact: $('.signup-popup .contact').val()
+    }
+    console.log(data)
+    $.post("signup.php", data, function() {
+      $('.signup-popup').css('visibility', 'hidden')
+    })
+    .fail(function() {
+      $('.signup-popup .error').fadeIn(500).delay(10000).fadeOut(500)
+    })
   })
 
   $('.signup-popup .close').click(function() {

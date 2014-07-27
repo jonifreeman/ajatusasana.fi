@@ -7,9 +7,11 @@ Viikko-ohjelma
 
 <div class="signup-popup">
   <div class="popup-content">
+   <img class="close" src="img/popup_close.png" />
    <h2>Ilmoittaudu</h2>
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Puhelin tai sähköposti: </div><input type="text" class="contact" />
+   <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="signup-button" type="button" value="Ilmoittaudu" />
   </div>
 </div>
@@ -34,7 +36,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **8.00 - 9.00** <br /> <img class="signup" src="img/sign_up.jpg"><a href="#" /></img>
+ **8.00 - 9.00** <br /> <img class="signup" src="img/sign_up.jpg"></img>
  [Lempeän vahvistava aamujooga](#aamujooga)
  </div>
  </td>
