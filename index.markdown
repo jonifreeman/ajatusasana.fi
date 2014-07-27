@@ -3,6 +3,8 @@ title: Idea
 ---
 __Joogaa Ajatuksella - Rentoudu, uudistu, opi ja inspiroidu!__
 
+*Yksilöllistä ja laadukasta joogaopetusta pienryhimissä*
+
 Mikä on luontainen rytmini ja miten saan sen toimimaan harmoniassa muiden ihmisten rytmien kanssa? Entäpä tietoteknologistaloudellisten rytmien kanssa?  Löytyisikö keino päästä takaisin kosketukseen oman luovuuteni kanssa? Miten ja mistä tiedän, että olen matkalla oikeaan suuntaan? Miten pystyn toteuttamaan aitoa itseäni ja samalla olemaan yhteiskunnan, (työ)yhteisön ja perheen täysivaltainen jäsen? Voisiko meditatiivinen jooga olla vastaus stressittömämpään elämään?  Voisinko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? 
 
 Haluan antaa sinulle mielen ja kehon välineitä oman sisäisen ja sisäistetyn ohjaajasi löytämiseen kehityspsykologi Lev Vygotskyn 'lähikehityksen vyöhykkeen' hengessä. Tämä *sisäinen kompassi* auttaa sinua suunnistamaan sosiaalisessa ja materiaalisessa maailmassa siten, että voit samalla henkisesti ja fyysisesti hyvin. Tavoitteena on motivoitunut ihminen, joka viihtyy omassa kehossaan ja ympäristössään. 
