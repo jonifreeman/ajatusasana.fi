@@ -181,7 +181,7 @@ Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV.
+Hintoihin sisältyy ALV (jooga 10%, meditaatio ja konsultaatio 24%).
 
 Kertamaksu 
 ----------
@@ -220,6 +220,13 @@ Ajatus & Asana Miniretriitit
 ------------- ------------------------------------------------------------------------------
 1 päivä (4h)  110 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
 ------------- ------------------------------------------------------------------------------
+
+Koirakkomeditaatio ja rentoutus
+----------
+
+-----     -------------------------
+1 h        20 € (tutustumiskerta 15 €)
+-----     -------------------------
 
 <p class="valmennus"/>
 
