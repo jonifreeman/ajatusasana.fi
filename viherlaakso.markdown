@@ -5,6 +5,10 @@ title: Viherlaakson viikko-ohjelma
 Viikko-ohjelma
 ==============
 
+<div class="signup-popup-ok">
+  Kiitos ilmoittautumisesta!
+</div>
+
 <div class="signup-popup">
   <div class="popup-content">
    <img class="close" src="img/popup_close.png" />

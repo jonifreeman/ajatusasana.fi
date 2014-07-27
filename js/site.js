@@ -56,6 +56,7 @@ $(function() {
     }
     $.post("signup.php", data, function() {
       $('.signup-popup').css('visibility', 'hidden')
+      $('.signup-popup-ok').fadeIn(500).delay(10000).fadeOut(500)
     })
     .fail(function() {
       $('.signup-popup .error').fadeIn(500).delay(10000).fadeOut(500)

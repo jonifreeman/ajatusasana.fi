@@ -269,6 +269,13 @@ blockquote cite:before {
   margin-top: 30px;    
 }
 
+.signup-popup-ok {
+  font-weight: bold;
+  font-size: 20px;
+  color: #a8d733;
+  display: none;
+}
+
 .ale {
   color: #fd5b94;
 }
