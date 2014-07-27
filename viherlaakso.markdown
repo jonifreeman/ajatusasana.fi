@@ -5,6 +5,15 @@ title: Viherlaakson viikko-ohjelma
 Viikko-ohjelma
 ==============
 
+<div class="signup-popup">
+  <div class="popup-content">
+   <h2>Ilmoittaudu</h2>
+   <div class="contact-info">Nimi: </div><input type="text" class="name" />
+   <div class="contact-info">Puhelin tai sähköposti: </div><input type="text" class="contact" />
+   <input class="signup-button" type="button" value="Ilmoittaudu" />
+  </div>
+</div>
+
 <table class="schedule">
 <thead>
 <tr>
@@ -25,7 +34,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **8.00 - 9.00** <br />
+ **8.00 - 9.00** <br /> <img class="signup" src="img/sign_up.jpg"><a href="#" /></img>
  [Lempeän vahvistava aamujooga](#aamujooga)
  </div>
  </td>

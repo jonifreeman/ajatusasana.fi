@@ -11,4 +11,17 @@ $(function() {
   $('.images').cycle({
     timeout: 10000
   })
+
+  $('.signup').click(function(e) {
+    $('.signup-popup').offset($(e.currentTarget).offset())
+    $('.signup-popup').css('visibility', 'visible')
+  })
+
+  $('.signup-popup .signup-button').click(function() {
+    $('.signup-popup').css('visibility', 'hidden')
+  })
+
+  $('.signup-popup .close').click(function() {
+    $('.signup-popup').css('visibility', 'hidden')
+  })
 })

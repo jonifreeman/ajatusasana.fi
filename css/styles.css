@@ -219,6 +219,40 @@ blockquote cite:before {
   color: #a8d733;
 }
 
+.signup {
+  float: right;
+  width: 30px;
+  height: 30px;
+}
+
+.signup-popup {
+  visibility: hidden;
+  position: absolute;
+  border: 2px solid #98b49b;
+  background-color: #a5bea8;
+  z-index: 1000;
+
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.signup-popup .popup-content {
+  margin: 15px;
+}
+
+.signup-popup .contact-info {
+  margin-top: 8px;
+}
+
+.signup-popup input[type="text"] {
+  width: 200px;
+}
+
+.signup-popup .signup-button {
+  margin-top: 30px;    
+}
+
 .ale {
   color: #fd5b94;
 }
@@ -248,3 +282,4 @@ blockquote cite:before {
 .location-map {
   padding-bottom: 20px;
 }
+
