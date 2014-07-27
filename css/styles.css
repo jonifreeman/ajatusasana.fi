@@ -3,6 +3,10 @@
   display: none;
 }
 
+.invalid {
+  background-color: #ffcf00;
+}
+
 .logo {
   margin-left: 120px;
 }
