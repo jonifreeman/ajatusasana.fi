@@ -14,7 +14,7 @@ Viikko-ohjelma
 <div class="signup-popup">
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
-   <h2>Ilmoittaudu</h2>
+   <h2>Ilmoittautuminen</h2>
    <p>
      <div class="course"></div>
    </p>
