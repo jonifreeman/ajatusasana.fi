@@ -12,13 +12,13 @@
 }
 
 .lehti {
-  margin-left: 250px;
+  margin-left: 170px;
 }
 
 .lehti-up {
   position: absolute;
   top: 0px;
-  left: 862px;
+  left: 70%;
 }
 
 .line1 {
@@ -32,13 +32,13 @@
 .lehti-mid {
   position: absolute;
   top: 189px;
-  left: 862px;
+  left: 70%;
 }
 
 .lehti-down {
   position: absolute;
   top: 193px;
-  left: 862px;
+  left: 70%;
 }
 
 #body {
