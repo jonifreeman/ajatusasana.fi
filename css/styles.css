@@ -229,14 +229,15 @@ blockquote cite:before {
 }
 
 .signup-info {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
 }
 
 .signup {
   float: right;
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
 }
 
 .signup-popup {
