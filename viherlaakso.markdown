@@ -302,7 +302,30 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Moduli 1 luo pohjan Moduli 2:lle ja Modulit 1 & 2 luovat pohjan Moduli 3:lle. Jokaisessa Modulissa käydään läpi uusi joogaliikesarja.
+Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Moduli 1 luo pohjan Moduli 2:lle ja Modulit 1 & 2 luovat pohjan Moduli 3:lle. Jokaisessa Modulissa käydään läpi uusi joogaliikesarja. Seuraavat kurssit: Motivoivat Ajatus & Asana joogakurssit Espoon Viherlaakson uudella valoisalla ja rauhaisalla joogahuoneella (Kavallinmäki 13 A, 4. krs)! 
+
+Kurssikuvaus:
+
+Kiva lisä “drop-in” joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Moduli 1 luo pohjan Moduli 2:lle ja Modulit 1 & 2 luovat pohjan Moduli 3:lle. Jokaisessa Modulissa käydään läpi uusi joogaliikesarja. 
+
+Syyskuussa kaksi vaihtoehtoista kurssiajankohtaa: ilta ja päivä.
+
+Moduli 1 
+Maanantaisin klo. 17.30-19.00
+
+Ma 1.9 
+Ma 8.9 
+Ma 15.9 
+Ma 29.9 
+
+Moduli 1
+Torstaisin klo. 11.00-12.30
+To 4.9
+To 11. 9
+To 18.9
+To 2.10
+
+
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit**
