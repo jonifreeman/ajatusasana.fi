@@ -307,20 +307,10 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 Syyskuussa 2014 kaksi vaihtoehtoista kurssiajankohtaa: ilta ja päivä.
 
 Moduli 1 
-Maanantaisin klo. 17.30-19.00
-
-Ma 1.9 
-Ma 8.9 
-Ma 15.9 
-Ma 29.9 
+Maanantaisin klo. 17.30-19.00 (1.9, 8.9, 15.9 ja 29.9) 
 
 Moduli 1
-Torstaisin klo. 11.00-12.30
-To 4.9
-To 11. 9
-To 18.9
-To 2.10
-
+Torstaisin klo. 11.00-12.30 (4.9, 11. 9, 18.9 ja 2.10)
 
 
 <a id="retriitti"></a>
