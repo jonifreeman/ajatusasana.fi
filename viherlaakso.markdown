@@ -257,7 +257,7 @@ Oma Ajatus & Asana II
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata.
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. 
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
@@ -292,7 +292,7 @@ This yoga class is gentle in its capacity to strengthen the body, mind and soul.
 <a id="rytmi"></a>
 **RytmiJooga**
 
-Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tunti sopii kaikille. Tule löytämään ikioma joogapulssisi!
+Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tule löytämään ikioma joogapulssisi! Tunti edellyttää hieman joogakokemusta. Tunnille tulijoita suositellaan käymään ensin Ajatus & Asana joogakurssi (Moduli 1).
 
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
