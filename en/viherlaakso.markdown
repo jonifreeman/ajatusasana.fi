@@ -17,7 +17,8 @@ Viikko-ohjelma
      <div class="course"></div>
    </p>
    <div class="contact-info">Name: </div><input type="text" class="name" />
-   <div class="contact-info">Phone or email: </div><input type="text" class="contact" />
+   <div class="contact-info">Email: </div><input type="text" class="email" />
+   <div class="contact-info">Phone: </div><input type="text" class="phone" />
    <div class="error">Sign up failed. Please try again later.</div>
    <input class="signup-button" type="button" value="Sign up" />
   </div>
