@@ -7,4 +7,11 @@ $headers = 'From: webmaster@ajatusasana.fi' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
 mail($to, $subject, $message, $headers);
+
+if ($fd = @fopen("/home/ajatusas/signup.csv", "a")) {
+  $date = date("Y-m-d H:i:s", time());
+  $result = fputcsv($fd, array($date, $remote_addr, $request_uri, $message));
+  fclose($fd);
+}
+
 ?>
