@@ -19,7 +19,8 @@ Viikko-ohjelma
      <div class="course"></div>
    </p>
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
-   <div class="contact-info">Puhelin tai sähköposti: </div><input type="text" class="contact" />
+   <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
+   <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
    <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="signup-button" type="button" value="Ilmoittaudu" />
   </div>

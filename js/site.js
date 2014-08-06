@@ -22,10 +22,11 @@ $(function() {
   })
 
   function name() { return $('.signup-popup .name').val() }
-  function contact() { return $('.signup-popup .contact').val() }
+  function email() { return $('.signup-popup .email').val() }
+  function phone() { return $('.signup-popup .phone').val() }
 
   function validate() {
-    if (name().length == 0 || contact().length == 0) {
+    if (name().length == 0 || (email().length == 0 && phone().length == 0)) {
       $('.signup-popup .signup-button').attr('disabled', 'disabled')
     } else {
       $('.signup-popup .signup-button').removeAttr('disabled')
@@ -37,10 +38,12 @@ $(function() {
       $('.signup-popup .name').removeClass('invalid')
     }
 
-    if (contact().length == 0) {
-      $('.signup-popup .contact').addClass('invalid')
+    if (email().length == 0 && phone().length == 0) {
+      $('.signup-popup .email').addClass('invalid')
+      $('.signup-popup .phone').addClass('invalid')
     } else {
-      $('.signup-popup .contact').removeClass('invalid')
+      $('.signup-popup .email').removeClass('invalid')
+      $('.signup-popup .phone').removeClass('invalid')
     }
   }
 
@@ -52,7 +55,8 @@ $(function() {
     data = {
       course:  $('.signup-popup .course').text(),
       name:    name(),
-      contact: contact()
+      email:   email(),
+      phone:   phone()
     }
     $.post("signup.php", data, function() {
       $('.signup-popup').css('visibility', 'hidden')
