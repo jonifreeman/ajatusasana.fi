@@ -293,7 +293,7 @@ This yoga class is gentle in its capacity to strengthen the body, mind and soul.
 <a id="rytmi"></a>
 **RytmiJooga**
 
-Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tule löytämään ikioma joogapulssisi! 
+Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tule löytämään ikioma joogapulssisi! Tunti sopii kaikille
 
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
