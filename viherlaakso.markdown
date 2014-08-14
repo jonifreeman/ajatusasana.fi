@@ -205,7 +205,9 @@ Sarjakortit
 
 ---------- ---------------------------------
 10 x 1 h    150 € (Voimassa 6 kk ostopäivästä)
-10 x 1,5 h  230 € (Voimassa 6 kk ostopäivästä)
+10 x 1,5 h  225 € (Voimassa 6 kk ostopäivästä)
+* Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.
+* Huom! Voit kortista riippumatta käydä joko tunnin tai puolentoista tunnin tunneilla (yhden tunnin kortilla puolitoistatuntisella käyminen kuluttaa enemmän kertakäyntejä).
 ---------- ---------------------------------
 
 Motivoivat Ajatus & Asana joogakurssit  Modulit 1, 2 ja 3 
