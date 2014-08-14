@@ -2,7 +2,11 @@
 title: Contact
 ---
 
-Stephanie Freeman
+**Ajatus & Asana Oy**
+
+Y-tunnus:26322737
+
+**Stephanie Freeman**
 
 PhD (Doctor of Philosophy)
 
