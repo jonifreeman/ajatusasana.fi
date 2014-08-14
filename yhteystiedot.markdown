@@ -2,6 +2,7 @@
 title: Yhteystiedot
 ---
 **Ajatus & Asana Oy**
+
 Y-tunnus: 26322737
 
 **Stephanie Freeman**
