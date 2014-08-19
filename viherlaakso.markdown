@@ -182,7 +182,8 @@ Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10%, meditaatio ja konsultaatio 24%).
+Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
+Meillä voit maksaa 1.9 alkaen myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 Kertamaksu 
 ----------
