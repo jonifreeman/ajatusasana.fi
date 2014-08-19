@@ -183,6 +183,7 @@ Hinnasto
 ========
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
+
 Meillä voit maksaa 1.9 alkaen myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 Kertamaksu 
