@@ -262,7 +262,7 @@ Oma Ajatus & Asana II
 - Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
 
 
-</prices>
+</div>
 
 Tuntikuvaukset
 ==============
