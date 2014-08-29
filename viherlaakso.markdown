@@ -171,7 +171,7 @@ Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
 
 **Avajaispäivän joogatunnit (tutustumishinta 5€)**:
 
-10.00-11.00 Lempeän vahvistava jooga *TÄYNNÄ!*
+10.00-11.00 Lempeän vahvistava jooga **TÄYNNÄ!**
 
 12.00-13.00 Lempeän vahvistava virtaava jooga
 
