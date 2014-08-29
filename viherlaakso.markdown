@@ -267,7 +267,7 @@ Oma Ajatus & Asana II
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. 
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
@@ -292,7 +292,7 @@ Tunnilla tehdään kehoa ja mieltä virkistäviä liikkeitä rauhallisesti, turv
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
 
-Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. Tunti sopii kaikille.
+Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja rauhallisesti, turvallisesti ja omaa kehoa kuunnellen: lämmittely, seisoma & lattia. Tunti sopii kaikille.
 
 <a id="english"></a>
 **Yoga in English**
