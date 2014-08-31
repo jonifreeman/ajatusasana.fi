@@ -295,6 +295,8 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 <a id="joogameditaatio"></a>
 **Joogameditaatio**
 
+Tunnin aluksi avataan kehoa rauhoittavilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
+
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
 
