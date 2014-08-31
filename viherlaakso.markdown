@@ -169,13 +169,6 @@ Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
 
 </div>
 
-**Avajaispäivän joogatunnit (tutustumishinta 5€)**:
-
-10.00-11.00 Lempeän vahvistava jooga **TÄYNNÄ!**
-
-12.00-13.00 Lempeän vahvistava virtaava jooga
-
-13.15-14.15 Rauhoittavia joogaliikkeitä sekä syvä tietoisen rentoutumisen harjoitus YogaNidra
 
 <div class="prices">
 
@@ -184,7 +177,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
-Meillä voit maksaa 1.9 alkaen myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
+Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 Kertamaksu 
 ----------
@@ -231,11 +224,11 @@ Ajatus & Asana Miniretriitit
 1 päivä (4h)  110 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
 ------------- ------------------------------------------------------------------------------
 
-Koirakkomeditaatio ja rentoutus
+Koirakkojoogameditaatio ja rentoutus
 ----------
 
 -----     -------------------------
-1 h        20 € (tutustumiskerta 15 €)
+1 h        17 € (tutustumiskerta 10 €)
 -----     -------------------------
 
 <p class="valmennus"/>
@@ -287,7 +280,7 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallises
 <a id="lounasjooga"></a>
 **Virkistävä lounasjooga**
 
-Tunnilla tehdään kehoa ja mieltä virkistäviä liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
+Tunnilla tehdään kehoa ja mieltä lempeästi virkistäviä liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
 
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
@@ -317,15 +310,16 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 Syyskuussa 2014 kaksi vaihtoehtoista kurssiajankohtaa: ilta ja päivä.
 
 Moduli 1 
-Maanantaisin klo. 17.30-19.00 (1.9, 8.9, 15.9 ja 29.9) 
+Maanantaisin klo. 17.30-19.00 (1.9, 8.9, 15.9 ja 22.9) 
 
 Moduli 1
-Torstaisin klo. 11.00-12.30 (4.9, 11. 9, 18.9 ja 2.10)
+Perjantaisin klo. 11.00-12.30 (4.9, 11. 9, 18.9 ja 2.10)
 
 
 <a id="retriitti"></a>
-**Ajatus & Asana miniretriitit**
+**Ajatus & Asana miniretriitit ja teemapäivät**
 
-4 tunnin mittainen mini-irtiotto arjesta! Asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä, meditaatiota, omien joogamotiivien tutkiskelua kehittämälläni välineellä, teetä, keskusteluja, yhdessäoloa ja rentoutumista. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus). Omat eväät mukaan! Talo tarjoaa hyvää teetä.
+4 tunnin mittainen mini-irtiotto arjesta! Asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä, meditaatiota, omien joogamotiivien tutkiskelua kehittämälläni välineellä, teetä, keskusteluja, yhdessäoloa ja rentoutumista. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus). Omat eväät mukaan! Talo tarjoaa hyvää teetä.Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen!
+
 
 
