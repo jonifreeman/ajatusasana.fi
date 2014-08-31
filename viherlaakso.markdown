@@ -63,14 +63,14 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **11.30 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
- [Virkistävä lounasjooga](#lounasjooga)
+ [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td></td>
  <td>
  <div class="course">
   **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana Joogakurssi](#joogakurssi)
+  [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -115,7 +115,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **17.00 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yoga in English](#english)
+ [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -130,7 +130,12 @@ Viikko-ohjelma
 
 <!-- ~18:00 -->
 <tr>
- <td></td>
+ <td>
+ <div class="session">
+ **19.30 - 20.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ [Joogameditaatio](#joogameditaatio)
+ </div>
+ </td>
  <td>
  <div class="session">
   **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
@@ -277,25 +282,18 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turval
 
 Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).Tunti sopii kaikille.
 
-<a id="lounasjooga"></a>
-**Virkistävä lounasjooga**
-
-Tunnilla tehdään kehoa ja mieltä lempeästi virkistäviä liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
-
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
 
 Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja rauhallisesti, turvallisesti ja omaa kehoa kuunnellen: lämmittely, seisoma & lattia. Tunti sopii kaikille.
 
-<a id="english"></a>
-**Yoga in English**
-
-This yoga class is gentle in its capacity to strengthen the body, mind and soul. Combining asanas (yoga poses) from different traditions in a safe way is a key to a lifelong yoga practice. This class will help you to tune in to your body in native English language. The class is open also to Finnish speakers who want to enhance their English.
-
 <a id="rytmi"></a>
 **RytmiJooga**
 
 Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tule löytämään ikioma joogapulssisi! Tunti sopii kaikille
+
+<a id="joogameditaatio"></a>
+**Joogameditaatio**
 
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
