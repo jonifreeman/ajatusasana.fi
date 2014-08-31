@@ -68,7 +68,7 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td>
- <div class="course">
+ <div class="session">
   **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
   [Lempeän vahvistava jooga](#vahvistava)
  </div>
@@ -158,21 +158,6 @@ Viikko-ohjelma
 </table>
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla.
-
-<div class="prices ale">
-
-Avajaistarjous
-==============
-
-Sarjakortti avajaispäivänä la 30.8.2014 ostettuna
---------------------------------------------
-
----------- -----------------------------------
-10 x 1 h    100 € (Voimassa 6 kk ostopäivästä)
-10 x 1,5 h  150 € (Voimassa 6 kk ostopäivästä)
----------- -----------------------------------
-
-</div>
 
 
 <div class="prices">
