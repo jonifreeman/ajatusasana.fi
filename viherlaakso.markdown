@@ -292,14 +292,8 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 
 Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Moduli 1 luo pohjan Moduli 2:lle ja Modulit 1 & 2 luovat pohjan Moduli 3:lle. Jokaisessa Modulissa käydään läpi uusi joogaliikesarja. 
 
-Syyskuussa 2014 kaksi vaihtoehtoista kurssiajankohtaa: ilta ja päivä.
-
-Moduli 1 
+Syyskuussa 2014: Moduli 1 
 Maanantaisin klo. 17.30-19.00 (1.9, 8.9, 15.9 ja 22.9) 
-
-Moduli 1
-Perjantaisin klo. 11.00-12.30 (4.9, 11. 9, 18.9 ja 2.10)
-
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
