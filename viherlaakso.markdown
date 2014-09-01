@@ -270,7 +270,7 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallises
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
 
-Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja rauhallisesti, turvallisesti ja omaa kehoa kuunnellen: lämmittely, seisoma & lattia. Tunti sopii kaikille.
+Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunnilla tehtävät liikkeet ja liikesarjat edellyttävät hieman aikaisempaa joogakokemusta tai Ajatus & Asana joogakurssin käymistä.
 
 <a id="rytmi"></a>
 **RytmiJooga**
