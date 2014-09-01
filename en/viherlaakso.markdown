@@ -61,14 +61,14 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **11.30 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
- [Virkistävä lounasjooga](#lounasjooga)
+ [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td></td>
  <td>
- <div class="course">
+ <div class="session">
   **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana Joogakurssi](#joogakurssi)
+  [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -113,7 +113,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **17.00 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yoga in English](#english)
+ [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -128,7 +128,12 @@ Viikko-ohjelma
 
 <!-- ~18:00 -->
 <tr>
- <td></td>
+ <td>
+ <div class="session">
+ **19.30 - 20.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ [Joogameditaatio](#joogameditaatio)
+ </div>
+ </td>
  <td>
  <div class="session">
   **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
@@ -151,21 +156,6 @@ Viikko-ohjelma
 </table>
 
 Sign up by pressing <img class="signup-info" src="/img/signup.png"></img> -button.
-
-<div class="prices ale">
-
-Offer on opening day
-==============
-
-Serial ticket on a day of opening (Saturday 30.8.2014)
--------------------------------------------------
-
----------- -------------------------------------
-10 x 1 h    100 € (Valid 6 months from purchase)
-10 x 1,5 h  150 € (Valid 6 months from purchase)
----------- -------------------------------------
-
-</div>
 
 <div class="prices">
 
