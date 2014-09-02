@@ -250,7 +250,7 @@ Oma Ajatus & Asana II
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi.
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
