@@ -2,6 +2,11 @@
 title: Viherlaakso's weekly programme
 ---
 
+Yoga in English
+===============
+
+English speaking customers can attend any of the classes. You will get personal instructions in native English.  
+
 Viikko-ohjelma
 ==============
 
