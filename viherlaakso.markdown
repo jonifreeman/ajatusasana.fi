@@ -115,7 +115,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **17.00 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava jooga (in English)](#english)
+ [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -281,11 +281,6 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 **Joogameditaatio**
 
 Tunnin aluksi avataan kehoa rauhoittavilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
-
-<a id="english"></a>
-**Yoga in English**
-
-This yoga class is gentle in its capacity to strengthen the body, mind and soul. Combining asanas (yoga poses) from different traditions in a safe way is a key to a lifelong yoga practice. This class will help you to tune in to your body in native English language. The class is open also to Finnish speakers who want to enhance their English.
 
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**

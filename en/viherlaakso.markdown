@@ -118,7 +118,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **17.00 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava jooga (in English)](#english)
+ [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -261,11 +261,6 @@ TBD.
 **Lempeän vahvistava virtaava jooga**
 
 Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, seisoma & lattia. 
-
-<a id="english"></a>
-**Yoga in English**
-
-This yoga class is gentle in its capacity to strengthen the body, mind and soul. Combining asanas (yoga poses) from different traditions in a safe way is a key to a lifelong yoga practice. This class will help you to tune in to your body in native English language. The class is open also to Finnish speakers who want to enhance their English.
 
 <a id="rytmi"></a>
 **RytmiJooga**
