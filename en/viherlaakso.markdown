@@ -71,10 +71,6 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td>
- <div class="session">
-  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava jooga](#vahvistava)
- </div>
  </td>
  <td>
  <div class="course">
@@ -124,7 +120,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [RytmiJooga](#rytmi)
+  [Joogameditaatio](#joogameditaatio)
  </div>
  </td>
  <td></td>
@@ -265,7 +261,7 @@ Tunnilla tehdään hengityksen tahdissa soljuvia asana-sarjoja: lämmittely, sei
 <a id="rytmi"></a>
 **RytmiJooga**
 
-Tunnilla tehdään lempeän vahvistavaa joogaa rytmimusiikin ja djemberummun säestämänä. Perjantai on oiva päivä antautua rytmien vietäväksi. Tunti sopii kaikille.
+Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Tule löytämään ikioma joogapulssisi! Tunti sopii kaikille. RytmiJooga tulossa myöhemmin, ota yhteyttä!
 
 <a id="dog"></a>
 **Koirakkomeditaatio ja rentoutus**
