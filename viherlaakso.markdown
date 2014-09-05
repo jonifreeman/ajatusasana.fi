@@ -45,10 +45,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="session">
- **8.00 - 9.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava aamujooga](#aamujooga)
- </div>
  </td>
  <td></td>
  <td></td>
@@ -252,11 +248,6 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 **Lempeän vahvistava jooga**
 
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille.
-
-<a id="aamujooga"></a>
-**Lempeän vahvistava aamujooga**
-
-Tunnilla tehdään kehoa ja mieltä vahvistavia liikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Tunti sopii kaikille. 
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
