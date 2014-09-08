@@ -32,10 +32,10 @@ kulttuuripsykologinen teoriatausta ymmärsi mielen ja
 ympäristön, ja pään ja kehon suhteen erottamattomaksi. Tieteellinen työ,
 kunnianhimo ja siihen liittyvä kova kilpailu tuottivat minulle
 "stressikehon". Mieleni ja kehoni romahtivat muutamia kertoja. Tuli tehdyksi ylilyöntejä kun yritin palautua ajattelutyöstä ylenpalttisella
-liikunnalla. Herkkyyteni joutui myös koetukselle, kun kävin läpi
+liikunnalla. Kehoni joutui myös koetukselle, kun kävin läpi
 lapsettomuushoidot ja lapsettomuuteen liittyvän surutyön. 
 
-Kolmas polkuni avatui kun satunnaisena "urheiluharrastuksena" toiminut jooga muuttui pikkuhiljaa 14 vuoden aikana henkiseksi voimavaraksi ja elämätavaksi. Huomasin, että se mitä kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
+Kolmas polkuni avatui kun satunnaisena urheiluharrastuksena toiminut jooga muuttui pikkuhiljaa 14 vuoden aikana henkiseksi voimavaraksi ja elämätavaksi. Huomasin, että se mitä kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
 kuulisin paremmin. Opin joogaharrastuksen ja sitä seuranneen
 jooga-ohjaakoulutuksen avulla, että luovuus ja tuotteliaisuus eivät
 edellytä ahdistumista ja tuskaa. Voin luoda ja olla luova ilman
