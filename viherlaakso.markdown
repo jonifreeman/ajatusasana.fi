@@ -199,11 +199,11 @@ Motivoivat Ajatus & Asana joogakurssit  Modulit 1, 2 ja 3
 4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
 --------- --------------------------------------------------------
 
-Ajatus & Asana Miniretriitit  
+Ajatus & Asana Miniretriitit 
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-1 päivä (4h)  110 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
+1 päivä (4h)  90 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
 ------------- ------------------------------------------------------------------------------
 
 Koirakkojoogameditaatio ja rentoutus
@@ -282,10 +282,13 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 Syyskuussa 2014: Moduli 1 
 Maanantaisin klo. 17.30-19.00 (1.9, 8.9, 15.9 ja 22.9) 
 
+Lokauussa 2014: Moduli 1
+Maanantaisin klo. 17.30-19.00 (8.10, 15.10, 22.10 ja 29.10)
+
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-4 tunnin mittainen mini-irtiotto arjesta! Asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä, meditaatiota, omien joogamotiivien tutkiskelua kehittämälläni välineellä, teetä, keskusteluja, yhdessäoloa ja rentoutumista. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus). Omat eväät mukaan! Talo tarjoaa hyvää teetä.Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen!
+4 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus). Omat eväät mukaan! Talo tarjoaa hyvää teetä.Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen!
 
 
 
