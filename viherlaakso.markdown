@@ -203,7 +203,7 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-1 päivä (4h)  90 € (sisältää jaettavat materiaalit ja 10 min henkilökohtaisen ohjaussession)
+puolipäivänen (3h)  50 € 
 ------------- ------------------------------------------------------------------------------
 
 Koirakkojoogameditaatio ja rentoutus
