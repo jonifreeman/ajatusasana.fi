@@ -290,7 +290,7 @@ Maanantaisin klo. 17.30-19.00 (8.10, 15.10, 22.10 ja 29.10)
 
 3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*4.10 2014 klo. 10.00-13.00 Vahvuuden ja Tasapainon Joogapäivä Syksyiselle Keholle*
+*La 4.10 2014 klo. 10.00-13.00 Vahvuuden ja Tasapainon Joogapäivä Syksyiselle Keholle*
 
 Tule ravitsemaan ja energisoimaan syksyinen kehosi moniulotteisella 3- tuntisella joogaharjoituksella! Lähestymme liikkeitä eri näkökulmista, välillä pysyen pidempään yhdessä asanassa ja välillä yhdistellen näitä joogameditaatiotanssiksi. Loppua kohden rauhoitamme kehoa restoraativisin liikkein, ja teemme meditaation. Työpaja on tarkoitettu jo joogaa jonkun verran harrastaneille.
 
