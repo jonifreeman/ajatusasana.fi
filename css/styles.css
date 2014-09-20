@@ -8,7 +8,7 @@
 }
 
 .logo {
-  margin-left: 120px;
+  margin-left: 40px;
 }
 
 .lehti {
@@ -71,8 +71,51 @@
   font-weight: bold;
 }
 
+.navi .pull {  
+  display: none;
+  margin-bottom: 20px;
+}
+  
+.navi .pull img {
+  width: 30px;  
+  height: 30px;
+}  
+
+@media only screen and (max-width : 490px) {
+  .lehti, .lehti-up, .lehti-mid, .lehti-down {
+    display: none;
+  }
+}
+
+@media only screen and (max-width : 675px) {
+  .navi {  
+    border-bottom: 0;
+  }
+
+  .content { 
+    clear: both; 
+    width: 90% !important;
+  }
+
+  .navi ul {
+    display: none;  
+    height: auto;  
+  }
+  
+  .navi .pull {  
+    display: block;  
+    width: 100%;  
+    position: relative;  
+  }
+}  
+
+@media only screen and (max-width : 850px) {
+  .lehti {
+    display: none;
+  }
+}
+
 .content {
-  top: 259px;
   float: left;
   width: 45%;
   line-height: 22px;

@@ -71,4 +71,11 @@ $(function() {
   $('.signup-popup .close').click(function() {
     $('.signup-popup').css('visibility', 'hidden')
   })
+
+  var menu = $('.navi ul')
+
+  $('.navi .pull').on('click', function(e) {
+    e.preventDefault()
+    menu.slideToggle()
+  })
 })
