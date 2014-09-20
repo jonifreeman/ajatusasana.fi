@@ -60,6 +60,7 @@ $(function() {
     }
     $.post("signup.php", data, function() {
       $('.signup-popup').css('visibility', 'hidden')
+      window.scrollTo(0, 0)
       $('.signup-popup-ok').fadeIn(500).delay(10000).fadeOut(500)
     })
     .fail(function() {

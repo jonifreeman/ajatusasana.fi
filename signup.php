@@ -17,4 +17,8 @@ if ($fd = @fopen("/home/ajatusas/signup.csv", "a")) {
   fclose($fd);
 }
 
+if (isset($email)) {
+  mail($email, 'Ajatus & Asana, varaus', "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$course."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi", 'From: Stephanie Freeman <camisteph@gmail.com>');
+}
+
 ?>
