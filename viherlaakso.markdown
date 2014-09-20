@@ -58,7 +58,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **11.30 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ **11.30 - 13.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
@@ -124,7 +124,7 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="session">
- **19.30 - 20.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ **19.30 - 21.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Joogameditaatio](#joogameditaatio)
  </div>
  </td>
@@ -165,7 +165,6 @@ Kertamaksu
 ----------
 
 -----     -------------------------
-1 h        17 € (tutustumiskerta 10 €)
 1,5 h      25 € (tutustumiskerta 18 €)
 -----     -------------------------
 
@@ -181,19 +180,17 @@ Sarjakortit
 -----------
 
 ---------- ---------------------------------
-10 x 1 h    150 € (Voimassa 6 kk ostopäivästä)
-10 x 1,5 h  225 € (Voimassa 6 kk ostopäivästä)
+ 5 x 1,5 h  115 € (Voimassa 6 kk ostopäivästä)
+10 x 1,5 h  200 € (Voimassa 6 kk ostopäivästä)
 ---------- ---------------------------------
 
 <p>
 
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
-*Huom! Voit kortista riippumatta käydä joko tunnin tai puolentoista tunnin tunneilla (yhden tunnin kortilla puolitoistatuntisella käyminen kuluttaa enemmän kertakäyntejä).*
 
-
-Motivoivat Ajatus & Asana joogakurssit  Modulit 1, 2 ja 3 
----------------------------------------------------------
+Motivoivat Ajatus & Asana joogakurssit 
+--------------------------------------
 
 --------- --------------------------------------------------------
 4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
@@ -206,12 +203,14 @@ Ajatus & Asana Miniretriitit
 puolipäivänen (3h)  50 € 
 ------------- ------------------------------------------------------------------------------
 
-Koirakkojoogameditaatio ja rentoutus
-----------
+Koirakkojoogameditaatio ja rentoutus 
+------------------------------------ 
 
------     -------------------------
-1 h        17 € (tutustumiskerta 10 €)
------     -------------------------
+*Myös tilauksesta ryhmille.*
+
+---------------------------
+17 € (tutustumiskerta 10 €)
+---------------------------
 
 <p class="valmennus"/>
 
