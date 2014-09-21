@@ -75,9 +75,14 @@
   margin-bottom: 20px;
 }
   
+.navi .pull a {
+  vertical-align: middle;
+}
+
 .navi .pull img {
   width: 30px;  
   height: 30px;
+  vertical-align: middle;
 }  
 
 @media only screen and (max-width : 490px) {
@@ -104,6 +109,8 @@
     z-index: 10;
     opacity: 0.95;
     background-color: #a5bea8;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
   }
   
   .navi .pull {  
@@ -125,6 +132,7 @@
   line-height: 22px;
   font-size: 16px;
   color: #333333;
+  margin-top: 20px;
 }
 
 .content p {
