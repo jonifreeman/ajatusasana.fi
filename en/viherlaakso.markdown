@@ -166,6 +166,7 @@ Kertamaksu
 
 -----     -------------------------
 1,5 h      25 € (tutustumiskerta 18 €)
+           21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
 -----     -------------------------
 
 
@@ -181,7 +182,9 @@ Sarjakortit
 
 ---------- ---------------------------------
  5 x 1,5 h  115 € (Voimassa 6 kk ostopäivästä)
+            95 € (opiskelijat, eläkeläiset, työttömät)
 10 x 1,5 h  200 € (Voimassa 6 kk ostopäivästä)
+            170 € (opiskelijat, eläkeläiset, työttömät)
 ---------- ---------------------------------
 
 <p>
@@ -194,13 +197,14 @@ Motivoivat Ajatus & Asana joogakurssit
 
 --------- --------------------------------------------------------
 4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
+           120 € (opiskelijat, eläkeläiset, työttömät)
 --------- --------------------------------------------------------
 
 Ajatus & Asana Miniretriitit 
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-puolipäivänen (3h)  50 € 
+puolipäivänen (3h)  50 € (40 € opiskelijat, eläkeläiset, työttömät)
 ------------- ------------------------------------------------------------------------------
 
 Koirakkojoogameditaatio ja rentoutus 
