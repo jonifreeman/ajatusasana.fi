@@ -281,14 +281,14 @@ blockquote cite:before {
   height: 20px;
 }
 
-.signup {
+.signup, .cancelled {
   float: right;
   width: 20px;
   height: 20px;
   margin-right: 3px;
 }
 
-.signup-popup {
+.popup {
   visibility: hidden;
   position: absolute;
   border: 2px solid #98b49b;
@@ -301,13 +301,13 @@ blockquote cite:before {
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
-.signup-popup .close {
+.popup .close {
   position: absolute;
   top: 5px;
   right: 5px;
 }
 
-.signup-popup .popup-content {
+.popup .popup-content {
   margin: 15px;
 }
 

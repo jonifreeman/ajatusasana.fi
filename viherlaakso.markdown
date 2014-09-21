@@ -5,13 +5,13 @@ title: Viherlaakson viikko-ohjelma
 Viikko-ohjelma
 ==============
 
-1.9.2014 alkaen.
+Huom! poikkeuksellisesti to 25.9 - su 28.9 ei pidetä tunteja. Normaali aikataulu jatkuu sen jälkeen.
 
 <div class="signup-popup-ok">
   Kiitos ilmoittautumisesta!
 </div>
 
-<div class="signup-popup">
+<div class="popup signup-popup">
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Ilmoittautuminen</h2>
@@ -23,6 +23,16 @@ Viikko-ohjelma
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
    <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="signup-button" type="button" value="Ilmoittaudu" />
+  </div>
+</div>
+
+<div class="popup cancelled-popup">
+  <div class="popup-content">
+   <img class="close" src="/img/popup_close.png" />
+   <h2>Peruutettu</h2>
+   <p>
+     Poikkeuksellisesti tätä tuntia ei pidetä tällä viikolla. Tervetuloa ensi viikon tunnille!
+   </p>
   </div>
 </div>
 
@@ -67,7 +77,7 @@ Viikko-ohjelma
  </td>
  <td>
  <div class="course">
-  **10.00 - 14.00**  <br /> <img class="signup" src="/img/signup.png"></img>
+  <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät joka kuun ensimmäinen lauantai](#retriitti)
  </div>
  </td>
@@ -84,11 +94,11 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
+ **13.30 - 15.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
  [Lempeän vahvistava virtaava jooga](#flow)
  </div>
  <div class="session">
- **15.30 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ **15.30 - 16.30** <br /> <img class="cancelled" src="/img/signup.png"></img>
  [Koirakkomeditaatio ja rentoutus](#dog)
  </div>
  </td>
@@ -106,13 +116,13 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **16.30 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
+ **16.30 - 18.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
  [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
  <div class="session">
-  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  **17.30 - 19.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
   [Joogameditaatio](#joogameditaatio)
  </div>
  </td>
@@ -137,7 +147,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
+ **18.30 - 20.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
  [Rauhoittava iltajooga & Yoga Nidra](#rauhoittava)
  </div>
  </td>

@@ -14,11 +14,18 @@ $(function() {
 
   $('.schedule .signup').click(function(e) {
     validate()
+    $('.popup').css('visibility', 'hidden')
     var time = $(e.currentTarget).parent('div').find('strong').text()
     var course = $(e.currentTarget).next().text()
     $('.signup-popup .course').text(time + " " + course)
     $('.signup-popup').offset($(e.currentTarget).offset())
     $('.signup-popup').css('visibility', 'visible')
+  })
+
+  $('.schedule .cancelled').click(function(e) {
+    $('.popup').css('visibility', 'hidden')
+    $('.cancelled-popup').offset($(e.currentTarget).offset())
+    $('.cancelled-popup').css('visibility', 'visible')
   })
 
   function name() { return $('.signup-popup .name').val() }
@@ -70,6 +77,10 @@ $(function() {
 
   $('.signup-popup .close').click(function() {
     $('.signup-popup').css('visibility', 'hidden')
+  })
+
+  $('.cancelled-popup .close').click(function() {
+    $('.cancelled-popup').css('visibility', 'hidden')
   })
 
   var menu = $('.navi ul')
