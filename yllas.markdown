@@ -11,7 +11,7 @@ Syksy 2014
 
 Joogaviikko Jounin Kaupan Hyvinvointikeskuksessa Ruskaviikolla 39!
 
-**La 27.9 klo. 10.00-15.00** Ajatus & Asana Joogapäivä. Mini-retriitti. Asanaharjoituksia, hengitysharjoituksia, rytmijoogaa djembe-rummun säestämänä, meditaatiota, omien motiivien tutkiskelua kehittämälläni välineellä, teetä, keskusteluja, yhdessäoloa ja rentoutumista. Omat eväät mukaan! 110 € / hlö (hinta sis. jaettavat materiaalit).
+**La 27.9 klo. 10.00-15.00** Ajatus & Asana Joogapäivä. Mini-retriitti. Asanaharjoituksia, hengitysharjoituksia, meditaatiota, teetä, keskusteluja, ja rentoutumista. Omat eväät mukaan! 110 € / hlö (hinta sis. jaettavat materiaalit). 90€ opiskelijat, eläkeläiset & työttömät.
 
 Ilmoittautuminen: +358 40 522 4889 tai e-mail: camisteph@gmail.com 
 
