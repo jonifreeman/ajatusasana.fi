@@ -5,8 +5,6 @@ title: Viherlaakson viikko-ohjelma
 Viikko-ohjelma
 ==============
 
-Huom! poikkeuksellisesti to 25.9 - su 28.9 ei pidetä tunteja. Normaali aikataulu jatkuu sen jälkeen.
-
 <div class="signup-popup-ok">
   Kiitos ilmoittautumisesta!
 </div>
@@ -94,11 +92,11 @@ Huom! poikkeuksellisesti to 25.9 - su 28.9 ei pidetä tunteja. Normaali aikataul
  <td></td>
  <td>
  <div class="session">
- **13.30 - 15.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava virtaava jooga](#flow)
  </div>
  <div class="session">
- **15.30 - 16.30** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **15.30 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
  [Koirakkomeditaatio ja rentoutus](#dog)
  </div>
  </td>
@@ -116,13 +114,13 @@ Huom! poikkeuksellisesti to 25.9 - su 28.9 ei pidetä tunteja. Normaali aikataul
  <td></td>
  <td>
  <div class="session">
- **16.30 - 18.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **16.30 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
  <div class="session">
-  **17.30 - 19.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Joogameditaatio](#joogameditaatio)
  </div>
  </td>
@@ -147,7 +145,7 @@ Huom! poikkeuksellisesti to 25.9 - su 28.9 ei pidetä tunteja. Normaali aikataul
  <td></td>
  <td>
  <div class="session">
- **18.30 - 20.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Rauhoittava iltajooga & Yoga Nidra](#rauhoittava)
  </div>
  </td>
