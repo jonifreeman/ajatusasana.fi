@@ -9,6 +9,8 @@ Aihealueet: motivaatio, yhteisöllisyys, itseilmaisu, keho-mielen yhteys, jooga 
 Yhteisöille, ryhmille, yrityksille, kouluille ja (yli)opistoille. Hinta ja tuote räätälöidään yleisön ja tapahtuman mukaan.
 
 
+
+
 *Freeman, S. 'Motivaatio Joogamatolla'. Ananda (Joogalehti) 3/2014.*
 
 *Freeman,S. 'Motivaatio Joogamatolla'. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Luento. Seuraa tarkemmat aikataulut: [http://joogafestival.fi/luennoitsijat/](http://joogafestival.fi/luennoitsijat/)*
