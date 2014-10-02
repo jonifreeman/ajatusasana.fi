@@ -288,20 +288,16 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. 
+Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Kursseista ilmoitetaan hyvissä ajoin erikseen!
 
-Syyskuussa 2014: 
-Maanantaisin klo. 17.30-19.00 (1.9, 8.9, 15.9 ja 22.9) 
 
-Lokauussa 2014: 
-Maanantaisin klo. 17.30-19.00 (8.10, 15.10, 22.10 ja 29.10)
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
 3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*La 4.10 2014 klo. 10.00-13.00 Vahvuuden ja Tasapainon Joogapäivä Syksyiselle Keholle*
+*La 25.10 2014 klo. 10.00-13.00 Vahvuuden ja Tasapainon Joogapäivä Syksyiselle Keholle*
 
 Tule ravitsemaan ja energisoimaan syksyinen kehosi moniulotteisella 3- tuntisella joogaharjoituksella! Lähestymme liikkeitä eri näkökulmista, välillä pysyen pidempään yhdessä asanassa ja välillä yhdistellen näitä joogameditaatiotanssiksi. Loppua kohden rauhoitamme kehoa restoraativisin liikkein, ja teemme meditaation. Työpaja on tarkoitettu jo joogaa jonkun verran harrastaneille.
 
