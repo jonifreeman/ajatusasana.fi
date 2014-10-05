@@ -156,6 +156,7 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 ==================================================
 
 * [Ajatus & Asana Joogakurssi](#joogakurssi)
+* [Rytmijooga](#rytmi)
 * [Koirakkomeditaatio ja rentoutus](#dog)
 
 
