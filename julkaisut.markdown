@@ -6,6 +6,9 @@ title: Julkaisut
 
 ## Peer-reviewed articles 
 
+
+Hyysalo, S., Helminen, P., Mäkinen, S., Johnson, M., Juntunen, J.K., Freeman, S. (2015).Intermediate Search Elements and Method Combination in Lead-User Searches. International Journal of Innovation Management.Vol. 19, No. 1 (February 2015).
+
 Hyysalo, S., Juntunen, J. & Freeman. S (2013b). Internet forums and the rise of inventive energy user. 
 Science & Technology Studies vol.26, no.1 
 
