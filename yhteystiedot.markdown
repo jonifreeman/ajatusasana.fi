@@ -24,7 +24,7 @@ Puh. +358405224889
 **Viherlaakso**
 ===============
 
-Viehättävät tilat Espoon Viherlaaksossa Vanhan Turuntien varressa (Kavallinmäki 13 A, 4. kerros). Mäen päällä olevalla taloyhtiön parkkipaikalla on runsaasti ilmaista parkkitilaa iltaisin. 
+Viehättävät tilat Espoon Viherlaaksossa Vanhan Turuntien varressa (Kavallinmäki 13 A, 4. kerros). Mäen päällä olevalla taloyhtiön parkkipaikalla on runsaasti ilmaista parkkitilaa iltaisin. Julkisen liikenteeen käyttäjät pääsevät Leppävaarasta busseilla 21 ja 29.
 
 <image class="side-image" src="/img/viher1.jpg"/>
 <image class="side-image" src="/img/viher2.jpg"/>
