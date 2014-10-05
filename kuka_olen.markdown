@@ -15,7 +15,7 @@ edellä ja kehomieli yhdessä.
 Ensimmäisen polkuni elin syvällä
 omassa kehossani ja omasta kehostani opettaen hiphophenkisiä jumppa-ja
 tanssitunteja. Vaikka ilmaisin itseäni kehollani ja vaikka halusin tuottaa
-hyvänolontunnetta liikeen ja musiikin keinoin muillekin, en kuitenkaan osannut kuunnellut omaa kehoani,
+hyvänolontunnetta liikkeen ja musiikin keinoin muillekin, en kuitenkaan osannut kuunnellut omaa kehoani,
 joka viisaudessaan yritti kertoa minulle jotain tärkeää. Tuli tehdyksi
 yli- ja ohilyöntejä. Lähdin etsimään vastauksia teorioiden
 maailmoista. Kaipasin käsitteellisiä välineitä ihmisyyden,
