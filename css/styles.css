@@ -335,6 +335,7 @@ blockquote cite:before {
 }
 
 .prices {
+  padding-top: 20px;
   padding-bottom: 40px;
 }
 

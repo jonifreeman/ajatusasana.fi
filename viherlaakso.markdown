@@ -67,7 +67,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **11.30 - 13.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava jooga](#vahvistava)
+ [Palauttava lempeä jooga](#palauttava)
  </div>
  </td>
  <td></td>
@@ -95,20 +95,12 @@ Viikko-ohjelma
  **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava virtaava jooga](#flow)
  </div>
- <div class="session">
- **15.30 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
- [Koirakkomeditaatio ja rentoutus](#dog)
- </div>
  </td>
 </tr>
 
 <!-- ~17:00 -->
 <tr>
  <td>
- <div class="course">
-  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana Joogakurssi](#joogakurssi)
- </div>
  </td>
  <td></td>
  <td></td>
@@ -132,8 +124,8 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="session">
- **19.30 - 21.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Joogameditaatio](#joogameditaatio)
+ **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ [Palauttava lempeä jooga](#palauttava)
  </div>
  </td>
  <td>
@@ -158,6 +150,13 @@ Viikko-ohjelma
 </table>
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla.
+
+
+Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
+==================================================
+
+* [Ajatus & Asana Joogakurssi](#joogakurssi)
+* [Koirakkomeditaatio ja rentoutus](#dog)
 
 
 <div class="prices">
@@ -264,6 +263,11 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, t
 **Rauhoittava iltajooga & Yoga Nidra**
 
 Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).Tunti sopii kaikille.
+
+<a id="palauttava"></a>
+**Palauttava lempeä jooga**
+
+Tunnilla tehdään kehoa avaavia palauttavia joogaliikkeitä apuvälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi palauttava tunti sopii kaikille.
 
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
