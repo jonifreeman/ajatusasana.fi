@@ -286,7 +286,7 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallises
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia palauttavia joogaliikkeitä apuvälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi palauttava tunti sopii kaikille.
+Tunnilla tehdään kehoa avaavia, palauttavia joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille.
 
 <a id="flow"></a>
 **Lempeän vahvistava virtaava jooga**
