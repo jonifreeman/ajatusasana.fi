@@ -226,25 +226,43 @@ Koirakkojoogameditaatio ja rentoutus
 
 <p class="valmennus"/>
 
-Ajatus & Asana valmennuspaketit
+Ajatus & Asana joogavalmennuspaketit
 ===============================
 
 Oma Ajatus & Asana I
 --------------------
 
-- 400 €
-- Alkuhaastattelu
-- Yksityisohjausta 4 x 1 h ajanjaksolle n. 2kk 
-- Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
-- Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
+- 150 €
+- Alkuhaastattelu & orientoiva harjoitus 45 min
+- Yksityisohjausta 1, 5 h 
+- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
+- Osallistuminen 1 x viikkotunneille (ei kurssit tai miniretriitit)
 
 Oma Ajatus & Asana II
+--------------------
+
+- 250 €
+- Alkuhaastattelu & orientoiva harjoitus 45 min
+- Yksityisohjausta 2 x 1 h ajanjaksolle n. 1kk 
+- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
+- Osallistuminen 2 x viikkotunneille (ei kurssit tai miniretriitit)
+
+Oma Ajatus & Asana III
+--------------------
+
+- 400 €
+- Alkuhaastattelu & orientoiva harjoitus  45 min
+- Yksityisohjausta 4 x 1 h ajanjaksolle n. 2kk 
+- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
+- Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
+
+Oma Ajatus & Asana IV
 ---------------------
 
 - 750 €
-- Alkuhaastattelu
+- Alkuhaastattelu & orientoiva harjoitus 45 min 
 - Yksityisohjausta 8 x 1 h   ajanjaksolle 4kk      
-- Oma Ajatus & Asana jooga-ohjelma materiaaleineen  
+- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
 
 
