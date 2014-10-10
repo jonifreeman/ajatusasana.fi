@@ -8,7 +8,7 @@ title: CV
 
 ## EDUCATIONAL BACKGROUND
 
-2013 Diploma Yoga Teacher. Two year teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
+2013 Diploma Yoga Teacher. A two year (2011-2013) teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
 
 2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Cultural Psychology & Science and Technology Studies. Grade for doctoral thesis: _Eximia_.
 
