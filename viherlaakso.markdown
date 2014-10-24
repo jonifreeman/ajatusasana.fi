@@ -320,11 +320,6 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 
 3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*La 25.10 2014 klo. 10.00-13.00 Vahvuuden ja Tasapainon Joogapäivä Syksyiselle Keholle*
-
-Tule ravitsemaan ja energisoimaan syksyinen kehosi moniulotteisella 3- tuntisella joogaharjoituksella! Lähestymme liikkeitä eri näkökulmista, välillä pysyen pidempään yhdessä asanassa ja välillä yhdistellen näitä joogameditaatiotanssiksi. Loppua kohden rauhoitamme kehoa restoraativisin liikkein, ja teemme meditaation. Työpaja on tarkoitettu jo joogaa jonkun verran harrastaneille.
-
-Hinta: 50 € / hlö (sis. ALV) (Voit maksaa smartum tai virikeseteleillä tai käyttää 10 x 1 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälieenä).
 
 
 
