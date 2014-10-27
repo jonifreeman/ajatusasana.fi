@@ -65,6 +65,9 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
+ <div class="course">
+  Hoitoaikoja klo 17 -><br /> Kyselyt Emmi Kaasalainen +358505283728 <a href="mailto:emmikaasalainen@yahoo.com">emmikaasalainen@yahoo.com</a>
+ </div>
  </td>
  <td></td>
  <td>
@@ -72,7 +75,7 @@ Viikko-ohjelma
  <td>
  <div class="course">
   <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana miniretriitit ja teemapäivät joka kuun ensimmäinen lauantai](#retriitti)
+  [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
  </td>
  <td></td>

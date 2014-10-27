@@ -65,6 +65,9 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
+ <div class="course">
+  Hoitoaikoja klo 17 -><br /> Kyselyt Emmi Kaasalainen +358505283728 <a href="mailto:emmikaasalainen@yahoo.com">emmikaasalainen@yahoo.com</a>
+ </div>
  </td>
  <td></td>
  <td>
@@ -72,7 +75,7 @@ Viikko-ohjelma
  <td>
  <div class="course">
   <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana miniretriitit ja teemapäivät joka kuun ensimmäinen lauantai](#retriitti)
+  [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
  </td>
  <td></td>
@@ -316,12 +319,20 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 
 3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*La 25.10 2014 klo. 10.00-13.00 Vahvuuden ja Tasapainon Joogapäivä Syksyiselle Keholle*
+*LA 8.11 klo. 10-00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
+Tule ravitsemaan ja rentouttamaan syksyinen kehosi moniulotteisella 3- tuntisella jooga-asana, pranayma- ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, kehotekniikoin ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Hengitys-ja meditaatioharjoitusten lisäksi teemme tietenkin vielä ihanan Yoga Nidran ♥
 
-Tule ravitsemaan ja energisoimaan syksyinen kehosi moniulotteisella 3- tuntisella joogaharjoituksella! Lähestymme liikkeitä eri näkökulmista, välillä pysyen pidempään yhdessä asanassa ja välillä yhdistellen näitä joogameditaatiotanssiksi. Loppua kohden rauhoitamme kehoa restoraativisin liikkein, ja teemme meditaation. Työpaja on tarkoitettu jo joogaa jonkun verran harrastaneille.
+Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.)
 
-Hinta: 50 € / hlö (sis. ALV) (Voit maksaa smartum tai virikeseteleillä tai käyttää 10 x 1 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälieenä).
+Hinta: 50 € / hlö (sis. ALV)
 
+Voit maksaa smartum tai virikeseteleillä.
+
+Voit myös käyttää 10 x 1 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälineenä.
+
+Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
+
+Sitovat ilmoittautumiset ja ennakkomaksut ke 5.11 mennessä. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
 
 
 
