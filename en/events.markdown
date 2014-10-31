@@ -4,7 +4,7 @@ title: Products
 
 _Autumn 2014_
 
-*Yoga class in English* On Thursdays at 05.30 pm-06.30 pm. From September 2014 onwards in a new yogastudio in Espoo Viherlaakso(Helsinki Metropolitan area). Address: Kavallinmäki 13 A. For more details: camisteph@gmail.com / 0405224889.
+*Yoga classes in English* Yogastudio in Espoo Viherlaakso(Helsinki Metropolitan area). Address: Kavallinmäki 13 A. For more details: camisteph@gmail.com / 0405224889.
 
 
 _Spring 2014_
