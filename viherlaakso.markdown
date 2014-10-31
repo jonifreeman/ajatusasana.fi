@@ -303,9 +303,9 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 Tunnin aluksi avataan kehoa rauhoittavilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
 
 <a id="dog"></a>
-**Koirakkomeditaatio ja rentoutus**
+**Koirakkojoogameditaatio**
 
-Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu,ihminen rentoutuu. Tunnilla tehdään kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
+Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu,ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
@@ -319,7 +319,8 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 
 3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*LA 8.11 klo. 10-00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
+*LA 8.11 2014 klo. 10-00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
+*LA 10.1 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
 Tule ravitsemaan ja rentouttamaan syksyinen kehosi moniulotteisella 3- tuntisella jooga-asana, pranayma- ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, kehotekniikoin ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Hengitys-ja meditaatioharjoitusten lisäksi teemme tietenkin vielä ihanan Yoga Nidran ♥
 
 Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.)
@@ -332,7 +333,7 @@ Voit myös käyttää 10 x 1 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvä
 
 Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
 
-Sitovat ilmoittautumiset ja ennakkomaksut ke 5.11 mennessä. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
+Sitovat ilmoittautumiset ja ennakkomaksut viikko ennen retriitin ajankohtaa. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
 
 
 
