@@ -4,7 +4,8 @@ title: Products
 
 _Autumn 2014_
 
-*Yoga classes in English* Yogastudio in Espoo Viherlaakso(Helsinki Metropolitan area). Address: Kavallinmäki 13 A. For more details: camisteph@gmail.com / 0405224889.
+*Yoga classes in English* 
+Yogastudio Ajatus & Asana in Espoo Viherlaakso(Helsinki Metropolitan area). Address: Kavallinmäki 13 A. For more details: camisteph@gmail.com / 0405224889.
 
 
 _Spring 2014_
