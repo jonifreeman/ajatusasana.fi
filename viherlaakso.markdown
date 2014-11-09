@@ -155,6 +155,7 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 ==================================================
 
 * [Ajatus & Asana Joogakurssi](#joogakurssi)
+* [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](#valmennukset)
 * [Rytmijooga](#rytmi)
 * [Koirakkomeditaatio ja rentoutus](#dog)
 
@@ -311,6 +312,9 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 **Motivoivat Ajatus & Asana joogakurssit**
 
 Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Kursseista ilmoitetaan hyvissä ajoin erikseen!
+
+<a id="valmennukset"></a>
+**Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset**
 
 
 
