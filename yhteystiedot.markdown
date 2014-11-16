@@ -20,6 +20,8 @@ Puh. +358405224889
 
 [Academia.edu](http://helsinki.academia.edu/NStephanieFreeman)
 
+<a href="http://www.yrittajat.fi"><img src="http://www.yrittajat.fi/File/d43ca32a-6144-4db1-b19c-6275371de523/SY_jasenyritys_150x75px.jpg" /></a>
+
 
 **Viherlaakso**
 ===============
