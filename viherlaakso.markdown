@@ -308,6 +308,8 @@ Tunnin aluksi avataan kehoa rauhoittavilla joogaliikeillä ja pranayma hengitysh
 
 Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu,ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
+Seuraavat koirakkojoogameditaatiotunnit: su 18.1 & su 25.1 2015 klo. 15.45-16.30.Tervetuloa kokeilemaan!
+
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
