@@ -70,6 +70,14 @@
   font-weight: bold;
 }
 
+.ananda-nav a {
+  color: #333333;
+}
+
+.ananda-nav a:hover {
+  color: #a8d733;
+}
+
 .navi .pull {  
   display: none;
   margin-bottom: 20px;

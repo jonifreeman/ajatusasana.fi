@@ -89,4 +89,12 @@ $(function() {
     e.preventDefault()
     menu.slideToggle()
   })
+
+  $('#ananda').cycle({ 
+    fx:     'fade',
+    speed:  'fast',
+    timeout: 0,
+    next:   '#ananda-next',
+    prev:   '#ananda-prev'
+  });
 })

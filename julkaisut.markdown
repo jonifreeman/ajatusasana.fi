@@ -4,6 +4,10 @@ title: Julkaisut
 
 # Niina Stephanie Freeman, list of selected publications
 
+## Other
+
+Freeman, S. (2014). [Motivaatio Joogamatolla](/ananda.html). [Ananda](http://www.anandalehti.fi) 3/2014 (Syyskuu)
+
 ## Peer-reviewed articles 
 
 
