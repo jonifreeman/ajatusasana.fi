@@ -316,9 +316,17 @@ Seuraavat koirakkojoogameditaatiotunnit: su 18.1 & su 25.1 2015 klo. 15.45-16.30
 Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Kursseista ilmoitetaan hyvissä ajoin erikseen!
 
 <a id="valmennukset"></a>
-**Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset**
+**Yksityiset Ajatus & Asana valmennukset**
 
+**Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
 
+Jumittaako gradun, väitöskirjan tai artikkelin kirjoittaminen? Tuntuuko, että tukehdut
+
+luokka/seminaarihuoneessa? Huutaako ja kiroileeko kehosi? Ajatus & Asana Kehollinen
+
+Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. Koska minulla on väitelleenä tohtorina omakohtaista kokemusta yliopisto-opiskelijan/yliopistotutkijan/opettajan työstä, ja koska väitöskirjani pureutui mm. Internet-välitteiseen tietotyöhön, yhteisöllisyyden rakentamiseen ja motivaatioon, uskon pystyväni ymmärtämään syvällisesti tieteellisen työn paineita. Pitkään jatkunut joogaharrastukseni/elämäntapani, ja myöhemmin hankkimani joogaopettajan pätevyys, auttoivat minua saattaamaan väitöstyöni loppuun lisäämällä kehotietoisuuttani väitöskirjaprosessissa. Olen kehittänyt ohjaustavan, jossa yhdistyvät tieteellinen ja jooginen ymmärrys ihmisestä ja maailmasta. Ohjaussessio voi olla kertaluontoinen tai tapaamisia voi olla useampia. Saat mukaasi juuri sinulle sopivan jooga/kehoharjoituksen ja sopivasti väljiä kehomielen kysymyksiä. Kunnioitan jokaisen ihmisen omaa kokemushistoriaa, ja sitä, että vastaukset löytyvät ihmisestä itsestään. Minä tarjoan keholliset kehykset, sinä luot sisällön omalla elävällä kehollasi!
+
+*Tää oman kropan tiedostaminen on ollut ihan avainasemassa kirjoittamisen vireen säätelyssä. Ansioksesi mä kyllä lasken tuon levollisuuden löytämisen, ja sen, että pystyit artikuloimaan mulle joogaliikkeen yhteyden fiilikseen. Ne restoratiiviset liikkeet on aivan huikeita, ja on hurjaa huomata kuinka konkreettisesti liikkeillä voi vaikuttaa mieleen* - Marjaana-
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
