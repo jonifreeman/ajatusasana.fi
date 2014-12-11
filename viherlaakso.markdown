@@ -338,8 +338,6 @@ Hinta: 50 € / hlö (sis. ALV)
 
 Voit maksaa smartum tai virikeseteleillä.
 
-Voit myös käyttää 5 x 1, 5 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälineenä: 3 sarjakortin käyntiä per retriitti.
-
 Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
 
 Sitovat ilmoittautumiset ja ennakkomaksut viikko ennen retriitin ajankohtaa. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
