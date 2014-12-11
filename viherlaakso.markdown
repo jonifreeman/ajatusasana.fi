@@ -338,7 +338,7 @@ Hinta: 50 € / hlö (sis. ALV)
 
 Voit maksaa smartum tai virikeseteleillä.
 
-Voit myös käyttää 10 x 1 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälineenä.
+Voit myös käyttää 5 x 1, 5 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälineenä: 3 sarjakortin käyntiä per retriitti.
 
 Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
 
