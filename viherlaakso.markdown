@@ -336,7 +336,7 @@ Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.)
 
 Hinta: 50 € / hlö (sis. ALV)
 
-Voit maksaa smartum tai virikeseteleillä.
+Voit maksaa smartum tai virikeseteleillä. 1, 5 tunnin sarjakorteista vähennetään 3 kertakäyntiä.
 
 Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
 
