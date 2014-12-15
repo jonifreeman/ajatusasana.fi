@@ -189,7 +189,7 @@ Sarjakortit
 -----------
 
 ---------- ---------------------------------
- 5 x 1,5 h  115 € (Voimassa 6 kk ostopäivästä)
+ 5 x 1,5 h  115 € (Voimassa 3 kk ostopäivästä)
             95 € (opiskelijat, eläkeläiset, työttömät)
 10 x 1,5 h  200 € (Voimassa 6 kk ostopäivästä)
             170 € (opiskelijat, eläkeläiset, työttömät)
