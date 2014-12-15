@@ -281,7 +281,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, t
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).Tunti sopii kaikille.
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
