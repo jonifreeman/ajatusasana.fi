@@ -7,6 +7,6 @@ Luonto -ja joogaretriitit Lapissa tilauksesta ryhmille
 
 Yhteistyötahot:
 
-[7Fells Hostell](http://www.sevenfellshostel.fi/). 
+Ekolinen ja tunnelmallinen [7Fells Hostell](http://www.sevenfellshostel.fi/) 
 
-[Eriklinna](http://www.eriklinna.fi/uudet/).
+Ylellisen kaunis [Eriklinna](http://www.eriklinna.fi/uudet/)
