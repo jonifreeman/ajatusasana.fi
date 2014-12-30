@@ -2,21 +2,11 @@
 title: Ylläs-Äkäslompolo
 ---
 
-
-[Jounin Kaupan Hyvinvointikeskus](https://www.facebook.com/pages/Jounin-Kaupan-Hyvinvointikeskus/670760182961244)
-=============================== 
-
-Syksy 2014
-----------
-
-Joogaviikko Jounin Kaupan Hyvinvointikeskuksessa Ruskaviikolla 39!
-
-**La 27.9 klo. 10.00-15.00** Ajatus & Asana Joogapäivä. Mini-retriitti. Asanaharjoituksia, hengitysharjoituksia, meditaatiota, teetä, keskusteluja, ja rentoutumista. Omat eväät mukaan! 110 € / hlö (hinta sis. jaettavat materiaalit). 90€ opiskelijat, eläkeläiset & työttömät.
-
-Ilmoittautuminen: +358 40 522 4889 tai e-mail: camisteph@gmail.com 
-
-
-Ylelliset luonto -ja joogaretriitit Lapissa
+Luonto -ja joogaretriitit Lapissa tilauksesta ryhmille 
 -------------------------------------------
 
-Yhteistyössä kauniin [Eriklinnan](http://www.eriklinna.fi/uudet/) kanssa. Kysy lisää: Stephanie Freeman / Jooga +358 40 522 4889 e-mail: camisteph@gmail.com tai Anna-Liisa Lindström / Eriklinna www.allice.fi +358 500 824 839 e-mail: myynti@allice.fi 
+Yhteistyötahot:
+
+[7Fells Hostell](http://www.sevenfellshostel.fi/). 
+
+[Eriklinna](http://www.eriklinna.fi/uudet/).
