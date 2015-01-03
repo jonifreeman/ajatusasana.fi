@@ -34,8 +34,6 @@ Viikko-ohjelma
   </div>
 </div>
 
-<h2 style="color: red;">Hyvää Joulua! Joogahuone aukeaa Joululomalta taas ma 5.1. 2015 alkaen.</h2>
-
 <table class="schedule">
 <thead>
 <tr>
@@ -76,7 +74,7 @@ Viikko-ohjelma
  </td>
  <td>
  <div class="course">
-  <img class="cancelled" src="/img/signup.png"></img>
+  <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
  </td>
@@ -107,13 +105,13 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **16.30 - 18.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **16.30 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
  <div class="session">
-  **17.30 - 19.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Joogameditaatio](#joogameditaatio)
  </div>
  </td>
@@ -125,20 +123,20 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="session">
- **18.00 - 19.30** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
  [Palauttava lempeä jooga](#palauttava)
  </div>
  </td>
  <td>
  <div class="session">
-  **18.00 - 19.30** <br /> <img class="cancelled" src="/img/signup.png"></img>
+  **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
   [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td></td>
  <td>
  <div class="session">
- **18.30 - 20.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Rauhoittava iltajooga & Yoga Nidra](#rauhoittava)
  </div>
  </td>
