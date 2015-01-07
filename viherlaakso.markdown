@@ -91,7 +91,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
- **13.30 - 15.00** <br /> <img class="cancelled" src="/img/signup.png"></img>
+ **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Lempeän vahvistava virtaava jooga](#flow)
  </div>
  </td>
