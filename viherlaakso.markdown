@@ -221,7 +221,7 @@ Koirakkojoogameditaatio ja rentoutus
 *Myös tilauksesta ryhmille.*
 
 ---------------------------
-17 € (tutustumiskerta 10 €)
+20 € (tutustumiskerta 15 €)
 ---------------------------
 
 <p class="valmennus"/>
