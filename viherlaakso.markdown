@@ -270,7 +270,7 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 Seuraavat koirakkojoogameditaatiotunnit:
 su 18.1 & su 25.1 2015 klo. 15.45-16.30. Tutustumistunti 20 € (norm. 25 €), osallistuminen molemmille tunneille 40 €
 
-su 8.2 & 15.2 2015 klo. 15.45-16.30.Tutustumistunti 20 € (norm. 25 €), osallistuminen molemmille tunneille 40 €
+su 8.2 & su 15.2 2015 klo. 15.45-16.30.Tutustumistunti 20 € (norm. 25 €), osallistuminen molemmille tunneille 40 €
 
 Tervetuloa kokeilemaan! 
 
