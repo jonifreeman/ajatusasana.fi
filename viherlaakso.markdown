@@ -144,7 +144,7 @@ Viikko-ohjelma
 
 </table>
 
-Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla.
+Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889).
 
 
 Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
