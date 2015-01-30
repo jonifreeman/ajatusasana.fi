@@ -5,7 +5,7 @@ imagewidth: 170px
 ---
 April, 2013.
 
-My name is Stephanie Freeman. I am a researcher-yogi-hobbyist drummer. One foot in science, the
+My name is Stephanie Freeman. I am an independent researcher-yoga teacher-hobbyist drummer. One foot in science, the
 other one in wellbeing, the aim being to build a strong bridge 
 between the two. My 41 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
@@ -41,7 +41,7 @@ emotions, that are telling me important things about my environment. I
 can create life even if I never become a mother. Understanding this meant
 the critical examination and use of theoretical concepts, and embodied
 experiential knowledge–finding my own rhythm of life. My holistic
-science-and yoga-based life consultancy service combines scientific
+science-and yoga-based educationaly service combines scientific
 knowledge of being a person-in-society with sensitive embodied
 intuitive knowledge, ideology-free yoga and the joy of hip
 hop. Finally, the Body and Mind can become One.
