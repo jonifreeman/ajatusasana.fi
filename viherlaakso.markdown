@@ -284,7 +284,7 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 *LA 10.1 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
 Tule ravitsemaan ja rentouttamaan kehosi moniulotteisella 3- tuntisella jooga-asana, pranayma- ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, kehotekniikoin ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Hengitys-ja meditaatioharjoitusten lisäksi teemme tietenkin vielä ihanan Yoga Nidran ♥
 
-Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.)
+Ajatus & Asana Joogahuoneella Viherlaaksossa (Espoo / Suur-Leppävaara) Kavallinmäki 13 A (4 krs.)
 
 Hinta: 50 € / hlö (sis. ALV)
 
