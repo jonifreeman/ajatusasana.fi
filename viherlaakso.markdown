@@ -165,14 +165,19 @@ Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
 Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
-Kertamaksu 
+<div itemscope itemtype="http://data-vocabulary.org/Product">
+
+<span itemprop="image"><img class="product-image" src="/img/viher1.jpg"/></span> 
+
+<span itemprop="name">Kertamaksu</span> 
 ----------
 
 -----     -------------------------
-1,5 h      25 € (tutustumiskerta 18 €)
+1,5 h      25 € (<span itemprop="description">tutustumiskerta</span> <span itemprop="offerDetails" itemscope itemtype="http://data-vocabulary.org/Offer"><meta itemprop="priceCurrency" content="EUR" /><span itemprop="price">18</span> €</span>)
            21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
 -----     -------------------------
 
+</div>
 
 Yksityistunnit / -ryhmät
 -------------------------
@@ -194,7 +199,7 @@ Sarjakortit
 <p>
 
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
-*Huom! Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 (90 min) tuntia, joilloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit! 
+*Huom! Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 (90 min) tuntia, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit! 
 
 Motivoivat Ajatus & Asana joogakurssit 
 --------------------------------------
