@@ -5,20 +5,26 @@ title: Yhteystiedot
 
 Y-tunnus: 26322737
 
-**Stephanie Freeman**
+<div itemscope itemtype="http://data-vocabulary.org/Person">
+
+<span itemprop="photo"><img class="stefi" src="/img/stefi.jpg" /></span>
+
+**<span itemprop="name">Stephanie Freeman</span>**
 =====================
 
 FT (Filosofian Tohtori)
 
 KM (Kasvatustieteiden Maisteri)
 
-Diplomi Joogaohjaaja
+<span itemprop="title">Diplomi Joogaohjaaja</span>
 
 Puh. +358405224889
 
 [camisteph@gmail.com](mailto:camisteph@gmail.com)
 
 [Academia.edu](http://helsinki.academia.edu/NStephanieFreeman)
+
+</div>
 
 <a href="http://www.yrittajat.fi"><img src="http://www.yrittajat.fi/File/d43ca32a-6144-4db1-b19c-6275371de523/SY_jasenyritys_150x75px.jpg" /></a>
 
