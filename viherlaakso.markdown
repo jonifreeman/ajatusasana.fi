@@ -167,7 +167,7 @@ Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
-<span itemprop="image"><img class="product-image" src="/img/viher1.jpg"/></span> 
+<img itemprop="image" class="product-image" src="/img/viher1.jpg"/>
 
 <span itemprop="name">Kertamaksu</span> 
 ----------
