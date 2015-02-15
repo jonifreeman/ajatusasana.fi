@@ -7,7 +7,7 @@ Y-tunnus: 26322737
 
 <div itemscope itemtype="http://data-vocabulary.org/Person">
 
-<span itemprop="photo"><img class="stefi" src="/img/stefi.jpg" /></span>
+<span itemprop="photo"><img class="stefi" src="/img/stefi2.jpg" /></span>
 
 **<span itemprop="name">Stephanie Freeman</span>**
 =====================

@@ -47,3 +47,5 @@ löytämistä. Tässä ja nyt, kokonaisvaltaisen hyvinvointipalveluni äärellä
 ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen
 kehollinen tieto, aate-vapaa Jooga ja hiphopin ilo. Keho ja
 mieli yhdistyvät vihdoin KehoMieleksi. 
+
+Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
