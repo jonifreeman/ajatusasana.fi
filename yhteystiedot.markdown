@@ -1,13 +1,14 @@
 ---
 title: Yhteystiedot
 ---
-**Ajatus & Asana Oy**
-
-Y-tunnus: 26322737
 
 <div itemscope itemtype="http://data-vocabulary.org/Person">
 
-<span itemprop="photo"><img class="stefi" src="/img/stefi2.jpg" /></span>
+**<span itemprop="affiliation">Ajatus & Asana Oy</span>**
+
+Y-tunnus: 26322737
+
+<img itemprop="photo" class="stefi" src="/img/stefi2.jpg" />
 
 **<span itemprop="name">Stephanie Freeman</span>**
 =====================
@@ -16,7 +17,7 @@ FT (Filosofian Tohtori)
 
 KM (Kasvatustieteiden Maisteri)
 
-<span itemprop="title">Diplomi Joogaohjaaja</span>
+<span itemprop="role">Diplomi Joogaohjaaja</span>
 
 Puh. +358405224889
 
