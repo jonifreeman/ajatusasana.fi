@@ -173,7 +173,7 @@ Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 ----------
 
 -----     -------------------------
-1,5 h      25 € (<span itemprop="description">tutustumiskerta</span> <span itemprop="offerDetails" itemscope itemtype="http://data-vocabulary.org/Offer"><meta itemprop="priceCurrency" content="EUR" /><span itemprop="price">18</span> €</span>)
+1,5 h      25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
            21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
 -----     -------------------------
 
