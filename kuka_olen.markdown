@@ -3,12 +3,12 @@ title: Kuka olen
 image: stefi_syksy.jpg
 imagewidth: 170px
 ---
-Huhtikuu, 2013.
+Ajatus & Asana syntyi Huhtikuussa 2013.
 
 Nimeni on Stephanie Freeman. Olen vapaa tutkija-joogaopettaja-harrasterumpali. 
 Toinen jalka tieteessä, toinen
 hyvänolon tuottamisessa, tähtäimessä rakentaaa silta näiden
-välille. 41-vuotisen elämänpolkuni voisin tiivistää
+välille. 42-vuotisen elämänpolkuni voisin tiivistää
 seuraavaan kolmeen päällekkäiseen vaiheeseen: keho edellä, pää
 edellä ja kehomieli yhdessä. 
 
