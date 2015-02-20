@@ -3,11 +3,11 @@ title: Who am I
 image: stefi_syksy.jpg
 imagewidth: 170px
 ---
-April, 2013.
+Ajatus & Asana was born in April 2013.
 
 My name is Stephanie Freeman. I am an independent researcher-yoga teacher-hobbyist drummer. One foot in science, the
 other one in wellbeing, the aim being to build a strong bridge 
-between the two. My 41 year life trajectory could be summarized through the
+between the two. My 42 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
 body/mind in unison.
 
