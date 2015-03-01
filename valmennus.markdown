@@ -15,6 +15,19 @@ Lalla Pohjanpalo & Erika Maksniemi (2014). 'Rauhoittunut ope', podcast. Asiantun
 * [Kuuntele haastattelu](RauhoittunutOpe.mp3)
 * [Lähteet](RauhoittunutOpe.pdf)
 
+
+<section>
+
+Kurssit
+=======
+
+<span class="new">Uutta!</span> Kirjoittava keho,tunteva tutkija-kurssi tutkimustyötä tekeville jatko-opiskelijoille.
+
+* [Kurssiesite](/img/mainos_kktt.jpg)
+
+
+</section>
+
 <div class="prices">
 
 Hinnasto

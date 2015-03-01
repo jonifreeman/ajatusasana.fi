@@ -376,3 +376,12 @@ blockquote cite:before {
 .product-image {
   width: 120px;
 }
+
+.new {
+  font-weight: bold;
+  color: #a8d733;
+}
+
+section {
+  padding: 30px 0 20px 0;
+}
