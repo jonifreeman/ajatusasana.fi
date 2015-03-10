@@ -78,7 +78,11 @@ Viikko-ohjelma
   [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
  </td>
- <td></td>
+ <td>
+ <div class="course">
+  Teematapahtumia
+ </div>
+ </td>
 </tr>
 
 <!-- ~14:00 -->
@@ -90,10 +94,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="session">
- **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava virtaava jooga](#flow)
- </div>
  </td>
 </tr>
 
@@ -247,11 +247,6 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallises
 **Palauttava lempeä jooga**
 
 Tunnilla tehdään kehoa avaavia, palauttavia joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
-
-<a id="flow"></a>
-**Lempeän vahvistava virtaava jooga**
-
-Tunnilla tehdään hengityksen tahdissa soljuvia joogaliikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen.Tuntia voisi luonnehtia hiljaiseksi joogatanssiksi, jossa kepeys ja vaivattomuus vievät kehoa liikkeestä toiseen. Erinomainen tasapainotunti. Tunnilla tehtävät liikkeet ja liikesarjat edellyttävät hieman aikaisempaa joogakokemusta tai Ajatus & Asana joogakurssin käymistä. 
 
 <a id="rytmi"></a>
 **RytmiJooga**
