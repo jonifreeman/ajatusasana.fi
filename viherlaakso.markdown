@@ -241,12 +241,12 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, t
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia  Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia Hatha-pohjaisia joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="rytmi"></a>
 **RytmiJooga**
@@ -256,7 +256,7 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 <a id="joogameditaatio"></a>
 **Joogameditaatio**
 
-Tunnin aluksi avataan kehoa rauhoittavilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
+Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla Hatha-pohjaisilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
@@ -279,10 +279,23 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
+3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*LA 10.1 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
-Tule ravitsemaan ja rentouttamaan kehosi moniulotteisella 3- tuntisella jooga-asana, pranayma- ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, kehotekniikoin ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Hengitys-ja meditaatioharjoitusten lisäksi teemme tietenkin vielä ihanan Yoga Nidran ♥
+*LA 25.4 2015 Ajatus & Asana miniretriitti: Selkärangan hyvinvointi ja parantavat kierrot* 
+Se on normaalitilassa S-muotoinen, joustava ja tukeva. S niinkuin selkäranka. 32 voitelua ja lempeyttä vaativaa nikamaa. Selkälihasten ja vatsalihasten tukeakin kaipaavat. Jos olisin nelijalkainen koira tai kissa, ei lannerankani kuormittuisi niin paljon, mutta ihminen kun olen, kaksin jaloin komistettu, seisoessani ja istuessani, paine pakkaantuu eniten lannerankaan. Rankani kaipaa rakkautta. Siksi suuntaan 3-tunnin miniretriittiin Espoon Viherlaakson Ajatus & Asana Joogahuoneelle, jossa hitaasti ja lempeydellä, kierrämme, suoristamme, ojennamme, ja pyöristämme kehomme taikavipua. Lopuksi annamme rangan rentoutua ja kuuntelemme meditaation keinoin, mitä se meille kuiskii.
+
+Paikka: Ajatus & Asana Joogahuone, Viherlaakso, Kavallinmäki 13 A (4 krs.) 
+
+Hinta: 50 € / hlö (sis. ALV)
+Opiskelijat, työttömät, eläkeläiset 40 € / hlö (sis. ALV)
+
+Voit maksaa smartum tai virikeseteleillä.
+
+Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. 
+
+Sitovat ilmoittautumiset ja ennakkomaksut ke 20.4 2015 mennessä. 
+
+Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
 
 Ajatus & Asana Joogahuoneella Viherlaaksossa (Espoo / Suur-Leppävaara) Kavallinmäki 13 A (4 krs.)
 
