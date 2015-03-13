@@ -236,7 +236,7 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja, jolloin sekä aloittelijat että pidempään jooganneet saavat kaikki itselleen sopivan harjoituksen.
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja, jolloin sekä aloittelijat että pidempään jooganneet saavat kaikki itselleen sopivan harjoituksen.
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
@@ -246,7 +246,7 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia  Yin jooga-tyyppisiä 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia Hatha-pohjaisia joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia Hatha & Yin-tyyppisiä joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="rytmi"></a>
 **RytmiJooga**
@@ -256,7 +256,7 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 <a id="joogameditaatio"></a>
 **Joogameditaatio**
 
-Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla Hatha-pohjaisilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
+ Joogameditaatiossa yhdistyvät monen eri joogasuuntauksen ideat ja liikkeet. Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla joogaliikeillä sekä pranayma hengitysharjoituksilla.Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
