@@ -3,7 +3,7 @@ title: Idea
 ---
 __Yoga with Thought - Relax, rejuvenate, learn and be inspired!__
 
-*Individual-based yoga teaching in small groups*
+*Individual-based, high-quality and creative yoga teaching in small groups*
 
 What is the natural rhythm of my life? Would it be possible to live my life in sync
 and in unison with other people’s rhythms? What about with the rhythms of the
@@ -16,7 +16,7 @@ In the spirit of developmental psychologist Lev Vygotsky's 'zone of proximal dev
 
 Ajatus & Asana -Science and Yoga Dialogue is a an educational wellbeing service combining knowledge from behavioural sciences and meditative yoga. Products include yoga classes, motivating yoga courses, retreats in Lapland, lectures and meditative writing workshops. 'Ajatus' (Thought) directs attention to the creative potential of the human mind, and to my science-based understanding of the developmental possibilities of an adult learner. The Sanskrit name 'Asana' means a comfortable posture. Hence, yoga can be characterized as bodymind movement powered by breath. It is respectful and gentle in its capacity to strengthen. In my 'Asana' exercises, I combine postures and movements from different yoga traditions (e.g. Hatha, Yin, Iyengar) for creating a well-balanced and safe practice. I use my sensitivity and ability to read people when teaching. 
 
-Once you start listening, you realize how wise the body can be. It whispers, it shouts, it laughs, it hums, it purrs of contentment. It converses. Ready to start a dialogue with your body? Come and to try one of my courses!
+Once you start listening, you realize how wise the body can be. It whispers, it shouts, it laughs, it hums, it purrs of contentment. It converses. Ready to start a dialogue with your body? Come and to try one of my lessons or workshops! You can also come with a group of friends for a private English-speaking lesson!
 
 Welcoming You with an open and sincere hearth,
 
