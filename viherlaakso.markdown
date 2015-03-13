@@ -231,7 +231,7 @@ Koirakkojoogameditaatio ja rentoutus
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi.
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
@@ -256,7 +256,7 @@ Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun
 <a id="joogameditaatio"></a>
 **Joogameditaatio**
 
- Joogameditaatiossa yhdistyvät monen eri joogasuuntauksen ideat ja liikkeet. Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla joogaliikeillä sekä pranayma hengitysharjoituksilla.Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
+ Joogameditaatiossa yhdistyvät monen eri joogasuuntauksen ideat ja liikkeet luovalla tavalla. Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla joogaliikeillä sekä pranayma hengitysharjoituksilla.Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
