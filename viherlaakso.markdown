@@ -152,7 +152,8 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 
 * [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
-* [Rytmijooga](#rytmi)
+* [RytmiJoogaTanssi](#rytmi)
+* [HipHopJoogaNuorille](#hiphop)
 * [Koirakkojoogameditaatio](#dog)
 
 
@@ -255,6 +256,11 @@ Tunnilla tehdään kehoa avaavia, palauttavia Hatha & Yin-tyyppisiä joogaliikke
 **RytmiJoogaTanssi**
 
 Tunnilla tehdään kokonainen koreografia eteerisen musiikin tahdissa. Yhdistelen monia joogan ja tanssin (enimmäkseen hiphopin, funkin ja kaiken muun vapaan olemisen) liikkeitä luovasti yhteen. Ja kylläpä tähän tuntiin vielä Djembe-Rumpukin jollain tavalla liittyy. Tule löytämään ikioma joogapulssisi! Järkkään teematunnin joku lauantai kevään 2015n aikana eli olkaa kuulolla! 
+
+<a id="hiphop"></a>
+**HipHopJoogaNuorille**
+
+
 
 <a id="joogameditaatio"></a>
 **Joogameditaatio**
