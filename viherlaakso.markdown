@@ -259,9 +259,9 @@ Tunnilla tehdään kokonainen koreografia eteerisen musiikin tahdissa. Yhdistele
 
 <a id="hiphop"></a>
 **HipHopJoogaNuorille**
-HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889.
+HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. 
 
-* HUOM! Viherlaakson Ajatus & Asana Joogahuone on mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. (file:///C:/Users/Stephanie/Downloads/NE_KESAESITE_2015_V10_pieni.pdf).*
+* HUOM! Viherlaakson Ajatus & Asana Joogahuone on mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. (http://lumosleiri.blogspot.fi/p/blog-page_29.html)
 
 
 <a id="joogameditaatio"></a>
