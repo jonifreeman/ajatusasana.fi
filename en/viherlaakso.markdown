@@ -1,5 +1,5 @@
 ---
-title: Viherlaakson viikko-ohjelma
+title: Viherlaakso / Leppävaara / Espoo
 ---
 
 Viikko-ohjelma
@@ -29,7 +29,7 @@ Viikko-ohjelma
    <img class="close" src="/img/popup_close.png" />
    <h2>Peruutettu</h2>
    <p>
-     Poikkeuksellisesti tätä tuntia ei pidetä tällä viikolla. Tervetuloa ensi viikon tunnille!
+     Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!
    </p>
   </div>
 </div>
@@ -78,7 +78,11 @@ Viikko-ohjelma
   [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
  </td>
- <td></td>
+ <td>
+ <div class="course">
+  Teematapahtumia
+ </div>
+ </td>
 </tr>
 
 <!-- ~14:00 -->
@@ -90,10 +94,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="session">
- **13.30 - 15.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava virtaava jooga](#flow)
- </div>
  </td>
 </tr>
 
@@ -104,10 +104,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="session">
- **16.30 - 18.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Lempeän vahvistava jooga](#vahvistava)
- </div>
  </td>
  <td>
  <div class="session">
@@ -148,16 +144,17 @@ Viikko-ohjelma
 
 </table>
 
-Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla.
+Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889).
 
 
 Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 ==================================================
 
 * [Ajatus & Asana Joogakurssi](#joogakurssi)
-* [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](#valmennukset)
-* [Rytmijooga](#rytmi)
-* [Koirakkomeditaatio ja rentoutus](#dog)
+* [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
+* [RytmiJoogaTanssi](#rytmi)
+* [HipHopJoogaNuorille](#hiphop)
+* [Koirakkojoogameditaatio](#dog)
 
 
 <div class="prices">
@@ -169,14 +166,19 @@ Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
 Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
-Kertamaksu 
+<div itemscope itemtype="http://data-vocabulary.org/Product">
+
+<img itemprop="image" class="product-image" src="/img/viher7.jpg"/>
+
+<span itemprop="name">Kertamaksu</span> 
 ----------
 
 -----     -------------------------
-1,5 h      25 € (tutustumiskerta 18 €)
+1,5 h      25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
            21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
 -----     -------------------------
 
+</div>
 
 Yksityistunnit / -ryhmät
 -------------------------
@@ -189,7 +191,7 @@ Sarjakortit
 -----------
 
 ---------- ---------------------------------
- 5 x 1,5 h  115 € (Voimassa 6 kk ostopäivästä)
+ 5 x 1,5 h  115 € (Voimassa 3 kk ostopäivästä)
             95 € (opiskelijat, eläkeläiset, työttömät)
 10 x 1,5 h  200 € (Voimassa 6 kk ostopäivästä)
             170 € (opiskelijat, eläkeläiset, työttömät)
@@ -199,6 +201,9 @@ Sarjakortit
 
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 (90 min) tuntia, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
+
+*Viherlaakson Joogahuoneella et kyllästy: kaikki tunnit ovat erilaisia, sillä ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
 
 Motivoivat Ajatus & Asana joogakurssit 
 --------------------------------------
@@ -221,49 +226,8 @@ Koirakkojoogameditaatio ja rentoutus
 *Myös tilauksesta ryhmille.*
 
 ---------------------------
-17 € (tutustumiskerta 10 €)
+20 € 
 ---------------------------
-
-<p class="valmennus"/>
-
-Ajatus & Asana joogavalmennuspaketit
-===============================
-
-Oma Ajatus & Asana I
---------------------
-
-- 150 €
-- Alkuhaastattelu & orientoiva harjoitus 45 min
-- Yksityisohjausta 1, 5 h 
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- Osallistuminen 1 x viikkotunneille (ei kurssit tai miniretriitit)
-
-Oma Ajatus & Asana II
---------------------
-
-- 250 €
-- Alkuhaastattelu & orientoiva harjoitus 45 min
-- Yksityisohjausta 2 x 1 h ajanjaksolle n. 1kk 
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- Osallistuminen 2 x viikkotunneille (ei kurssit tai miniretriitit)
-
-Oma Ajatus & Asana III
---------------------
-
-- 400 €
-- Alkuhaastattelu & orientoiva harjoitus  45 min
-- Yksityisohjausta 4 x 1 h ajanjaksolle n. 2kk 
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
-
-Oma Ajatus & Asana IV
----------------------
-
-- 750 €
-- Alkuhaastattelu & orientoiva harjoitus 45 min 
-- Yksityisohjausta 8 x 1 h   ajanjaksolle 4kk      
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
 
 
 </div>
@@ -271,68 +235,84 @@ Oma Ajatus & Asana IV
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi.
+Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja, jolloin sekä aloittelijat että pidempään jooganneet saavat kaikki itselleen sopivan harjoituksen.
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja, jolloin sekä aloittelijat että pidempään jooganneet saavat kaikki itselleen sopivan harjoituksen.
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia liikkeitä turvallisesti ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus (Yoga Nidra).Tunti sopii kaikille.
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
-
-<a id="flow"></a>
-**Lempeän vahvistava virtaava jooga**
-
-Tunnilla tehdään hengityksen tahdissa soljuvia joogaliikkeitä rauhallisesti, turvallisesti ja omaa kehoa kuunnellen.Tuntia voisi luonnehtia hiljaiseksi joogatanssiksi, jossa kepeys ja vaivattomuus vievät kehoa liikkeestä toiseen. Erinomainen tasapainotunti. Tunnilla tehtävät liikkeet ja liikesarjat edellyttävät hieman aikaisempaa joogakokemusta tai Ajatus & Asana joogakurssin käymistä. 
+Tunnilla tehdään kehoa avaavia, palauttavia Hatha & Yin-tyyppisiä joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="rytmi"></a>
-**RytmiJooga**
+**RytmiJoogaTanssi**
 
-Tunnilla tehdään lempeän vahvistavia joogaliikkeitä musiikin ja djemberummun säestämänä. Tule löytämään ikioma joogapulssisi! Tunti sopii kaikille. RytmiJooga tulossa myöhemmin, ota yhteyttä!
+Tunnilla tehdään kokonainen koreografia eteerisen musiikin tahdissa. Yhdistelen monia joogan ja tanssin (enimmäkseen hiphopin, funkin ja kaiken muun vapaan olemisen) liikkeitä luovasti yhteen. Ja kylläpä tähän tuntiin vielä Djembe-Rumpukin jollain tavalla liittyy. Tule löytämään ikioma joogapulssisi! Järkkään teematunnin joku lauantai kevään 2015 aikana eli olkaa kuulolla! 
+
+<a id="hiphop"></a>
+**HipHopJoogaNuorille**
+HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. 
+
+* HUOM! Viherlaakson Ajatus & Asana Joogahuone on mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. [http://lumosleiri.blogspot.fi/p/blog-page_29.html](http://lumosleiri.blogspot.fi/p/blog-page_29.html)
+
 
 <a id="joogameditaatio"></a>
 **Joogameditaatio**
 
-Tunnin aluksi avataan kehoa rauhoittavilla joogaliikeillä ja pranayma hengitysharjoituksilla. Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
+ Joogameditaatiossa yhdistyvät monen eri joogasuuntauksen ideat ja liikkeet luovalla tavalla. Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla joogaliikeillä sekä pranayma hengitysharjoituksilla.Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
 
 Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu,ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
+Seuraavat koirakkojoogameditaatiotunnit:
+
+su 15.2 2015 klo. 15.45-16.30. Hinta 20 €
+su 1.3 2015  klo. 15.45-16.30. Hinta 20 €
+
+Tervetuloa kokeilemaan! 
+
+
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
 Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. Kursseista ilmoitetaan hyvissä ajoin erikseen!
 
-<a id="valmennukset"></a>
-**Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset**
-
-
-
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Jooga-asanaharjoituksia, hengittelyä, rytmijoogaa djembe-rummun säestämänä ja joogameditaatiota vaihtuvin teemoin. Jokainen osallistuja saa päivän aikana lisäksi 10 min  aivan yksityisen ohjaustuokion, jossa paneudumme juuri sinun joogapolkuusi. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
+3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*LA 10.1 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
-Tule ravitsemaan ja rentouttamaan syksyinen kehosi moniulotteisella 3- tuntisella jooga-asana, pranayma- ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, kehotekniikoin ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Hengitys-ja meditaatioharjoitusten lisäksi teemme tietenkin vielä ihanan Yoga Nidran ♥
+*LA 25.4 2015 Ajatus & Asana miniretriitti: Selkärangan hyvinvointi ja parantavat kierrot* 
+Se on normaalitilassa S-muotoinen, joustava ja tukeva. S niinkuin selkäranka. 32 voitelua ja lempeyttä vaativaa nikamaa. Selkälihasten ja vatsalihasten tukeakin kaipaavat. Jos olisin nelijalkainen koira tai kissa, ei lannerankani kuormittuisi niin paljon, mutta ihminen kun olen, kaksin jaloin komistettu, seisoessani ja istuessani, paine pakkaantuu eniten lannerankaan. Rankani kaipaa rakkautta. Siksi suuntaan 3-tunnin miniretriittiin Espoon Viherlaakson Ajatus & Asana Joogahuoneelle, jossa hitaasti ja lempeydellä, kierrämme, suoristamme, ojennamme, ja pyöristämme kehomme taikavipua. Lopuksi annamme rangan rentoutua ja kuuntelemme meditaation keinoin, mitä se meille kuiskii.
 
-Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.)
+Paikka: Ajatus & Asana Joogahuone, Viherlaakso, Kavallinmäki 13 A (4 krs.) 
 
 Hinta: 50 € / hlö (sis. ALV)
+Opiskelijat, työttömät, eläkeläiset 40 € / hlö (sis. ALV)
 
 Voit maksaa smartum tai virikeseteleillä.
 
-Voit myös käyttää 10 x 1 h tai 10 x 1,5 h sarjakorttien arvoa/aikaa maksuvälineenä.
+Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. 
+
+Sitovat ilmoittautumiset ja ennakkomaksut ke 20.4 2015 mennessä. 
+
+Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
+
+Ajatus & Asana Joogahuoneella Viherlaaksossa (Espoo / Suur-Leppävaara) Kavallinmäki 13 A (4 krs.)
+
+Hinta: 50 € / hlö (sis. ALV)
+
+Voit maksaa smartum tai virikeseteleillä. 1, 5 tunnin sarjakorteista vähennetään 3 kertakäyntiä.
 
 Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
 

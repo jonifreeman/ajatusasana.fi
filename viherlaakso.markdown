@@ -29,7 +29,7 @@ Viikko-ohjelma
    <img class="close" src="/img/popup_close.png" />
    <h2>Peruutettu</h2>
    <p>
-     Hyvää Joulua! Joogahuone auki taas maanantai 5.1. 2015 alkaen.
+     Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!
    </p>
   </div>
 </div>
