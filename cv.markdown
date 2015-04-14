@@ -8,7 +8,17 @@ title: CV
 
 ## EDUCATIONAL BACKGROUND
 
+*Yoga, meditation & other somatic approaches*
+
 2013 Diploma Yoga Teacher. A two year (2011-2012) teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
+
+2015/February Breathing workshop-Rebirthing by Anja Ahola.
+2015/February Slow Yoga workhsop by Janne Kontala.
+2015/April Open meditation by Jason Siff.
+
+Continuous self-study (practice & reading).
+
+*Academic*
 
 2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Cultural Psychology & Science and Technology Studies. Grade for doctoral thesis: _Eximia_.
 
