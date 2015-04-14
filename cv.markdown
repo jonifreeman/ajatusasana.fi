@@ -8,7 +8,7 @@ title: CV
 
 ## EDUCATIONAL BACKGROUND
 
-*Yoga, meditation & other somatic approaches*
+*YOGA, MEDITATION AND OTHER SOMATIC APPROACHES*
 
 2013 Diploma Yoga Teacher. A two year (2011-2012) teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
 
@@ -20,7 +20,7 @@ title: CV
 
 Continuous self-study (practice & reading).
 
-*Academic*
+*ACADEMIC*
 
 2012 PhD, University of Helsinki, Faculty of Behavioral Sciences. Cultural Psychology & Science and Technology Studies. Grade for doctoral thesis: _Eximia_.
 
