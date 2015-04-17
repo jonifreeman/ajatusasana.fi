@@ -12,11 +12,11 @@ title: CV
 
 Over a decade of continuous self-study (lifelong practice  & reading)
 
-2015/February Rebirthing-breathing workshop (Anja Ahola).
+2015/April Open meditation workshop (Jason Siff).
 
 2015/February Slow Yoga workhsop (Janne Kontala).
 
-2015/April Open meditation workshop (Jason Siff).
+2015/February Rebirthing-breathing workshop (Anja Ahola).
 
 2013 Diploma Yoga Teacher. A two year (2011-2012) teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
 
