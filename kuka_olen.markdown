@@ -20,4 +20,6 @@ Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdis
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
 
+[Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
+
 [CV](cv.html)
