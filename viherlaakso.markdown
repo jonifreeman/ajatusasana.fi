@@ -240,7 +240,7 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja, jolloin sekä aloittelijat että pidempään jooganneet saavat kaikki itselleen sopivan harjoituksen.
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Sopii jo jokun verran joogaa harrastaneelle.
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
