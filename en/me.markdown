@@ -5,8 +5,7 @@ imagewidth: 170px
 ---
 Ajatus & Asana was born in April 2013.
 
-My name is Stephanie Freeman. I am an independent researcher-yoga teacher-hobbyist drummer. One foot in science, the
-other one in wellbeing, the aim being to build a strong bridge 
+My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of Philosophy (Behavioural swciences) and M.A. (Educational sciences) One foot in science, the other one in wellbeing, the aim being to build a strong bridge 
 between the two. My 42 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
 body/mind in unison.
@@ -27,9 +26,7 @@ disciplines that I relate to–socio-cultural theory and cultural
 psychology–consider the relation between mind, body and society
 inseparable. Scientific work and ambition, accompanied with
 competition, made my body and mind collapse a few times. I had created
-myself a “stress body”. I also went through a stressful and
-unsuccessful IVF treatment, which was hard on my highly sensitive
-body/person.
+myself a “stress body”. 
 
 The third phase of my life-to-date started a few years ago after my long lasting yoga
 hobby turned into a lifestyle and professional calling. I realized that what my body needed relaxing and
@@ -37,11 +34,9 @@ winding down so that I could “hear” better. Through my daily yoga practice  
 yoga teacher training, I came to realize that being creative and
 productive does not require existential anguish or anxiety. I can be
 creative without stress if I stay true to my bodily sensations and
-emotions, that are telling me important things about my environment. I
-can create life even if I never become a mother. Understanding this meant
+emotions, that are telling me important things about my environment. Understanding this meant
 the critical examination and use of theoretical concepts, and embodied
 experiential knowledge–finding my own rhythm of life. My holistic
 science-and yoga-based educationaly service combines scientific
 knowledge of being a person-in-society with sensitive embodied
-intuitive knowledge, ideology-free yoga and the joy of hip
-hop. Finally, the Body and Mind can become One.
+intuitive knowledge and ideology-free yoga. Finally, the Body and Mind can become One.
