@@ -5,47 +5,17 @@ imagewidth: 170px
 ---
 Ajatus & Asana syntyi Huhtikuussa 2013.
 
-Nimeni on Stephanie Freeman. Olen vapaa tutkija-joogaopettaja-harrasterumpali. 
-Toinen jalka tieteessä, toinen
-hyvänolon tuottamisessa, tähtäimessä rakentaaa silta näiden
-välille. 42-vuotisen elämänpolkuni voisin tiivistää
-seuraavaan kolmeen päällekkäiseen vaiheeseen: keho edellä, pää
-edellä ja kehomieli yhdessä. 
+Olen täällä Sinua varten. 
 
-Ensimmäisen polkuni elin syvällä
-omassa kehossani ja omasta kehostani opettaen hiphophenkisiä jumppa-ja
-tanssitunteja. Vaikka ilmaisin itseäni kehollani ja vaikka halusin tuottaa
-hyvänolontunnetta liikkeen ja musiikin keinoin muillekin, en kuitenkaan osannut kuunnellut omaa kehoani,
-joka viisaudessaan yritti kertoa minulle jotain tärkeää. Tuli tehdyksi
-yli- ja ohilyöntejä. Lähdin etsimään vastauksia teorioiden
-maailmoista. Kaipasin käsitteellisiä välineitä ihmisyyden,
-sosiaalisuuden, aikuisen jatkuvan kehittymisen ja motivaation
-ymmärtämiseen. 
+Nimeni on Stephanie Freeman. Olen jooga-ja kehotietoisuuden opettaja/ohjaaja/kouluttaja, tutkijataustainen  Filosofian Tohtori ja Kasvatustieteiden Maisteri. Rakastan henkisiä asioita, eläimiä, kirjoja, rumpuja ja uutta harrastustani kiipeilyä. Rakastan kaikkea uuden oppimista. Pyrin kulkemaan silmät ja sydän avoinna, ja näkemään haasteet ja ongelmat kehitystehtävinä, ponnahduslautana uuteen ja raikkaaseen. Uskon, että kuuntelemalla kehoaan voi päästä käsiksi niin omaan sisäiseen kuin ulkoiseenkin maailmaan. Keho on ihmeellinen pienoiskosmos, joka oikein viritettynä pystyy ratkaisemaan monia arkisia ja pyhiä asioita. 
 
-Toinen polkuni suuntautui Helsingin Yliopiston
-Käyttäytymistieteelliseen Tiedekuntaan. Janosin tietoa ja laajempaa
-yhteiskunnallista kokonaiskuvaa ajan hengestä siinä määrin, että
-väitöskirja Internet-vapaaehtoisyhteisöjen rakentamisesta ja yhteisön jäsenten
-motivaatiopoluista valmistui v. 2011. Jo yli 13 vuotta on vierähtänyt
-ideoiden maailmassa ja "pään  sisällä", vaikkakin ammentamani sosiokulttuurinen ja
-kulttuuripsykologinen teoriatausta ymmärsi mielen ja
-ympäristön, ja pään ja kehon suhteen erottamattomaksi. Tieteellinen työ,
-kunnianhimo ja siihen liittyvä kova kilpailu tuottivat minulle
-"stressikehon". Mieleni ja kehoni romahtivat muutamia kertoja. Tuli tehdyksi ylilyöntejä kun yritin palautua ajattelutyöstä ylenpalttisella
-liikunnalla. Kehoni joutui myös koetukselle, kun kävin läpi
-lapsettomuushoidot ja lapsettomuuteen liittyvän surutyön. 
+Tiedän, mistä puhun, sillä 42-vuotisen matkani varrella olen kokenut monenmoisia menetyksiä Olen välillä  juossut keho edellä elämääni karkuun. Välillä erehtynyt luulemaan pelkkää päätäni kehoksi, ja piiloutunut käsitteiden taakse.Tieteellinen työ,kunnianhimo ja siihen liittyvä kova (rakenteistakin johtuva) kilpailu tuottivat minulle"stressikehon", jonka purkamisessa jooga ja monet muut somaattiset menetelmät ovat olleet avainasemassa. Kehoni huusi hiljentymistä ja rentoutumista, ja huomasinkin, että voin olla luova ilman stressiä jos kuuntelen, mitä kehoni ja tunteeni minulle ympäristöstäni ja itsestäni kertovat. 
 
-Kolmas polkuni avatui kun satunnaisena urheiluharrastuksena toiminut jooga muuttui pikkuhiljaa 14 vuoden aikana henkiseksi voimavaraksi ja elämätavaksi. Huomasin, että se mitä kehoni oikeasti tarvitsee, on hiljentymistä ja rentoutumista, jotta
-kuulisin paremmin. Opin joogaharrastuksen ja sitä seuranneen
-jooga-ohjaakoulutuksen avulla, että luovuus ja tuotteliaisuus eivät
-edellytä ahdistumista ja tuskaa. Voin luoda ja olla luova ilman
-stressiä, jos kuuntelen, mitä kehoni ja tunteeni minulle ympäristöstäni
-ja itsestäni kertovat. Voin luoda elämää, vaikka en ikinä tule olemaan
-äiti. Äitiydettömyyden oivallukseen tarvitsin käsitteitä, joilla kyseenalaistaa
-sekä kehollista tunteiden ja aistien kokemusta: oman elämän rytmin
-löytämistä. Tässä ja nyt, kokonaisvaltaisen hyvinvointipalveluni äärellä, yhdistyvät tieteellinen ymmärrys
-ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen
-kehollinen tieto, aate-vapaa Jooga ja hiphopin ilo. Keho ja
-mieli yhdistyvät vihdoin KehoMieleksi. 
+Joogasta tuli 14 vuoden aikana henkinen, psyykkinen, sosiaalinen ja fyysinen voimavara. Siitä tuli rakas elämätapa, ja työ, jonka sinetöi 2-vuotinen jooga-ohjaakoulutus. Suurin opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa, kanssajoogaaminen. En olisi opettaja ilman heidän hienoja omakohtaisia oivalluksia ja suurta luottamusta.
+
+Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdistyvät tieteellinen ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto, aate-vapaa jooga ja rytmin ilo. 
+
+Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.
+
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
