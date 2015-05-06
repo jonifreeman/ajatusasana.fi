@@ -40,3 +40,5 @@ experiential knowledge–finding my own rhythm of life. My holistic
 science-and yoga-based educationaly service combines scientific
 knowledge of being a person-in-society with sensitive embodied
 intuitive knowledge and ideology-free yoga. Finally, the Body and Mind can become One.
+
+[CV](cv.html)

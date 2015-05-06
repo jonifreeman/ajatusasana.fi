@@ -19,3 +19,5 @@ Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdis
 
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
+
+[CV](cv.html)
