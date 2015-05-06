@@ -15,7 +15,7 @@ Joogasta tuli 14 vuoden aikana henkinen, psyykkinen, sosiaalinen ja fyysinen voi
 
 Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdistyvät tieteellinen (psykologinen ja yhteiskunnallinen) ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto, aate-vapaa jooga, ja rytmien ilo. 
 
-*Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.*
+**Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.**
 
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
