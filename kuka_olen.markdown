@@ -13,7 +13,7 @@ Tiedän, mistä puhun, sillä 42-vuotisen matkani varrella olen kokenut monenmoi
 
 Joogasta tuli 14 vuoden aikana henkinen, psyykkinen, sosiaalinen ja fyysinen voimavara. Siitä tuli rakas elämätapa, ja työ, jonka sinetöi 2-vuotinen jooga-ohjaakoulutus. Suurin opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa, kanssajoogaaminen. En olisi opettaja ilman heidän hienoja omakohtaisia oivalluksia ja suurta luottamusta.
 
-Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdistyvät tieteellinen (psykologinen ja yhteiskunnallinen) ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto, aate-vapaa jooga ja rytmin ilo. 
+Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdistyvät tieteellinen (psykologinen ja yhteiskunnallinen) ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto, aate-vapaa jooga, ja rytmien ilo. 
 
 *Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.*
 
