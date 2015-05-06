@@ -119,7 +119,7 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="session">
- **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
+ **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
  [Palauttava lempeä jooga](#palauttava)
  </div>
  </td>
@@ -133,7 +133,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Rauhoittava iltajooga & Yoga Nidra](#rauhoittava)
+ [Hidas lempeän vahvistava jooga](#hidas)
  </div>
  </td>
  <td></td>
@@ -240,7 +240,12 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 <a id="vahvistava"></a>
 **Lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja, jolloin sekä aloittelijat että pidempään jooganneet saavat kaikki itselleen sopivan harjoituksen.
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Sopii jo jokun verran joogaa harrastaneelle.
+
+<a id="hidas"></a>
+**Hidas lempeän vahvistava jooga**
+
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti sopii kaikille.
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
