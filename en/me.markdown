@@ -5,7 +5,7 @@ imagewidth: 170px
 ---
 Ajatus & Asana was born in April 2013.
 
-My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of Philosophy (Behavioural swciences) and M.A. (Educational sciences) One foot in science, the other one in wellbeing, the aim being to build a strong bridge 
+My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of Philosophy (Behavioural swciences) and M.A. (Educational sciences). One foot in science, the other one in wellbeing, the aim being to build a strong bridge 
 between the two. My 42 year life trajectory could be summarized through the
 following three partly overlapping phases: body first, head first, and
 body/mind in unison.
