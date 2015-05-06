@@ -11,6 +11,6 @@ Yhteisöille, ryhmille, yrityksille, kouluille ja (yli)opistoille. Hinta ja tuot
 
 
 
-*Freeman, S. 'Motivaatio Joogamatolla'. Ananda (Joogalehti) 3/2014.* (Luettavissa Julkaisut-osiossa.)
+*Freeman, S. 'Motivaatio Joogamatolla'. Ananda (Joogalehti) 3/2014.* (Luettavissa Kuka Olen-osiossa.)
 
 *Freeman,S. 'Motivaatio Joogamatolla'. Helsinki Joogafestival 2014 (1.- 2.3 2014) Kaapelitehtaalla. Luento. Seuraa tarkemmat aikataulut: [http://joogafestival.fi/luennoitsijat/](http://joogafestival.fi/luennoitsijat/)*
