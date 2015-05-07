@@ -20,6 +20,9 @@ Over a decade of continuous self-study (lifelong practice  & reading)
 
 2013 Diploma Yoga Teacher. A two year (2011-2012) teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
 
+**PUBLICATIONS**
+
+[Julkaisut](/julkaisut.html)
 
 **ACADEMIC**
 
