@@ -315,6 +315,7 @@ Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu.
 Sitovat ilmoittautumiset 18.5 2014 mennessä. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
 
 
+
 *La 6.6 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti. Pään verenkierto: ylösalaisin maailman mieli näyttää erilaiselta*
 
 Pää on ihmeellisen kehomme huipentuma. Välillä aivoja ja sydäntä täytyy lepuuttaa, luoda katse kohti tukevaa maata. Luottaa ja uskaltaa olla väärinpäin. Tuntea maan vetovoima. Tässä 3-tuntisessa lähestymme pään huuhtelemista eri joogaliikkein, kehotekniikoin ja mielikuvin käyttäen apuna koko kehoa. Harjoitus tekee hyvää aivoille, ja luo suotuisan tilan helpolle meditaatiolle, johon päätämme puolipäiväsen. Talo tarjoaa teet, suklaata ja pähkinöitä :)
