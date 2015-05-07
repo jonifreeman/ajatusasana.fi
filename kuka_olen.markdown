@@ -22,4 +22,6 @@ Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-j
 
 [Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
 
+[UKKO.fi:n tekemä video](https://www.youtube.com/watch?v=YC8UwBy42Ro)
+
 [CV](cv.html)
