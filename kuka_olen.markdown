@@ -1,6 +1,6 @@
 ---
 title: Kuka olen
-image: stefi_syksy.jpg
+image: stefi3.jpg
 imagewidth: 170px
 ---
 Ajatus & Asana syntyi Huhtikuussa 2013.
