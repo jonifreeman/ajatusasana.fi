@@ -11,7 +11,7 @@ My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of 
 
 Believe me, I know what I'm talking about. I have encountered many losses within my 42-year trajectory, and tried to literally run away from life. Occasionally I have mistaken my head for my mind, hidden behind concpets and academic jargon. Scientific work and ambition, accompanied with (partly structural) competition, made my body and mind collapse a few times.  I made errors, overtaxed it’s capacity. However, yoga and other somatic approaches helped me tune dowm my “stress body”. I realized that what my body needed relaxing and winding down so that I could “hear” better. Through my daily yoga practice  and two-year yoga teacher training, I came to realize that being creative and productive does not require existential anguish or anxiety. I can be creative without stress if I stay true to my bodily sensations and emotions, that are telling me important things about my environment.  
 
-Gradually over a period of 14 years, my long lasting yoga hobby, turned into a lifestyle and professional calling. As a teacher, my most powerful teacher is the interaction with students, or what I  prefer to call "fellow yoga travellers".
+Gradually, over a period of 14 years, my long lasting yoga hobby turned into a lifestyle and professional calling. As a teacher, my most powerful teacher is the interaction with students, or what I  prefer to call "fellow yoga travellers".
 My holistic science-and yoga-based educationaly service combines scientific (psychological, sociological and fysiological-anatomical) knowledge of being a person-in-societywith sensitive embodied
 intuitive knowledge and ideology-free yoga. 
 
