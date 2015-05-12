@@ -1,6 +1,6 @@
 ---
 title: Who am I
-image: stefi_syksy.jpg
+image: stefi3.jpg
 imagewidth: 170px
 ---
 Ajatus & Asana was born in April 2013.
@@ -16,5 +16,7 @@ My holistic science-and yoga-based educationaly service combines scientific (psy
 intuitive knowledge and ideology-free yoga. 
 
 **My motto: Thoughts can be your friends. Asanas help you in the process.**
+
+[Publications](/en/publications.html)
 
 [CV](cv.html)
