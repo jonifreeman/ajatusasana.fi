@@ -15,4 +15,6 @@ Gradually, over a period of 14 years, my long lasting yoga hobby turned into a l
 My holistic science-and yoga-based educationaly service combines scientific (psychological, sociological and fysiological-anatomical) knowledge of being a person-in-societywith sensitive embodied
 intuitive knowledge and ideology-free yoga. 
 
+My motto: Thoughts can be your friends. Asanas help you in the process.
+
 [CV](cv.html)
