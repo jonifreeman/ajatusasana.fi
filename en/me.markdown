@@ -5,40 +5,15 @@ imagewidth: 170px
 ---
 Ajatus & Asana was born in April 2013.
 
-My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of Philosophy (Behavioural swciences) and M.A. (Educational sciences). One foot in science, the other one in wellbeing, the aim being to build a strong bridge 
-between the two. My 42 year life trajectory could be summarized through the
-following three partly overlapping phases: body first, head first, and
-body/mind in unison.
+I am here for You. 
 
-I lived the first third of my life through and for my body, teaching
-hip-hop-influenced aerobics and dance classes. Although I expressed
-myself through my body, and wanted to make others feel good through
-movement and music, I was not really listening to what my wise body was
-trying to tell me. I made errors, overtaxed it’s capacity.
+My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of Philosophy (Behavioural Sciences) and M.A. (Educational sciences).I feel as though I am a bridge and translator between the world of science and that of yoga. I love  all things spiritual, yoga, meditation, animals, books, drums and my new hobby climbing (bouldering). My passion is learning. I have been a teacher of physical exercise in some form or another since 1989, and have always experienced things highly somatically. As I travel this life, I try to keep my eyes and hearth open, and see upcoming obstacles and contradictions as developmental challenges. After all, there is always the possibility of a new and refreshing start. Indeed. the body/mind is a miraculous minicosmos! When properly tuned, it can solve many a problem.
 
-I started searching for answers in the academia. I was hungry for
-theoretical knowledge, and wanted to understand the workings of the
-human mind and contemporary society, to the extent that I defended my
-PhD thesis on volunteer Internet community construction and
-participants' motivation paths in 2011. I spent altogether 13 years in
-the world of ideas and “in the head”, even though the theoretical
-disciplines that I relate to–socio-cultural theory and cultural
-psychology–consider the relation between mind, body and society
-inseparable. Scientific work and ambition, accompanied with
-competition, made my body and mind collapse a few times. I had created
-myself a “stress body”. 
+Believe me, I know what I'm talking about. I have encountered many losses within my 42-year trajectory, and treed to literally run away from life. Occasionally I have mistaken my head for my mind, hiding  behind concpets and academic jargon. Scientific work and ambition, accompanied with (partly structural) competition, made my body and mind collapse a few times.  I made errors, overtaxed it’s capacity. However, yoga and other somatic approaches helpedme tune dowm my “stress body”. I realized that what my body needed relaxing and winding down so that I could “hear” better. Through my daily yoga practice  and two-year yoga teacher training, I came to realize that being creative and productive does not require existential anguish or anxiety. I can be creative without stress if I stay true to my bodily sensations and emotions, that are telling me important things about my environment.  
 
-The third phase of my life-to-date started a few years ago after my long lasting yoga
-hobby turned into a lifestyle and professional calling. I realized that what my body needed relaxing and
-winding down so that I could “hear” better. Through my daily yoga practice  and
-yoga teacher training, I came to realize that being creative and
-productive does not require existential anguish or anxiety. I can be
-creative without stress if I stay true to my bodily sensations and
-emotions, that are telling me important things about my environment. Understanding this meant
-the critical examination and use of theoretical concepts, and embodied
-experiential knowledge–finding my own rhythm of life. My holistic
-science-and yoga-based educationaly service combines scientific
-knowledge of being a person-in-society with sensitive embodied
-intuitive knowledge and ideology-free yoga. Finally, the Body and Mind can become One.
+
+Gradually over a period of 14 years, my long lasting yoga hobby, turned into a lifestyle and professional calling. As a teacher, my most powerful teacher is the interaction with students, or what I  prefer to call "fellow yoga travellers".
+My holistic science-and yoga-based educationaly service combines scientific (psychological, sociological and fysiological-anatomical) knowledge of being a person-in-society  with sensitive embodied
+intuitive knowledge and ideology-free yoga. 
 
 [CV](cv.html)
