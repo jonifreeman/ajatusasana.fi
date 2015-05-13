@@ -245,7 +245,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti sopii kaikille.
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
@@ -260,7 +260,7 @@ Tunnilla tehdään kehoa avaavia, palauttavia Hatha & Yin-tyyppisiä joogaliikke
 <a id="rytmi"></a>
 **RytmiJoogaTanssi**
 
-Tunnilla tehdään kokonainen koreografia eteerisen musiikin tahdissa. Yhdistelen monia joogan ja tanssin (enimmäkseen hiphopin, funkin ja kaiken muun vapaan olemisen) liikkeitä luovasti yhteen. Ja kylläpä tähän tuntiin vielä Djembe-Rumpukin jollain tavalla liittyy. Tule löytämään ikioma joogapulssisi! Järkkään teematunnin joku lauantai kevään 2015 aikana eli olkaa kuulolla! 
+Tunnilla tehdään kokonainen koreografia eteerisen musiikin tahdissa. Yhdistelen monia joogan, tanssin muun vapaan olemisen) liikkeitä luovasti yhteen. Ja kylläpä tähän tuntiin vielä Djembe-Rumpukin jollain tavalla liittyy. Tule löytämään ikioma rytmisi! Järkkään teematunnin joku lauantai kevään 2015 aikana eli olkaa kuulolla! 
 
 <a id="hiphop"></a>
 **HipHopJoogaNuorille**
