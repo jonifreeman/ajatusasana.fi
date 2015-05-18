@@ -250,7 +250,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaas
 <a id="rauhoittava"></a>
 **Rauhoittava iltajooga & Yoga Nidra**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. Tunti palaa takaisin  lukujärjestykseen Syyskuussa 2015. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
@@ -297,25 +297,6 @@ Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamise
 
 3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Omat eväät mukaan! Talo tarjoaa hyvää teetä. Joogapäivien ja joogatyöpajojen teemat ilmoitetaan hyvissä ajoin etukäteen! 
 
-*LA 23.5 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
-
-Tule ravitsemaan ja rentouttamaan keväinen kehosi moniulotteisella 3- tuntisella jooga -ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, somaattisin liikkein (kehotekniikoin) ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Talo tarjoaa teet, suklaata ja pähkinöitä :)
-
-Saat mukaasi kirjallista materiaalia, joka tukee kehotietoisuuden syventämistä.
-
-Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.) 
-
-Hinta: 50 € / hlö (sis. ALV)
-Eläkeläiset, työttmät & opiskelijat 40 € / hlö (sis. ALV)
-
-Voit maksaa smartum tai virikeseteleillä.
-
-Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. 
-
-Sitovat ilmoittautumiset 18.5 2014 mennessä. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
-
-
-
 *La 6.6 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti. Pään verenkierto: ylösalaisin maailman mieli näyttää erilaiselta*
 
 Pää on ihmeellisen kehomme huipentuma. Välillä aivoja ja sydäntä täytyy lepuuttaa, luoda katse kohti tukevaa maata. Luottaa ja uskaltaa olla väärinpäin. Tuntea maan vetovoima. Tässä 3-tuntisessa lähestymme pään huuhtelemista eri joogaliikkein, kehotekniikoin ja mielikuvin käyttäen apuna koko kehoa. Harjoitus tekee hyvää aivoille, ja luo suotuisan tilan helpolle meditaatiolle, johon päätämme puolipäiväsen. Talo tarjoaa teet, suklaata ja pähkinöitä :)
@@ -332,6 +313,23 @@ Voit maksaa smartum tai virikeseteleillä.
 Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. 
 
 Sitovat ilmoittautumiset 2.6 2014 mennessä. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
+
+*LA 5.9 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
+
+Tule ravitsemaan ja rentouttamaan keväinen kehosi moniulotteisella 3- tuntisella jooga -ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, somaattisin liikkein (kehotekniikoin) ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. Talo tarjoaa teet, suklaata ja pähkinöitä :)
+
+Saat mukaasi kirjallista materiaalia, joka tukee kehotietoisuuden syventämistä.
+
+Ajatus & Asana Joogahuoneella Viherlaaksossa Kavallinmäki 13 A (4 krs.) 
+
+Hinta: 50 € / hlö (sis. ALV)
+Eläkeläiset, työttmät & opiskelijat 40 € / hlö (sis. ALV)
+
+Voit maksaa smartum tai virikeseteleillä.
+
+Tapahtuma pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. 
+
+Sitovat ilmoittautumiset 18.5 2014 mennessä. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.
 
 * Ajatus & Asana miniretriitti: Selkärangan hyvinvointi ja parantavat kierrot* Ajakohta ilmoitetaan myöhemmin!
 
