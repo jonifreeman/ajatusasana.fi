@@ -33,8 +33,8 @@ title: Viherlaakso / Leppävaara / Espoo
 
 <div class="ale">
 
-Kesätarjous!
-============
+Kesätarjous uusille asiakkaille!
+================================
 
 <div class="prices">
 
