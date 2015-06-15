@@ -83,11 +83,7 @@ Viikko-ohjelma
 <tr>
  <td></td>
  <td></td>
- <td>
- <div class="course">
-  Hoitoaikoja klo 17 -><br /> Kyselyt Emmi Kaasalainen +358505283728 <a href="mailto:emmikaasalainen@yahoo.com">emmikaasalainen@yahoo.com</a>
- </div>
- </td>
+ <td></td>
  <td></td>
  <td>
  </td>
@@ -118,10 +114,14 @@ Viikko-ohjelma
 
 <!-- ~17:00 -->
 <tr>
+ <td></td>
+ <td></td>
  <td>
+ <div class="session">
+  **17.00 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Joogakurssi](#joogakurssi)
+ </div>
  </td>
- <td></td>
- <td></td>
  <td>
  </td>
  <td>
@@ -148,7 +148,12 @@ Viikko-ohjelma
   [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
- <td></td>
+ <td>
+ <div class="session">
+  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  <span class="teaser">Lokuuussa 2015 starttaa aivan uudenlainen tanssillinen Jooga & Liike-tunti</span>
+ </div>
+ </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
@@ -175,6 +180,7 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 * [HipHopJoogaNuorille](#hiphop)
 * [Koirakkojoogameditaatio](#dog)
 
+Kysy hoitoaikoja Osteopaatti Emmi Kaasalaiselta puh. +358505283728 tai emmikaasalainen@yahoo.com
 
 <div class="prices">
 

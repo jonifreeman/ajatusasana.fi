@@ -33,8 +33,8 @@ title: Viherlaakso / Leppävaara / Espoo
 
 <div class="ale">
 
-Kesätarjous!
-============
+Kesätarjous uusille asiakkaille!
+================================
 
 <div class="prices">
 
@@ -83,11 +83,7 @@ Viikko-ohjelma
 <tr>
  <td></td>
  <td></td>
- <td>
- <div class="course">
-  Hoitoaikoja klo 17 -><br /> Kyselyt Emmi Kaasalainen +358505283728 <a href="mailto:emmikaasalainen@yahoo.com">emmikaasalainen@yahoo.com</a>
- </div>
- </td>
+ <td></td>
  <td></td>
  <td>
  </td>
@@ -118,10 +114,14 @@ Viikko-ohjelma
 
 <!-- ~17:00 -->
 <tr>
+ <td></td>
+ <td></td>
  <td>
+ <div class="session">
+  **17.00 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Joogakurssi](#joogakurssi)
+ </div>
  </td>
- <td></td>
- <td></td>
  <td>
  </td>
  <td>
@@ -148,7 +148,12 @@ Viikko-ohjelma
   [Lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
- <td></td>
+ <td>
+ <div class="session">
+  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  <span class="teaser">Lokuuussa 2015 starttaa aivan uudenlainen tanssillinen Jooga & Liike-tunti</span>
+ </div>
+ </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
@@ -175,6 +180,7 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 * [HipHopJoogaNuorille](#hiphop)
 * [Koirakkojoogameditaatio](#dog)
 
+Kysy hoitoaikoja Osteopaatti Emmi Kaasalaiselta puh. +358505283728 tai emmikaasalainen@yahoo.com
 
 <div class="prices">
 
@@ -267,9 +273,9 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, 
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
-**Rauhoittava iltajooga & Yoga Nidra**
+**Palauttava lempeä jooga & Yoga Nidra**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Tunti sopii kaikille. Tunti palaa takaisin  lukujärjestykseen Syyskuussa 2015. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Syvä tietoisen rentoutumisen harjoitus Jooga Nidra on oiva tapa sukeltaa syvälle omaan kehoon. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sinun ainoa tehtävä on maata paikallaan silmät suljettuna ja nauttia.Tunti sopii kaikille. Tunti palaa takaisin  lukujärjestykseen Syyskuussa 2015. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**

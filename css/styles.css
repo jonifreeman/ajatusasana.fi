@@ -7,6 +7,10 @@
   background-color: #ffcf00;
 }
 
+ul {
+  margin-bottom: 12px;
+}
+
 .logo {
   margin-left: 40px;
 }
@@ -384,4 +388,8 @@ blockquote cite:before {
 
 section {
   padding: 30px 0 20px 0;
+}
+
+.teaser {
+  color: #a8d733;
 }
