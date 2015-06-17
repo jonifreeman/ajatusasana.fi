@@ -151,7 +151,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  <span class="teaser">Lokuuussa 2015 starttaa aivan uudenlainen tanssillinen Jooga & Liike-tunti</span>
+  <span class="teaser">Syyskuussa 2015 starttaa aivan uudenlainen tanssillinen Jooga & Liike-tunti</span>
  </div>
  </td>
  <td>
