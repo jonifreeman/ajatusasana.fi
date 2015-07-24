@@ -31,23 +31,6 @@ title: Viherlaakso / Leppävaara / Espoo
   </div>
 </div>
 
-<div class="ale">
-
-Kesätarjous uusille asiakkaille!
-================================
-
-<div class="prices">
-
------     -------------------------
-5 x 1,5 h 95 € (norm. 115 €)
-          75 € (norm. 95 €, opiskelijat, eläkeläiset, työttömät)
------     -------------------------
-
-</div>
-
-Voimassa 3 kk ostopäivästä.
-
-</div>
 
 Viikko-ohjelma
 ==============
