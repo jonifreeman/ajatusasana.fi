@@ -140,7 +140,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Hidas lempeän vahvistava jooga](#hidas)
+ [Palauttava lempeä jooga & jooga nidra rentoutus](#rauhoittava)
  </div>
  </td>
  <td></td>
@@ -256,7 +256,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, 
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
-**Palauttava lempeä jooga & Yoga Nidra**
+**Palauttava lempeä jooga & jooga nidra rentoutus**
 
 Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Syvä tietoisen rentoutumisen harjoitus Jooga Nidra on oiva tapa sukeltaa syvälle omaan kehoon. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sinun ainoa tehtävä on maata paikallaan silmät suljettuna ja nauttia.Tunti sopii kaikille. Tunti palaa takaisin  lukujärjestykseen Syyskuussa 2015. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
