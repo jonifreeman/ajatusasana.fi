@@ -31,6 +31,14 @@ title: Viherlaakso / Leppävaara / Espoo
   </div>
 </div>
 
+Viherlaakson Joogahuoneen 1-vuotis syntymäpäivä
+===============================================
+
+<div class="ale">
+
+LA 29.8 2015 ilmaiset tutustumistunnit Viherlaakson Joogahuoneen 1-vuotis syntymäpäivän kunniaksi! Ilmoittaduthan pian, sillä paikkoja rajoitettu määrä. Katso [esite](/img/mainos_tutustumispaiva2015.png).
+
+</div>
 
 Viikko-ohjelma
 ==============
@@ -58,7 +66,12 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td></td>
- <td></td>
+ <td>
+ <div class="course">
+  **10.00 - 11.30** <br /> <img class="signup" src="/img/signup.png"></img>
+  Ajatus & Asana 1v syntymäpäivä, joogatunti
+ </div>
+ </td>
  <td></td>
 </tr>
 
@@ -71,10 +84,12 @@ Viikko-ohjelma
  <td>
  </td>
  <td>
+<!--
  <div class="course">
   <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
+-->
  </td>
  <td>
  <div class="course">
@@ -90,7 +105,12 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td></td>
- <td></td>
+ <td>
+ <div class="course">
+  **12.30 - 14.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  Ajatus & Asana 1v syntymäpäivä, Dance Trigger
+ </div>
+ </td>
  <td>
  </td>
 </tr>
