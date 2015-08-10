@@ -13,7 +13,7 @@ Ajatus & Asana on käyttäytymistieteellistä tutkimustietoa ja meditatiivista j
 
 Jokainen joogapolku on arvokas ja alkaa juuri oikeasta kohdasta elämää. Kun kuuntelee tarkkaavaisena kehon sisällä syntyvää tilaa, tietää, että nyt on aika. Silloin jooga kutsuu luokseen, ja ottaa avosylin vastaan. 
 
-Kehon viisautta ei voita mikään. Se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttään. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule jo vaikka tänään!
+Kehon viisautta kannattaa kuunnella. Se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttään. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule jo vaikka tänään!
 
 Suurella sydämellä,
 
