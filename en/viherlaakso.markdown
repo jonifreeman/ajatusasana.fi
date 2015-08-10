@@ -121,8 +121,8 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **17.00 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogakurssi](#joogakurssi)
+  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Lempeän vahvistava jooga (alkaa syyskuussa)](#vahvistava)
  </div>
  </td>
  <td>
