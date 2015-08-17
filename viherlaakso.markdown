@@ -122,7 +122,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava jooga (alkaa syyskuussa)](#vahvistava)
+  [Hidas lempeän vahvistava jooga (alkaa syyskuussa)](#vahvistava)
  </div>
  </td>
  <td>
@@ -130,7 +130,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogameditaatio](#joogameditaatio)
+  [Palauttava lempeä jooga](#palauttava)
  </div>
  </td>
  <td></td>
@@ -148,19 +148,19 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava jooga](#vahvistava)
+  [Hidas lempeän vahvistava jooga](#vahvistava)
  </div>
  </td>
  <td>
  <div class="session">
   **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  <span class="teaser">Syyskuussa 2015 starttaa aivan uudenlainen tanssillinen Jooga & Liike-tunti</span>
+  [Jooga & Liike 'Dance Trigger' (alkaa syyskuussa)](#trigger)
  </div>
  </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Palauttava lempeä jooga & jooga nidra rentoutus](#rauhoittava)
+ [Yin jooga & syvärentoutus](#rauhoittava)
  </div>
  </td>
  <td></td>
@@ -284,6 +284,11 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyp
 **Palauttava lempeä jooga**
 
 Tunnilla tehdään kehoa avaavia, palauttavia Hatha & Yin-tyyppisiä joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+
+<a id="trigger"></a>
+**Jooga & Liike 'Dance Trigger'**
+
+
 
 <a id="rytmi"></a>
 **RytmiJoogaTanssi**
