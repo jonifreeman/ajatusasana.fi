@@ -275,7 +275,7 @@ Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin joogalle tyyppisiä
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
-Tunnilla tehdään kehoa avaavia, palauttavia joogavälineillä tuettuja (Hatha & Kundalini) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha & Kundalini) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Jooga & Liike 'Dance Trigger'**
