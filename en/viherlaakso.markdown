@@ -173,13 +173,14 @@ Viikko-ohjelma
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889).
 
+Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä.
+
 
 Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 ==================================================
 
 * [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
-* [RytmiJoogaTanssi](#rytmi)
 * [HipHopJoogaNuorille](#hiphop)
 * [Koirakkojoogameditaatio](#dog)
 
@@ -196,7 +197,7 @@ Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
-<img itemprop="image" class="product-image" src="/img/viher7.jpg"/>
+<img itemprop="image" class="product-image" src="/img/viher8.jpg"/>
 
 <span itemprop="name">Kertamaksu</span> 
 ----------
