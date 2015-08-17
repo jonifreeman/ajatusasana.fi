@@ -122,7 +122,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Hidas lempeän vahvistava jooga (alkaa syyskuussa)](#vahvistava)
+  [Hidas lempeän vahvistava jooga (alkaa syyskuussa)](#hidas)
  </div>
  </td>
  <td>
@@ -148,7 +148,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Hidas lempeän vahvistava jooga](#vahvistava)
+  [Hidas lempeän vahvistava jooga](#hidas)
  </div>
  </td>
  <td>
@@ -265,60 +265,29 @@ Tuntikuvaukset
 
 Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen.
 
-<a id="vahvistava"></a>
-**Lempeän vahvistava jooga**
-
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä  rauhallisesti, turvallisesti ja omaa kehoa kuunnellen. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Sopii jo jokun verran joogaa harrastaneelle.
-
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
-
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
-**Palauttava lempeä jooga & jooga nidra rentoutus**
-
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Hatha & Yin jooga-tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, syvärauhoittaa hermostoa, ja toimii siten tehokkaana stressinpoistajana. Lopuksi tehdään syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra).Syvä tietoisen rentoutumisen harjoitus Jooga Nidra on oiva tapa sukeltaa syvälle omaan kehoon. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sinun ainoa tehtävä on maata paikallaan silmät suljettuna ja nauttia.Tunti sopii kaikille. Tunti palaa takaisin  lukujärjestykseen Syyskuussa 2015. *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+**Yin jooga & ohjattu syvärentoutus**
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin joogalle tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, hoitta niveliä ja syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
-
-Tunnilla tehdään kehoa avaavia, palauttavia Hatha & Yin-tyyppisiä joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen pääasiallisesti joogatukivälineitä käyttäen. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha & Kundalini) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Jooga & Liike 'Dance Trigger'**
-
-
-
-<a id="rytmi"></a>
-**RytmiJoogaTanssi**
-
-Tunnilla tehdään kokonainen koreografia eteerisen musiikin tahdissa. Yhdistelen monia joogan, tanssin muun vapaan olemisen) liikkeitä luovasti yhteen. Ja kylläpä tähän tuntiin vielä Djembe-Rumpukin jollain tavalla liittyy. Tule löytämään sisäinen tanssijasi!  
+Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="hiphop"></a>
 **HipHopJoogaNuorille**
-HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. 
-
-* HUOM! Viherlaakson Ajatus & Asana Joogahuone on mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. [http://lumosleiri.blogspot.fi/p/blog-page_29.html](http://lumosleiri.blogspot.fi/p/blog-page_29.html)
-
-
-<a id="joogameditaatio"></a>
-**Joogameditaatio**
-
- Joogameditaatiossa yhdistyvät monen eri joogasuuntauksen ideat ja liikkeet luovalla tavalla. Tunnin aluksi avataan kehoa lempeästi vahvistavilla ja palauttavilla joogaliikeillä sekä pranayma hengitysharjoituksilla.Joogaan kuuluu olennaisena osana meditaatio, ja joogaliikkeiden tehtävänä onkin valmistaa keho istumameditaatioon. Tunti sopii kaikille.
+HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. (Viherlaakson Ajatus & Asana Joogahuone oli mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. [http://lumosleiri.blogspot.fi/p/blog-page_29.html](http://lumosleiri.blogspot.fi/p/blog-page_29.html)
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
-
-Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu,ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
-
-Seuraavat koirakkojoogameditaatiotunnit:
-
-su 15.2 2015 klo. 15.45-16.30. Hinta 20 €
-su 1.3 2015  klo. 15.45-16.30. Hinta 20 €
-
-Tervetuloa kokeilemaan! 
-
+Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
