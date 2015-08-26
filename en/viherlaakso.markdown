@@ -40,7 +40,9 @@ LA 29.8 2015 ilmaiset tutustumistunnit Viherlaakson Joogahuoneen 1-vuotis syntym
 
 </div>
 
+<!--
 Jos et mahtunut tunnille niin tervetuloa kokeilemaan puoleen hintaan mitä tahansa viikkotuntia syyskuun ensimmäisellä viikolla. Voit myös jättää yhteystietosi mikäli tulee peruutuspaikkoja.
+-->
 
 Viikko-ohjelma
 ==============
@@ -71,9 +73,11 @@ Viikko-ohjelma
  <td>
  <div class="course">
   **10.00 - 11.30** <br /> 
-  Ajatus & Asana 1v syntymäpäivä, joogatunti
+  Ajatus & Asana 1v syntymäpäivä, joogatunti <img class="signup" src="/img/signup.png"></img>
+  <!--
   <b style="color:red;">TÄYNNÄ</b>
   Jos et mahtunut, tervetuloa kokeilemaan puoleen hintaan mitä tahansa viikkotuntia syyskuun ensimmäisellä viikolla.
+  -->
  </div>
  </td>
  <td></td>
@@ -236,7 +240,9 @@ Sarjakortit
 
 *Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 (90 min) tuntia, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
 
-*Viherlaakson Joogahuoneella et kyllästy: kaikki tunnit ovat erilaisia, sillä ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
+*Voit aloittaa pienryhmissä joogailun ympäri vuoden. Vaikka tietyille viikkotunneille muodostuvatkin omat ryhmänsä, nämä ihanat ihmiset ottavat aina avosylin vastaan!*
+
+*Täällä et kyllästy: kaikki tunnit ovat erilaisia, sillä ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
 
 Motivoivat Ajatus & Asana joogakurssit 
 --------------------------------------
