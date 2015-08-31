@@ -10,7 +10,7 @@ Freeman, S. (2014). [Motivaatio Joogamatolla](/ananda.html). [Ananda](http://www
 
 ## Peer-reviewed articles 
 
-Freeman, S. (2015) Immersed In Pellet Technology: Motivation Paths of Innovative DIYers. Outlines. Critical Practice Studies. Vol 16, No. 1.
+Freeman, S. (2015). Immersed In Pellet Technology: Motivation Paths of Innovative DIYers. Outlines. Critical Practice Studies. Vol 16, No. 1.
 
 Hyysalo, S., Helminen, P., Mäkinen, S., Johnson, M., Juntunen, J.K., Freeman, S. (2015).Intermediate Search Elements and Method Combination in Lead-User Searches. International Journal of Innovation Management. Vol. 19, No. 1 (February 2015).
 
