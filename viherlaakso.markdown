@@ -285,15 +285,6 @@ Seuraava joogakurssi alkaa Elokuussa, aina keskiviikkoisin klo. 17.00-18.15. Yht
 
 3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla tulevat teemat.
 
-*LA 5.9 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
-
-Tule ravitsemaan ja rentouttamaan keväinen kehosi moniulotteisella 3- tuntisella jooga -ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, somaattisin liikkein (kehotekniikoin) ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. 
-
-*La 26.9 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti. Pään verenkierto: ylösalaisin maailman mieli näyttää erilaiselta*
-
-Pää on ihmeellisen kehomme huipentuma. Välillä aivoja ja sydäntä täytyy lepuuttaa, luoda katse kohti tukevaa maata. Luottaa ja uskaltaa olla väärinpäin. Tuntea maan vetovoima. Tässä 3-tuntisessa lähestymme pään huuhtelemista eri joogaliikkein, kehotekniikoin ja mielikuvin käyttäen apuna koko kehoa. Harjoitus tekee hyvää aivoille, ja luo suotuisan tilan helpoille meditaatioharjoituksille, joihin päätämme puolipäiväsen. 
-
-
 *LA 3.10 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Selkärangan hyvinvointi ja parantavat kierrot* 
 
 Se on normaalitilassa S-muotoinen, joustava ja tukeva. S niinkuin selkäranka. 32 voitelua ja lempeyttä vaativaa nikamaa. Selkälihasten ja vatsalihasten tukeakin kaipaavat. Jos olisin nelijalkainen koira tai kissa, ei lannerankani kuormittuisi niin paljon, mutta ihminen kun olen, kaksin jaloin komistettu, seisoessani ja istuessani, paine pakkaantuu eniten lannerankaan. Rankani kaipaa rakkautta. Siksi suuntaan 3-tunnin miniretriittiin Espoon Viherlaakson Ajatus & Asana Joogahuoneelle, jossa hitaasti ja lempeydellä, kierrämme, suoristamme, ojennamme, ja pyöristämme kehomme taikavipua. Lopuksi annamme rangan rentoutua ja kuuntelemme meditaation keinoin, mitä se meille kuiskii.
