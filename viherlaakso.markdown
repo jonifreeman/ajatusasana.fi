@@ -31,19 +31,6 @@ title: Viherlaakso / Leppävaara / Espoo
   </div>
 </div>
 
-Viherlaakson Joogahuoneen 1-vuotis syntymäpäivä
-===============================================
-
-<div class="ale">
-
-LA 29.8 2015 ilmaiset tutustumistunnit Viherlaakson Joogahuoneen 1-vuotis syntymäpäivän kunniaksi! Ilmoittaduthan pian, sillä paikkoja rajoitettu määrä. Katso [esite](/img/mainos_tutustumispaiva2015.png).
-
-</div>
-
-<!--
-Jos et mahtunut tunnille niin tervetuloa kokeilemaan puoleen hintaan mitä tahansa viikkotuntia syyskuun ensimmäisellä viikolla. Voit myös jättää yhteystietosi mikäli tulee peruutuspaikkoja.
--->
-
 Viikko-ohjelma
 ==============
 
@@ -71,14 +58,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="course">
-  **10.00 - 11.30** <br /> 
-  Ajatus & Asana 1v syntymäpäivä, joogatunti <img class="signup" src="/img/signup.png"></img>
-  <!--
-  <b style="color:red;">TÄYNNÄ</b>
-  Jos et mahtunut, tervetuloa kokeilemaan puoleen hintaan mitä tahansa viikkotuntia syyskuun ensimmäisellä viikolla.
-  -->
- </div>
  </td>
  <td></td>
 </tr>
@@ -92,12 +71,10 @@ Viikko-ohjelma
  <td>
  </td>
  <td>
-<!--
  <div class="course">
   <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
--->
  </td>
  <td>
  <div class="course">
@@ -114,10 +91,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="course">
-  **12.30 - 14.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  Ajatus & Asana 1v syntymäpäivä, Dance Trigger
- </div>
  </td>
  <td>
  </td>
@@ -130,7 +103,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Hidas lempeän vahvistava jooga (alkaa syyskuussa)](#hidas)
+  [Hidas lempeän vahvistava jooga](#hidas)
  </div>
  </td>
  <td>
@@ -162,7 +135,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Jooga & Liike 'Dance Trigger' (alkaa syyskuussa)](#trigger)
+  [Jooga & Liike 'Dance Trigger'](#trigger)
  </div>
  </td>
  <td>
