@@ -107,6 +107,10 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
+ <div class="session">
+  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Jooga & Liike 'Dance Trigger'](#trigger)
+ </div>
  </td>
  <td>
  <div class="session">
@@ -133,10 +137,6 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
- <div class="session">
-  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Jooga & Liike 'Dance Trigger'](#trigger)
- </div>
  </td>
  <td>
  <div class="session">

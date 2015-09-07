@@ -107,6 +107,10 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
+ <div class="session">
+  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Jooga & Liike 'Dance Trigger'](#trigger)
+ </div>
  </td>
  <td>
  <div class="session">
@@ -133,10 +137,6 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
- <div class="session">
-  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Jooga & Liike 'Dance Trigger'](#trigger)
- </div>
  </td>
  <td>
  <div class="session">
@@ -184,7 +184,7 @@ Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 ----------
 
 -----     -------------------------
-1,5 h      25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
+90 min     25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
            21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
 -----     -------------------------
 
@@ -194,16 +194,16 @@ Yksityistunnit / -ryhmät
 -------------------------
 
 -----      ------------------------
-1,5 h       110 €
+90 min     110 €
 -----      ------------------------
 
 Sarjakortit
 -----------
 
 ---------- ---------------------------------
- 5 x 1,5 h  115 € (Voimassa 3 kk ostopäivästä)
+ 5 x 90 min 115 € (Voimassa 3 kk ostopäivästä)
             95 € (opiskelijat, eläkeläiset, työttömät)
-10 x 1,5 h  200 € (Voimassa 6 kk ostopäivästä)
+10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
             170 € (opiskelijat, eläkeläiset, työttömät)
 ---------- ---------------------------------
 
@@ -211,7 +211,7 @@ Sarjakortit
 
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 (90 min) tuntia, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
 
 *Voit aloittaa pienryhmissä joogailun ympäri vuoden. Vaikka tietyille viikkotunneille muodostuvatkin omat ryhmänsä, nämä ihanat ihmiset ottavat aina avosylin vastaan!*
 
@@ -221,7 +221,7 @@ Motivoivat Ajatus & Asana joogakurssit
 --------------------------------------
 
 --------- --------------------------------------------------------
-4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
+4 x 75 min 140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
            120 € (opiskelijat, eläkeläiset, työttömät)
 --------- --------------------------------------------------------
 
@@ -251,15 +251,15 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
 **Yin jooga & ohjattu syvärentoutus**
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin joogalle tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, hoitta niveliä ja syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin jooga liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaali sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
-Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha & Kundalini) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha, Kundalini & Iyengar) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Jooga & Liike 'Dance Trigger'**
@@ -284,15 +284,6 @@ Seuraava joogakurssi alkaa Elokuussa, aina keskiviikkoisin klo. 17.00-18.15. Yht
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
 3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla tulevat teemat.
-
-*LA 5.9 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Lantion ja Mielen Vapaus*
-
-Tule ravitsemaan ja rentouttamaan keväinen kehosi moniulotteisella 3- tuntisella jooga -ja meditaatioharjoituksella! Puolipäiväisen teemana on lantion vapauttaminen ja mielen vapautumisen mahdollisuuksien nautiskeleva tutkiskelu. Lähestymme lantiota eri asanoin, somaattisin liikkein (kehotekniikoin) ja mielikuvin rauhallisessa rytmissä. Välillä pysähdymme jakamaan kokemuksia ja mahdollisia kysymyksiä harjoituksen vaikutuksista hyvän teen merkeissä. 
-
-*La 26.9 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti. Pään verenkierto: ylösalaisin maailman mieli näyttää erilaiselta*
-
-Pää on ihmeellisen kehomme huipentuma. Välillä aivoja ja sydäntä täytyy lepuuttaa, luoda katse kohti tukevaa maata. Luottaa ja uskaltaa olla väärinpäin. Tuntea maan vetovoima. Tässä 3-tuntisessa lähestymme pään huuhtelemista eri joogaliikkein, kehotekniikoin ja mielikuvin käyttäen apuna koko kehoa. Harjoitus tekee hyvää aivoille, ja luo suotuisan tilan helpoille meditaatioharjoituksille, joihin päätämme puolipäiväsen. 
-
 
 *LA 3.10 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Selkärangan hyvinvointi ja parantavat kierrot* 
 
