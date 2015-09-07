@@ -184,7 +184,7 @@ Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 ----------
 
 -----     -------------------------
-1,5 h      25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
+90 min     25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
            21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
 -----     -------------------------
 
@@ -194,16 +194,16 @@ Yksityistunnit / -ryhmät
 -------------------------
 
 -----      ------------------------
-1,5 h       110 €
+90 min     110 €
 -----      ------------------------
 
 Sarjakortit
 -----------
 
 ---------- ---------------------------------
- 5 x 1,5 h  115 € (Voimassa 3 kk ostopäivästä)
+ 5 x 90 min 115 € (Voimassa 3 kk ostopäivästä)
             95 € (opiskelijat, eläkeläiset, työttömät)
-10 x 1,5 h  200 € (Voimassa 6 kk ostopäivästä)
+10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
             170 € (opiskelijat, eläkeläiset, työttömät)
 ---------- ---------------------------------
 
@@ -211,7 +211,7 @@ Sarjakortit
 
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 (90 min) tuntia, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
 
 *Voit aloittaa pienryhmissä joogailun ympäri vuoden. Vaikka tietyille viikkotunneille muodostuvatkin omat ryhmänsä, nämä ihanat ihmiset ottavat aina avosylin vastaan!*
 
@@ -221,7 +221,7 @@ Motivoivat Ajatus & Asana joogakurssit
 --------------------------------------
 
 --------- --------------------------------------------------------
-4 x 1,5 h  140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
+4 x 75 min 140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
            120 € (opiskelijat, eläkeläiset, työttömät)
 --------- --------------------------------------------------------
 
@@ -251,15 +251,15 @@ Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuolise
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Tunnilla yhdistetään monen eri joogasuuntauksen ideoita ja liikkeitä. Vahvistaa lihaksia,lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
 **Yin jooga & ohjattu syvärentoutus**
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin joogalle tyyppisiä liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Venyttää lihasten lisäksi sidekudosta, hoitta niveliä ja syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin jooga liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaali sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
-Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha & Kundalini) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha, Kundalini & Iyengar) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Jooga & Liike 'Dance Trigger'**
