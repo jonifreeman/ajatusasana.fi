@@ -11,9 +11,9 @@ Nimeni on Stephanie Freeman. Olen jooga-ja kehotietoisuuden opettaja/ohjaaja/kou
 
 Tiedän, mistä puhun, sillä 42-vuotisen matkani varrella olen kokenut monenmoisia menetyksiä. Olen välillä juossut keho edellä elämääni karkuun. Välillä erehtynyt luulemaan pelkkää päätäni kehoksi, ja piiloutunut käsitteiden taakse. Tieteellinen työ, kunnianhimo ja siihen liittyvä kova (rakenteistakin johtuva) kilpailu tuottivat minulle"stressikehon", jonka purkamisessa jooga (ja meditaatio) ja monet muut somaattiset menetelmät ovat olleet avainasemassa. Kehoni huusi hiljentymistä ja rentoutumista, ja huomasinkin, että voin olla luova ilman stressiä jos kuuntelen, mitä kehoni ja tunteeni minulle ympäristöstäni ja itsestäni kertovat. 
 
-Joogasta tuli 14 vuoden aikana henkinen, psyykkinen, sosiaalinen ja fyysinen voimavara. Siitä tuli rakas elämätapa, ja työ, jonka sinetöi 2-vuotinen jooga-ohjaakoulutus sekä jatkuva syvenevä itseopiskelu-ja tutkiskelu. Suurin opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa, kanssajoogaaminen. En olisi opettaja ilman heidän hienoja omakohtaisia oivalluksia ja suurta luottamusta.
+Joogasta tuli 14 vuoden aikana henkinen, psyykkinen, sosiaalinen ja fyysinen voimavara. Siitä tuli rakas elämätapa, ja työ, jonka sinetöi 2-vuotinen joogaohjaakoulutus sekä jatkuva syvenevä itseopiskelu-ja tutkiminen. Suurin opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa, kanssajoogaaminen. En olisi opettaja ilman heidän hienoja omakohtaisia oivalluksia ja suurta luottamusta.
 
-Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdistyvät tieteellinen (psykologinen, yhteiskunnallinen ja fysiologis-anatominen) ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto, aate-vapaa jooga, ja rytmien ilo. 
+Tässä ja nyt, kokonaisvaltaisen hyvinvointikoulutuspalveluni äärellä, yhdistyvät tieteellinen (psykologinen, yhteiskunnallinen ja fysiologis-anatominen) ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto ja aate-vapaa jooga.
 
 **Motto: Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.**
 
