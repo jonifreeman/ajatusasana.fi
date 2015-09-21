@@ -24,6 +24,4 @@ Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-j
 
 [Julkaisut](/julkaisut.html)
 
-[CV](cv.html)
-
 <iframe width="854" height="510" src="https://www.youtube.com/embed/YC8UwBy42Ro" frameborder="0" allowfullscreen></iframe>

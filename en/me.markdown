@@ -19,4 +19,4 @@ intuitive knowledge and ideology-free yoga.
 
 [Publications](/en/publications.html)
 
-[CV](cv.html)
+
