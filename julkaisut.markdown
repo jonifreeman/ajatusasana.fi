@@ -32,20 +32,6 @@ Freeman, S., Moisander, J. & Stenfors, S. (2004). Akateemiset Mallit
 Yritysten Oppimisympäristöissä (Academic Models in Business Learning
 Environments). Aikuiskasvatus 4/2004, 309-321.  
 
-## Non-peer-reviewed articles 
-Mäkinen, Helminen, Hyysalo, Juntunen, Johnson & Freeman. (2013). “Mountaineering-a combinatory approach for identifying lead users and other rare research subjects ”. Working Papers. Department of Industrial Engineering and Management. https://aaltodoc.aalto.fi/bitstream/handle/123456789/8978/isbn9789526051116.pdf?sequence=1. 
-
-Freeman, S. (2005). Opening the Office: Motivation and Emerging
-Patterns of Participation in a Firm-Community 'Hybrid' Free and Open
-Source Software Project. Extended research plan. Working Papers
-33/2005. Center for Activity Theory and Developmental Work
-Research. University of Helsinki.  
-
-Siltala, Freeman & Miettinen. (2007). " Exploring the tensions between
-volunteers and firms in hybrid projects". Working Papers
-36/2007. Center for Activity Theory and Developmental Work
-Research. University of Helsinki.  
-
 ## Scientific monographs
 
 Miettinen, R., Toikka, K.,  Tuunainen, J., Freeman,S., Lehenkari, J., Leminen, J. &  Siltala, J.
