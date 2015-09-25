@@ -165,8 +165,6 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 * [HipHopJoogaNuorille](#hiphop)
 * [Koirakkojoogameditaatio](#dog)
 
-Kysy hoitoaikoja Osteopaatti Emmi Kaasalaiselta puh. +358505283728 tai emmikaasalainen@yahoo.com
-
 <div class="prices">
 
 Hinnasto
