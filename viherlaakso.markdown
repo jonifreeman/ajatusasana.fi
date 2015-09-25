@@ -255,7 +255,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joo
 
 <a id="rauhoittava"></a>
 **Yin jooga & ohjattu syvärentoutus**
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin jooga liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaali sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin jooga liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaali sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra)/ itsekehittämiäni kehomeditaatioita. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
