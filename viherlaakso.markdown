@@ -172,7 +172,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
-Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
+Voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
