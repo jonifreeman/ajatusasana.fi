@@ -247,7 +247,7 @@ Koirakkojoogameditaatio ja rentoutus
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen.
+Kaikilla tunneilla yhdistetään Hatha, Kundalini, Yin & Iyengar joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio on olennainen osa kokonaisvaltaista joogaa.
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
