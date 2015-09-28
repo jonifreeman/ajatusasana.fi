@@ -287,4 +287,14 @@ Seuraava joogakurssi alkaa Elokuussa, aina keskiviikkoisin klo. 17.00-18.15. Yht
 
 Se on normaalitilassa S-muotoinen, joustava ja tukeva. S niinkuin selkäranka. 32 voitelua ja lempeyttä vaativaa nikamaa. Selkälihasten ja vatsalihasten tukeakin kaipaavat. Jos olisin nelijalkainen koira tai kissa, ei lannerankani kuormittuisi niin paljon, mutta ihminen kun olen, kaksin jaloin komistettu, seisoessani ja istuessani, paine pakkaantuu eniten lannerankaan. Rankani kaipaa rakkautta. Siksi suuntaan 3-tunnin miniretriittiin Espoon Viherlaakson Ajatus & Asana Joogahuoneelle, jossa hitaasti ja lempeydellä, kierrämme, suoristamme, ojennamme, ja pyöristämme kehomme taikavipua. Lopuksi annamme rangan rentoutua ja kuuntelemme meditaation keinoin, mitä se meille kuiskii.
 
+*LA 14.11 2015 klo. 14.00-17.00 Ajatus & Asana miniretriitti:Puhdistava lempeä tulihengitys, syvä lempeä ujjayihengitys, luonnollinen hengitys, virkistävät asanat & mielen kirkkaus.*
+
+Hengitys hoitaa, kirkastaa, yhdistää, suojaa ja luo uutta.
+Omaa hengitystä voi tutkia ja tarkkailla.
+Siitä voi oppia. Koko elämän ajan.
+Tietoinen hengitys vie lähemmäksi totuutta.
+Totuutta, jonka vain keho voi täysin ymmärtää.
+
+Tässä 3-tuntisessa syvennymme joogahengitykseen. Yhdistämme erilaisia hengitystekniikoita eri asanoihin. Päätämme päivän meditaatioon. Ammennan opetuksessa Kundalinijoogasta ja Hathajoogasta.Olen tutkinut paljon hengitystä, ja löytänyt lempeän tavan tehdä voimakkaitakin hengitysharjoituksia. Haluan jakaa tätä tietoa eteenpäin. Sydämellisesti tervetuloa :) 
+
 
