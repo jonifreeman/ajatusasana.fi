@@ -98,7 +98,12 @@ Viikko-ohjelma
 
 <!-- ~17:00 -->
 <tr>
- <td></td>
+ <td>
+ <div class="session">
+  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Lempeän Joogan Alkeet](#alkeet)
+ </div>
+ </td>
  <td></td>
  <td>
  <div class="session">
@@ -165,8 +170,6 @@ Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 * [HipHopJoogaNuorille](#hiphop)
 * [Koirakkojoogameditaatio](#dog)
 
-Kysy hoitoaikoja Osteopaatti Emmi Kaasalaiselta puh. +358505283728 tai emmikaasalainen@yahoo.com
-
 <div class="prices">
 
 Hinnasto
@@ -174,7 +177,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
-Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
+Voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
@@ -247,30 +250,41 @@ Koirakkojoogameditaatio ja rentoutus
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen eri joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana kaikille tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen.
+Kaikilla tunneilla yhdistetään Hatha, Kundalini, Yin & Iyengar joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio on olennainen osa kokonaisvaltaista joogaa.
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
+
 Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
 **Yin jooga & ohjattu syvärentoutus**
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavi Yin jooga liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaali sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra). Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Yin jooga-liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaa sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra)/ itsekehittämiäni kehomeditaatioita. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
+
 Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha, Kundalini & Iyengar) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Virtaava liike & jooga**
+
 Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
+
+<a id="alkeet"></a>
+**Lempeän Joogan Alkeet**
+
+Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Mikä Ajatus & Asana joogatunti sopisi minulle? Tämä tunti on hyvä ponnahduslauta opettamaani joogaan. Jos et ole koskaan joogannut tai joogannut vain vähän, kannattaa ensin tulla tälle tunnille. Tunti sopii kaikille. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien.
 
 <a id="hiphop"></a>
 **HipHopJoogaNuorille**
+
 HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. (Viherlaakson Ajatus & Asana Joogahuone oli mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. [http://lumosleiri.blogspot.fi/p/blog-page_29.html](http://lumosleiri.blogspot.fi/p/blog-page_29.html)
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
+
 Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
 <a id="joogakurssi"></a>
@@ -278,15 +292,19 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 
 Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. 
 
-Seuraava joogakurssi alkaa Elokuussa, aina keskiviikkoisin klo. 17.00-18.15. Yht. 4 kertaa: 5.8, 12.8 19.8 ja 26.8. 
-
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla tulevat teemat.
+3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
 
-*LA 3.10 2015 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Selkärangan hyvinvointi ja parantavat kierrot* 
+*LA 14.11 2015 klo. 14.00-17.00 Ajatus & Asana miniretriitti:Puhdistava lempeä tulihengitys, syvä lempeä ujjayihengitys, luonnollinen hengitys, virkistävät asanat & mielen kirkkaus.*
 
-Se on normaalitilassa S-muotoinen, joustava ja tukeva. S niinkuin selkäranka. 32 voitelua ja lempeyttä vaativaa nikamaa. Selkälihasten ja vatsalihasten tukeakin kaipaavat. Jos olisin nelijalkainen koira tai kissa, ei lannerankani kuormittuisi niin paljon, mutta ihminen kun olen, kaksin jaloin komistettu, seisoessani ja istuessani, paine pakkaantuu eniten lannerankaan. Rankani kaipaa rakkautta. Siksi suuntaan 3-tunnin miniretriittiin Espoon Viherlaakson Ajatus & Asana Joogahuoneelle, jossa hitaasti ja lempeydellä, kierrämme, suoristamme, ojennamme, ja pyöristämme kehomme taikavipua. Lopuksi annamme rangan rentoutua ja kuuntelemme meditaation keinoin, mitä se meille kuiskii.
+Hengitys hoitaa, kirkastaa, yhdistää, suojaa ja luo uutta.
+Omaa hengitystä voi tutkia ja tarkkailla.
+Siitä voi oppia. Koko elämän ajan.
+Tietoinen hengitys vie lähemmäksi totuutta.
+Totuutta, jonka vain keho voi täysin ymmärtää.
+
+Tässä 3-tuntisessa syvennymme joogahengitykseen. Yhdistämme erilaisia hengitystekniikoita eri asanoihin. Päätämme päivän meditaatioon. Ammennan opetuksessa Kundalinijoogasta ja Hathajoogasta.Olen tutkinut paljon hengitystä, ja löytänyt lempeän tavan tehdä voimakkaitakin hengitysharjoituksia. Haluan jakaa tätä tietoa eteenpäin. Sydämellisesti tervetuloa!
 
 
