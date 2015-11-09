@@ -181,8 +181,6 @@ Voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
-<img itemprop="image" class="product-image" src="/img/viher8.jpg"/>
-
 <span itemprop="name">Kertamaksu</span> 
 ----------
 
@@ -285,7 +283,9 @@ HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistav
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
 
-Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen koirakkomeditaatiotunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
+Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen tunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
+
+Seuraava koirajooga LA 22.11 klo. 16.00-17.00! Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**

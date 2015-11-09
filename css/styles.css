@@ -178,6 +178,7 @@ ul {
 
 .content .side-image {
   width: 170px;
+  height: 170px;
   float: left;
   margin: 10px 10px auto auto;
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
