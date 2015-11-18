@@ -114,7 +114,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Virtaava liike & jooga](#trigger)
+  Lempeän vahvistava jatkojooga <span style="color:red;">Tammikuusta alkaen</span>
  </div>
  </td>
  <td>

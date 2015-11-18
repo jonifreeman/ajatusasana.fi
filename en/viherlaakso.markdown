@@ -114,7 +114,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Virtaava liike & jooga](#trigger)
+  Lempeän vahvistava jatkojooga <span style="color:red;">Tammikuusta alkaen</span>
  </div>
  </td>
  <td>
@@ -216,7 +216,7 @@ Sarjakortit
 
 *Voit aloittaa pienryhmissä joogailun ympäri vuoden. Vaikka tietyille viikkotunneille muodostuvatkin omat ryhmänsä, nämä ihanat ihmiset ottavat aina avosylin vastaan!*
 
-*Täällä et kyllästy: kaikki tunnit ovat erilaisia, sillä ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
+*Ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
 
 Motivoivat Ajatus & Asana joogakurssit 
 --------------------------------------
@@ -285,7 +285,7 @@ HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistav
 
 Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen tunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
 
-Seuraava koirajooga LA 22.11 klo. 16.00-17.00! Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
+Seuraava koirajooga SU 22.11 klo. 16.00-17.00! Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
 
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
