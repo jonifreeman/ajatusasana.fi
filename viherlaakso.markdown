@@ -292,7 +292,7 @@ Seuraava koirajooga SU 22.11 klo. 16.00-17.00! Max 4 koirakkoa (4 koiraa ja 4 ih
 
 Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
 
-Seuraava 'Joogamotivaatio-lempeän joogan aleiskurssi' Tammikuussa 2015! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45. Kurss
+Seuraava 'Joogamotivaatio-lempeän joogan aleiskurssi' Tammikuussa 2015! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
