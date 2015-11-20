@@ -222,8 +222,8 @@ Motivoivat Ajatus & Asana joogakurssit
 --------------------------------------
 
 --------- --------------------------------------------------------
-4 x 75 min 140 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
-           120 € (opiskelijat, eläkeläiset, työttömät)
+4 x 75 min 145 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
+           125 € (opiskelijat, eläkeläiset, työttömät)
 --------- --------------------------------------------------------
 
 Ajatus & Asana Miniretriitit 
@@ -290,7 +290,9 @@ Seuraava koirajooga SU 22.11 klo. 16.00-17.00! Max 4 koirakkoa (4 koiraa ja 4 ih
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. Kurssit sopivat niin aloittelijalle kuin jo joogaa harrastaneelle. 
+Kiva lisä "drop-in" joogalle. Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
+
+Seuraava 'Joogamotivaatio-lempeän joogan aleiskurssi' Tammikuussa 2015! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45. Kurss
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
