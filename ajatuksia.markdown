@@ -20,6 +20,16 @@ Valoisa musiikki toivottaa tervetulleeksi -ja menneeksi.
 Uuteen kuuhun ja uuteen aurinkoon.
 Yksi ilta kerrallaan, joogahuoneen elämää.
 
+JOOGAN KAUNDEUDEN KAAVA
+Harjoitus. Harjoitus. Harjoitus.
+Tuhansia mieltä ja kehoa valaisevia toistoja.
+Erikseen ja yhdessä.
+Tarkkailevan egon tarkkailua.
+Havahtumisia, kiinnijäämisiä ja irtipäästämisiä.
+Kauniita, yhä pidempikestoisia 'minän' ylittäviä yksilöllisiä kokemuksia.
+Yhdessä muiden kanssa.
+
+
 HENGITYS
 Hengitys hoitaa, kirkastaa, yhdistää, suojaa ja luo uutta.
 Omaa hengitystä voi tutkia ja tarkkailla.
