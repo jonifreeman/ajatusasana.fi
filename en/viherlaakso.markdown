@@ -282,6 +282,7 @@ Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaiku
 <a id="vahvistava"></a>
 **Lempeän vahvistava jatkojooga**
 
+Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautuksen ja loppurentoutukseen. Hathajooga ja Kundalinijooga toimivat inspriraation lähteinä. Sopii jo jonkun verran jooganneille!
 
 <a id="hiphop"></a>
 **HipHopJoogaNuorille**
