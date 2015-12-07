@@ -4,7 +4,7 @@ title: Yksityisvalmennukset
 
 **Yksityiset Ajatus & Asana valmennukset**
 
-Paneudumme sessioissa juuri sinun persoonallesi ja kehollesi sopivaan joogaan. Saat joka kerta mukaasi myös itsenäistäjoogaharjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. 
+Paneudumme sessioissa juuri sinun persoonallesi ja kehollesi sopivaan joogaan. Saat joka kerta mukaasi myös itsenäistäjoogaharjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Ohjauksessani yhdistyvät Käyttäytymistieteellinen ymmärrys ihmisenä olemisesta sekä terapeuttinen kokonaisvaltainen jooga.
 
 **Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
 
