@@ -12,6 +12,7 @@ Harjoituksen tulos olet Sinä.
 Ohjaajan tehtävä on luoda suotuisa, turvallinen tila oppimiselle.
 Ohjaaja on ihminen, joka kasvaa ohjattaviensa mukana. 
 
+
 JOOGAHUONE
 
 Sen seinät kaikuvat edellisen illan tarinoita.
@@ -21,6 +22,7 @@ Puhdistava tuli tekee tilaa uusille hetkille ja sydämille.
 Valoisa musiikki toivottaa tervetulleeksi -ja menneeksi.
 Uuteen kuuhun ja uuteen aurinkoon.
 Yksi ilta kerrallaan, joogahuoneen elämää.
+
 
 JOOGAN KAUNDEUDEN KAAVA
 
@@ -40,6 +42,7 @@ Omaa hengitystä voi tutkia ja tarkkailla.
 Siitä voi oppia. Koko elämän ajan.
 Tietoinen hengitys vie lähemmäksi totuutta.
 
+
 PUHTAITA AJATUKSIA
 
 Puhdas ajatus on enemmän kuin hokema, jonka avulla käännetään huomio toisaalle ja ohitetaan mieltä vaivaava asia.
@@ -48,6 +51,7 @@ Sen syntyminen on saattaanut vaatia suurtakin nöyrtymistä.
 Puhtaan ajatuksen äärellä tietää olevansa kun tuntee välittävänsä aidosti niistäkin, jotka ovat alunperin herättäneet itsessä myllerrystä.
 Puhtaaat ajatukset luovat uusia mahdollisuuksia.
 Puhtaat ajatukset ovat suvaitsevan oppimisen tulosta.
+
 
 AJATUSTEN VÄLISSÄ VOI LEVÄTÄ JA INNOVOIDA
 
@@ -62,11 +66,13 @@ Siellä voi ymmärtää edeltävän ajatuksen merkityksen.
 Siellä voi syntyä uusia ajatuksia.
 Ajatuksista voi tulla ystäviä. 
 
+
 JOOGAPOLUN ALKU
 
 Jokainen joogapolku on arvokas ja alkaa juuri oikeasta kohtaa elämää.
 Kun kuuntelee tarkkaavaisena kehon sisällä syntyvää tilaa, tietää, että nyt on aika. 
 Silloin jooga kutsuu luokseen, ja ottaa avosylin vastaan.
+
 
 RAKKAUS TARJOTTIMELLA
 
@@ -81,6 +87,30 @@ Silloin aukeavat ovet,
 puoliavonaiset ikkunat,
 ja kaiken kattava lattia.
 Sulava sydän ja sielun riemu.
+
+
+SUUREMPI VAI PIENEMPI SOSIAALINEN MINÄ?
+
+Mihin piirtäisinkään kehoni ääriviivat tänään? 
+Haluaisinko olla suurempi sielu kuin eilen?
+Haluaisinko antaa sydämeni kasvaa ääriviivojeni mukana? 
+Vai tarvitsenko sittenkin pienemmän onkalon, mihin käpertyä?
+Pehmeän rajatumman kolon, mistä käsin ihmetellä maailman menoa? 
+Voisiko sydämeni silti olla suuri, vahva ja sykkivä?
+Muuta ei minun tänään tarvitse tietää. 
+
+
+MYÖTÄILO
+
+Olen iloinen kun tunnen kuinka sinä tunnet ilon.
+Antaessani tilaa sinulle, olen hetken vapaa itsestäni.
+Pukeudun parhaimpiini, sinun kunniaksi. 
+Mutta en liian räikeästi.
+Pystyn tähän, sillä tiedän, että jokaisen ilon takaa löytyy tuhat elettyä surua.
+Sinun onnesi on minun onneni.
+Myötäilossa kun kuljen.
+
+
 
 LUOVA JOOGA
 
