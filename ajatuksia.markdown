@@ -5,15 +5,10 @@ title: Ajatuksia
 **Jooga, hengitys, tunteet, tuntemukset, tiede ja elämä - Ajatuksiani joogamatkan varrelta.**
 
 SINÄ OLET JOOGAHARJOITUKSEN KOHDE JA TULOS
-
 Sinä teet harjoituksestasi juuri sellaisen kuin sillä hetkellä tarvitset.
-
 Harjoituksen tulos on Sinun ansiota.
-
 Harjoituksen tulos olet Sinä.
-
 Ohjaajan tehtävä on luoda suotuisa, turvallinen tila oppimiselle.
-
 Ohjaaja on ihminen, joka kasvaa ohjattaviensa mukana. 
 
 JOOGAHUONE
