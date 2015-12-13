@@ -53,6 +53,7 @@ ul {
 .navi {
   margin-right: 30px;
   float: left;
+  max-width: 300px;
 }
 
 .navi li {

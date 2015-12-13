@@ -22,6 +22,10 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "audio/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "*.markdown" $ content "templates/default.html"
 
     match "en/*.markdown" $ content "templates/default_en.html"
