@@ -1,3 +1,9 @@
 #!/bin/sh
 
-scp -r *.php _site/* ajatusas@ajatusasana.fi:www/
+#scp -r *.php _site/!(*.mp3|*_ananda_*.jpeg) ajatusas@ajatusasana.fi:www/
+
+cd _site
+
+rsync -e 'ssh -ax' -av --exclude *.mp3 . ajatusas@ajatusasana.fi:www
+
+cd ..
