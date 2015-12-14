@@ -2,6 +2,6 @@
 
 cd _site
 
-rsync -e 'ssh -ax' -av --exclude *.mp3 . ajatusas@ajatusasana.fi:www
+rsync -e 'ssh -ax' -av --no-perms --exclude *.mp3 . ajatusas@ajatusasana.fi:www
 
 cd ..
