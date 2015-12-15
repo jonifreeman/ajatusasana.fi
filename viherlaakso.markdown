@@ -306,10 +306,16 @@ Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina k
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
+3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35€ / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
 
-*LA 13.2 2016 klo. 10.00-13.00 Ajatus & Asana miniretriitti: Joogan Ytimessä*
+*LA 13.2 2016 klo. 10.00-13.00: Joogan Ytimessä*
 
-Tässä 3-tuntisessa esittelyssä kokonaisvaltainen jooga. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Sydämellisesti tervetuloa!
+Tässä 3-tuntisessa esittelyssä kokonaisvaltainen jooga. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa!
+
+
+*LA 5.3 2016 Selkärangan energisointi joogan & vapaan liikkeen keinoin eteerisen musiikin tahdissa*
+
+3-tunnin miniretriitissä hitaasti ja lempeydellä tunnustelemmme selkärankaamme sitä kiertäen, suoristen, ojentaen, pyöristäen ja sivuittaissuunnassa liikuttaen. Yhdistämme joogaliikkeitä ja muita somaattisia kehotietoisuuden liikkeitä monipuoliseksi kokonaisuudeksi. Lopuksi annamme rangan rentoutua äänimeditaation keinoin.
+
 
 
