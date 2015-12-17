@@ -20,8 +20,6 @@ Hyvinvointikoulutuspalvelussani yhdistyvät tieteellinen (psykologinen, yhteisku
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
 
-[Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
-
 [Julkaisut](/julkaisut.html)
 
 <iframe width="854" height="510" src="https://www.youtube.com/embed/YC8UwBy42Ro" frameborder="0" allowfullscreen></iframe>

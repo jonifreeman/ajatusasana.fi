@@ -4,6 +4,8 @@ title: Ajatuksia
 
 **Jooga, hengitys, tunteet, tuntemukset, tiede ja elämä - Ajatuksiani joogamatkan varrelta**
 
+[Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
+
 SINÄ OLET JOOGAHARJOITUKSEN KOHDE JA TULOS
 
 Sinä teet harjoituksestasi juuri sellaisen kuin sillä hetkellä tarvitset.
