@@ -260,7 +260,7 @@ Kaikilla tunneilla yhdistetään Hatha, Kundalini, Yin & Iyengar joogatradition 
 Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
-**Yin jooga & ohjattu syvärentoutus**
+**Yin jooga & ohjattu Jooga Nidra syvärentoutus**
 
 Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Yin jooga-liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaa sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra)/ itsekehittämiäni kehomeditaatioita. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
@@ -277,7 +277,7 @@ Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanss
 <a id="alkeet"></a>
 **Lempeän Joogan Alkeet**
 
-Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Mikä Ajatus & Asana joogatunti sopisi minulle? Tämä tunti on hyvä ponnahduslauta opettamaani joogaan. Jos et ole koskaan joogannut tai joogannut vain vähän, kannattaa ensin tulla tälle tunnille. Tunti sopii kaikille. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien.
+Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Mikä Ajatus & Asana joogatunti sopisi minulle? Tämä tunti on hyvä tapa tutustua opettamaani joogaan. Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta muille viikkotunneille. Tunti sopii kaikille. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien.
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jatkojooga**
