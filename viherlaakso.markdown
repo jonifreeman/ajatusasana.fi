@@ -234,7 +234,7 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-puolipäivänen (3h)  50 € (40 € opiskelijat, eläkeläiset, työttömät)
+puolipäivänen (3h)  50 € (35 € opiskelijat, eläkeläiset, työttömät)
 ------------- ------------------------------------------------------------------------------
 
 Koirakkojoogameditaatio ja rentoutus 
@@ -306,7 +306,7 @@ Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina k
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35€ / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
+3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
 
 *LA 13.2 2016 klo. 10.00-13.00: Joogan Ytimessä*
 
