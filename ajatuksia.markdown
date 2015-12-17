@@ -23,7 +23,6 @@ Yksi ilta kerrallaan, joogahuoneen elämää.
 
 
 JOOGAN KAUNDEUDEN KAAVA
-
 Harjoitus. Harjoitus. Harjoitus.
 Tuhansia mieltä ja kehoa valaisevia toistoja.
 Erikseen ja yhdessä.
