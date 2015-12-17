@@ -2,7 +2,7 @@
 title: Ajatuksia
 ---
 
-**Jooga, hengitys, tunteet, tuntemukset, tiede ja elämä - Ajatuksiani joogamatkan varrelta.**
+**Jooga, hengitys, tunteet, tuntemukset, tiede ja elämä - Ajatuksiani joogamatkan varrelta**
 
 SINÄ OLET JOOGAHARJOITUKSEN KOHDE JA TULOS
 
