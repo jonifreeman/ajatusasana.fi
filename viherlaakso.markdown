@@ -107,14 +107,14 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Hidas lempeän vahvistava jooga](#hidas)
+  **17.30-19.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Yin & lempeän vahvistava jooga](#yin) <span style="color:red;">Helmikuusta alkaen</span>
  </div>
  </td>
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava jatkojooga](#vahvistava) <span style="color:red;">Tammikuusta alkaen</span>
+  [Lempeän vahvistava jatkojooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -258,6 +258,9 @@ Kaikilla tunneilla yhdistetään Hatha, Kundalini, Yin & Iyengar joogatradition 
 **Hidas lempeän vahvistava jooga**
 
 Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+
+<a id="yin"></a>
+**Yin & lempeän vahvistava jooga**
 
 <a id="rauhoittava"></a>
 **Yin jooga & ohjattu Jooga Nidra syvärentoutus**
