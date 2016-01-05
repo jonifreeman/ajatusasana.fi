@@ -303,7 +303,7 @@ Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koir
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
+Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä 75 min mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja meditaation/ Yoga Nidran/ rentoutuksen. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
 
 Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45.
 
