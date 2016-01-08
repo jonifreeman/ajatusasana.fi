@@ -150,7 +150,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yin jooga & syvärentoutus](#rauhoittava)
+ [Yin & lempeä palauttava jooga (in English & in Finnish)](#rauhoittava)
  </div>
  </td>
  <td></td>

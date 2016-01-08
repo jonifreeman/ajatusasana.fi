@@ -150,7 +150,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yin jooga & syvärentoutus](#rauhoittava)
+ [Yin & lempeä palauttava jooga (in English & in Finnish)](#rauhoittava)
  </div>
  </td>
  <td></td>
@@ -261,16 +261,17 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joo
 
 <a id="yin"></a>
 **Yin & lempeän vahvistava jooga**
+Tunti alkaa kehoa ja mieltä avaavilla ja rauhoittavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu lempeän vahvistavalla ja energisoivalla joogaharjoituksella, ja päättyy loppurentoutukseen. Tunti sopii kaikille.
 
 <a id="rauhoittava"></a>
 **Yin jooga & ohjattu Jooga Nidra syvärentoutus**
 
-Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Yin jooga-liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaa sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra)/ itsekehittämiäni kehomeditaatioita. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
+Tunnilla tehdään kehoa ja mieltä syvästi rauhoittavia Yin jooga-liikkeitä turvallisesti, tuetusti, ja omaa kehoa kuunnellen. Hoitaa sidekudosta ja niveliä sekä syvärauhoittaa hermostoa. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Lopuksi tehdään ohjattua syvä tietoisen rentoutumisen harjoitus Jooga Nidra (Yoga Nidra)/ itsekehittämiäni kehomeditaatioita. Aistiärsykkeiden vaimeneminen saa mielen tyyntymään. Sopii kaikille! *Huom! Minulta löytyy myös ilmainen omakustanne Jooga Nidra äänite (Lyhyt ja pitkä versio) jos kotirentoutuminen kiinnostaa!*
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja (Hatha, Kundalini & Iyengar) joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Virtaava liike & jooga**
@@ -285,7 +286,7 @@ Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaiku
 <a id="vahvistava"></a>
 **Lempeän vahvistava jatkojooga**
 
-Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautuksen ja loppurentoutukseen. Hathajooga ja Kundalinijooga toimivat inspriraation lähteinä. Sopii jo jonkun verran jooganneille!
+Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautuksen ja loppurentoutukseen. Hathajooga ja Kundalinijooga toimivat inspriraation lähteinä. Sopii jo jooganneille!
 
 <a id="hiphop"></a>
 **HipHopJoogaNuorille**
@@ -302,7 +303,7 @@ Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koir
 <a id="joogakurssi"></a>
 **Motivoivat Ajatus & Asana joogakurssit**
 
-Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä kahden tunnin mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja Yoga Nidran. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
+Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä 75 min mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja meditaation/ Yoga Nidran/ rentoutuksen. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
 
 Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45.
 
