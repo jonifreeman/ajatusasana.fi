@@ -27,6 +27,7 @@ Joogan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatom
 **Motto: Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.**
 
 Raikkain terveisin,
+
 Stephanie Freeman (Filosofian Tohtori, Kasvatustieteiden Maisteri & Diplomijoogaohjaaja)
 
 
