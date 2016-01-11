@@ -3,17 +3,26 @@ title: Kuka olen
 image: stefi3.jpg
 imagewidth: 170px
 ---
-Ajatus & Asana syntyi Huhtikuussa 2013. 
 
-Olen täällä Sinua varten. 
+Nimeni on Stephanie Freeman, ja haluan kiittää Sinua käynnistäsi sivuillani!
 
-Nimeni on Stephanie Freeman. Olen jooga-ja kehotietoisuuden opettaja/ohjaaja/kouluttaja, tutkijataustainen  Filosofian Tohtori ja Kasvatustieteiden Maisteri. Tunnen olevani silta ja tulkki tiedemaailman ja joogan välillä. Rakastan henkisiä asioita, eläimiä, lukemista, rumpujen soittamista, ja uutta harrastustani kiipeilyä. Rakastan kaikkea uuden oppimista. Liikuntaa olen ohjannut eri muodoissa jo vuodesta 1989. Olen aina aistinut asioita hyvin kehollisesti. Pyrin kulkemaan silmät ja sydän avoinna, ja näkemään haasteet ja ongelmat kehitystehtävinä, ponnahduslautana uuteen ja raikkaaseen. Uskon, että kuuntelemalla kehoaan voi päästä käsiksi niin omaan sisäiseen kuin ulkoiseenkin maailmaan. Keho on ihmeellinen pienoiskosmos, joka oikein viritettynä pystyy ratkaisemaan monia arkisia ja pyhiä asioita. 
+Olen jo pitkään saanut kokea joogan transformatiivisen potentiaalin.
 
-Tiedän, mistä puhun, sillä 42-vuotisen matkani varrella olen kokenut monenmoisia menetyksiä. Olen välillä juossut keho edellä elämääni karkuun. Välillä erehtynyt luulemaan pelkkää päätäni kehoksi, ja piiloutunut käsitteiden taakse. Tieteellinen työ, kunnianhimo ja siihen liittyvä kova (rakenteistakin johtuva) kilpailu tuottivat minulle"stressikehon", jonka purkamisessa jooga (ja meditaatio) ja monet muut somaattiset menetelmät ovat olleet avainasemassa. Kehoni huusi hiljentymistä ja rentoutumista, ja huomasinkin, että voin olla luova ilman stressiä jos kuuntelen, mitä kehoni ja tunteeni minulle ympäristöstäni ja itsestäni kertovat. 
+Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
 
-Joogasta tuli 14 vuoden aikana henkinen, psyykkinen, sosiaalinen ja fyysinen voimavara. Siitä tuli rakas elämäntapa ja työ. Joogapolkuni on sisältänyt mm. 2-vuotisen joogaohjaakoulutuksen sekä lukuisia meditaatioon, joogaan ja kehotietoisuuteen liittyviä työpajoja ja tapahtumia. Pidän tärkeänä jatkuvaa syvenevää itseopiskelua, oman päivittäisen harjoituksen ja kirjojen kautta tapahtuvaa tutkivaa oppimista. Suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa, kanssajoogaaminen. En olisi opettaja ilman heidän hienoja omakohtaisia oivalluksia ja suurta luottamusta.
+Voimme olla luovia jos kuuntelemme, mitä keho ja tunteet kertovat itsestä ja ympäristöstä.
 
-Hyvinvointikoulutuspalvelussani yhdistyvät tieteellinen (psykologinen, yhteiskunnallinen ja fysiologis-anatominen) ymmärrykseni ihmisestä, oppimisesta ja yhteiskunnasta, herkkä ja intuitiivinen kehollinen tieto ja ajattomuudessaan ajankohtainen kokonaisvaltainen jooga.
+Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
+
+Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
+
+Olen myö kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa. Vasta silloin ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
+
+Yritykseni Ajatus & Asana Oy syntyikin Huhtikuussa 2013.
+
+Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen.
+
+Joogan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla hauska ja haastava.
 
 **Motto: Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.**
 
