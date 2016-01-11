@@ -16,13 +16,13 @@ Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
 
 Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
 
-Olen myö kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa. Vasta silloin ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
+Olen myö kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. Vasta silloin ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
 
 Yritykseni Ajatus & Asana Oy syntyikin Huhtikuussa 2013.
 
 Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen.
 
-Joogan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla hauska ja haastava.
+Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava.
 
 **Motto: Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.**
 
