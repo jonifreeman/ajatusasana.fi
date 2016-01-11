@@ -1,3 +1,9 @@
+----
+title: Who am I
+image: stefi3.jpg
+imagewidth: 170px
+----
+
 My name is Stephanie Freeman and I would like to thank you for visiting my website.
 
 For a long time now I have realised the transformative power of yoga.
