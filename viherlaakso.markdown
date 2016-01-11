@@ -286,11 +286,6 @@ Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaiku
 
 Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. Hathajooga ja Kundalinijooga toimivat inspriraation lähteinä. Sopii jo jooganneille!
 
-<a id="hiphop"></a>
-**HipHopJoogaNuorille**
-
-HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. (Viherlaakson Ajatus & Asana Joogahuone oli mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. [http://lumosleiri.blogspot.fi/p/blog-page_29.html](http://lumosleiri.blogspot.fi/p/blog-page_29.html)
-
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
 
