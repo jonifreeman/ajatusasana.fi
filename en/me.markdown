@@ -1,19 +1,26 @@
----
-title: Who am I
-image: stefi3.jpg
-imagewidth: 170px
----
-Ajatus & Asana was born in April 2013.
+My name is Stephanie Freeman and I would like to thank you for visiting my website.
 
-I am here for You. 
+For a long time now I have realised the transformative power of yoga.
 
-My name is Stephanie Freeman. I am a yoga and body awareness teacher, Doctor of Philosophy (Behavioural Sciences) and M.A. (Educational sciences).I feel as though I am a bridge and translator between the world of science and that of yoga. I love  all things spiritual, yoga, meditation, animals, books, drums and my new hobby climbing (bouldering). My passion is learning. I have been a teacher of physical exercise in some form or another since 1989, and have always experienced things highly somatically. As I travel this life, I try to keep my eyes and hearth open, and see upcoming obstacles and contradictions as developmental challenges. After all, there is always the possibility of a new and refreshing start. Indeed. the body/mind is a miraculous minicosmos! When properly tuned, it can solve many a problem.
+The good news is that process of becoming creative and productive does not have to involve anguish or emotional anxiety.
 
-Believe me, I know what I'm talking about. I have encountered many losses within my 42-year trajectory, and tried to literally run away from life. Occasionally I have mistaken my head for my mind, and hidden behind concepts and academic jargon. Scientific work and ambition, accompanied with (partly structural) competition, made my body and mind collapse a few times.  I made errors, overtaxed it’s capacity. However, yoga and other somatic approaches helped me tune dowm my “stress body”. I realized that what my body needed relaxing and winding down so that I could “hear” better. Through my daily yoga practice  and two-year yoga teacher training, I came to realize that being creative and productive does not require existential anguish or anxiety. I can be creative without stress if I stay true to my bodily sensations and emotions, that are telling me important things about my environment.  
+We can be creative without stress if we learn to stay true to our body sensations and listen to what our emotions are telling us.
 
-Gradually, over a period of 14 years, my long lasting yoga hobby turned into a lifestyle and professional calling. As a teacher, my most powerful teacher is the interaction with students, or who I  prefer to call "fellow yoga travellers".
-My holistic science-and yoga-based educationaly service combines scientific (psychological, sociological and fysiological-anatomical) knowledge of being a person-in-societywith sensitive embodied
-intuitive knowledge and ideology-free yoga. 
+If we learn to relax and unwind we can better learn how to become more attuned our real selves.
+
+I used to be a University researcher but over a period of 14 years I realised that my yoga lifestyle hobby was turning into a professional calling.
+
+I took a two-year course in training to become a yoga teacher. Only then did I became fully aware that the process of becoming creative and productive, of taking away the barriers of stress, can be a joy and pleasure.
+
+As a result, my company Ajatus and Asana was born in April 2013.
+
+One of the exciting things about teaching is the interaction and learning experienced by the students and the teacher together. I see my students as “ fellow yoga travellers" who participate fully in the growth of themselves and their fellow students.
+
+You can expect to experience a 'science and yoga-based' educational service which combines
+psychological, sociological and physiological knowledge but which is also fun and challenging.
+
+Please feel free to contact me if you have any concerns or would simply like to know more
+about what could be the investment of a lifetime.
 
 **My motto: Thoughts can be your friends. Asanas help you in the process.**
 
