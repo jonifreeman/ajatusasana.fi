@@ -24,6 +24,8 @@ Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutu
 
 Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava.
 
+Jos kiinnostuit ja haluat tietää lisää, kysy vaan rohkeasti, sillä jooga voi olla yksi elämäsi tärkeimmmistä investoinneista!
+
 **Motto: Ajatukset voivat olla ystäviäsi. Asanat tukevat sinua tässä prosessissa.**
 
 Raikkain terveisin,
