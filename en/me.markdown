@@ -25,6 +25,7 @@ about what could be the investment of a lifetime.
 **My motto: Thoughts can be your friends. Asanas help you in the process.**
 
 Warm regards,
+
 Stephanie Freeman (PhD, Diploma yoga teacher)
 
 [Publications](/en/publications.html)
