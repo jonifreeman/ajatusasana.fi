@@ -18,14 +18,6 @@ Lalla Pohjanpalo & Erika Maksniemi (2014). 'Rauhoittunut ope', podcast. Asiantun
 
 <section>
 
-Kurssit
-=======
-
-<span class="new">Uutta!</span> Kirjoittava keho,tunteva tutkija-kurssi tutkimustyötä tekeville jatko-opiskelijoille.
-
-* [Kurssiesite](/img/mainos_kktt.jpg)
-
-
 </section>
 
 <div class="prices">
@@ -77,15 +69,6 @@ Oma Ajatus & Asana III
 - Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
 - 400 €
-
-Oma Ajatus & Asana IV
----------------------
-
-- Alkuhaastattelu & orientoiva harjoitus 90 min 
-- Yksityisohjausta 7 x 75 min  ajanjaksolle 4kk      
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- Osallistuminen 8 x viikkotunneille (ei kurssit tai miniretriitit)
-- 750 €
 
 
 </div>
