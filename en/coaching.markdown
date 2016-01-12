@@ -14,7 +14,7 @@ Your own Thought & Asana yoga program (includind detailed instructions and pictu
 
 Attending 2 x 90 minute yoga classes in Viherlaakso. However, if you rather do a private class, we can do one 60 min class instead.
 
-180 €
+175€
 
 
 
