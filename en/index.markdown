@@ -3,7 +3,7 @@ title: Idea
 ---
 __Yoga with Thought - Relax, rejuvenate, learn and be inspired!__
 
-*Individual-based, professional and creative yoga teaching in small groups*
+*Individual-based, professional and creative yoga teaching  and coaching*
 
 What is the natural rhythm of my life? Would it be possible to live my life in sync
 and in unison with other people’s rhythms? What about with the rhythms of the
