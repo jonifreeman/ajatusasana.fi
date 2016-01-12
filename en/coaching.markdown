@@ -2,6 +2,9 @@
 title: Individual coaching
 ---
 
+*Yoga coaching packages*
+
+
 **My Thought and Asana I**
 
 Interview & orienting yoga practice 90 min
