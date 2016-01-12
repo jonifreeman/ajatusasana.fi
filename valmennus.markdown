@@ -6,37 +6,8 @@ title: Yksityisvalmennukset
 
 Paneudumme sessioissa juuri sinun persoonallesi ja kehollesi sopivaan joogaan. Saat joka kerta mukaasi myös itsenäistäjoogaharjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Ohjauksessani yhdistyvät Käyttäytymistieteellinen ymmärrys ihmisenä olemisesta sekä terapeuttinen kokonaisvaltainen jooga.
 
-**Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
-
-Jumittaako gradun, väitöskirjan tai artikkelin kirjoittaminen? Tuntuuko, että tukehdut luokka/seminaarihuoneessa? Huutaako ja kiroileeko kehosi? Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. 
-
-Lalla Pohjanpalo & Erika Maksniemi (2014). 'Rauhoittunut ope', podcast. Asiantuntijahaastattelussa mm. Stephanie Freeman.
-
-* [Kuuntele haastattelu](RauhoittunutOpe.mp3)
-* [Lähteet](RauhoittunutOpe.pdf)
-
-
-<section>
 
 </section>
-
-<div class="prices">
-
-Hinnasto
-========
-
-Räätälöidyt valmennukset sopimuksen mukaan.
-
-Hintoihin sisältyy ALV (10%).
-
-Meillä voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
-
-Yksityistunnit
---------------
-
------      ------------------------
-90 min      110 €
------      ------------------------
 
 <p class="valmennus"/>
 
@@ -69,6 +40,16 @@ Oma Ajatus & Asana III
 - Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - Osallistuminen 4 x viikkotunneille (ei kurssit tai miniretriitit)
 - 400 €
+
+
+**Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
+
+Jumittaako gradun, väitöskirjan tai artikkelin kirjoittaminen? Tuntuuko, että tukehdut luokka/seminaarihuoneessa? Huutaako ja kiroileeko kehosi? Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. Kysy lisää!
+
+Lalla Pohjanpalo & Erika Maksniemi (2014). 'Rauhoittunut ope', podcast. Asiantuntijahaastattelussa mm. Stephanie Freeman.
+
+* [Kuuntele haastattelu](RauhoittunutOpe.mp3)
+* [Lähteet](RauhoittunutOpe.pdf)
 
 
 </div>
