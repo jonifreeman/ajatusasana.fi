@@ -2,7 +2,7 @@
 title: Individual coaching
 ---
 
-My Thought and Asana I
+**My Thought and Asana I**
 
 Interview & orienting yoga practice 90 min
 Private yoga lessons (90 min within the period of  1 month)
@@ -14,7 +14,8 @@ Attending 2 x 90 minute yoga classes in Viherlaakso. However, if you rather do a
 180 €
 
 
-My Thought and Asana II
+
+**My Thought and Asana II**
 
 Interview & orienting yoga practice 90 min
 
@@ -26,7 +27,8 @@ Attending 2 x 90 minute yoga classes in Viherlaakso -> However, if you rather do
 270 €
 
 
-My Thought and Asana III
+
+**My Thought and Asana III**
 
 Interview & orienting yoga practice 90 min
 
