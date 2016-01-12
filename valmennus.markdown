@@ -21,7 +21,7 @@ Oma Ajatus & Asana I
 - Yksityisohjausta 90 min
 - Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - Osallistuminen 1 x viikkotunneille (ei kurssit tai miniretriitit)
-- 175 €
+- 165 €
 
 Oma Ajatus & Asana II
 --------------------
