@@ -24,7 +24,11 @@ Viherlaakson Joogahuoneella Sinut otetaan vastaan Sinuna.
 
 Heräsikö uteliaisuutesi? Kysy rohkeasti lisää! 
 
+Sydämellä,
+
 Stephanie Freeman, Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
+camisteph@gmail.com
+0405224889
 
 
 
