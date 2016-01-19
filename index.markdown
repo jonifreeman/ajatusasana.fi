@@ -1,19 +1,32 @@
 ---
 title: Idea
 ---
-__JOOGAA AJATUKSELLA - RENTOUDU, UUDISTU, OPI JA INSPIROIDU!__
+_Joogaa ja Kehomielen Opetusta ja Valmennusta Ajatuksella - Espoon Viherlaakso, Espoo_
 
-**Yksilöllistä, perusteellista ja luovaa jooga-ja kehotietoisuusopetusta pienryhmissä Viherlaakson Joogahuoneella Espoossa**
+Miten ihanaa olisi kun voisi tuntea itsensä vielä vähän paremmin! Rentoutua ja päästää irti maallisista murheista edes hetkeksi,
 
-Mikä on luontainen rytmini ja miten saan sen toimimaan harmoniassa muiden ihmisten rytmien kanssa? Entäpä tietoteknologistaloudellisten rytmien kanssa?  Löytyisikö keino päästä takaisin kosketukseen oman luovuuteni kanssa? Miten ja mistä tiedän, että olen matkalla oikeaan suuntaan? Miten pystyn toteuttamaan aitoa itseäni ja samalla olemaan yhteiskunnan, (työ)yhteisön ja perheen täysivaltainen jäsen? Voisiko meditatiivinen jooga olla vastaus stressittömämpään elämään?  Voisinko oppia joogaamaan itsenäisesti ja turvallisesti, ajasta ja paikasta riippumatta? Voisinko viedä joogan tuoman kehotietoisuuden arjen askareisiin?
+kotoisassa ja tunnelmallisessa tilassa. Tulla tietoiseksi oman hengityksen voimasta. Lukea omaa kehoaan syvemmin. Olla
 
-Haluan antaa sinulle mielen ja kehon välineitä oman sisäisen ja sisäistetyn ohjaajasi löytämiseen kehityspsykologi Lev Vygotskyn 'lähikehityksen vyöhykkeen' hengessä. Tämä *sisäinen kompassi* auttaa sinua suunnistamaan sosiaalisessa ja materiaalisessa maailmassa siten, että voit samalla henkisesti ja fyysisesti hyvin. Tavoitteena on itsensä, kehonsa ja ympäristönsä rakkaudellisesti hyväksyvä ihminen.
+kosketuksissa omiin tunteisiin ja kehon tuntemuksiin. Saada elinikäisiä työvälineitä stressin ja emotionaalisen kehomielen
 
-Ajatus & Asana Oy on käyttäytymistieteellistä tutkimustietoa ja meditatiivista joogaa yhdistävä koulutuspalvelu kehon ja mielen hyvinvointiin. Viherlaakson Joogahuoneen valikoimaan kuuluvat motivoivat joogatunnit ja joogakurssit, henkilökohtaiset valmennukset, keholliset työnohjaukset, työhyvinvointitapahtumat, retriitit, luennot. 'Ajatus' tuo huomion ihmismielen luovaan potentiaaliin ja tieteelliseen ymmärrykseeni ihmisen kehitysmahdollisuuksista. Sanskriitin kielinen 'Asana' tarkoittaa asentoa jossa on hyvä olla. Joogaa voisikin luonnehtia hengityksen johdattamaksi mielen ja ja kehon liikkeeksi. Se on kehomieltä lempeän kunnioittavasti vahvistavaa. Asana-opetuksessa hyödynnän monista eri jooga-traditioista peräisin olevia liikkeitä (Hatha, Kundalini Yin, Iyengar)tasapainoisen ja turvallisen kokonaisuuden luomiseksi. Ammennan tunneillani myös muista tietoiseen olemiseen tähtäävistä liikkumisen muodoista. Opettamani hoitava jooga sopii niin aloittelijoille kuin jo joogaa harrastaneille. Ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen, ja tuntejani kehittäen. Pystyn lukemaan ihmisen kehoa herkän hienovaraisesti.
+hallintaan. Antaa omaan sisäiseen ohjaajaan kasvaa ja viedä kohti aidompaa ja luovempaa minää. Saada luottamuksellista ja
 
-Jokainen joogapolku on arvokas ja alkaa juuri oikeasta kohdasta elämää. Kun kuuntelee tarkkaavaisena kehon sisällä syntyvää tilaa, tietää, että nyt on aika. Silloin jooga kutsuu luokseen, ja ottaa avosylin vastaan. 
+rehellistä yksilöllistä ohjausta ja valmennusta henkilönä, jota kunnioitetaan oman kokemushistoriansa parhaimpana asiantuntijana.
 
-Keho on todellakin viisas kun sitä kuuntelee. Se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttään. Se keskustelee. Jos haluat aloittaa dialogin kehosi kanssa, tule jo vaikka tänään!
+
+Ajatus & Asana Oy tarjoaa kokonaisvaltaiseen joogaan sekä psykologiseen, sosiologiseen, ja fysiologis-anatomiseen ymmärrykseen
+
+perustuvaa pedagogista kehomielen valmennusta yksilöille ja ryhmille. 
+
+Tutustu viikottaisiin joogatunteihin, yksilövalmennuspaketteihin & kotijoogaohjelmiin sekä 3-tunnin miniretriitteihin!
+
+Viherlaakson Joogahuoneella Sinut otetaan vastaan Sinuna. 
+
+Heräsikö uteliaisuutesi? Kysy rohkeasti lisää! 
+
+Stephanie Freeman, Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
+
+
 
 Suurella sydämellä,
 
