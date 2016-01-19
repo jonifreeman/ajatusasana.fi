@@ -17,6 +17,7 @@ Heräsikö uteliaisuutesi? Kysy rohkeasti lisää!
 Lämmöllä,
 Stephanie Freeman, 
 Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
+
 camisteph@gmail.com
 0405224889
 
