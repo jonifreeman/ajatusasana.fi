@@ -1,7 +1,7 @@
 ---
 title: Idea
 ---
-_Joogaa ja Kehomielen Opetusta ja Valmennusta Ajatuksella - Espoon Viherlaakso, Espoo_
+*_Joogaa ja Kehomielen Opetusta ja Valmennusta Ajatuksella - Espoon Viherlaakso, Espoo_*
 
 Miten ihanaa olisi kun voisi tuntea itsensä vielä vähän paremmin! Rentoutua ja päästää irti maallisista murheista edes hetkeksi,
 
