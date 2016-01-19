@@ -1,23 +1,20 @@
 ---
 title: Idea
 ---
-__Yoga with Thought - Relax, rejuvenate, learn and be inspired!__
+Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso
 
-*Individual-based, professional and creative yoga teaching  and coaching*
+What a wonderful feeling it would be to know oneself even better. To relax and let go of wordly trouble in a cosy and peaceful setting, even for a moment. To become more conscious of the power  pf breath. To learn to read one's bodily messages in a productive way. To be in touch with one's feelings and bodily sensations. To learn lifelong tools and knowledge for managing stress and emotional anxiety. To let the internal teacher within guide towards a more creative and renewed authentic self. To be able to do this in an honest and confidential eviroment that apperiactes you unique life history and experience.
+Ajatus & Asana Ltd offers inspiring pedagogical bodymind coaching based on yoga as well as psychological, sociological and physiological knowledge. 
+For more information see the weekly yogaclass schedule, individual coaching sessions & home yoga programms, and the 3-hour miniretreats. 
 
-What is the natural rhythm of my life? Would it be possible to live my life in sync
-and in unison with other people’s rhythms? What about with the rhythms of the
-ICT-based economy and working life? How could I get back in touch with
-my creativity? How and when do I know that I am moving in the right
-direction? How can I accomplish my true self, and at the same time be
-a full-fledged member of society, working life, communities and family? 
+Curious? I will gladly tell you more!
 
-In the spirit of developmental psychologist Lev Vygotsky's 'zone of proximal development',I wish to help you find your own internal and internalized instructor. I offer tools for thought and yoga asanas for exploring your sensing body. Developing your internal compass can help you navigate the social and material environment in a physically, mentally, and spiritually beneficial way. The intention is a motivated person, who feels good in his/her body and in his/her immediate social surroundings. 
+Warm Welcome,
+Stephanie Freeman, PhD, M.A., Diploma Yoga Teacher
 
-Ajatus & Asana Ltd. is a an educational wellbeing service combining knowledge from behavioural sciences and meditative yoga. Products include yoga classes, motivating yoga courses, retreats in Lapland, lectures and meditative writing workshops. 'Ajatus' (Thought) directs attention to the creative potential of the human mind, and to my science-based understanding of the developmental possibilities of an adult learner. The Sanskrit name 'Asana' means a comfortable posture. Hence, yoga can be characterized as bodymind movement powered by breath. It is respectful and gentle in its capacity to strengthen. In my therapeutic 'Asana' exercises, I combine postures and movements from different yoga traditions (e.g. Hatha, Kundalini, Yin, Iyengar) for creating a well-balanced and safe practice. I use my sensitivity and ability to read people when teaching. 
+camisteph@gmail.com
 
-Once you start listening, you realize how wise the body can be. It whispers, it shouts, it laughs, it hums, it purrs of contentment. It converses. Ready to start a dialogue with your body? Come and to try one of my lessons or workshops! You can also come with a group of friends for a private English-speaking lesson!
+0405224889
 
-Welcoming You with an open and sincere hearth,
+ Come and to try one of my lessons or workshops! You can also come with a group of friends for a private English-speaking lesson!
 
-Stephanie Freeman
