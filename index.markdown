@@ -1,7 +1,7 @@
 ---
 title: Idea
 ---
-**Joogaa ja Kehomielen Opetusta ja Valmennusta Ajatuksella - Espoon Viherlaakso, Espoo**
+**Joogaa ja Kehomielen Opetusta ja Valmennusta Ajatuksella - Viherlaakso, Espoo**
 
 
 Miten ihanaa olisi kun voisi tuntea itsensä vielä vähän paremmin! Rentoutua ja päästää irti maallisista murheista edes hetkeksi, kotoisassa ja tunnelmallisessa tilassa. Tulla tietoisemmaksi oman hengityksen voimasta. Lukea omaa kehoaan syvemmin. Olla kosketuksissa omiin tunteisiin ja kehon tuntemuksiin. Saada elinikäisiä työvälineitä stressin ja emotionaalisen kehomielen hallintaan. Antaa oman sisäiseen ohjaajaan kasvaa ja viedä kohti aidompaa ja luovempaa minää. Saada luottamuksellista ja rehellistä yksilöllistä ohjausta ja valmennusta henkilönä, jota kunnioitetaan oman kokemushistoriansa parhaimpana asiantuntijana.
