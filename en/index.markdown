@@ -1,7 +1,7 @@
 ---
 title: Idea
 ---
-Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso
+_Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso_
 
 What a wonderful feeling it would be to know oneself even better. To relax and let go of wordly trouble in a cosy and peaceful setting, even for a moment. To become more conscious of the power  pf breath. To learn to read one's bodily messages in a productive way. To be in touch with one's feelings and bodily sensations. To learn lifelong tools and knowledge for managing stress and emotional anxiety. To let the internal teacher within guide towards a more creative and renewed authentic self. To be able to do this in an honest and confidential eviroment that apperiactes you unique life history and experience.
 
