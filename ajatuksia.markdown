@@ -15,6 +15,7 @@ Ohjaajan tehtävä on luoda suotuisa, turvallinen tila oppimiselle.
 Ohjaaja on ihminen, joka kasvaa ohjattaviensa mukana. 
 
 KEHON VIISAUS
+
 Keho on  viisas kun sitä kuuntelee. 
 Se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttään. 
 Se keskustelee. 
