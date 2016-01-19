@@ -26,14 +26,13 @@ Heräsikö uteliaisuutesi? Kysy rohkeasti lisää!
 
 Sydämellä,
 
-Stephanie Freeman, Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
+Stephanie Freeman, 
+Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
 camisteph@gmail.com
 0405224889
 
 
 
-Suurella sydämellä,
 
-Stephanie Freeman
 
 
