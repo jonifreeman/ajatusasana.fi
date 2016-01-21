@@ -5,6 +5,7 @@ _Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso_
 
 
 
+
 How wonderful it would feel to know oneself even better. To relax and let go of worldly affairs in a 
 
 cosy and peaceful setting. To become more conscious of the power of breath. To learn to read one's 
@@ -20,9 +21,11 @@ self. And to be able to do this in an environment that values your unique life h
 experience.
 
 
+
 Ajatus & Asana offers inspiring pedagogical BodyMind teaching and coaching based on yoga as
 
 well as psychological, sociological and physiological knowledge. 
+
 
 
 For more information, see the weekly yoga class schedule, possibilities for individual coaching 
@@ -30,6 +33,7 @@ For more information, see the weekly yoga class schedule, possibilities for indi
 sessions & home yoga programmes, and the 3-hour mini retreats. A yoga class is given in English 
 
 every Thursday from 6.30 to 8.00 pm.
+
 
 
 Curious? I will gladly tell you more!
