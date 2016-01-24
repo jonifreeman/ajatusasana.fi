@@ -209,6 +209,14 @@ ul {
   width: 100px;
 }
 
+.mailinglist img {
+  vertical-align: middle;
+}
+
+.mailinglist a {
+  font-size: 10px;
+}
+
 .images {
   float: left;
   margin: 0 0 25px 0;

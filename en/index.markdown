@@ -25,7 +25,7 @@ Curious? I will gladly tell you more!
 
 Stephanie Freeman, PhD, Diploma Yoga Teacher
 
-camisteph@gmail.com
+stephanie@ajatusasana.fi
 
 0405224889
 
