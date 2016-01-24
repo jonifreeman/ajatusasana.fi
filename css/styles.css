@@ -47,7 +47,7 @@ ul {
 
 #body {
   margin-left: 30px;
-  margin-top: 70px;
+  margin-top: 40px;
 }
 
 .navi {
@@ -64,7 +64,7 @@ ul {
   color: #333333;
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .navi a:hover {
@@ -145,7 +145,7 @@ ul {
   line-height: 22px;
   font-size: 16px;
   color: #333333;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .content p {
@@ -194,7 +194,7 @@ ul {
 }
 
 .lang {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .lang a {
@@ -202,7 +202,7 @@ ul {
 }
 
 .facebook {
-  margin-top: 80px;
+  margin-top: 15px;
 }
 
 .facebook img {
