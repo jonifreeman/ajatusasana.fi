@@ -169,9 +169,8 @@ Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä.
 Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 ==================================================
 
-* [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
-* [HipHopJoogaNuorille](#hiphop)
+* [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Koirakkojoogameditaatio](#dog)
 
 <div class="prices">
