@@ -211,16 +211,12 @@ Sarjakortit
 10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
             170 € (opiskelijat, eläkeläiset, työttömät)
 ---------- ---------------------------------
+*Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
 <p>
 
-*Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani -ryhmää sekä yksilöitä-kuunnellen. Minulle on tärkeää, että Sinä opit. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
-
-*Voit aloittaa pienryhmissä joogailun ympäri vuoden. Vaikka tietyille viikkotunneille muodostuvatkin omat ryhmänsä, nämä ihanat ihmiset ottavat aina avosylin vastaan!*
-
-*Ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
 
 Motivoivat Ajatus & Asana joogakurssit 
 --------------------------------------
