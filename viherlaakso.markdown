@@ -215,7 +215,7 @@ Sarjakortit
 
 <p>
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani -ryhmää sekä yksilöitä-kuunnellen. Minulle on tärkeää, että Sinä opit. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä opit.Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
 
 
 Motivoivat Ajatus & Asana joogakurssit 
@@ -269,7 +269,6 @@ Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogal
 
 <a id="trigger"></a>
 **Virtaava liike & jooga**
-
 Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="alkeet"></a>
