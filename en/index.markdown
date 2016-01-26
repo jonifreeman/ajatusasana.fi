@@ -1,7 +1,8 @@
 ---
 title: Idea
 ---
-_Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso_
+
+**Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso**
 
 
 How wonderful it would feel to know oneself even better. To relax and let go of worldly affairs in a 

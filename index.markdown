@@ -1,6 +1,7 @@
 ---
 title: Idea
 ---
+
 **Joogaa ja Kehomielen Opetusta ja Valmennusta Ajatuksella - Viherlaakso, Espoo**
 
 
