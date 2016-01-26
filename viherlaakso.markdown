@@ -210,6 +210,9 @@ Sarjakortit
 10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
             170 € (opiskelijat, eläkeläiset, työttömät)
 ---------- ---------------------------------
+
+<p>
+
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
 <p>
@@ -251,14 +254,17 @@ Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseks
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
+
 Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="yin"></a>
 **Yin & lempeän vahvistava jooga**
+
 Tunti alkaa kehoa ja mieltä avaavilla ja rauhoittavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu lempeän vahvistavalla ja energisoivalla joogaharjoituksella, ja päättyy loppurentoutukseen. Tunti sopii kaikille.
 
 <a id="rauhoittava"></a>
 **Yin & palauttava lempeä jooga (Yin & restorative yoga) in English and in Finnish**
+
 Tunti alkaa kehoa ja mieltä avaavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu kehoa avaavilla ja palauttavilla Hathajoogaliikkeillä, tuetusti, rauhallisesti ja turvallisesti, omaa kehoa kuunnellen. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. This lesson combines elements of Yin yoga  and restorative Hatha yoga. I will give therapheutic modifications of asanas according to individual needs. The lesson ends in relaxation. The main language is English and if needed, also Finnish.
 
 <a id="palauttava"></a>
@@ -268,6 +274,7 @@ Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogal
 
 <a id="trigger"></a>
 **Virtaava liike & jooga**
+
 Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="alkeet"></a>
