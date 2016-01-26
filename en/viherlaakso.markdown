@@ -169,9 +169,8 @@ Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä.
 Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
 ==================================================
 
-* [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
-* [HipHopJoogaNuorille](#hiphop)
+* [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Koirakkojoogameditaatio](#dog)
 
 <div class="prices">
@@ -216,11 +215,10 @@ Sarjakortit
 
 *Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Ja tietenkin yksilölliseen ohjaukseen. Minulle on tärkeää, että Sinä opit!* 
+<p>
 
-*Voit aloittaa pienryhmissä joogailun ympäri vuoden. Vaikka tietyille viikkotunneille muodostuvatkin omat ryhmänsä, nämä ihanat ihmiset ottavat aina avosylin vastaan!*
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä opit. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
 
-*Ohjaan intuitiivisesti ja luovasti, koko ajan ohjattaviani kuunnellen.*
 
 Motivoivat Ajatus & Asana joogakurssit 
 --------------------------------------
@@ -252,18 +250,21 @@ Koirakkojoogameditaatio ja rentoutus
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään Hatha, Kundalini, Yin & Iyengar joogatradition liikkeitä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa voi tulla tunnille ja löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio on olennainen osa kokonaisvaltaista joogaa.
+Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Tunneilla käyetään myös syvempään kehotietoisuuteen ja tietoiseen olemiseen tähtääviä (rentoutus) tekniikoita. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa joogakipinän saanut, voi löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio (itsensä hiljainen kohtaaminen) on olennainen osa kokonaisvaltaista joogaa.
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
+
 Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="yin"></a>
 **Yin & lempeän vahvistava jooga**
+
 Tunti alkaa kehoa ja mieltä avaavilla ja rauhoittavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu lempeän vahvistavalla ja energisoivalla joogaharjoituksella, ja päättyy loppurentoutukseen. Tunti sopii kaikille.
 
 <a id="rauhoittava"></a>
 **Yin & palauttava lempeä jooga (Yin & restorative yoga) in English and in Finnish**
+
 Tunti alkaa kehoa ja mieltä avaavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu kehoa avaavilla ja palauttavilla Hathajoogaliikkeillä, tuetusti, rauhallisesti ja turvallisesti, omaa kehoa kuunnellen. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. This lesson combines elements of Yin yoga  and restorative Hatha yoga. I will give therapheutic modifications of asanas according to individual needs. The lesson ends in relaxation. The main language is English and if needed, also Finnish.
 
 <a id="palauttava"></a>
@@ -285,11 +286,6 @@ Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaiku
 **Lempeän vahvistava jatkojooga**
 
 Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. Hathajooga ja Kundalinijooga toimivat inspriraation lähteinä. Sopii jo jooganneille!
-
-<a id="hiphop"></a>
-**HipHopJoogaNuorille**
-
-HipHopJoogaaNuorille on NUORILLE suunnattua erilaista, omanlaista, ja osallistavaa joogaa, jossa ripaus hiphop-tanssia. Kysy lisää: camisteph@gmail.com /0405224889. (Viherlaakson Ajatus & Asana Joogahuone oli mukana talkoohengessä Espoon Kaupungin Nuoriso-ja liikuntapalveluiden järjestämällä nuorten Luovan toiminnan leirillä (LUMOS) 15.–18.6. [http://lumosleiri.blogspot.fi/p/blog-page_29.html](http://lumosleiri.blogspot.fi/p/blog-page_29.html)
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
