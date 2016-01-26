@@ -6,7 +6,9 @@ title: Ajatuksia
 
 [Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
 
+<h1>
 SINÄ OLET JOOGAHARJOITUKSEN KOHDE JA TULOS
+</h1>
 
 Sinä teet harjoituksestasi juuri sellaisen kuin sillä hetkellä tarvitset.
 Harjoituksen tulos on Sinun ansiota.
@@ -14,14 +16,18 @@ Harjoituksen tulos olet Sinä.
 Ohjaajan tehtävä on luoda suotuisa, turvallinen tila oppimiselle.
 Ohjaaja on ihminen, joka kasvaa ohjattaviensa mukana. 
 
+<h1>
 KEHON VIISAUS
+</h1>
 
 Keho on  viisas kun sitä kuuntelee. 
 Se kuiskailee, se huutaa, se hymähtää, se riemuitsee, se hurisee tyytyväisyyttään. 
 Se keskustelee. 
 Se odottaa, että sinä olet valmis vastaamaan.
 
+<h1>
 JOOGAHUONE
+</h1>
 
 Sen seinät kaikuvat edellisen illan tarinoita.
 Vahvoja, lempeitä, iloisia, kaihoisia, koskettavia.
@@ -33,7 +39,9 @@ Yksi ilta kerrallaan, joogahuoneen elämää.
 
 
 
+<h1>
 JOOGAN KAUNDEUDEN KAAVA
+</h1>
 
 Harjoitus. Harjoitus. Harjoitus.
 Tuhansia mieltä ja kehoa valaisevia toistoja.
@@ -44,7 +52,9 @@ Kauniita, yhä pidempikestoisia 'minän' ylittäviä yksilöllisiä kokemuksia.
 Yhdessä muiden kanssa.
 
 
+<h1>
 HENGITYS
+</h1>
 
 Hengitys hoitaa, kirkastaa, yhdistää, suojaa ja luo uutta.
 Omaa hengitystä voi tutkia ja tarkkailla.
@@ -53,7 +63,9 @@ Tietoinen hengitys vie lähemmäksi totuutta.
 
 
 
+<h1>
 PUHTAITA AJATUKSIA
+</h1>
 
 Puhdas ajatus on enemmän kuin hokema, jonka avulla käännetään huomio toisaalle ja ohitetaan mieltä vaivaava asia.
 Puhtaan ajatuksen syntyminen on saattanut vaatia kohtaamisia ja kärjistyksiä, omien ajatusmallien testaamista ja kyseenalaistamista.
@@ -64,7 +76,9 @@ Puhtaat ajatukset ovat suvaitsevan oppimisen tulosta.
 
 
 
+<h1>
 AJATUSTEN VÄLISSÄ VOI LEVÄTÄ JA INNOVOIDA
+</h1>
 
 Aluksi se voi olla yksi ikimuistoinen sekunti.
 Kun ei tarvitse ajatella ajattelemista.
@@ -79,7 +93,9 @@ Ajatuksista voi tulla ystäviä.
 
 
 
+<h1>
 JOOGAPOLUN ALKU
+</h1>
 
 Jokainen joogapolku on arvokas ja alkaa juuri oikeasta kohtaa elämää.
 Kun kuuntelee tarkkaavaisena kehon sisällä syntyvää tilaa, tietää, että nyt on aika. 
@@ -87,7 +103,9 @@ Silloin jooga kutsuu luokseen, ja ottaa avosylin vastaan.
 
 
 
+<h1>
 RAKKAUS TARJOTTIMELLA
+</h1>
 
 Siinä se olisi.
 Siinä se on ollut aina.
@@ -103,7 +121,9 @@ Sulava sydän ja sielun riemu.
 
 
 
+<h1>
 SUUREMPI VAI PIENEMPI SOSIAALINEN MINÄ?
+</h1>
 
 Mihin piirtäisinkään kehoni ääriviivat tänään? 
 Haluaisinko olla suurempi sielu kuin eilen?
@@ -115,7 +135,9 @@ Muuta ei minun tänään tarvitse tietää.
 
 
 
+<h1>
 MYÖTÄILO
+</h1>
 
 Olen iloinen kun tunnen kuinka sinä tunnet ilon.
 Antaessani tilaa sinulle, olen hetken vapaa itsestäni.
@@ -128,7 +150,9 @@ Myötäilossa kun kuljen.
 
 
 
+<h1>
 LUOVA JOOGA
+</h1>
 
 Kulkee sen ohi aamuisin. Yhä useammin pysähtyy kunnioittamaan sitä. Se vetää magneetin lailla puoleensa. Sieltä löytää aidon itsen, luovuuden kaivon, joka on täynnä. Joogamatolta. Kehosta. Päivä, kuukausi ja vuosi kerrallaan, kulkee kotiin, takaperin. Suuntaa turvalliseen kohtuun, jossa kaikki elämä alkoi. Madonreikiä pitkin. Tutkii jokaisen yhteiskunnallisen kerrostuman ja motiivin, joka minuuteen on takertunut ja tehnyt olon epämukavaksi. Motivaatiotutkija. Sisäinen aivomyrsky käynnistyy, tällä kertaa kehon hienovaraista viestintää kuunnellen. Tietää, mitä pitää tehdä, jotta keho hurisee tytyväisenä. Vaikeiden sosiaalisten tilanteiden jälkeen, kaivaa laukustaan ne aivan tavalliset tennispallot, joilla on oppinut rullaamaan lapojen välistä, selän hermotuksen kautta, sosio-kulttuurista närästystä ulos kehosta. Ja ne taivaalliset puhdistavat selän kierrot! Toksiinit virtaavat, tällä kertaa ulospäin. Keho tärisee kuin nurkkaan ajetun eläimen, joka shokin jälkeen alkaa silminnähden rentoutua.
 
