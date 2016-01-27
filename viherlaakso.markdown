@@ -263,14 +263,14 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joo
 Tunti alkaa kehoa ja mieltä avaavilla ja rauhoittavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu lempeän vahvistavalla ja energisoivalla joogaharjoituksella, ja päättyy loppurentoutukseen. Tunti sopii kaikille.
 
 <a id="rauhoittava"></a>
-**Yin & palauttava lempeä jooga (Yin & restorative yoga) in English and in Finnish**
+**Yin**
 
-Tunti alkaa kehoa ja mieltä avaavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu kehoa avaavilla ja palauttavilla Hathajoogaliikkeillä, tuetusti, rauhallisesti ja turvallisesti, omaa kehoa kuunnellen. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. This lesson combines elements of Yin yoga  and restorative Hatha yoga. I will give therapheutic modifications of asanas according to individual needs. The lesson ends in relaxation. The main language is English and if needed, also Finnish.
+Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Se avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Teemme harjoituksen tuetusti, rauhallisesti ja turvallisesti. Pysymme jokaisessa asanassa 3-5 min. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan.
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Virtaava liike & jooga**
