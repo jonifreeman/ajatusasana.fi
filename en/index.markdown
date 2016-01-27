@@ -18,8 +18,7 @@ sociological and physiological knowledge.
 
 
 For more information, see the weekly yoga class schedule, possibilities for individual coaching 
-sessions & home yoga programmes, and the 3-hour mini retreats. A yoga class is given in English 
-every Thursday from 6.30 to 8.00 pm.
+sessions & home yoga programmes, and the 3-hour mini retreats.
 
 
 Curious? I will gladly tell you more!
