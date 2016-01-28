@@ -108,7 +108,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **17.30-19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Yin & lempeän vahvistava jooga](#yin) <span style="color:red;">Helmikuusta alkaen</span>
+  [Yin & lempeän vahvistava jooga](#yin)
  </div>
  </td>
  <td>
@@ -142,15 +142,11 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
- <div class="session">
-  **18.30 - 19.45** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogamotivaatio-lempeän joogan alkeiskurssi](#joogakurssi) <span style="color:red;">Tammikuussa 2016! 6.1, 13.1, 20.1, 27.1</span>
- </div>
  </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yin & lempeä palauttava jooga (in English & in Finnish)](#rauhoittava)
+ [Yin jooga](#rauhoittava)
  </div>
  </td>
  <td></td>
@@ -263,14 +259,14 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joo
 Tunti alkaa kehoa ja mieltä avaavilla ja rauhoittavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu lempeän vahvistavalla ja energisoivalla joogaharjoituksella, ja päättyy loppurentoutukseen. Tunti sopii kaikille.
 
 <a id="rauhoittava"></a>
-**Yin & palauttava lempeä jooga (Yin & restorative yoga) in English and in Finnish**
+**Yin**
 
-Tunti alkaa kehoa ja mieltä avaavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu kehoa avaavilla ja palauttavilla Hathajoogaliikkeillä, tuetusti, rauhallisesti ja turvallisesti, omaa kehoa kuunnellen. Toimii tehokkaana stressinpoistajana. Annan aina erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. This lesson combines elements of Yin yoga  and restorative Hatha yoga. I will give therapheutic modifications of asanas according to individual needs. The lesson ends in relaxation. The main language is English and if needed, also Finnish.
+Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Se avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Teemme harjoituksen tuetusti, rauhallisesti ja turvallisesti. Pysymme jokaisessa asanassa 3-5 min. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan.
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
 
 <a id="trigger"></a>
 **Virtaava liike & jooga**
@@ -311,7 +307,7 @@ Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina k
 Tässä 3-tuntisessa esittelyssä kokonaisvaltainen jooga. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa!
 
 
-*LA 5.3 2016 Selkärangan energisointi joogan & vapaan liikkeen keinoin eteerisen musiikin tahdissa*
+*LA 5.3 2016 klo. 10.00-13.00 Selkärangan energisointi joogan & vapaan liikkeen keinoin eteerisen musiikin tahdissa*
 
 3-tunnin miniretriitissä hitaasti ja lempeydellä tunnustelemmme selkärankaamme sitä kiertäen, suoristen, ojentaen, pyöristäen ja sivuittaissuunnassa liikuttaen. Yhdistämme joogaliikkeitä ja muita somaattisia kehotietoisuuden liikkeitä monipuoliseksi kokonaisuudeksi. Lopuksi annamme rangan rentoutua äänimeditaation keinoin.
 

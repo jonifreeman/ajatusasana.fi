@@ -108,7 +108,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **17.30-19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Yin & lempeän vahvistava jooga](#yin) <span style="color:red;">Helmikuusta alkaen</span>
+  [Yin & lempeän vahvistava jooga](#yin)
  </div>
  </td>
  <td>
@@ -142,15 +142,11 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
- <div class="session">
-  **18.30 - 19.45** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogamotivaatio-lempeän joogan alkeiskurssi](#joogakurssi) <span style="color:red;">Tammikuussa 2016! 6.1, 13.1, 20.1, 27.1</span>
- </div>
  </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yin & lempeä palauttava jooga (in English & in Finnish)](#rauhoittava)
+ [Yin jooga](#rauhoittava)
  </div>
  </td>
  <td></td>
