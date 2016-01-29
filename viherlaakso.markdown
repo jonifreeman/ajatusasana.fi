@@ -318,7 +318,7 @@ Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoin
 Tule rohkeasti kokeilemaan!
 
 
-* LA 16.4 klo. 10.00-13.00 Pari(skunta)jooga: Kokonaisvaltaisen joogan ytimessä* 
+*LA 16.4 klo. 10.00-13.00 Pari(skunta)jooga: Kokonaisvaltaisen joogan ytimessä* 
 
 Tuo siippasi tai mielitiettysi mukaan tutustumaan kokonaisvaltaiseen joogaan. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Teemme sekä yksilö-että pariharjoituksia.  Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa hyvinvoimaan yhdessä!
 
