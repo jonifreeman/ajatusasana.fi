@@ -2,8 +2,9 @@
 title: Individual coaching
 ---
 
-*Yoga coaching packages*
+*Yoga and BodyMind coaching packages*
 
+Your specific needs are the starting point. Individual coaching sessions are based on therapeutic yoga as well as psychological, sociological and physiological knowledge of being-in-the-world. 
 
 **My Thought and Asana I**
 
