@@ -415,3 +415,9 @@ section {
 .teaser {
   color: #a8d733;
 }
+
+.blog {
+  width: 270px;
+  float: right;
+  margin: 10px;
+}
