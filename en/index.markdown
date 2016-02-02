@@ -13,6 +13,10 @@ To let the internal teacher within guide you towards a more creative and renewed
 And to be able to do this in an environment that values your unique life history and experience.
 
 
+<div class="blog">
+<script async src="https://static.medium.com/embed.js"></script><a class="m-collection" href="https://medium.com/ajatus-asana">Ajatus & Asana</a>
+</div>
+
 Ajatus & Asana offers inspiring pedagogical BodyMind teaching and coaching based on yoga as well as psychological, 
 sociological and physiological knowledge. 
 
