@@ -101,7 +101,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän Joogan Alkeet](#alkeet)
+  [Lempeän joogan esittelytunti](#alkeet)
  </div>
  </td>
  <td></td>
@@ -274,7 +274,7 @@ Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogal
 Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="alkeet"></a>
-**Lempeän Joogan Alkeet**
+**Lempeän joogan esittelytunti**
 
 Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Mikä Ajatus & Asana joogatunti sopisi minulle? Tämä tunti on hyvä tapa tutustua opettamaani joogaan. Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta muille viikkotunneille. Tunti sopii kaikille. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien.
 

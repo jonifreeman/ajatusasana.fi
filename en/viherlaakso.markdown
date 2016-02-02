@@ -101,7 +101,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän Joogan Alkeet](#alkeet)
+  [Lempeän joogan esittelytunti](#alkeet)
  </div>
  </td>
  <td></td>
@@ -274,7 +274,7 @@ Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogal
 Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="alkeet"></a>
-**Lempeän Joogan Alkeet**
+**Lempeän joogan esittelytunti**
 
 Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Mikä Ajatus & Asana joogatunti sopisi minulle? Tämä tunti on hyvä tapa tutustua opettamaani joogaan. Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta muille viikkotunneille. Tunti sopii kaikille. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien.
 
@@ -310,6 +310,17 @@ Tässä 3-tuntisessa esittelyssä kokonaisvaltainen jooga. Mitä on jooga? Mihin
 *LA 5.3 2016 klo. 10.00-13.00 Selkärangan energisointi joogan & vapaan liikkeen keinoin eteerisen musiikin tahdissa*
 
 3-tunnin miniretriitissä hitaasti ja lempeydellä tunnustelemmme selkärankaamme sitä kiertäen, suoristen, ojentaen, pyöristäen ja sivuittaissuunnassa liikuttaen. Yhdistämme joogaliikkeitä ja muita somaattisia kehotietoisuuden liikkeitä monipuoliseksi kokonaisuudeksi. Lopuksi annamme rangan rentoutua äänimeditaation keinoin.
+
+
+*LA 19. 3 klo. 10.00-13.00 Kiukun purkaminen & kehon täyttäminen positiivisuudella ja terveellä itserakkaudella*
+
+Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
+Tule rohkeasti kokeilemaan!
+
+
+*LA 16.4 klo. 10.00-13.00 Pari(skunta)jooga: Kokonaisvaltaisen joogan ytimessä* 
+
+Tuo siippasi tai mielitiettysi mukaan tutustumaan kokonaisvaltaiseen joogaan. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Teemme sekä yksilö-että pariharjoituksia.  Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa hyvinvoimaan yhdessä!
 
 
 
