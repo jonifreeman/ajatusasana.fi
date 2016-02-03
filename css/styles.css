@@ -418,6 +418,7 @@ section {
 
 .blog {
   width: 270px;
+  min-height: 500px;
   float: right;
   margin: 10px;
 }
