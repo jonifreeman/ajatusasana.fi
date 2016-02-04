@@ -15,3 +15,7 @@ Sinulle, joka haluat:
 * yksilön huomioivaa ohjausta pienryhmässä (max 8 hlö per tunti)
 
 
+Vastaan mielelläni kysymyksiisi!
+
+Stephanie Freeman, Filosofian tohtori, Kasvatustieteiden maisteri, Diplomijoogaohjaaja
+[stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
