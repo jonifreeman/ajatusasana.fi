@@ -1,10 +1,16 @@
 ---
 title: For whom
 ---
+Individuals, who are searching for:
 
-Science-and yoga-based educational service for
+* private coaching
+* a smaller social setting in yoga classes (max 8 persons)
+* a cosy place to relax and unwind
+* inspiration and deeper self-knowledge
+* lifelong tools for managing emotional stress
 
-* Individuals who prefer private instruction.
-* People who prefer a social setting (max 8 persons).
-* Organizations and (work) communities searching for togetherness and inspiration.
+Feel free to contact me!
+Stephanie Freeman, PhD, Diploma yoga teacher
++358405224889
+[stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
