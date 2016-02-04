@@ -157,7 +157,7 @@ Viikko-ohjelma
 
 </table>
 
-Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889).
+Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi).
 
 Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä.
 
