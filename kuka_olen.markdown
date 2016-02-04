@@ -31,7 +31,7 @@ Jos kiinnostuit ja haluat tietää lisää, kysy vaan rohkeasti, sillä jooga vo
 Raikkain terveisin,
 
 Stephanie Freeman (Filosofian Tohtori, Kasvatustieteiden Maisteri & Diplomijoogaohjaaja)
-
+[stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
 
