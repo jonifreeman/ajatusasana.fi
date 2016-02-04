@@ -2,7 +2,7 @@
 title: Individual coaching
 ---
 
-*Yoga and BodyMind coaching packages*
+**Yoga and BodyMind coaching packages**
 
 Your specific needs are the starting point. Individual coaching sessions are based on therapeutic yoga as well as psychological, sociological and physiological knowledge of being-in-the-world. 
 
@@ -42,3 +42,11 @@ Your own Thought & Asana yoga program (includind detailed instructions and pictu
 Attending 4 x 90 minute yoga classes in Viherlaakso. However, if you rather do a private class, we can do one 90 min class instead.
 
 400 €
+
+Feel free to ask more!
+
+Stephanie Freeman, PhD, Diploma yoga teacher
+
+0405224889
+
+stephanie
