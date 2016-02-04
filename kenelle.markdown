@@ -18,4 +18,7 @@ Sinulle, joka haluat:
 Vastaan mielelläni kysymyksiisi!
 
 Stephanie Freeman, Filosofian tohtori, Kasvatustieteiden maisteri, Diplomijoogaohjaaja
+
+0405224889
+
 [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
