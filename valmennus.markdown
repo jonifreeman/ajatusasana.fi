@@ -44,12 +44,19 @@ Oma Ajatus & Asana III
 
 **Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
 
-Jumittaako gradun, väitöskirjan tai artikkelin kirjoittaminen? Tuntuuko, että tukehdut luokka/seminaarihuoneessa? Huutaako ja kiroileeko kehosi? Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. Kysy lisää!
+Jumittaako gradun, väitöskirjan tai artikkelin kirjoittaminen? Tuntuuko, että tukehdut luokka/seminaarihuoneessa? Huutaako ja kiroileeko kehosi? Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. 
 
 Lalla Pohjanpalo & Erika Maksniemi (2014). 'Rauhoittunut ope', podcast. Asiantuntijahaastattelussa mm. Stephanie Freeman.
 
 * [Kuuntele haastattelu](RauhoittunutOpe.mp3)
 * [Lähteet](RauhoittunutOpe.pdf)
 
+Kysy lisää!
+
+Stephanie Freeman, Filosofian tohtori, Kasvatustieteiden maisteri, Diplomijoogaohjaaja
+
+0405224889
+
+[stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
 </div>
