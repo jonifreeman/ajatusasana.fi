@@ -4,6 +4,8 @@ title: Ajatuksia
 
 **Jooga, hengitys, tunteet, tuntemukset, tiede ja elämä - Ajatuksiani joogamatkan varrelta**
 
+Seuraa myös Ajatus & Asana Blogi, joka käsittelee kehoa, mieltä, joogaa ja sosiaalisia taitoja: https://medium.com/ajatus-asana
+
 [Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
 
 <h1>
