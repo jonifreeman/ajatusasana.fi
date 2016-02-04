@@ -21,8 +21,7 @@ Heräsikö uteliaisuutesi? Kysy rohkeasti lisää!
 
 Stephanie Freeman, 
 Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
-
-stephanie@ajatusasana.fi
+[stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 0405224889
 
 
