@@ -47,6 +47,5 @@ Feel free to ask more!
 
 Stephanie Freeman, PhD, Diploma yoga teacher
 
-0405224889
++358405224889
 
-stephanie
