@@ -17,7 +17,7 @@ Diploma yoga teacher
 
 Tel. +358405224889
 
-[camisteph@gmail.com](mailto:camisteph@gmail.com)
+[stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
 [Academia.edu](http://helsinki.academia.edu/NStephanieFreeman)
 
