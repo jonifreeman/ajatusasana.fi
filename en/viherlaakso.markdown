@@ -69,6 +69,10 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
+ <div class="session">
+  **11.30 - 13.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Palauttava lempeä jooga](#palauttava)
+ </div>
  </td>
  <td>
  <div class="course">
@@ -118,10 +122,6 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
- <div class="session">
-  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Palauttava lempeä jooga](#palauttava)
- </div>
  </td>
  <td></td>
  <td></td>
@@ -157,7 +157,7 @@ Viikko-ohjelma
 
 </table>
 
-Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
+Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
 Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä.
 
