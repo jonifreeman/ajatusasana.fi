@@ -105,7 +105,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän joogan alkeet](#alkeet)
+  [Joogamotivaatio: Lempeän jooga alkeiskurrsi](#alkeet)
   <div class="highlight">Huhtikuussa 2016 (4.4, 11.4, 18.4, 25.4)</div>
  </div>
  </td>
