@@ -68,6 +68,11 @@ h1, h2, strong, a {
   color: #7e6d77;
 }
 
+.highlight {
+  color: #b7c74b;
+  font-weight: bold;
+}
+
 .navi a {
   color: #333333;
   text-transform: uppercase;
