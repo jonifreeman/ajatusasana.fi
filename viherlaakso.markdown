@@ -275,9 +275,8 @@ Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogal
 Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="alkeet"></a>
-**Lempeän joogan esittelytunti**
 
-Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Mikä Ajatus & Asana joogatunti sopisi minulle? Tämä tunti on hyvä tapa tutustua opettamaani joogaan. Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta muille viikkotunneille. Tunti sopii kaikille. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien.
+
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jatkojooga**
@@ -292,9 +291,9 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
 
 <a id="joogakurssi"></a>
-**Motivoivat Ajatus & Asana joogakurssit**
+**Joogamotivaatio - lempeän joogan alkeiskurssi**
 
-Ponnahduslauta lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Yhdessä 75 min mittaisessa työpajassa opetellaan perusteellisesti kaksi jooga-asanaa eli liikettä omaa kehoa turvallisesti kuunnellen. Työpaja sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja meditaation/ Yoga Nidran/ rentoutuksen. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
+Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta joogaan. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien. lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Kurssi sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja meditaation/ Yoga Nidran/ rentoutuksen. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
 
 Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45.
 
