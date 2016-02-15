@@ -295,7 +295,7 @@ Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koir
 
 Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta joogaan. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien. lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Kurssi sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja meditaation/ Yoga Nidran/ rentoutuksen. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
 
-Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Tammikuussa 2016! Aina keskiviikkoisin 6.1, 13.1, 20.1, 27.1 klo. 18.30-19.45.
+Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Huhtikuussa 2016! Aina maanantaisin 4.4, 11.4, 18.4, 25.4 klo. 16.45-18.15
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
