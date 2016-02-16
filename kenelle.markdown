@@ -4,15 +4,15 @@ title: Kenelle
 
 Sinulle, joka haluat:
   
-* syventää kehotietoisuuttasi
+syventää kehotietoisuuttasi
 
-* syventää ymmärrystä itsestäsi ja maailmastasi
+syventää ymmärrystä itsestäsi ja maailmastasi
 
-* rentoutta, iloa, inspiraatiota ja luovuutta elämääsi
+rentoutta, iloa, inspiraatiota ja luovuutta elämääsi
 
-* yksilöllistä (jooga/kehomielen) valmennusta 
+yksilöllistä (jooga/kehomielen) valmennusta 
 
-* yksilön huomioivaa ohjausta pienryhmässä (max 8 hlö per tunti)
+yksilön huomioivaa ohjausta pienryhmässä (max 8 hlö per tunti)
 
 
 Vastaan mielelläni kysymyksiisi!
