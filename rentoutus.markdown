@@ -8,11 +8,13 @@ Haluatko rentoutuen purkaa ajatuksiasi elämästä(si), tulla aidosti kuulluksi?
 
 Session pituus: 90 min
 
-Hinta:         1 krt   65 € 
+Hinta:   
 
-               2 krt  120 €
-               
-               3 krt  150 €
+ 1 krt   65 €
+
+ 2 krt  120 €
+
+ 3 krt  150 €
 
 
 Kuuntelen sinua koko kehollani.
