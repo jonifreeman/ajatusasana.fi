@@ -2,7 +2,7 @@
 title: Keskusteleva Joogarentoutus
 ---
 
-Keskusteleva Joogarentoutus  - Tule Kuulluksi!
+**Keskusteleva Joogarentoutus  - Tule Kuulluksi!**
 
 Haluatko rentoutuen purkaa ajatuksiasi elämästä(si), tulla aidosti kuulluksi?  Oletko etsimässä uuttaa suuntaa ja inspiraatiota jollain elämänalueellasi? Keskusteleva joogarentoutus on tarkoitettu kenelle tahansa arkisen tai pyhän asian kanssa kamppailevalle ihmiselle, jota kiinnostaa oman kehon tuntemusten, tunteiden välisen yhteyden ymmärtäminen ja syventäminen sekä (työ)elämän ja maailmanmenon ihmettely. Sinulla ei tarvitse olla aikaisempaan joogataustaa tai rentoutuskokemusta. Riittää, että tunnet tarvetta kokeilla. Sessiossa yhdistän mm. kokonaisvaltaisen joogan rentoutustekniikoita sekä syvää (tieteellistäkin) ymmärrystä ihmisenä olemisen rikkaudesta. Huom! Keskusteleva joogarentoutus ei ole terapiaa, eikä siten sovellu mielenterveysongelmien hoitoon.
 
