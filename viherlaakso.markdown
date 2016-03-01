@@ -327,7 +327,9 @@ Tuo siippasi tai mielitiettysi mukaan tutustumaan kokonaisvaltaiseen joogaan. Mi
 Kaipaatko uutta energiaa, inspiraatiota ja välineitä jokapäiväisen hyvinvoinnin aktivoimiseksi ja ylläpitämiseksi? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta hoitavasta voimasta? Tule mukaan monipuoliseen keväiseeen itsehoitopäivään Espoon Viherlaksoon Ajatus & Asana joogahuoneelle. Päivän aikana  tutustumme KehoMielen hoitavaan potentiaaliin joogan ja energiahoidon kautta. Päivän aikana opimme käyttämään energiaa itsehoidossa. Opimme myös ymmärtämään, mihin tunteita tarvitaan, ja miten ne linkittyvät keholliseen kokemukseen. 
 
 Kurssin vetäjät:
+
 Itsehoitoa energioilla: Tuija Holmberg (energiahoidon opettaja, ravintoneuvoja)
+
 Itsehoitoa joogan, meditaation ja tunneälyn keinoin: Stephanie Freeman (Filosofian tohtori, Kasvatustieteiden maisteri ja diplomijoogaopettaja)
 
 Hinta: 100 € (sis ALV ). Kurssin hinta sisältää myös jaettavat materiaalit sekä teetä ja pientä purtavaa. Otathan omat lounaseväät mukaan.
