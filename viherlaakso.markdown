@@ -177,7 +177,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
-Voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
+Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Pay2Go-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
