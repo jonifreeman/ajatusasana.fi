@@ -318,6 +318,7 @@ Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoin
 Tule rohkeasti kokeilemaan!
 
 *LA 2.4 klo. 10.00-12.00 Uljas & voimallinen Minä: Dynaaminen joogahetki*
+
 Kaipaatko Poweria elämään? Haluatko haastaa kehoasi ja mieltäsi vahvemmalla  joogaharjoituksella? Haluatko ylittää leikkimielisesti omia rajojasi? Kevättä kohti kun rytinällä mennään, kehokin herää eloon, ja saattaa kaivata jotain palauttavaa väkevämpää. Tule ja lähesty aitoa itseäsi voimallisen rakkaudellisesti. Hinta 40 euroa (sis ALV).
 
 *LA 16.4 klo. 10.00-13.00 Pari(skunta)jooga: Kokonaisvaltaisen joogan ytimessä* 
