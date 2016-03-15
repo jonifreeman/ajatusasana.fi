@@ -10,9 +10,7 @@ title: Viherlaakso / Leppävaara / Espoo
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Ilmoittautuminen</h2>
-   <p>
-     <div class="course"></div>
-   </p>
+   <p><div class="course"></div></p>
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
@@ -25,9 +23,7 @@ title: Viherlaakso / Leppävaara / Espoo
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Peruutettu</h2>
-   <p>
-     Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!
-   </p>
+   <p>Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!</p>
   </div>
 </div>
 
