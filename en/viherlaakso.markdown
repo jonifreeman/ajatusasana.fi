@@ -10,9 +10,7 @@ title: Viherlaakso / Leppävaara / Espoo
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Ilmoittautuminen</h2>
-   <p>
-     <div class="course"></div>
-   </p>
+   <p><div class="course"></div></p>
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
@@ -25,9 +23,7 @@ title: Viherlaakso / Leppävaara / Espoo
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Peruutettu</h2>
-   <p>
-     Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!
-   </p>
+   <p>Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!</p>
   </div>
 </div>
 
@@ -177,7 +173,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
 
-Voit maksaa myös Smartum liikuntaseteleillä sekä Virikeseteleillä!
+Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Pay2Go-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
@@ -317,10 +313,27 @@ Tässä 3-tuntisessa esittelyssä kokonaisvaltainen jooga. Mitä on jooga? Mihin
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
 Tule rohkeasti kokeilemaan!
 
+*LA 2.4 klo. 10.00-12.00 Uljas & voimallinen Minä: Dynaaminen joogahetki*
+
+Kaipaatko Poweria elämään? Haluatko haastaa kehoasi ja mieltäsi vahvemmalla  joogaharjoituksella? Haluatko ylittää leikkimielisesti omia rajojasi? Kevättä kohti kun rytinällä mennään, kehokin herää eloon, ja saattaa kaivata jotain palauttavaa väkevämpää. Tule ja lähesty aitoa itseäsi voimallisen rakkaudellisesti. Hinta 40 euroa (sis ALV).
 
 *LA 16.4 klo. 10.00-13.00 Pari(skunta)jooga: Kokonaisvaltaisen joogan ytimessä* 
 
 Tuo siippasi tai mielitiettysi mukaan tutustumaan kokonaisvaltaiseen joogaan. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Teemme sekä yksilö-että pariharjoituksia.  Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa hyvinvoimaan yhdessä!
 
+*LA 14.5 2016 klo. 10.00-16.00 Joogaa, energiahoitoa ja tunneälyä: itsehoidon upeat työkalut*
 
+Kaipaatko uutta energiaa, inspiraatiota ja välineitä jokapäiväisen hyvinvoinnin aktivoimiseksi ja ylläpitämiseksi? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta hoitavasta voimasta? Tule mukaan monipuoliseen keväiseeen itsehoitopäivään Espoon Viherlaksoon Ajatus & Asana joogahuoneelle. Päivän aikana  tutustumme KehoMielen hoitavaan potentiaaliin joogan ja energiahoidon kautta. Päivän aikana opimme käyttämään energiaa itsehoidossa. Opimme myös ymmärtämään, mihin tunteita tarvitaan, ja miten ne linkittyvät keholliseen kokemukseen. 
 
+Kurssin vetäjät:
+
+Itsehoitoa energioilla: Tuija Holmberg (energiahoidon opettaja, ravintoneuvoja)
+
+Itsehoitoa joogan, meditaation ja tunneälyn keinoin: Stephanie Freeman (Filosofian tohtori, Kasvatustieteiden maisteri ja diplomijoogaopettaja)
+
+Hinta: 100 € (sis ALV ). Kurssin hinta sisältää myös jaettavat materiaalit sekä teetä ja pientä purtavaa. Otathan omat lounaseväät mukaan.
+
+Ilmoittautumiset: stephanie@ajatusasana.fi / 0405224889
+tai elamansiivet@gmail.com / 0408644646
+
+Kysy rohkeasti lisää!
