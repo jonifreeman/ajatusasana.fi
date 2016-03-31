@@ -108,7 +108,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **17.30-19.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  **18.30-20.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Yin & lempeän vahvistava jooga](#yin)
  </div>
  </td>
