@@ -7,7 +7,7 @@ imagewidth: 170px
 Miten pysyä mieleltään terveenä tässä hullussa maailmassa?
 ==========================================================
 
-Pohdintoja henkisyydestä, energiosta ja ihmisten etäluennasta
+Pohdintoja henkisyydestä, energioista ja ihmisten etäluennasta
 -------------------------------------------------------------
 
 Brian Snellgrove, psyykikko, kirjailija ja filosofi Englannista, jakaa oivalluksiaan yli 40 vuoden työskentelystä ihmisten kanssa, erityisesti heidän sosiaalisista suhteistaan ja henkisestä kasvusta.
