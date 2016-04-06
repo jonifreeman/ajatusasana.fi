@@ -26,13 +26,13 @@ Miten pysyä mieleltään terveenä tässä hullussa maailmassa?
 Pohdintoja henkisyydestä, energiosta ja ihmisten etäluennasta
 -------------------------------------------------------------
 
-Brian Snellgrove, psyykikko, kirjailija ja filosofi Englannista, jakaa oivalluksiaan yli 40 vuoden työskentelystä ihmisten kanssa, erityisesti heidän sosiaalisista suhteistaan ja henkisestä kasvusta.
+Brian Snellgrove, psyykikko, kirjailija ja filosofi Englannista, jakaa oivalluksiaan yli 40 vuoden työskentelystä ihmisten kanssa, erityisesti sosiaalisiin suhteisiin ja henkiseen kasvuun liittyen.
 
-Englanninkielinen luento pidetään Torstaina 16. Kesäkuuta 2016, Ajatus & Asana Joogahuoneella Espoon Viherlaaksossa. Luennon aikana tehdään demonstraatio energioiden lukemisesti jollakulla yleisöstä.
+Englanninkielinen luento pidetään Torstaina 16. Kesäkuuta 2016, Ajatus & Asana Joogahuoneella Espoon Viherlaaksossa. Luennon aikana tehdään demonstraatio energioiden lukemisesta jollakulla yleisöstä.
 
 Vierailunsa yhteydessä, Brian ja hänen vaimonsa Francoise, tarjoavat uniikin Katsastus palvelun, jossa saat yksityiskohtaisen ja analyyttisen luennan omasta aurastasi.
 
 Mahdollisuus henkilökohtaiseen tapaamiseen ja luentaan 17/18/19/20/21 Kesäkuuta 2016.
 
-Tiedustelet ja ajanvaraus: [www.briansnellgrove.net](http://www.briansnellgrove.net) tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
+Tiedustelut ja ajanvaraus: [www.briansnellgrove.net](http://www.briansnellgrove.net) tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
