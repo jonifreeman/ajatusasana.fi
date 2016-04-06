@@ -369,7 +369,8 @@ blockquote cite:before {
 }
 
 .ale {
-  color: #fd5b94;
+  color: #b7c74b;
+  font-weight: bold;  
 }
 
 .prices {
