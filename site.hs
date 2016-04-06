@@ -26,6 +26,10 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "*.php" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "*.markdown" $ content "templates/default.html"
 
     match "en/*.markdown" $ content "templates/default_en.html"

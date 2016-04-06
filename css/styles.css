@@ -231,6 +231,35 @@ h1, h2, strong, a {
   font-size: 12px;
 }
 
+.mailinglist-form {
+  display: none;
+}
+
+.mailinglist-form .contact-info {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #7e6d77;
+}
+
+.mailinglist-form input[type="text"] {
+  margin-top: 4px;
+  width: 200px;
+}
+
+.mailinglist-form .join-button {
+  margin-top: 4px;
+}
+
+.mailinglist-form .error {
+  margin-top: 4px;
+}
+
+.mailinglist-ok {
+  font-size: 20px;
+  color: black;
+  display: none;
+}
+
 .images {
   float: left;
   margin: 0 0 25px 0;

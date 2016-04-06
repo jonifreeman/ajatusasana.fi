@@ -12,6 +12,26 @@ $(function() {
     timeout: 10000
   })
 
+  setupSignup()
+  setupMailinglist()
+
+  var menu = $('.navi ul')
+
+  $('.navi .pull').on('click', function(e) {
+    e.preventDefault()
+    menu.slideToggle()
+  })
+
+  $('#ananda').cycle({ 
+    fx:     'fade',
+    speed:  'fast',
+    timeout: 0,
+    next:   '#ananda-next',
+    prev:   '#ananda-prev'
+  });
+})
+
+function setupSignup() {
   $('.schedule .signup').click(function(e) {
     validate()
     $('.popup').css('visibility', 'hidden')
@@ -82,19 +102,53 @@ $(function() {
   $('.cancelled-popup .close').click(function() {
     $('.cancelled-popup').css('visibility', 'hidden')
   })
+}
 
-  var menu = $('.navi ul')
+function setupMailinglist() {
+  function name() { return $('.mailinglist-form .name').val() }
+  function email() { return $('.mailinglist-form .email').val() }
 
-  $('.navi .pull').on('click', function(e) {
-    e.preventDefault()
-    menu.slideToggle()
+  function validate() {
+    if (name().length == 0 || email().length == 0) {
+      $('.mailinglist-form .join-button').attr('disabled', 'disabled')
+    } else {
+      $('.mailinglist-form .join-button').removeAttr('disabled')
+    }
+
+    if (name().length == 0) {
+      $('.mailinglist-form .name').addClass('invalid')
+    } else {
+      $('.mailinglist-form .name').removeClass('invalid')
+    }
+
+    if (email().length == 0) {
+      $('.mailinglist-form .email').addClass('invalid')
+    } else {
+      $('.mailinglist-form .email').removeClass('invalid')
+    }
+  }
+
+  $('.mailinglist-form input').bind("keyup blur", function(event) {
+    validate()
   })
 
-  $('#ananda').cycle({ 
-    fx:     'fade',
-    speed:  'fast',
-    timeout: 0,
-    next:   '#ananda-next',
-    prev:   '#ananda-prev'
-  });
-})
+  $('.mailinglist-form .join-button').click(function(e) {
+    data = {
+      name:  name(),
+      email: email(),
+    }
+    $.post("/join.php", data, function() {
+      $('.mailinglist-form').hide()
+      $('.mailinglist-ok').fadeIn(500).delay(10000).fadeOut(500)
+    })
+    .fail(function() {
+      $('.mailinglist-form .error').fadeIn(500).delay(10000).fadeOut(500)
+    })
+  })
+
+  $('.mailinglist-toggle').click(function(e) {
+    e.preventDefault()
+    validate()
+    $('.mailinglist-form').toggle()
+  })
+}
