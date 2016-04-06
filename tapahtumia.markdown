@@ -18,7 +18,7 @@ Vierailunsa yhteydessä, Brian ja hänen vaimonsa Francoise, tarjoavat uniikin K
 
 Mahdollisuus henkilökohtaiseen tapaamiseen ja luentaan 17/18/19/20/21 Kesäkuuta 2016.
 
-Tiedustelet ja ajanvaraus: [www.briansnellgrove.net](http://www.briansnellgrove.net) tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
+Tiedustelut ja ajanvaraus: [www.briansnellgrove.net](http://www.briansnellgrove.net) tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
 <p><p>
 
