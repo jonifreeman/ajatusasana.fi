@@ -28,7 +28,7 @@ Pohdintoja henkisyydestä, energiosta ja ihmisten etäluennasta
 
 Brian Snellgrove, psyykikko, kirjailija ja filosofi Englannista, jakaa oivalluksiaan yli 40 vuoden työskentelystä ihmisten kanssa, erityisesti sosiaalisiin suhteisiin ja henkiseen kasvuun liittyen.
 
-Englanninkielinen luento pidetään Torstaina 16. Kesäkuuta 2016, Ajatus & Asana Joogahuoneella Espoon Viherlaaksossa. Luennon aikana tehdään demonstraatio energioiden lukemisesta jollakulla yleisöstä.
+Englanninkielinen luento pidetään Torstaina 16. Kesäkuuta 2016 Ajatus & Asana Joogahuoneella Espoon Viherlaaksossa. Luennon aikana tehdään demonstraatio energioiden lukemisesta jollakulla yleisöstä.
 
 Vierailunsa yhteydessä, Brian ja hänen vaimonsa Francoise, tarjoavat uniikin Katsastus palvelun, jossa saat yksityiskohtaisen ja analyyttisen luennan omasta aurastasi.
 
