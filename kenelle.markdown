@@ -10,6 +10,8 @@ syventää ymmärrystä itsestäsi ja maailmastasi
 
 oppia joogaamaan ajasta ja paikasta riippumatta
 
+löytää elinikäisiä työvälineitä emotionaalisen stressin hallintaan
+
 rentoutta, iloa, inspiraatiota ja luovuutta elämääsi
 
 yksilöllistä (jooga/kehomielen) valmennusta 
