@@ -8,6 +8,8 @@ syventää kehotietoisuuttasi
 
 syventää ymmärrystä itsestäsi ja maailmastasi
 
+oppia joogaamaan ajasta ja paikasta riippumatta
+
 rentoutta, iloa, inspiraatiota ja luovuutta elämääsi
 
 yksilöllistä (jooga/kehomielen) valmennusta 
