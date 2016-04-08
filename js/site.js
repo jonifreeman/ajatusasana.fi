@@ -3,7 +3,7 @@ $(function() {
   var i = document.location.pathname.lastIndexOf("/")
   var page = document.location.pathname.substring(i+1)
   if (page == "") {
-    $('.navi a:first').addClass('selected')
+    $('.navi a[href$="index.html"]').addClass('selected')
   } else {
     $('.navi a[href$="' + page + '"]').addClass('selected')
   }
@@ -144,11 +144,5 @@ function setupMailinglist() {
     .fail(function() {
       $('.mailinglist-form .error').fadeIn(500).delay(10000).fadeOut(500)
     })
-  })
-
-  $('.mailinglist-toggle').click(function(e) {
-    e.preventDefault()
-    validate()
-    $('.mailinglist-form').toggle()
   })
 }

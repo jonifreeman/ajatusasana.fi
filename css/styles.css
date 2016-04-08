@@ -223,16 +223,18 @@ h1, h2, strong, a {
   width: 100px;
 }
 
-.mailinglist img {
-  vertical-align: middle;
+.mailinglist {
+  margin-bottom: 20px;
 }
 
 .mailinglist a {
   font-size: 12px;
 }
 
-.mailinglist-form {
-  display: none;
+.mailinglist img {
+  width: 16px;
+  color: #7e6d77;
+  margin-right: 6px;
 }
 
 .mailinglist-form .contact-info {
@@ -256,7 +258,7 @@ h1, h2, strong, a {
 
 .mailinglist-ok {
   font-size: 20px;
-  color: black;
+  color: #b7c74b;
   display: none;
 }
 
