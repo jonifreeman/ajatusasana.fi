@@ -5,7 +5,7 @@ title: Mailing list
 Ajatus & Asana mailing list
 ---------------------------
 
-Stay tuned for upcoming events by joining the mailing list.
+Food for thought. Stay tuned for upcoming events, workshops, guest speakers, lectures, and blogposts by joining the mailing list.
 
 
 <div class="mailinglist-form">
