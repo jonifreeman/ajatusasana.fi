@@ -75,7 +75,7 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
+  **11.00 - 12.30** <br /> <!-- <img class="signup" src="/img/signup.png"></img> -->
   [Palauttava lempeä jooga](#palauttava)
   <div class="highlight">Kesätauolla, jatkuu taas Syyskuussa</div>
  </div>
