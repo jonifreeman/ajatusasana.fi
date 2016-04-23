@@ -12,7 +12,7 @@ create table enrollments(
   name varchar(255) NOT NULL,
   email varchar(255) NOT NULL,
   phone varchar(255),
-  comment varchar(1000),
+  comment varchar(1000) NOT NULL DEFAULT '',
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
 
