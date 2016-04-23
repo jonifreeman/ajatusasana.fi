@@ -47,13 +47,13 @@ function get_times_and_enrollments($start, $end) {
   $times_sql = function($conn) use ($start, $end) {
     $s = mysqli_real_escape_string($conn, $start);
     $e = mysqli_real_escape_string($conn, $end);
-    return "SELECT *, 'time' AS type FROM times WHERE start >= '$s' AND end <= '$e'";
+    return "SELECT *, 'time' AS className FROM times WHERE start >= '$s' AND end <= '$e'";
   };
   $times = sql_query($times_sql);
   $enrollments_sql = function($conn) use ($start, $end) {
     $s = mysqli_real_escape_string($conn, $start);
     $e = mysqli_real_escape_string($conn, $end);
-    return "SELECT *, 'enrollment' AS type FROM enrollments WHERE start >= '$s' AND end <= '$e'";
+    return "SELECT *, 'enrollment' AS className FROM enrollments WHERE start >= '$s' AND end <= '$e'";
   };
   $enrollments = sql_query($enrollments_sql);
   $result_json = json_encode(array_merge($times, $enrollments));
