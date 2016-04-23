@@ -6,6 +6,14 @@ $(function() {
     defaultView: 'agendaWeek',
     minTime: '8:00:00',
     maxTime: '22:00:00',
+    allDaySlot: false,
+    height: 'auto',
+    eventDataTransform: function(event) {
+      if (event.className == 'time') {
+        event.rendering = 'background'
+      }
+      return event
+    },
     eventRender: function(event, element) {
       if (event.className == 'enrollment') {
         element.qtip({
