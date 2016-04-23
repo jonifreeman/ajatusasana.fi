@@ -24,7 +24,7 @@ function all_rows_handler($results) {
   return $rows;
 }
 
-function auth() {
+function verify_auth_token() {
   // TODO: implement
 }
 
@@ -32,13 +32,14 @@ function get_vacant_times($start, $end) {
 }
 
 function get_times_and_enrollments($start, $end) {
-  auth();
+  verify_auth_token();
   // TODO add where
-  $times_sql = "SELECT id, start, end from times";
+  $times_sql = "SELECT *, 'time' as type from times";
   $times = sql_query($times_sql, 'all_rows_handler');
-  $times_json = json_encode($times);
-  echo $times_json;
-  // TODO enrollments
+  $enrollments_sql = "SELECT *, 'enrollment' as type from enrollments";
+  $enrollments = sql_query($enrollments_sql, 'all_rows_handler');
+  $result_json = json_encode(array_merge($times, $enrollments));
+  echo $result_json;
 }
 
 function get_times() {

@@ -11,7 +11,7 @@ create table enrollments(
   end datetime NOT NULL,
   name varchar(255) NOT NULL,
   email varchar(255) NOT NULL,
-  phone varchar(255) NOT NULL,
+  phone varchar(255),
   comment varchar(1000),
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
