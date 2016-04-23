@@ -1,17 +1,29 @@
 <?php
 
 // TODO include ('common.php');
-function sql_query($sql, $query_handler) {
+function internalServerError($msg) {
+  echo $msg;
+  var_dump(http_response_code(500));
+  die($msg);
+}
+
+function sql_query($sql, $params, $query_handler = 'all_rows_handler') {
   $db_server = "127.0.0.1";
   $db_database = "ajatusas";
   $db_username = "ajatusas_user";
   $db_password = "secret";
   $conn = mysqli_connect($db_server, $db_username, $db_password, $db_database);
   if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
+    internalServerError("Connection failed: " . mysqli_connect_error());
   }
-  $query_result = mysqli_query($conn, $sql) or die(mysqli_error());
+  $stmt = mysqli_prepare($conn, $sql);
+  foreach ($params as $param) {
+    mysqli_stmt_bind_param($stmt, $param, $params[$param]);
+  }
+  mysqli_stmt_execute($stmt) or internalServerError(mysqli_stmt_error($stmt));
+  $query_result = mysqli_stmt_get_result($stmt);
   $result = $query_handler($query_result);
+  mysqli_stmt_close($stmt);
   mysqli_close($conn);
   return $result;
 }
@@ -34,10 +46,10 @@ function get_vacant_times($start, $end) {
 function get_times_and_enrollments($start, $end) {
   verify_auth_token();
   // TODO add where
-  $times_sql = "SELECT *, 'time' as type from times";
-  $times = sql_query($times_sql, 'all_rows_handler');
-  $enrollments_sql = "SELECT *, 'enrollment' as type from enrollments";
-  $enrollments = sql_query($enrollments_sql, 'all_rows_handler');
+  $times_sql = "SELECT *, 'time' AS type FROM times WHERE start>=? AND end <= ?";
+  $times = sql_query($times_sql, array('start' => $start, 'end' => $end));
+  $enrollments_sql = "SELECT *, 'enrollment' AS type FROM enrollments WHERE start>=? AND end <= ?";
+  $enrollments = sql_query($enrollments_sql, array('start' => $start, 'end' => $end));
   $result_json = json_encode(array_merge($times, $enrollments));
   echo $result_json;
 }
