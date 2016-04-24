@@ -1,32 +1,6 @@
 <?php
 
-$db_server = "127.0.0.1";
-$db_database = "ajatusas";
-$db_username = "ajatusas_user";
-$db_password = "secret";
-
-// TODO include ('common.php');
-date_default_timezone_set('Europe/Helsinki');
-
-function sql_query($sql) {
-  global $db_server, $db_database, $db_username, $db_password;
-  
-  $conn = mysqli_connect($db_server, $db_username, $db_password, $db_database);
-  if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
-  }
-  $query_result = mysqli_query($conn, $sql($conn)) or die(mysqli_error());
-  $rows = array();
-  while ($row = mysqli_fetch_assoc($query_result)) {
-    array_push($rows, $row);
-  }
-  mysqli_close($conn);
-  return $rows;
-}
-
-function verify_auth_token() {
-  // TODO: implement
-}
+include ('common.php');
 
 function query_times($start, $end) {
   $times_sql = function($conn) use ($start, $end) {
@@ -96,13 +70,15 @@ function get_times() {
 }
 
 function create_time($start, $end) {
-  verify_auth_token();
-  $sql = function($conn) use ($start, $end) {
-    $s = mysqli_real_escape_string($conn, $start);
-    $e = mysqli_real_escape_string($conn, $end);
-    return "INSERT INTO times(start, end) VALUES ('$s', '$e')";
-  };
-  sql_query($sql);
+  if (new DateTime($start) < new DateTime($end)) {
+    verify_auth_token();
+    $sql = function($conn) use ($start, $end) {
+      $s = mysqli_real_escape_string($conn, $start);
+      $e = mysqli_real_escape_string($conn, $end);
+      return "INSERT INTO times(start, end) VALUES ('$s', '$e')";
+    };
+    sql_query($sql);
+  }
 }
 
 function update_time($id, $start, $end) {
@@ -110,7 +86,7 @@ function update_time($id, $start, $end) {
   $sql = function($conn) use ($id, $start, $end) {
     $s = mysqli_real_escape_string($conn, $start);
     $e = mysqli_real_escape_string($conn, $end);
-    if ($start == $end) {
+    if (new DateTime($start) >= new DateTime($end)) {
       return "DELETE FROM times WHERE id=$id";
     } else {
       return "UPDATE times SET start='$s', end='$e' WHERE id=$id";

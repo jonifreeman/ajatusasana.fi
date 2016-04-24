@@ -1,7 +1,5 @@
 $(function() {
 
-  var editTimePopup = setupEditTimePopup()
-
   if (!isAdmin()) {
     $('#calendar').fullCalendar({
       lang: 'fi',
@@ -15,6 +13,7 @@ $(function() {
       }
     })
   } else {
+    var editTimePopup = setupEditTimePopup()
     $('#calendar').fullCalendar({
       lang: 'fi',
       events: 'times.php',
@@ -63,8 +62,7 @@ $(function() {
 })
 
 function isAdmin() {
-  // TODO: implement
-  return false
+  return getCookie('session_id') != ''
 }
 
 // TODO: prefill start on opening
@@ -105,7 +103,7 @@ function setupPopup($container, validate, formFields) {
   var open = function(e, containerData) {
     $container.data('data', containerData)
     setTimeout(function() {
-      $container.find('input:nth(0)').focus()
+      $container.find('input:nth(1)').focus()
     }, 0)
     validate()
     $('.popup').css('visibility', 'hidden')

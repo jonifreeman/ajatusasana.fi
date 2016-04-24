@@ -18,7 +18,7 @@ create table enrollments(
 
 create table auth(
   username varchar(50) NOT NULL,
-  email varchar(255) NOT NULL,
+  password varchar(255) NOT NULL,
   PRIMARY KEY (username)
 ) ENGINE=InnoDB;
 
@@ -27,3 +27,5 @@ create table auth_token(
   valid_until datetime NOT NULL,
   PRIMARY KEY (token)
 ) ENGINE=InnoDB;
+
+insert into auth(username, password) values ('stefi', '$2y$10$2ZA9poID5hD0.qxqTwfy4euH5qQM0Nt2Y/p6fS4urw8/ySwbpdtiO');
