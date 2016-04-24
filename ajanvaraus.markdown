@@ -16,7 +16,7 @@ title: Ajanvaraus
 <div class="popup add-appointment-popup">
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
-   <h2>Varaa aika</h2>
+   <h2>Ajanvaraus</h2>
    <div class="main-content">
    <div>
    <select class="start"></select>
@@ -24,7 +24,7 @@ title: Ajanvaraus
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
-   <div class="contact-info">Lisätietoja: </div><input type="textarea" class="comment" />
+   <div class="contact-info">Lisätietoja: </div><textarea rows="6" cols="40" class="comment"></textarea>
    <div class="error">Varaus epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="add-appointment-button" type="button" value="Varaa aika" />
   </div>
