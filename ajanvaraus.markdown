@@ -17,7 +17,9 @@ title: Ajanvaraus
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Varaa aika</h2>
-   <div class="contact-info">Alku (esim. 12:00): </div><input type="text" class="start" />
+   <div>
+   <select class="start"></select>
+   </div>
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
@@ -27,6 +29,12 @@ title: Ajanvaraus
   </div>
 </div>
 
+Ajatus & Asana ajanvaraus
+=========================
+
+<div class="info">
+Napsauta sinistä laatikkoa halutun päivän kohdalta jolloin saat vapaat ajat näkyviin.
+</div>
 
 <div id='calendar'></div>
 

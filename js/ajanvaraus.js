@@ -10,7 +10,20 @@ $(function() {
       maxTime: '22:00:00',
       allDaySlot: false,
       height: 'auto',
+      eventRender: function(event, element) {
+        element.find('.fc-time').hide()
+      },
       eventClick: function(calEvent, jsEvent, view) {
+        var times = []
+        var first = calEvent.start.clone()
+        var last = calEvent.end.clone().subtract(90, 'minutes')
+        for (i = first; i <= last; first.add(15, 'minutes')) {
+          var t = i.format('HH:mm')
+          var range = t + ' - ' + i.clone().add(90, 'minutes').format('HH:mm')
+          times.push('<option class="time" value="' + t + '">' + range + '</option>')
+        }
+        addAppointmentPopup.formFields.start().html(times.join(''))
+
         addAppointmentPopup.open(jsEvent, {
           date: calEvent.start,
           onSuccess: function() {
@@ -109,7 +122,7 @@ function setupAddAppointmentPopup() {
     })
   })
 
-  return setupPopup($container, validate, {})
+  return setupPopup($container, validate, {start: start})
 }
 
 function setupEditTimePopup() {

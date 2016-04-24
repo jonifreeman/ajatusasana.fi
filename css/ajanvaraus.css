@@ -3,8 +3,15 @@
   width: 90%;
 }
 
+.ajanvaraus-content .info {
+  color: #3a87ad;
+}
+
 .time {
   margin-right: 0px !important;
+}
+
+.time-slots .time {
 }
 
 .enrollment {
