@@ -90,8 +90,6 @@ function isAdmin() {
 }
 
 function setupAddAppointmentPopup() {
-  var appointmentFailedPopup = setupPopup($('.appointment-failed-popup'), function() {}, {})
-  
   function validate() {
     // TODO: implement
   }
@@ -122,7 +120,8 @@ function setupAddAppointmentPopup() {
     .fail(function(err) {
       if (err.status == 409) {
         $('#calendar').fullCalendar('refetchEvents')
-        appointmentFailedPopup.open(e, {})
+        $container.find('.main-content').hide()
+        $container.find('.duplicate-booking').show()
       } else {
         $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
       }
@@ -168,6 +167,8 @@ function setupEditTimePopup() {
 function setupPopup($container, validate, formFields) {
   var open = function(e, containerData) {
     $container.data('data', containerData)
+    $container.find('.main-content').show()
+    $container.find('.error').hide()
     setTimeout(function() {
       $container.find('input:nth(0)').focus()
     }, 0)

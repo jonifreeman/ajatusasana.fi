@@ -17,6 +17,7 @@ title: Ajanvaraus
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Varaa aika</h2>
+   <div class="main-content">
    <div>
    <select class="start"></select>
    </div>
@@ -27,13 +28,9 @@ title: Ajanvaraus
    <div class="error">Varaus epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="add-appointment-button" type="button" value="Varaa aika" />
   </div>
-</div>
-
-<div class="popup appointment-failed-popup">
-  <div class="popup-content">
-   <img class="close" src="/img/popup_close.png" />
-   <h2>Varaus epäonnistui</h2>
+  <div class="duplicate-booking error">
    <div>Valitettavasti varaus epäonnistui. Joku ehti juuri varata kyseisen ajan. Ole hyvä ja valitse uusi aika.</div>
+  </div>
   </div>
 </div>
 
