@@ -6,6 +6,8 @@ $db_username = "ajatusas_user";
 $db_password = "secret";
 
 // TODO include ('common.php');
+date_default_timezone_set('Europe/Helsinki');
+
 function sql_query($sql) {
   global $db_server, $db_database, $db_username, $db_password;
   
@@ -26,24 +28,58 @@ function verify_auth_token() {
   // TODO: implement
 }
 
+function query_times($start, $end) {
+  $times_sql = function($conn) use ($start, $end) {
+    $s = mysqli_real_escape_string($conn, $start);
+    $e = mysqli_real_escape_string($conn, $end);
+    return "SELECT *, 'time' AS className FROM times WHERE start >= '$s' AND end <= '$e' ORDER BY start";
+  };
+  return sql_query($times_sql);
+}
+
+function query_enrollments($start, $end) {
+  $enrollments_sql = function($conn) use ($start, $end) {
+    $s = mysqli_real_escape_string($conn, $start);
+    $e = mysqli_real_escape_string($conn, $end);
+    return "SELECT *, name AS title, 'enrollment' AS className FROM enrollments WHERE start >= '$s' AND end <= '$e' ORDER BY start";
+  };
+  return sql_query($enrollments_sql);
+}
+
+function isLongEnoughSlot($start, $end) {
+  return (($end->getTimestamp() - $start->getTimestamp()) / 60) >= 90;
+}
+
 function get_vacant_times($start, $end) {
+  $times = query_times($start, $end);
+  $enrollments = query_enrollments($start, $end);
+  $vacant_times = array_map(function($time) use ($enrollments) {
+      $time_slot_start = new DateTime($time['start']);
+      $time_slot_end = new DateTime($time['end']);
+      $vacants = array();
+      // TODO: lisää '15 molempiin päihin
+      foreach ($enrollments as $enrollment) {
+        $enrollment_start = new DateTime($enrollment['start']);
+        $enrollment_end = new DateTime($enrollment['end']);
+        if ($enrollment_start <= $time_slot_end && $enrollment_end >= $time_slot_start) {
+          if (isLongEnoughSlot($time_slot_start, $enrollment_start)) {
+            array_push($vacants, array('start' => $time_slot_start->format(DateTime::RFC3339), 'end' => $enrollment_start->format(DateTime::RFC3339)));
+          }
+          $time_slot_start = min($time_slot_end, $enrollment_end);
+        }
+      }
+      if (isLongEnoughSlot($time_slot_start, $time_slot_end)) {
+        array_push($vacants, array('start' => $time_slot_start->format(DateTime::RFC3339), 'end' => $time_slot_end->format(DateTime::RFC3339)));
+      }
+      return $vacants;
+    }, $times);
+  echo json_encode(call_user_func_array('array_merge', $vacant_times));
 }
 
 function get_times_and_enrollments($start, $end) {
   verify_auth_token();
-  // TODO add where
-  $times_sql = function($conn) use ($start, $end) {
-    $s = mysqli_real_escape_string($conn, $start);
-    $e = mysqli_real_escape_string($conn, $end);
-    return "SELECT *, 'time' AS className FROM times WHERE start >= '$s' AND end <= '$e'";
-  };
-  $times = sql_query($times_sql);
-  $enrollments_sql = function($conn) use ($start, $end) {
-    $s = mysqli_real_escape_string($conn, $start);
-    $e = mysqli_real_escape_string($conn, $end);
-    return "SELECT *, name AS title, 'enrollment' AS className FROM enrollments WHERE start >= '$s' AND end <= '$e'";
-  };
-  $enrollments = sql_query($enrollments_sql);
+  $times = query_times($start, $end);
+  $enrollments = query_enrollments($start, $end);
   $result_json = json_encode(array_merge($times, $enrollments));
   echo $result_json;
 }

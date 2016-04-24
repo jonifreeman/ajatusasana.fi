@@ -30,7 +30,7 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "ajanvaraus.markdown" $ content "templates/ajanvaraus.html"
+    match "*ajanvaraus.markdown" $ content "templates/ajanvaraus.html"
     
     match "*.markdown" $ content "templates/default.html"
 

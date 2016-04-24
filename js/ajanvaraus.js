@@ -2,51 +2,70 @@ $(function() {
 
   var editTimePopup = setupEditTimePopup()
 
-  $('#calendar').fullCalendar({
-    lang: 'fi',
-    events: 'times.php',
-    defaultView: 'agendaWeek',
-    minTime: '8:00:00',
-    maxTime: '22:00:00',
-    allDaySlot: false,
-    height: 'auto',
-    eventDataTransform: function(event) {
-      return event
-    },
-    eventRender: function(event, element) {
-      if (event.className == 'enrollment') {
-        element.qtip({
-          content: '<p>' + event.comment + '</p><p>' + event.email + '</p><p>' + event.phone + '</p>'
-        })
+  if (!isAdmin()) {
+    $('#calendar').fullCalendar({
+      lang: 'fi',
+      events: 'times.php?vacant=true',
+      defaultView: 'agendaWeek',
+      minTime: '8:00:00',
+      maxTime: '22:00:00',
+      allDaySlot: false,
+      height: 'auto',
+      eventClick: function(calEvent, jsEvent, view) {
       }
-    },
-    dayClick: function(date, jsEvent, view) {
-      editTimePopup.formFields.start().val(date.format('HH:mm'))
-      editTimePopup.formFields.end().val('')
-      editTimePopup.open(jsEvent, {
-        date: date,
-        onSuccess: function() {
-          $('#calendar').fullCalendar('refetchEvents')
+    })
+  } else {
+    $('#calendar').fullCalendar({
+      lang: 'fi',
+      events: 'times.php',
+      defaultView: 'agendaWeek',
+      minTime: '8:00:00',
+      maxTime: '22:00:00',
+      allDaySlot: false,
+      height: 'auto',
+      eventDataTransform: function(event) {
+        return event
+      },
+      eventRender: function(event, element) {
+        if (event.className == 'enrollment') {
+          element.qtip({
+            content: '<p>' + event.comment + '</p><p>' + event.email + '</p><p>' + event.phone + '</p>'
+          })
         }
-      })
-    },
-    eventClick: function(calEvent, jsEvent, view) {
-      if (calEvent.className.indexOf('time') != -1) {
-        editTimePopup.formFields.start().val(calEvent.start.format('HH:mm'))
-        editTimePopup.formFields.end().val(calEvent.end.format('HH:mm'))
+      },
+      dayClick: function(date, jsEvent, view) {
+        editTimePopup.formFields.start().val(date.format('HH:mm'))
+        editTimePopup.formFields.end().val('')
         editTimePopup.open(jsEvent, {
-          id: calEvent.id,
-          date: calEvent.start,
-          end: calEvent.end,
+          date: date,
           onSuccess: function() {
             $('#calendar').fullCalendar('refetchEvents')
           }
         })
+      },
+      eventClick: function(calEvent, jsEvent, view) {
+        if (calEvent.className.indexOf('time') != -1) {
+          editTimePopup.formFields.start().val(calEvent.start.format('HH:mm'))
+          editTimePopup.formFields.end().val(calEvent.end.format('HH:mm'))
+          editTimePopup.open(jsEvent, {
+            id: calEvent.id,
+            date: calEvent.start,
+            end: calEvent.end,
+            onSuccess: function() {
+              $('#calendar').fullCalendar('refetchEvents')
+            }
+          })
+        }
       }
-    }
-  })
+    })
+  }
 
 })
+
+function isAdmin() {
+  // TODO: implement
+  return false
+}
 
 // TODO: prefill start on opening
 function setupEditTimePopup() {
@@ -103,4 +122,19 @@ function setupPopup($container, validate, formFields) {
   })
 
   return {open: open, formFields: formFields}
+}
+
+function getCookie(cname) {
+  var name = cname + "="
+  var ca = document.cookie.split(';')
+  for (var i = 0; i <ca.length; i++) {
+    var c = ca[i]
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1)
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length,c.length);
+    }
+  }
+  return ""
 }
