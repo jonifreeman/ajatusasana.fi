@@ -2,8 +2,6 @@
 title: Admin ajanvaraus
 ---
 
-<div id='calendar'></div>
-
 <div id='login'>
 <form method="POST" action="auth.php">
  <div class="contact-info">Käyttäjätunnus: </div><input type="text" class="username" name="username"/>

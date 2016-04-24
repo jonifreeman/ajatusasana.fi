@@ -27,5 +27,10 @@ title: Ajanvaraus
   </div>
 </div>
 
+
 <div id='calendar'></div>
+
+<div class="logout">
+  <input type="button" class="logout-button" value="Kirjaudu ulos"></input>
+</div>
 

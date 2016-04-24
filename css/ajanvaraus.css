@@ -12,3 +12,8 @@
   background-color: #b7c74b;
   margin-right: 4px;
 }
+
+.logout {
+  margin-top: 10px;
+  display: none;
+}
