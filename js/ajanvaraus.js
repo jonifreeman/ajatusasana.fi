@@ -21,6 +21,8 @@ $(function() {
       }
     },
     dayClick: function(date, jsEvent, view) {
+      editTimePopup.formFields.start().val(date.format('HH:mm'))
+      editTimePopup.formFields.end().val('')
       editTimePopup.open(jsEvent, {
         date: date,
         onSuccess: function() {
@@ -30,6 +32,8 @@ $(function() {
     },
     eventClick: function(calEvent, jsEvent, view) {
       if (calEvent.className.indexOf('time') != -1) {
+        editTimePopup.formFields.start().val(calEvent.start.format('HH:mm'))
+        editTimePopup.formFields.end().val(calEvent.end.format('HH:mm'))
         editTimePopup.open(jsEvent, {
           id: calEvent.id,
           date: calEvent.start,
@@ -52,15 +56,14 @@ function setupEditTimePopup() {
 
   var $container = $('.add-time-slot-popup')
 
-  function id() { return $container.find('.id').text() }
-  function start() { return $container.find('.start').val() }
-  function end() { return $container.find('.end').val() }
+  function start() { return $container.find('.start') }
+  function end() { return $container.find('.end') }
 
   $container.find('.add-time-slot-button').click(function(e) {
     var containerData = $container.data().data
     var date = containerData.date
-    var s = date.clone().time(start())
-    var e = date.clone().time(end())
+    var s = date.clone().time(start().val())
+    var e = date.clone().time(end().val())
     data = {
       id: containerData.id,
       start: s.format(),
@@ -76,10 +79,10 @@ function setupEditTimePopup() {
     })
   })
 
-  return setupPopup($container, validate)
+  return setupPopup($container, validate, {start: start, end: end})
 }
 
-function setupPopup($container, validate) {
+function setupPopup($container, validate, formFields) {
   var open = function(e, containerData) {
     $container.data('data', containerData)
     setTimeout(function() {
@@ -99,5 +102,5 @@ function setupPopup($container, validate) {
     $container.css('visibility', 'hidden')
   })
 
-  return {open: open}
+  return {open: open, formFields: formFields}
 }
