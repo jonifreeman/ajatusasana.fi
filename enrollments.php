@@ -2,13 +2,27 @@
 
 include ('common.php');
 
-function add_enrollment($start, $name, $email, $phone, $comment) {
-  // TODO validate
-  $sql = function($conn) use ($start, $name, $email, $phone, $comment) {
+function validate_enrollment_time($start, $end) {
+  $sql = function($conn) use ($start, $end) {
     $s = mysqli_real_escape_string($conn, $start);
-    $end = new DateTime($s);
-    $end->modify('+90 minutes');
-    $e = $end->format('Y-m-d H:i:s');
+    $e = mysqli_real_escape_string($conn, $end);
+    return "SELECT COUNT(1) as count FROM enrollments WHERE (start between '$s' and '$e') or (end between '$s' and '$e') or (start <= '$s' and end >= '$e')";
+  };
+  if (sql_query($sql)[0]['count'] > 0) {
+    var_dump(http_response_code(409));    
+    die();
+  }
+}
+
+function add_enrollment($start, $name, $email, $phone, $comment) {
+  $endDate = new DateTime($start);
+  $endDate->modify('+90 minutes');
+  $end = $endDate->format('Y-m-d H:i:s');
+  validate_enrollment_time($start, $end);
+
+  $sql = function($conn) use ($start, $end, $name, $email, $phone, $comment) {
+    $s = mysqli_real_escape_string($conn, $start);
+    $e = mysqli_real_escape_string($conn, $end);
     $n = mysqli_real_escape_string($conn, $name);
     $em = mysqli_real_escape_string($conn, $email);
     $p = mysqli_real_escape_string($conn, $phone);

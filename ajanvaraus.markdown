@@ -29,6 +29,14 @@ title: Ajanvaraus
   </div>
 </div>
 
+<div class="popup appointment-failed-popup">
+  <div class="popup-content">
+   <img class="close" src="/img/popup_close.png" />
+   <h2>Varaus epäonnistui</h2>
+   <div>Valitettavasti varaus epäonnistui. Joku ehti juuri varata kyseisen ajan. Ole hyvä ja valitse uusi aika.</div>
+  </div>
+</div>
+
 Ajatus & Asana ajanvaraus
 =========================
 

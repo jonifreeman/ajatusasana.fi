@@ -90,6 +90,8 @@ function isAdmin() {
 }
 
 function setupAddAppointmentPopup() {
+  var appointmentFailedPopup = setupPopup($('.appointment-failed-popup'), function() {}, {})
+  
   function validate() {
     // TODO: implement
   }
@@ -117,8 +119,13 @@ function setupAddAppointmentPopup() {
       if (containerData.onSuccess)
         containerData.onSuccess()
     })
-    .fail(function() {
-      $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+    .fail(function(err) {
+      if (err.status == 409) {
+        $('#calendar').fullCalendar('refetchEvents')
+        appointmentFailedPopup.open(e, {})
+      } else {
+        $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+      }
     })
   })
 
@@ -162,7 +169,7 @@ function setupPopup($container, validate, formFields) {
   var open = function(e, containerData) {
     $container.data('data', containerData)
     setTimeout(function() {
-      $container.find('input:nth(1)').focus()
+      $container.find('input:nth(0)').focus()
     }, 0)
     validate()
     $('.popup').css('visibility', 'hidden')
