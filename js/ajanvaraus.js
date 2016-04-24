@@ -1,6 +1,7 @@
 $(function() {
 
   if (!isAdmin()) {
+    var addAppointmentPopup = setupAddAppointmentPopup()
     $('#calendar').fullCalendar({
       lang: 'fi',
       events: 'times.php?vacant=true',
@@ -10,6 +11,13 @@ $(function() {
       allDaySlot: false,
       height: 'auto',
       eventClick: function(calEvent, jsEvent, view) {
+        addAppointmentPopup.open(jsEvent, {
+          date: calEvent.start,
+          onSuccess: function() {
+            // TODO: thank you message
+            $('#calendar').fullCalendar('refetchEvents')
+          }
+        })
       }
     })
   } else {
@@ -22,9 +30,6 @@ $(function() {
       maxTime: '22:00:00',
       allDaySlot: false,
       height: 'auto',
-      eventDataTransform: function(event) {
-        return event
-      },
       eventRender: function(event, element) {
         if (event.className == 'enrollment') {
           element.qtip({
@@ -65,7 +70,42 @@ function isAdmin() {
   return getCookie('session_id') != ''
 }
 
-// TODO: prefill start on opening
+function setupAddAppointmentPopup() {
+  function validate() {
+    // TODO: implement
+  }
+
+  var $container = $('.add-appointment-popup')
+  function start() { return $container.find('.start') }
+  function name() { return $container.find('.name') }
+  function email() { return $container.find('.email') }
+  function phone() { return $container.find('.phone') }
+  function comment() { return $container.find('.comment') }
+
+  $container.find('.add-appointment-button').click(function(e) {
+    var containerData = $container.data().data
+    var date = containerData.date
+    var s = date.clone().time(start().val())
+    data = {
+      start: s.format(),
+      name: name().val(),
+      email: email().val(),
+      phone: phone().val(),
+      comment: comment().val()
+    }
+    $.post("enrollments.php", data, function() {
+      $container.css('visibility', 'hidden')
+      if (containerData.onSuccess)
+        containerData.onSuccess()
+    })
+    .fail(function() {
+      $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+    })
+  })
+
+  return setupPopup($container, validate, {})
+}
+
 function setupEditTimePopup() {
   function validate() {
     // TODO: implement

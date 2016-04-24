@@ -28,6 +28,7 @@ function get_vacant_times($start, $end) {
   $times = query_times($start, $end);
   $enrollments = query_enrollments($start, $end);
   $vacant_times = array_map(function($time) use ($enrollments) {
+      $date_format = 'Y-m-d H:i:s';
       $time_slot_start = new DateTime($time['start']);
       $time_slot_end = new DateTime($time['end']);
       $vacants = array();
@@ -37,13 +38,13 @@ function get_vacant_times($start, $end) {
         $enrollment_end = new DateTime($enrollment['end']);
         if ($enrollment_start <= $time_slot_end && $enrollment_end >= $time_slot_start) {
           if (isLongEnoughSlot($time_slot_start, $enrollment_start)) {
-            array_push($vacants, array('start' => $time_slot_start->format(DateTime::RFC3339), 'end' => $enrollment_start->format(DateTime::RFC3339)));
+            array_push($vacants, array('start' => $time_slot_start->format($date_format), 'end' => $enrollment_start->format($date_format)));
           }
           $time_slot_start = min($time_slot_end, $enrollment_end);
         }
       }
       if (isLongEnoughSlot($time_slot_start, $time_slot_end)) {
-        array_push($vacants, array('start' => $time_slot_start->format(DateTime::RFC3339), 'end' => $time_slot_end->format(DateTime::RFC3339)));
+        array_push($vacants, array('start' => $time_slot_start->format($date_format), 'end' => $time_slot_end->format($date_format)));
       }
       return $vacants;
     }, $times);
@@ -77,7 +78,7 @@ function create_time($start, $end) {
       $e = mysqli_real_escape_string($conn, $end);
       return "INSERT INTO times(start, end) VALUES ('$s', '$e')";
     };
-    sql_query($sql);
+    sql_set($sql);
   }
 }
 
@@ -92,7 +93,7 @@ function update_time($id, $start, $end) {
       return "UPDATE times SET start='$s', end='$e' WHERE id=$id";
     }
   };
-  sql_query($sql);
+  sql_set($sql);
 }
 
 function create_or_update_times() {

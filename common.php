@@ -7,6 +7,8 @@ $db_password = "secret";
 
 date_default_timezone_set('Europe/Helsinki');
 
+// TODO: on errors set HTTP status
+
 function sql_query($sql) {
   global $db_server, $db_database, $db_username, $db_password;
   
@@ -30,7 +32,7 @@ function sql_set($sql) {
   if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
   }
-  mysqli_query($conn, $sql($conn)) or die(mysqli_error());
+  mysqli_query($conn, $sql($conn)) or die(mysqli_error($conn));
   mysqli_close($conn);
 }
 
