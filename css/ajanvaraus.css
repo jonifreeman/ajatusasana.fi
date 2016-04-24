@@ -1,3 +1,9 @@
+@media (max-width : 675px) {
+  .popup {
+    left: 10% !important;
+  }
+}
+
 .ajanvaraus-content {
   margin-top: 50px;
   width: 90%;

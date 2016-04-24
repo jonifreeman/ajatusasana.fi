@@ -38,13 +38,17 @@ function setupSignup() {
     var time = $(e.currentTarget).parent('div').find('strong').text()
     var course = $(e.currentTarget).next().text()
     $('.signup-popup .course').text(time + " " + course)
-    $('.signup-popup').offset($(e.currentTarget).offset())
+    var offset = $(e.currentTarget).offset()
+    offset.left = Math.max(0, offset.left - 200)
+    $('.signup-popup').offset(offset)
     $('.signup-popup').css('visibility', 'visible')
   })
 
   $('.schedule .cancelled').click(function(e) {
     $('.popup').css('visibility', 'hidden')
-    $('.cancelled-popup').offset($(e.currentTarget).offset())
+    var offset = $(e.currentTarget).offset()
+    offset.left = Math.max(0, offset.left - 200)
+    $('.cancelled-popup').offset(offset)
     $('.cancelled-popup').css('visibility', 'visible')
   })
 
