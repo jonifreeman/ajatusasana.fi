@@ -22,18 +22,6 @@ function sql_query($sql) {
   return $rows;
 }
 
-function sql_update($sql) {
-  global $db_server, $db_database, $db_username, $db_password;
-  
-  $conn = mysqli_connect($db_server, $db_username, $db_password, $db_database);
-  if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
-  }
-  $result = mysqli_query($conn, $sql($conn)) or die(mysqli_error());
-  mysqli_close($conn);
-  return $result->affected_rows;
-}
-
 function verify_auth_token() {
   // TODO: implement
 }
@@ -78,14 +66,32 @@ function create_time($start, $end) {
     $e = mysqli_real_escape_string($conn, $end);
     return "INSERT INTO times(start, end) VALUES ('$s', '$e')";
   };
-  sql_update($sql);
+  sql_query($sql);
+}
+
+function update_time($id, $start, $end) {
+  verify_auth_token();
+  $sql = function($conn) use ($id, $start, $end) {
+    $s = mysqli_real_escape_string($conn, $start);
+    $e = mysqli_real_escape_string($conn, $end);
+    if ($start == $end) {
+      return "DELETE FROM times WHERE id=$id";
+    } else {
+      return "UPDATE times SET start='$s', end='$e' WHERE id=$id";
+    }
+  };
+  sql_query($sql);
 }
 
 function create_or_update_times() {
-  // TODO: add support for update: $_POST['id']
+  $id = $_POST['id'];
   $start = $_POST['start'];
   $end = $_POST['end'];
-  create_time($start, $end);  
+  if ($id === NULL) {
+    create_time($start, $end);
+  } else {
+    update_time(intval($id), $start, $end);
+  }
 }
 
 $method = $_SERVER['REQUEST_METHOD'];

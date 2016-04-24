@@ -1,6 +1,6 @@
 $(function() {
 
-  var addTimePopup = setupAddTimePopup()
+  var editTimePopup = setupEditTimePopup()
 
   $('#calendar').fullCalendar({
     lang: 'fi',
@@ -21,7 +21,7 @@ $(function() {
       }
     },
     dayClick: function(date, jsEvent, view) {
-      addTimePopup.open(jsEvent, {
+      editTimePopup.open(jsEvent, {
         date: date,
         onSuccess: function() {
           $('#calendar').fullCalendar('refetchEvents')
@@ -29,27 +29,40 @@ $(function() {
       })
     },
     eventClick: function(calEvent, jsEvent, view) {
-      console.log(calEvent)
+      if (calEvent.className.indexOf('time') != -1) {
+        editTimePopup.open(jsEvent, {
+          id: calEvent.id,
+          date: calEvent.start,
+          end: calEvent.end,
+          onSuccess: function() {
+            $('#calendar').fullCalendar('refetchEvents')
+          }
+        })
+      }
     }
   })
 
 })
 
-function setupAddTimePopup() {
+// TODO: prefill start on opening
+function setupEditTimePopup() {
   function validate() {
+    // TODO: implement
   }
 
-  var $container = $('.add-appointment-time-popup')
+  var $container = $('.add-time-slot-popup')
 
+  function id() { return $container.find('.id').text() }
   function start() { return $container.find('.start').val() }
   function end() { return $container.find('.end').val() }
 
-  $container.find('.add-appointment-time-button').click(function(e) {
+  $container.find('.add-time-slot-button').click(function(e) {
     var containerData = $container.data().data
     var date = containerData.date
     var s = date.clone().time(start())
     var e = date.clone().time(end())
     data = {
+      id: containerData.id,
       start: s.format(),
       end: e.format()
     }
