@@ -3,6 +3,12 @@
   width: 90%;
 }
 
+.time {
+  margin-right: 0px !important;
+}
+
 .enrollment {
+  left: 5% !important;
   background-color: #b7c74b;
+  margin-right: 4px;
 }
