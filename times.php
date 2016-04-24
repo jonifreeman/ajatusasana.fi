@@ -32,10 +32,11 @@ function get_vacant_times($start, $end) {
       $time_slot_start = new DateTime($time['start']);
       $time_slot_end = new DateTime($time['end']);
       $vacants = array();
-      // TODO: lisää '15 molempiin päihin
       foreach ($enrollments as $enrollment) {
-        $enrollment_start = new DateTime($enrollment['start']);
-        $enrollment_end = new DateTime($enrollment['end']);
+        $before15m = new DateInterval("PT15M");
+        $before15m->invert = 1;
+        $enrollment_start = (new DateTime($enrollment['start']))->add($before15m);
+        $enrollment_end = (new DateTime($enrollment['end']))->add(new DateInterval('PT15M'));
         if ($enrollment_start <= $time_slot_end && $enrollment_end >= $time_slot_start) {
           if (isLongEnoughSlot($time_slot_start, $enrollment_start)) {
             array_push($vacants, array('start' => $time_slot_start->format($date_format), 'end' => $enrollment_start->format($date_format)));
