@@ -133,7 +133,8 @@ function setupAddAppointmentPopup() {
       comment: comment().val()
     }
     $.post("enrollments.php", data, function() {
-      $container.css('visibility', 'hidden')
+      $container.find('.main-content').hide()
+      $container.find('.success').fadeIn(500)
       if (containerData.onSuccess)
         containerData.onSuccess()
     })
@@ -202,6 +203,7 @@ function setupPopup($container, validate, formFields) {
     $container.data('data', containerData)
     $container.find('.main-content').show()
     $container.find('.error').hide()
+    $container.find('.success').hide()
     setTimeout(function() {
       $container.find('input:nth(0)').focus()
     }, 0)

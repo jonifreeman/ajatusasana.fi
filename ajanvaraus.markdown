@@ -32,6 +32,9 @@ title: Ajanvaraus
   <div class="duplicate-booking error">
    <div>Valitettavasti varaus epäonnistui. Joku ehti juuri varata kyseisen ajan. Ole hyvä ja valitse uusi aika.</div>
   </div>
+  <div class="success">
+   <div>Kiitos varauksesta! Saat pian vielä sähköpostiisi vahvistuksen.</div>
+  </div>
   </div>
 </div>
 
