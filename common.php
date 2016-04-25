@@ -7,16 +7,20 @@ $db_password = "secret";
 
 date_default_timezone_set('Europe/Helsinki');
 
-// TODO: on errors set HTTP status
+function internal_server_error($msg) {
+  echo $msg;
+  var_dump(http_response_code(500));
+  die();
+}
 
 function sql_query($sql) {
   global $db_server, $db_database, $db_username, $db_password;
   
   $conn = mysqli_connect($db_server, $db_username, $db_password, $db_database);
   if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
+    internal_server_error("Connection failed: " . mysqli_connect_error());
   }
-  $query_result = mysqli_query($conn, $sql($conn)) or die(mysqli_error($conn));
+  $query_result = mysqli_query($conn, $sql($conn)) or internal_server_error(mysqli_error($conn));
   $rows = array();
   while ($row = mysqli_fetch_assoc($query_result)) {
     array_push($rows, $row);
@@ -30,9 +34,9 @@ function sql_set($sql) {
   
   $conn = mysqli_connect($db_server, $db_username, $db_password, $db_database);
   if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
+    internal_server_error("Connection failed: " . mysqli_connect_error());
   }
-  mysqli_query($conn, $sql($conn)) or die(mysqli_error($conn));
+  mysqli_query($conn, $sql($conn)) or internal_server_error(mysqli_error($conn));
   mysqli_close($conn);
 }
 

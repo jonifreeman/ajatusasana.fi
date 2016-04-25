@@ -20,8 +20,16 @@ function query_enrollments($start, $end) {
   return sql_query($enrollments_sql);
 }
 
-function isLongEnoughSlot($start, $end) {
-  return (($end->getTimestamp() - $start->getTimestamp()) / 60) >= 90;
+function is_valid_slot($start, $end) {
+  $now = new DateTime();
+  return ($end > $now) && (($end->getTimestamp() - $start->getTimestamp()) / 60) >= 90;
+}
+
+function make_start_date($date) {
+  $next_quarter = ceil(time()/900)*900;
+  $now = new DateTime();
+  $now->setTimestamp($next_quarter);
+  return max($now, $date);
 }
 
 function get_vacant_times($start, $end) {
@@ -38,14 +46,16 @@ function get_vacant_times($start, $end) {
         $enrollment_start = (new DateTime($enrollment['start']))->add($before15m);
         $enrollment_end = (new DateTime($enrollment['end']))->add(new DateInterval('PT15M'));
         if ($enrollment_start <= $time_slot_end && $enrollment_end >= $time_slot_start) {
-          if (isLongEnoughSlot($time_slot_start, $enrollment_start)) {
-            array_push($vacants, array('start' => $time_slot_start->format($date_format), 'end' => $enrollment_start->format($date_format)));
+          $start = make_start_date($time_slot_start);
+          if (is_valid_slot($start, $enrollment_start)) {
+            array_push($vacants, array('start' => $start->format($date_format), 'end' => $enrollment_start->format($date_format)));
           }
           $time_slot_start = min($time_slot_end, $enrollment_end);
         }
       }
-      if (isLongEnoughSlot($time_slot_start, $time_slot_end)) {
-        array_push($vacants, array('start' => $time_slot_start->format($date_format), 'end' => $time_slot_end->format($date_format)));
+      $start = make_start_date($time_slot_start);
+      if (is_valid_slot($start, $time_slot_end)) {
+        array_push($vacants, array('start' => $start->format($date_format), 'end' => $time_slot_end->format($date_format)));
       }
       return $vacants;
     }, $times);
