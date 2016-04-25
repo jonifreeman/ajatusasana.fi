@@ -27,7 +27,6 @@ $(function() {
         addAppointmentPopup.open(jsEvent, {
           date: calEvent.start,
           onSuccess: function() {
-            // TODO: thank you message
             $('#calendar').fullCalendar('refetchEvents')
           }
         })
