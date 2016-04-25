@@ -89,17 +89,37 @@ function isAdmin() {
   return getCookie('session_id') != ''
 }
 
-function setupAddAppointmentPopup() {
-  function validate() {
-    // TODO: implement
-  }
+function requiredV(s) {
+  return s.val().trim().length > 0
+}
 
+function validateField(field, validators) {
+  var isValid = _.every(_.map(validators, function(v) {
+    return v(field)
+  }))
+  if (isValid) {
+    field.removeClass('invalid')
+  } else {
+    field.addClass('invalid')
+  }
+}
+
+function setupAddAppointmentPopup() {
   var $container = $('.add-appointment-popup')
+
   function start() { return $container.find('.start') }
   function name() { return $container.find('.name') }
   function email() { return $container.find('.email') }
   function phone() { return $container.find('.phone') }
   function comment() { return $container.find('.comment') }
+
+  function validate() {
+    if (requiredV(name()) && requiredV(email()) && requiredV(phone())) {
+      $container.find('.add-appointment-button').removeAttr('disabled')
+    } else {
+      $container.find('.add-appointment-button').attr('disabled', 'disabled')
+    }
+  }
 
   $container.find('.add-appointment-button').click(function(e) {
     var containerData = $container.data().data
@@ -132,14 +152,27 @@ function setupAddAppointmentPopup() {
 }
 
 function setupEditTimePopup() {
-  function validate() {
-    // TODO: implement
-  }
-
   var $container = $('.add-time-slot-popup')
 
   function start() { return $container.find('.start') }
   function end() { return $container.find('.end') }
+
+  function timeV(t) {
+    var re = /^([0-1][0-9]|2[0-3]):([0-5][0-9])$/
+    var parts = t.val().split(':')
+    return t.val().length == 0 || (re.test(t.val().trim()) && parseInt(parts[1]) % 15 == 0)
+  }
+
+  function validate() {
+    if (requiredV(start()) && requiredV(end()) && timeV(start()) && timeV(end())) {
+      $container.find('.add-time-slot-button').removeAttr('disabled')
+    } else {
+      $container.find('.add-time-slot-button').attr('disabled', 'disabled')
+    }
+
+    validateField(start(), [timeV])
+    validateField(end(), [timeV])
+  }
 
   $container.find('.add-time-slot-button').click(function(e) {
     var containerData = $container.data().data
