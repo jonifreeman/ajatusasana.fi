@@ -202,7 +202,7 @@ Yksityistunnit / -ryhmät
 
 -----      ------------------------
 90 min     110 € (ryhmät)
-            75 € (yksityishenkilö)
+            75 € (yksityistunti)
 -----      ------------------------
 90 min
 
