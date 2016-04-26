@@ -66,4 +66,21 @@ function verify_auth_token() {
   }
 }
 
+function human_date($date) {
+  return $date->format('d.m.Y H:i');
+}
+
+function human_time($date) {
+  return $date->format('H:i');
+}
+
+function send_mail_to_client($to, $subject, $message) {
+  mail($to, $subject, $message, 'From: Stephanie Freeman <stephanie@ajatusasana.fi>');
+}
+
+function send_mail_to_aa($subject, $message) {
+  mail('stephanie@ajatusasana.fi', $subject, $message, 'From: webmaster@ajatusasana.fi');
+}
+
+
 ?>

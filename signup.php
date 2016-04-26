@@ -1,5 +1,5 @@
 <?php
-$to      = 'camisteph@gmail.com';
+$to      = 'stephanie@ajatusasana.fi';
 $course  = $_POST['course'];
 $subject = 'Ilmoittautuminen: ' . $course;
 $name = $_POST['name'];
@@ -18,7 +18,7 @@ if ($fd = @fopen("/home/ajatusas/signup.csv", "a")) {
 }
 
 if (isset($email)) {
-  mail($email, 'Ajatus & Asana, varaus', "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$course."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi", 'From: Stephanie Freeman <camisteph@gmail.com>');
+  mail($email, 'Ajatus & Asana, varaus', "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$course."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi", 'From: Stephanie Freeman <stephanie@ajatusasana.fi>');
 }
 
 ?>
