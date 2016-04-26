@@ -23,6 +23,7 @@ $(function() {
           times.push('<option class="time" value="' + t + '">' + range + '</option>')
         }
         addAppointmentPopup.formFields.start().html(times.join(''))
+        addAppointmentPopup.formFields.date().html(calEvent.start.format('dd D.M'))
 
         addAppointmentPopup.open(jsEvent, {
           date: calEvent.start,
@@ -106,6 +107,7 @@ function validateField(field, validators) {
 function setupAddAppointmentPopup() {
   var $container = $('.add-appointment-popup')
 
+  function date() { return $container.find('.date') }
   function start() { return $container.find('.start') }
   function name() { return $container.find('.name') }
   function email() { return $container.find('.email') }
@@ -148,7 +150,7 @@ function setupAddAppointmentPopup() {
     })
   })
 
-  return setupPopup($container, validate, {start: start})
+  return setupPopup($container, validate, {start: start, date: date})
 }
 
 function setupEditTimePopup() {

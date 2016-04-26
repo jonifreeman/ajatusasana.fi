@@ -18,6 +18,8 @@ title: Ajanvaraus
    <img class="close" src="/img/popup_close.png" />
    <h2>Ajanvaraus</h2>
    <div class="main-content">
+   *Ajanvaraus päivälle <span class="date"></span>*
+   <p/>
    <div class="contact-info">Ajankohta: </div>
    <div>
    <select class="start"></select>
