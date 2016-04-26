@@ -28,7 +28,7 @@ title: Ajanvaraus
    <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
    <div class="contact-info">Lisätietoja: </div><textarea rows="6" cols="40" class="comment"></textarea>
-   <div class="error">Varaus epäonnistui. Yritä hetken kuluttua uudestaan.</div>
+   <div class="general-error error">Varaus epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="add-appointment-button" type="button" value="Varaa aika" />
   </div>
   <div class="duplicate-booking error">

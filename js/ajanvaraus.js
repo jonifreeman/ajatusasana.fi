@@ -145,7 +145,7 @@ function setupAddAppointmentPopup() {
         $container.find('.main-content').hide()
         $container.find('.duplicate-booking').show()
       } else {
-        $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+        $container.find('.general-error').fadeIn(500).delay(10000).fadeOut(500)
       }
     })
   })

@@ -9,7 +9,14 @@ function validate_enrollment_time($start, $end) {
     return "SELECT COUNT(1) as count FROM enrollments WHERE (start between '$s' and '$e') or (end between '$s' and '$e') or (start <= '$s' and end >= '$e')";
   };
   if (sql_query($sql)[0]['count'] > 0) {
-    var_dump(http_response_code(409));    
+    var_dump(http_response_code(409));
+    die();
+  }
+}
+
+function validate_enrollment($start, $name, $email, $phone) {
+  if (empty($start) || empty($name) || empty($email) || empty($phone)) {
+    var_dump(http_response_code(400));
     die();
   }
 }
@@ -18,6 +25,7 @@ function add_enrollment($start, $name, $email, $phone, $comment) {
   $endDate = new DateTime($start);
   $endDate->modify('+90 minutes');
   $end = $endDate->format('Y-m-d H:i:s');
+  validate_enrollment($start, $name, $email, $phone);
   validate_enrollment_time($start, $end);
 
   $sql = function($conn) use ($start, $end, $name, $email, $phone, $comment) {
