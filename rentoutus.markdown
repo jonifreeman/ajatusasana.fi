@@ -10,11 +10,11 @@ Session pituus: 90 min
 
 Hinta:   
 
- 1 krt   65 €
+ 1 krt   75 €
 
- 2 krt  120 €
+ 2 krt  130 €
 
- 3 krt  150 €
+ 3 krt  170 €
 
 
 Kuuntelen sinua koko kehollani.
