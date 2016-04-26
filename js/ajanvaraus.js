@@ -208,7 +208,6 @@ function setupPopup($container, validate, formFields) {
     }, 0)
     validate()
     $('.popup').css('visibility', 'hidden')
-    $container.offset($(e.currentTarget).offset())
     $container.css('visibility', 'visible')
   }
 
