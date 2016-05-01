@@ -18,7 +18,13 @@ if ($fd = @fopen("/home/ajatusas/signup.csv", "a")) {
 }
 
 if (isset($email)) {
-  mail($email, 'Ajatus & Asana, varaus', "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$course."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi", 'From: Stephanie Freeman <stephanie@ajatusasana.fi>');
+  $variables = array("course" => $course);
+  $template = file_get_contents("mail/kiitos_ilmoittautuminen.html");
+
+  foreach($variables as $key => $value) {
+    $template = str_replace('{{ '.$key.' }}', $value, $template);
+  }
+  mail($email, 'Ajatus & Asana, varaus', $template, "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\nContent-Type: text/html");
 }
 
 ?>

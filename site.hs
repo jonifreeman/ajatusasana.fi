@@ -26,6 +26,10 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "mail/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "*.php" $ do
         route   idRoute
         compile copyFileCompiler

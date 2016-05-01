@@ -39,8 +39,7 @@ function add_enrollment($start, $name, $email, $phone, $comment) {
   };
   sql_set($sql);
 
-  $thank_you_message = "Kiitos ajanvarauksesta!\r\n\r\nLämpimästi tervetuloa varaamanasi ajankohtana:\r\n".human_date(new DateTime($start))." - ".human_time($endDate)."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi";
-  send_mail_to_client($email, "Ajatus & Asana, ajanvaraus", $thank_you_message);
+  send_mail_to_client($email, "Ajatus & Asana, ajanvaraus", "mail/kiitos_ajanavaraus.html", array("start" => human_date(new DateTime($start)), "end" => human_time($endDate)));
 
   $message = "Uusi ajanvaraus.\r\n\r\nNimi: ".$name."\r\nEmail: ".$email."\r\nPuh.: ".$phone."\r\nAjankohta: ".human_date(new DateTime($start))." - ".human_time($endDate)."\r\nLisätietoja: ".$comment."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi";
   send_mail_to_aa('Ajanvaraus '.$name, $message);

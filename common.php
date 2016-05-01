@@ -1,9 +1,10 @@
 <?php
 
+include ('env.php');
+
 $db_server = "127.0.0.1";
 $db_database = "ajatusas";
 $db_username = "ajatusas_user";
-$db_password = "secret";
 
 date_default_timezone_set('Europe/Helsinki');
 
@@ -74,8 +75,13 @@ function human_time($date) {
   return $date->format('H:i');
 }
 
-function send_mail_to_client($to, $subject, $message) {
-  mail($to, $subject, $message, 'From: Stephanie Freeman <stephanie@ajatusasana.fi>');
+function send_mail_to_client($to, $subject, $template_file, $variables) {
+  $template = file_get_contents($template_file);
+
+  foreach($variables as $key => $value) {
+    $template = str_replace('{{ '.$key.' }}', $value, $template);
+  }
+  mail($to, $subject, $template, "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\nContent-Type: text/html");
 }
 
 function send_mail_to_aa($subject, $message) {
