@@ -28,4 +28,4 @@ create table auth_token(
   PRIMARY KEY (token)
 ) ENGINE=InnoDB;
 
-insert into auth(username, password) values ('stefi', '$2y$10$2ZA9poID5hD0.qxqTwfy4euH5qQM0Nt2Y/p6fS4urw8/ySwbpdtiO');
+insert into auth(username, password) values ('stefi', 'hash');

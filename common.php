@@ -9,8 +9,8 @@ $db_username = "ajatusas_user";
 date_default_timezone_set('Europe/Helsinki');
 
 function internal_server_error($msg) {
-  echo $msg;
   var_dump(http_response_code(500));
+  echo $msg;
   die();
 }
 

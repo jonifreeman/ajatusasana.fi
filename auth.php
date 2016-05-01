@@ -22,8 +22,8 @@ function auth($username, $password) {
     setcookie('session_id', $auth_token);
     header("location: ajanvaraus.html");
   } else {
-    echo "Login failed";
     var_dump(http_response_code(403));
+    echo "Login failed";
     die();
   }
 }
