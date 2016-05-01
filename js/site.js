@@ -39,6 +39,9 @@ function setupSignup() {
     var course = $(e.currentTarget).next().text()
     $('.signup-popup .course').text(time + " " + course)
     $('.signup-popup').css('visibility', 'visible')
+    $('.signup-popup').find('.main-content').show()
+    $('.signup-popup').find('.error').hide()
+    $('.signup-popup').find('.success').hide()
   })
 
   $('.schedule .cancelled').click(function(e) {
@@ -84,9 +87,8 @@ function setupSignup() {
       phone:   phone()
     }
     $.post("signup.php", data, function() {
-      $('.signup-popup').css('visibility', 'hidden')
-      window.scrollTo(0, 0)
-      $('.signup-popup-ok').fadeIn(500).delay(10000).fadeOut(500)
+      $('.signup-popup').find('.main-content').hide()
+      $('.signup-popup-ok').fadeIn(500)
     })
     .fail(function() {
       $('.signup-popup .error').fadeIn(500).delay(10000).fadeOut(500)

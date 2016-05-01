@@ -2,20 +2,21 @@
 title: Viherlaakso / Leppävaara / Espoo
 ---
 
-<div class="signup-popup-ok">
-  Kiitos ilmoittautumisesta!
-</div>
-
 <div class="popup signup-popup">
   <div class="popup-content">
    <img class="close" src="/img/popup_close.png" />
    <h2>Ilmoittautuminen</h2>
    <p><div class="course"></div></p>
+  <div class="main-content">
    <div class="contact-info">Nimi: </div><input type="text" class="name" />
    <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
    <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
    <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="signup-button" type="button" value="Ilmoittaudu" />
+  </div>
+  </div>
+  <div class="success signup-popup-ok">
+    Kiitos ilmoittautumisesta!
   </div>
 </div>
 
