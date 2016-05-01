@@ -19,12 +19,30 @@ if ($fd = @fopen("/home/ajatusas/signup.csv", "a")) {
 
 if (isset($email)) {
   $variables = array("course" => $course);
-  $template = file_get_contents("mail/kiitos_ilmoittautuminen.html");
+  $html = file_get_contents("mail/kiitos_ilmoittautuminen.html");
 
   foreach($variables as $key => $value) {
-    $template = str_replace('{{ '.$key.' }}', $value, $template);
+    $html = str_replace('{{ '.$key.' }}', $value, $html);
   }
-  mail($email, 'Ajatus & Asana, varaus', $template, "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\nContent-Type: text/html");
+
+  $boundary = uniqid('np');
+
+  $headers = "MIME-Version: 1.0\r\n";
+  $headers .= "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\n";
+  $headers .= "To: ".$email."\r\n";
+  $headers .= "Content-Type: multipart/alternative;boundary=" . $boundary . "\r\n";
+
+  $message = "This is a MIME encoded message.";
+  $message .= "\r\n\r\n--" . $boundary . "\r\n";
+  $message .= "Content-type: text/plain;charset=utf-8\r\n\r\n";
+
+  $message .= "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$course."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi";
+  $message .= "\r\n\r\n--" . $boundary . "\r\n";
+  $message .= "Content-type: text/html;charset=utf-8\r\n\r\n";
+
+  $message .= $html;
+
+  mail('', 'Ajatus & Asana, varaus', $message, $headers);
 }
 
 ?>
