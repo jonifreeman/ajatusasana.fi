@@ -75,17 +75,35 @@ function human_time($date) {
   return $date->format('H:i');
 }
 
-function send_mail_to_client($to, $subject, $template_file, $variables) {
-  $template = file_get_contents($template_file);
+function send_mail_to_client($to, $subject, $plain_text, $template_file, $variables) {
+  $html = file_get_contents($template_file);
 
   foreach($variables as $key => $value) {
-    $template = str_replace('{{ '.$key.' }}', $value, $template);
+    $html = str_replace('{{ '.$key.' }}', $value, $html);
   }
-  mail($to, $subject, $template, "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\nContent-Type: text/html");
+  
+  $boundary = uniqid('np');
+
+  $headers = "MIME-Version: 1.0\r\n";
+  $headers .= "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\n";
+  $headers .= "To: ".$email."\r\n";
+  $headers .= "Content-Type: multipart/alternative;boundary=" . $boundary . "\r\n";
+
+  $message = "This is a MIME encoded message.";
+  $message .= "\r\n\r\n--" . $boundary . "\r\n";
+  $message .= "Content-type: text/plain;charset=utf-8\r\n\r\n";
+
+  $message .= $plain_text;
+  $message .= "\r\n\r\n--" . $boundary . "\r\n";
+  $message .= "Content-type: text/html;charset=utf-8\r\n\r\n";
+
+  $message .= $html;
+
+  mail('', $subject, $message, $headers);
 }
 
 function send_mail_to_aa($subject, $message) {
-  mail('stephanie@ajatusasana.fi', $subject, $message, 'From: webmaster@ajatusasana.fi');
+  //mail('stephanie@ajatusasana.fi', $subject, $message, 'From: webmaster@ajatusasana.fi');
 }
 
 
