@@ -1,6 +1,7 @@
 <?php
 
 include ('common.php');
+include ('password.php');
 
 function store_auth_token($auth_token) {
   $sql = function($conn) use ($auth_token) {
