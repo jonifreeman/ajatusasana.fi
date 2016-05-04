@@ -103,7 +103,7 @@ function send_mail_to_client($to, $subject, $plain_text, $template_file, $variab
 }
 
 function send_mail_to_aa($subject, $message) {
-  //mail('stephanie@ajatusasana.fi', $subject, $message, 'From: webmaster@ajatusasana.fi');
+  mail('stephanie@ajatusasana.fi', $subject, $message, 'From: webmaster@ajatusasana.fi');
 }
 
 
