@@ -86,7 +86,7 @@ function send_mail_to_client($to, $subject, $plain_text, $template_file, $variab
 
   $headers = "MIME-Version: 1.0\r\n";
   $headers .= "From: Stephanie Freeman <stephanie@ajatusasana.fi>\r\n";
-  $headers .= "To: ".$email."\r\n";
+  $headers .= "To: ".$to."\r\n";
   $headers .= "Content-Type: multipart/alternative;boundary=" . $boundary . "\r\n";
 
   $message = "This is a MIME encoded message.";
