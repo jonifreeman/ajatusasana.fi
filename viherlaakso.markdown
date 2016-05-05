@@ -3,29 +3,29 @@ title: Viherlaakso / Leppävaara / Espoo
 ---
 
 <div class="popup signup-popup">
-  <div class="popup-content">
-   <img class="close" src="/img/popup_close.png" />
-   <h2>Ilmoittautuminen</h2>
-   <p><div class="course"></div></p>
-  <div class="main-content">
-   <div class="contact-info">Nimi: </div><input type="text" class="name" />
-   <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
-   <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
-   <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
-   <input class="signup-button" type="button" value="Ilmoittaudu" />
-  </div>
-  </div>
-  <div class="success signup-popup-ok">
-    Kiitos ilmoittautumisesta!
-  </div>
+<div class="popup-content">
+ <img class="close" src="/img/popup_close.png" />
+ <h2>Ilmoittautuminen</h2>
+ <div class="course"></div>
+ <div class="main-content">
+  <div class="contact-info">Nimi: </div><input type="text" class="name" />
+  <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
+  <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
+  <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
+  <input class="signup-button" type="button" value="Ilmoittaudu" />
+ </div>
+ </div>
+ <div class="success signup-popup-ok">
+   Kiitos ilmoittautumisesta!
+ </div>
 </div>
 
 <div class="popup cancelled-popup">
-  <div class="popup-content">
-   <img class="close" src="/img/popup_close.png" />
-   <h2>Peruutettu</h2>
-   <p>Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!</p>
-  </div>
+ <div class="popup-content">
+  <img class="close" src="/img/popup_close.png" />
+  <h2>Peruutettu</h2>
+  <p>Hyvää pääsiäistä! Tämä tunti peruttu pääsiäisenä, tervetuloa ensi viikolla!</p>
+ </div>
 </div>
 
 <div class="ale">
@@ -40,7 +40,7 @@ Tarjous voimassa Toukokuun loppuun.
 Viikko-ohjelma
 ==============
 
-
+<div class="schedule-container">
 <table class="schedule">
 <thead>
 <tr>
@@ -164,6 +164,7 @@ Viikko-ohjelma
 </tbody>
 
 </table>
+</div>
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 

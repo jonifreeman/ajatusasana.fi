@@ -34,19 +34,19 @@ $(function() {
 function setupSignup() {
   $('.schedule .signup').click(function(e) {
     validate()
-    $('.popup').css('visibility', 'hidden')
+    $('.popup').hide()
     var time = $(e.currentTarget).parent('div').find('strong').text()
     var course = $(e.currentTarget).next().text()
     $('.signup-popup .course').text(time + " " + course)
-    $('.signup-popup').css('visibility', 'visible')
+    $('.signup-popup').show()
     $('.signup-popup').find('.main-content').show()
     $('.signup-popup').find('.error').hide()
     $('.signup-popup').find('.success').hide()
   })
 
   $('.schedule .cancelled').click(function(e) {
-    $('.popup').css('visibility', 'hidden')
-    $('.cancelled-popup').css('visibility', 'visible')
+    $('.popup').hide()
+    $('.cancelled-popup').show()
   })
 
   function name() { return $('.signup-popup .name').val() }
@@ -96,11 +96,11 @@ function setupSignup() {
   })
 
   $('.signup-popup .close').click(function() {
-    $('.signup-popup').css('visibility', 'hidden')
+    $('.signup-popup').hide()
   })
 
   $('.cancelled-popup .close').click(function() {
-    $('.cancelled-popup').css('visibility', 'hidden')
+    $('.cancelled-popup').hide()
   })
 }
 

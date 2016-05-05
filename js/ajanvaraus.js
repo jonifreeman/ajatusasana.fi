@@ -187,7 +187,7 @@ function setupEditTimePopup() {
       end: e.format()
     }
     $.post("times.php", data, function() {
-      $container.css('visibility', 'hidden')
+      $container.hide()
       if (containerData.onSuccess)
         containerData.onSuccess()
     })
@@ -209,8 +209,8 @@ function setupPopup($container, validate, formFields) {
       $container.find('input:nth(0)').focus()
     }, 0)
     validate()
-    $('.popup').css('visibility', 'hidden')
-    $container.css('visibility', 'visible')
+    $('.popup').hide()
+    $container.show()
   }
 
   $container.find('input').bind("keyup blur", function(event) {
@@ -218,7 +218,7 @@ function setupPopup($container, validate, formFields) {
   })
 
   $container.find('.close').click(function() {
-    $container.css('visibility', 'hidden')
+    $container.hide()
   })
 
   return {open: open, formFields: formFields}

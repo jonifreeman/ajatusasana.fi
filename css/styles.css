@@ -60,7 +60,7 @@ ul {
   padding-bottom: 10px;
 }
 
-.navi, .schedule, p, li, table {
+.navi, .schedule, p, li, table, div {
   font-family: Verdana,sans,serif;
 }
 
@@ -302,6 +302,13 @@ blockquote cite:before {
   content: "\2014 \2009";
 }
 
+@media (max-width: 490px) {
+  .schedule-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+}
+
 .schedule {
   width: 1200px;
   margin-bottom: 40px;
@@ -357,9 +364,26 @@ blockquote cite:before {
   margin-right: 3px;
 }
 
+/*
+@media (max-width: 490px) {
+  .popup {
+    position:absolute;
+  }
+}
+@media (min-width: 490px) {
+*/
+  .popup {
+    position:fixed;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -moz-transform:translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+  }
+
 .popup {
-  visibility: hidden;
-  position: absolute;
+  display: none;
   border: 2px solid #98b49b;
   background-color: #a5bea8;
   width: 300px;
@@ -378,6 +402,7 @@ blockquote cite:before {
 
 .popup .popup-content {
   margin: 15px;
+  position: relative;
 }
 
 .signup-popup .contact-info {
@@ -414,9 +439,15 @@ blockquote cite:before {
   padding-bottom: 20px;
 }
 
+@media only screen and (max-width : 490px) {
+  .prices table {
+    width: 100% !important;
+  }
+}
+
 .prices table {
   margin-left: 20px;
-  width: 800px;
+  width: 500px;
 }
 
 .prices table td:first-child {
@@ -466,12 +497,3 @@ section {
   display: none;
 }
 
-.popup {
-  position:fixed;
-  left: 50%;
-  top: 50%;
-  -ms-transform: translate(-50%,-50%);
-  -moz-transform:translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-}
