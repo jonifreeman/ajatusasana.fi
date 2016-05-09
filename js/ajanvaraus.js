@@ -14,7 +14,7 @@ $(function() {
         element.find('.fc-time').hide()
       },
       eventClick: function(calEvent, jsEvent, view) {
-        var times = []
+        var times = ['<option class="time" value="">Valitse ajankohta</option>']
         var first = calEvent.start.clone()
         var last = calEvent.end.clone().subtract(90, 'minutes')
         for (i = first; i <= last; first.add(15, 'minutes')) {
@@ -115,7 +115,7 @@ function setupAddAppointmentPopup() {
   function comment() { return $container.find('.comment') }
 
   function validate() {
-    if (requiredV(name()) && requiredV(email()) && requiredV(phone())) {
+    if (requiredV(start()) && requiredV(name()) && requiredV(email()) && requiredV(phone())) {
       $container.find('.add-appointment-button').removeAttr('disabled')
     } else {
       $container.find('.add-appointment-button').attr('disabled', 'disabled')
@@ -213,7 +213,10 @@ function setupPopup($container, validate, formFields) {
     $container.show()
   }
 
-  $container.find('input').bind("keyup blur", function(event) {
+  $container.find('select').bind("change", function(event) {
+    validate()
+  })
+  $container.find('input').bind("keyup blur change", function(event) {
     validate()
   })
 
