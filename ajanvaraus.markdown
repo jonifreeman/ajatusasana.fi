@@ -44,7 +44,7 @@ Ajatus & Asana ajanvaraus
 =========================
 
 <div class="info">
-Napsauta sinistä laatikkoa halutun päivän kohdalta jolloin saat vapaat ajat näkyviin.
+Napsauta sinistä laatikkoa halutun päivän kohdalta jolloin saat vapaat ajat näkyviin. Kaikki valikossa tarjolla olevat ajat ovat 90 min pituisia.
 </div>
 
 <div id='calendar'></div>
