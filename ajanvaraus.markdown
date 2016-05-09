@@ -24,9 +24,9 @@ title: Ajanvaraus
    <div>
    <select class="start"></select>
    </div>
-   <div class="contact-info">Nimi: </div><input type="text" class="name" />
-   <div class="contact-info">Sähköposti: </div><input type="text" class="email" />
-   <div class="contact-info">Puhelin: </div><input type="text" class="phone" />
+   <div class="contact-info">Nimi: </div><input type="text" name="name" class="name" />
+   <div class="contact-info">Sähköposti: </div><input type="text" name="email" class="email" />
+   <div class="contact-info">Puhelin: </div><input type="text" name="phone" class="phone" />
    <div class="contact-info">Lisätietoja: </div><textarea rows="6" cols="40" class="comment"></textarea>
    <div class="general-error error">Varaus epäonnistui. Yritä hetken kuluttua uudestaan.</div>
    <input class="add-appointment-button" type="button" value="Varaa aika" />
