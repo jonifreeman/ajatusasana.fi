@@ -40,8 +40,8 @@ title: Ajanvaraus
   </div>
 </div>
 
-Ajatus & Asana ajanvaraus
-=========================
+Ajatus & Asana tilaustuntien ja yksityisvalmennusten ajanvaraus
+===============================================================
 
 <div class="info">
 Napsauta sinistä laatikkoa halutun päivän kohdalta jolloin saat vapaat ajat näkyviin. Kaikki valikossa tarjolla olevat ajat ovat 90 min pituisia.
