@@ -497,3 +497,6 @@ section {
   display: none;
 }
 
+.ajanvaraus-link a {
+  color: #3a87ad;  
+}

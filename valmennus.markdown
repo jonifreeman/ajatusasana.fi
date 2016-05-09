@@ -9,6 +9,8 @@ Paneudumme sessioissa juuri sinun persoonallesi ja kehollesi sopivaan joogaan ja
 
 </section>
 
+Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>.
+
 <p class="valmennus"/>
 
 Ajatus & Asana joogavalmennuspaketit

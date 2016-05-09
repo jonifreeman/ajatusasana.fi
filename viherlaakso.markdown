@@ -113,7 +113,7 @@ Viikko-ohjelma
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
   [Joogamotivaatio: Lempeän jooga alkeiskurssi](#joogakurssi)
-  <div class="highlight">Huhtikuussa 2016 (4.4, 11.4, 18.4, 25.4)</div>
+  <div class="highlight">Syyskuussa 2016</div>
  </div>
  </td>
  <td></td>
@@ -171,9 +171,11 @@ Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia p
 Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä.
 
 
-Tilauksesta (ota yhteyttä niin sovitaan ajankohta)
-==================================================
+Tilaustunnit ja yksityisvalmennukset
+====================================
 
+Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>.
+ 
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
 * [Ajatus & Asana Joogakurssi](#joogakurssi)
 * [Koirakkojoogameditaatio](#dog)
