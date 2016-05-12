@@ -2,7 +2,7 @@
 title: Idea
 ---
 
-**Yoga and BodyMind Teaching and Coaching with Thought - Espoo Viherlaakso**
+**YOGA LIFE COACHING WITH THOUGHT in Espoo Viherlaakso**
 
 
 How wonderful it would feel to know oneself even better. To relax and let go of worldly affairs in a 
