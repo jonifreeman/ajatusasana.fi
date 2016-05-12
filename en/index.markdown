@@ -2,8 +2,7 @@
 title: Idea
 ---
 
-**YOGA LIFE COACHING WITH THOUGHT in Espoo Viherlaakso**
-
+**THE WORLD OF RELAXATION - Thoughtful Coaching**
 
 How wonderful it would feel to know oneself even better. To relax and let go of worldly affairs in a 
 cosy and peaceful setting. To become more conscious of the power of breath. To learn to read one's 
