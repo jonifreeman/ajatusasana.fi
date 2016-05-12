@@ -1,10 +1,9 @@
 ---
 title: Idea
 ---
-
-**JOOGAA JA TUNNE-ELÄMÄN VALMENNUSTA AJATUKSELLA - Viherlaakso, Espoo**
-
-
+**RENTOUTUMISEN MAAILMA**
+**Valmennusta Ajatuksella**
+  
 Miten ihanaa olisi kun voisi tuntea itsensä vielä vähän paremmin! Rentoutua ja päästää irti maallisista murheista edes hetkeksi, kotoisassa ja tunnelmallisessa tilassa. Tulla tietoisemmaksi oman hengityksen voimasta. Lukea omaa kehoaan syvemmin. Olla kosketuksissa omiin tunteisiin ja kehon tuntemuksiin. Saada elinikäisiä työvälineitä stressin ja emotionaalisen kehomielen hallintaan. Antaa oman sisäisen ohjaajan kasvaa ja viedä kohti aidompaa ja luovempaa minää. Saada luottamuksellista ja rehellistä yksilöllistä ohjausta ja valmennusta henkilönä, jota kunnioitetaan oman kokemushistoriansa parhaimpana asiantuntijana.
 
 <div class="blog">
@@ -15,7 +14,7 @@ Ajatus & Asana Oy tarjoaa kokonaisvaltaiseen joogaan sekä psykologiseen, sosiol
 
 Tutustu viikottaisiin joogatunteihin, yksilövalmennuspaketteihin & kotijoogaohjelmiin sekä 3-tunnin miniretriitteihin!
 
-Viherlaakson Joogahuoneella Sinut otetaan vastaan Sinuna. 
+Viherlaakson Joogahuoneella Espoossa Sinut otetaan vastaan Sinuna. 
 
 Heräsikö uteliaisuutesi? Kysy rohkeasti lisää! 
 
