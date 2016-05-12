@@ -2,7 +2,9 @@
 title: Idea
 ---
 
-**THE WORLD OF RELAXATION  _Thoughtful Coaching_
+**THE WORLD OF RELAXATION**  
+
+_Thoughtful Coaching_
 
 How wonderful it would feel to know oneself even better. To relax and let go of worldly affairs in a 
 cosy and peaceful setting. To become more conscious of the power of breath. To learn to read one's 
@@ -16,8 +18,7 @@ And to be able to do this in an environment that values your unique life history
 <script async src="https://static.medium.com/embed.js"></script><a class="m-collection" href="https://medium.com/ajatus-asana">Ajatus & Asana</a>
 </div>
 
-Ajatus & Asana offers inspiring pedagogical BodyMind teaching and coaching based on yoga as well as psychological, 
-sociological and physiological knowledge. 
+Ajatus & Asana, located in Espoo Viherlaakso, offers inspiring pedagogical BodyMind teaching and coaching based on yoga as well as psychological, sociological and physiological knowledge. 
 
 
 For more information, see the weekly yoga class schedule, possibilities for individual coaching 
