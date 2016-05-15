@@ -13,7 +13,7 @@ Miten ihanaa olisi kun voisi tuntea itsensä sydänjuuriaan myöten! Rentoutua j
 
 Ajatus & Asana Oy tarjoaa kokonaisvaltaiseen joogaan sekä psykologiseen, sosiologiseen, ja fysiologis-anatomiseen ymmärrykseen perustuvaa pedagogista kehomielen valmennusta yksilöille ja ryhmille. 
 
-Tutustu viikottaisiin joogatunteihin, keskustelevaan joogaretoutukseen, yksilövalmennuspaketteihin & kotijoogaohjelmiin sekä 3-tunnin miniretriitteihin!
+Tutustu viikottaisiin joogatunteihin, keskustelevaan joogarentoutukseen, yksilövalmennuspaketteihin & kotijoogaohjelmiin sekä 3-tunnin miniretriitteihin!
 
 Viherlaakson Joogahuoneella Espoossa Sinut otetaan vastaan Sinuna. 
 
