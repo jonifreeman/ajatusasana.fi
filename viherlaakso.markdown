@@ -112,7 +112,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogamotivaatio: Lempeän jooga alkeiskurssi](#joogakurssi)
+  [Joogarentoutuskurssi](#joogakurssi)
   <div class="highlight">Syyskuussa 2016</div>
  </div>
  </td>
