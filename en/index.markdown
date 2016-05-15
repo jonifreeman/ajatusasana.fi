@@ -2,15 +2,15 @@
 title: Idea
 ---
 
-**THE WORLD OF RELAXATION**  
+**RELAXATION WORLD**  
 
 **_Thoughtful Coaching_**
 
-How wonderful it would feel to know oneself even better. To relax and let go of worldly affairs in a 
-cosy and peaceful setting. To become more conscious of the power of breath. To learn to read one's 
+How wonderful it would feel to know oneself from the bottom of one's heart! To relax and let go of stressful worldly affairs in a 
+cosy and peaceful setting. To become more conscious of the healing power of the breath. To read one's 
 bodily messages in a productive way. To connect with greater awareness with one's feelings and 
-bodily sensations. To learn lifelong tools and knowledge for managing stress and emotional anxiety. 
-To let the internal teacher within guide you towards a more creative and renewed authentic self. 
+bodily sensations. To learn lifelong tools and knowledge for managing stress and the emotional self.
+To give more space to the internal teacher within. To let your creative and authentic self express its' full potential.
 And to be able to do this in an environment that values your unique life history and experience.
 
 
