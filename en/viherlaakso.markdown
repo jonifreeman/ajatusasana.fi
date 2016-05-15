@@ -312,7 +312,7 @@ Seuraava 'Joogarentoutuskurssi Syykuussa 2016! Aina maanantaisin klo. 16.45-18.1
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
+3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Syksyn 2016 teemat ilmestyvät tänne kesän aikana.
 
 
 
