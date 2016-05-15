@@ -303,53 +303,16 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
 
 <a id="joogakurssi"></a>
-**Joogamotivaatio - lempeän joogan alkeiskurssi**
+**Joogarentoutuskurssi**
 
-Mitä on jooga? Minkätyyppinen jooga sopisi minulle? Mihin kaikkeen jooga vaikuttaa? Jos et ole koskaan joogannut tai joogannut vain vähän, tämä on hyvä ponnahduslauta joogaan. Etenemme erityisen hitaasti, jokaisen keholle sopivaa liikkeen toteutustapaa etsien. lempeään turvalliseen joogaamiseen. Antaa valmiudet myös itsenäisen kotijoogan aloittamiseen. Kehon liikkeiden lisäksi mielen liikkeitä. Kurssi sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille. Jokainen työpaja sisältää myös hengitysharjoituksen ja meditaation/ Yoga Nidran/ rentoutuksen. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Kurssin lopuksi olet oppinut oman pienen kotijoogasarjan. 
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta hoitavasta potentiaalista? Tule Joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille, jotka etsivät rentoutta ja inspiraatiota elämään. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. 
 
-Seuraava 'Joogamotivaatio-lempeän joogan alkeiskurssi' Huhtikuussa 2016! Aina maanantaisin 4.4, 11.4, 18.4, 25.4 klo. 16.45-18.15
+Seuraava 'Joogarentoutuskurssi Syykuussa 2016! Aina maanantaisin klo. 16.45-18.15
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
 3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Alla teemat:
 
-*LA 13.2 2016 klo. 10.00-13.00: Joogan Ytimessä*
-
-Tässä 3-tuntisessa esittelyssä kokonaisvaltainen jooga. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa!
 
 
-*LA 5.3 2016 klo. 10.00-13.00 Selkärangan energisointi joogan & vapaan liikkeen keinoin eteerisen musiikin tahdissa*
-
-3-tunnin miniretriitissä hitaasti ja lempeydellä tunnustelemmme selkärankaamme sitä kiertäen, suoristen, ojentaen, pyöristäen ja sivuittaissuunnassa liikuttaen. Yhdistämme joogaliikkeitä ja muita somaattisia kehotietoisuuden liikkeitä monipuoliseksi kokonaisuudeksi. Lopuksi annamme rangan rentoutua äänimeditaation keinoin.
-
-
-*LA 19. 3 klo. 10.00-13.00 Kiukun purkaminen & kehon täyttäminen positiivisuudella ja terveellä itserakkaudella*
-
-Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
-Tule rohkeasti kokeilemaan!
-
-*LA 2.4 klo. 10.00-12.00 Uljas & voimallinen Minä: Dynaaminen joogahetki*
-
-Kaipaatko Poweria elämään? Haluatko haastaa kehoasi ja mieltäsi vahvemmalla  joogaharjoituksella? Haluatko ylittää leikkimielisesti omia rajojasi? Kevättä kohti kun rytinällä mennään, kehokin herää eloon, ja saattaa kaivata jotain palauttavaa väkevämpää. Tule ja lähesty aitoa itseäsi voimallisen rakkaudellisesti. Hinta 40 euroa (sis ALV).
-
-*LA 16.4 klo. 10.00-13.00 Pari(skunta)jooga: Kokonaisvaltaisen joogan ytimessä* 
-
-Tuo siippasi tai mielitiettysi mukaan tutustumaan kokonaisvaltaiseen joogaan. Mitä on jooga? Mihin kaikkeen se vaikuttaa? Minkälainen jooga sopisi juuri minun persoonalleni ja keholle? Aloitamme joogahengitysharjoituksilla. Tutustumme joogan kolmen eri suuntauksen kautta (Yin, Hatha & Kundalini). Teemme sekä yksilö-että pariharjoituksia.  Päätämme päivän rentouttavan ohjattuun kehomeditaation (Jooga Nidra). Sydämellisesti tervetuloa hyvinvoimaan yhdessä!
-
-*LA 14.5 2016 klo. 10.00-16.00 Joogaa, energiahoitoa ja tunneälyä: itsehoidon upeat työkalut*
-
-Kaipaatko uutta energiaa, inspiraatiota ja välineitä jokapäiväisen hyvinvoinnin aktivoimiseksi ja ylläpitämiseksi? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta hoitavasta voimasta? Tule mukaan monipuoliseen keväiseeen itsehoitopäivään Espoon Viherlaksoon Ajatus & Asana joogahuoneelle. Päivän aikana  tutustumme KehoMielen hoitavaan potentiaaliin joogan ja energiahoidon kautta. Päivän aikana opimme käyttämään energiaa itsehoidossa. Opimme myös ymmärtämään, mihin tunteita tarvitaan, ja miten ne linkittyvät keholliseen kokemukseen. 
-
-Kurssin vetäjät:
-
-Itsehoitoa energioilla: Tuija Holmberg (energiahoidon opettaja, ravintoneuvoja)
-
-Itsehoitoa joogan, meditaation ja tunneälyn keinoin: Stephanie Freeman (Filosofian tohtori, Kasvatustieteiden maisteri ja diplomijoogaopettaja)
-
-Hinta: 100 € (sis ALV ). Kurssin hinta sisältää myös jaettavat materiaalit sekä teetä ja pientä purtavaa. Otathan omat lounaseväät mukaan.
-
-Ilmoittautumiset: stephanie@ajatusasana.fi / 0405224889
-tai elamansiivet@gmail.com / 0408644646
-
-Kysy rohkeasti lisää!
