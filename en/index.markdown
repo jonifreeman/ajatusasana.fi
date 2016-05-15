@@ -9,8 +9,8 @@ title: Idea
 How wonderful it would feel to know oneself from the bottom of one's heart! To relax and let go of stressful worldly affairs in a 
 cosy and peaceful setting. To become more conscious of the healing power of the breath. To read one's 
 bodily messages in a productive way. To connect with greater awareness with one's feelings and 
-bodily sensations. To learn lifelong tools and knowledge for managing stress and emotions.
-To give more space to the internal teacher within. To let your creative and authentic self express its' full potential.
+bodily sensations. To learn lifelong tools and knowledge for managing stress and emotional states.
+To give more space to the internal teacher within. To let your creative and authentic self express its full potential.
 And to be able to do this in an environment that values your unique life history and experience.
 
 
