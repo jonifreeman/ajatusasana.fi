@@ -2,7 +2,7 @@
 title: Idea
 ---
 
-** THE ART OF RELAXATION**  
+**THE ART OF RELAXATION**  
 
 **_Thoughtful Coaching_**
 
