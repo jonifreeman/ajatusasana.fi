@@ -2,11 +2,11 @@
 title: Idea
 ---
 
-**RELAXATION WORLD**  
+** THE ART OF RELAXATION**  
 
 **_Thoughtful Coaching_**
 
-How wonderful it would feel to know oneself from the bottom of one's heart! To relax and let go of stressful worldly affairs in a 
+How wonderful it would feel to know oneself from the bottom of one's being! To relax and let go of stressful worldly affairs in a 
 cosy and peaceful setting. To become more conscious of the healing power of the breath. To read one's 
 bodily messages in a productive way. To connect with greater awareness with one's feelings and 
 bodily sensations. To learn lifelong tools and knowledge for managing stress and emotional states.
