@@ -14,7 +14,7 @@ Brian Snellgrove, psychic, author and philosopher from the UK will share some of
 
 A lecture will be given in English on Thursday 16th June 2016 at 7 pm at the new forthcoming Ajatus & Asana business premises (Kavallinmäki 15, Room 312, 02710 Espoo, right next to building where the current Ajatus & Asana Yoga Room is located). During the lecture a special demonstration of energy reading will take place using a member of the audience.
 
-During this visit Brian and his wife Francoise will offer a unique Katsastus service to give a detailed and analytical reading of your aura. One to One readings will be offered 17/18/20/21 June 2016.
+In the course of their visit Brian and his wife Francoise will offer a unique Katsastus service to give a detailed and analytical reading of your aura. One to One readings will be offered 17/18/20/21 June 2016.
 
 Enquiries and bookings to [www.briansnellgrove.net](http://www.briansnellgrove.net) or [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
