@@ -29,12 +29,6 @@ title: Viherlaakso / Leppävaara / Espoo
 </div>
 
 <div class="ale">
-Kevään tarjous uusille asiakkaille:
-
-* 5 x 90 min joogakortti 85 € (norm. 115 €)
-* 10 x 90 min 160 € (norm. 200 €)
-
-Tarjous voimassa Toukokuun loppuun.
 </div>
 
 Viikko-ohjelma
