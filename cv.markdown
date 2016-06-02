@@ -2,7 +2,7 @@
 title: CV
 ---
 
-# N. STEPHANIE FREEMAN, CV 
+# STEPHANIE FREEMAN, CV 
 
 (Born: Feb. 1973)
 
@@ -10,15 +10,15 @@ title: CV
 
 **YOGA, MEDITATION AND OTHER SOMATIC APPROACHES**
 
-Over a decade of continuous self-study (lifelong practice  & reading)
+Over a decade of continuous self-study (lifelong practice  & reading).
 
-2015/April Open meditation workshop (Jason Siff).
+2015/April Open meditation workshop.
 
-2015/February Slow Yoga workhsop (Janne Kontala).
+2015/February Slow Yoga workhsop.
 
-2015/February Rebirthing-breathing workshop (Anja Ahola).
+2015/February Rebirthing-breathing workshop.
 
-2013 Diploma Yoga Teacher. A two year (2011-2012) teacher training (RYT 200 + part of RYT 500). YogaSource Finland [http://www.yogasource.fi/](http://www.yogasource.fi/)
+2013 Diploma Yoga Teacher. A two year (2011-2012) teacher training (RYT 200 + part of RYT 500). Helsinki.
 
 **ACADEMIC**
 
