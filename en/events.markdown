@@ -18,7 +18,7 @@ In the course of their visit Brian and his wife Francoise will offer a unique Ka
 
 Please make your bookings with Stephanie (0405224889) stephanie@ajatusasana.fi. If your English is not so good she is available as a translator.
 
-More information: www.briansnellgrove.net
+More information:[www.briansnellgrove.net](http://www.briansnellgrove.net)
 
 <p><p>
 
