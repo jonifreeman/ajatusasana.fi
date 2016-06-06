@@ -5,7 +5,7 @@ title: Postituslista
 Ajatus & Asana sähköpostilista
 ------------------------------
 
-Ajatus & Asana postituslistalla tiedotetaan tulevista tapahtumista: kursseista; miniretriiteistä; kehoon, mieleen ja sosiaalisiin taitoihin liittyvistä kirjoituksista; vierailijoista; sekä luennoista. Pysy ajan tasalla liittymällä sähköpostilistalle. 
+Ajatus & Asana postituslistalla tiedotetaan tulevista tapahtumista sekä vierailijoista; kehoon, mieleen ja sosiaalisiin taitoihin liittyvistä kirjoituksista sekä jaetaan rentoutusvinkkejä. Pysy ajan tasalla liittymällä ilmaiselle sähköpostilistalle. 
 
 <div>
 <div class="mailinglist-form">
