@@ -6,7 +6,9 @@ Would you like to unwind in a relaxing atmosphere and be genuinely heard?  Are y
 
 Conversational Yoga Relaxation is for anyone who would like to gain deeper awareness to a pressing issue in their life. You do not need prior experience in relaxing or yoga. I combine different relaxation and somatic awareness techniques and holistic yoga with a deep socio-psychological understanding of the richness of human life.
 
+
 The length of the session: 90 min.
+
 
 Prices:
 
@@ -15,6 +17,7 @@ Prices:
 2 sessions 135 €
 
 3  sessions 185 €
+
 
 Curious?
 
