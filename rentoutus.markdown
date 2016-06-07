@@ -4,7 +4,7 @@ title: Keskusteleva Joogarentoutus
 
 **Keskusteleva Joogarentoutus  - Tule Kuulluksi!**
 
-Haluatko rentoutuen purkaa ajatuksiasi elämästä(si), tulla aidosti kuulluksi?  Oletko etsimässä uuttaa suuntaa ja inspiraatiota jollain elämänalueellasi? Keskusteleva joogarentoutus on tarkoitettu kenelle tahansa arkisen tai pyhän asian kanssa kamppailevalle ihmiselle, jota kiinnostaa oman kehon tuntemusten, tunteiden välisen yhteyden ymmärtäminen ja syventäminen sekä (työ)elämän ja maailmanmenon ihmettely. Sinulla ei tarvitse olla aikaisempaan joogataustaa tai rentoutuskokemusta. Riittää, että tunnet tarvetta kokeilla. Sessiossa yhdistän mm. kokonaisvaltaista joogaa moniin muihin rentoutustekniikkoihin, sekä syvää (tieteellistäkin) ymmärrystä ihmisenä olemisen rikkaudesta. Huom! Keskusteleva joogarentoutus ei ole terapiaa, eikä siten sovellu mielenterveysongelmien hoitoon.
+Haluatko rentoutuen purkaa ajatuksiasi elämästä(si), tulla aidosti kuulluksi?  Oletko etsimässä uuttaa suuntaa ja inspiraatiota jollain elämänalueellasi? Haluatko luottaa päätöksenteossa omaan intuitioosi vieläkin syvemmin? Keskusteleva joogarentoutus on tarkoitettu kenelle tahansa arkisen tai pyhän asian kanssa kamppailevalle ihmiselle, jota kiinnostaa oman kehon tuntemusten, tunteiden välisen yhteyden ymmärtäminen ja syventäminen sekä (työ)elämän ja maailmanmenon ihmettely. Sinulla ei tarvitse olla aikaisempaan joogataustaa tai rentoutuskokemusta. Riittää, että tunnet tarvetta kokeilla. Sessiossa yhdistän mm. kokonaisvaltaista joogaa moniin muihin rentoutustekniikkoihin, sekä syvää (tieteellistäkin) ymmärrystä ihmisenä olemisen rikkaudesta. Huom! Keskusteleva joogarentoutus ei ole terapiaa, eikä siten sovellu mielenterveysongelmien hoitoon.
 
 Session pituus: 90 min
 
@@ -14,9 +14,9 @@ Hinta:
 
  1 krt   75 €
 
- 2 krt  130 €
+ 2 krt  135 €
 
- 3 krt  170 €
+ 3 krt  185 €
 
 
 Kuuntelen sinua koko kehollani.
