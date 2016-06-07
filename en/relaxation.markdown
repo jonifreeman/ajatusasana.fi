@@ -2,6 +2,8 @@
 title: Conversational Yoga Relaxation
 ---
 
+CONVERSATIONAL YOGA RELAXATION
+
 Would you like to unwind in a relaxing atmosphere and be genuinely heard?  Are you searching for inspiration in some area of your (working) life?  Or perhaps you just need a little nudge to better trust your intuition in decision-making? 
 
 Conversational Yoga Relaxation is for anyone who would like to gain deeper awareness to a pressing issue in their life. You do not need prior experience in relaxing or yoga. I combine different relaxation and somatic awareness techniques and holistic yoga with a deep socio-psychological understanding of the richness of human life.
