@@ -21,7 +21,7 @@ And to be able to do this in an environment that values your unique life history
 Ajatus & Asana, located in Espoo Viherlaakso, offers inspiring pedagogical BodyMind teaching and coaching based on yoga as well as psychological, sociological and physiological knowledge. 
 
 
-For more information, see the weekly yoga class schedule, possibilities for individual coaching 
+For more information, see the weekly yoga class schedule (teaching in small groups), possibilities for individual coaching 
 sessions & home yoga programmes, and the 3-hour mini retreats.
 
 
