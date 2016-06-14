@@ -11,7 +11,7 @@ Miten ihanaa olisi kun voisi tuntea itsensä sydänjuuriaan myöten! Rentoutua j
 <script async src="https://static.medium.com/embed.js"></script><a class="m-collection" href="https://medium.com/ajatus-asana">Ajatus & Asana</a>
 </div>
 
-Ajatus & Asana Oy tarjoaa kokonaisvaltaiseen joogaan sekä psykologiseen, sosiologiseen, ja fysiologis-anatomiseen ymmärrykseen perustuvaa pedagogista kehomielen valmennusta yksilöille ja ryhmille. 
+Ajatus & Asana Oy tarjoaa kokonaisvaltaiseen joogaan sekä psykologiseen, sosiologiseen, ja fysiologis-anatomiseen ymmärrykseen perustuvaa pedagogista kehomielen valmennusta yksilöille ja pienryhmille. 
 
 Tutustu viikottaisiin joogatunteihin, keskustelevaan joogarentoutukseen, yksilövalmennuspaketteihin & kotijoogaohjelmiin sekä 3-tunnin miniretriitteihin!
 
