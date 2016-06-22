@@ -220,7 +220,7 @@ Sarjakortit
 
 <p>
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 1, 5 h (90 min), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä opit. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
+*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
 
 
 Motivoivat Ajatus & Asana joogakurssit 
@@ -258,36 +258,32 @@ Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseks
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia (Hatha, Kundalini & Iyengar) joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Tunti sopii kaikille. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="yin"></a>
 **Yin & lempeän vahvistava jooga**
 
-Tunti alkaa kehoa ja mieltä avaavilla ja rauhoittavilla Yin jooga-liikkeillä. Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti jatkuu lempeän vahvistavalla ja energisoivalla joogaharjoituksella, ja päättyy loppurentoutukseen. Tunti sopii kaikille.
+Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin-tyyppisiä tuettuja jooga-liikkeitä, joissa pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="rauhoittava"></a>
 **Yin**
 
-Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Se avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Teemme harjoituksen tuetusti, rauhallisesti ja turvallisesti. Pysymme jokaisessa asanassa 3-5 min. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan.
+Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Se avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Teemme harjoituksen tuetusti, rauhallisesti ja turvallisesti. Pysymme jokaisessa asanassa 3-5 min. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy loppurentoutukseen.
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
 
-Tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tämä lihaksistoa sekä hermostoa lempeästi vetreyttävä ja palauttava tunti sopii kaikille. 
+Tällä Lihaksistoa sekä hermostoa lempeästi vetreyttävällä ja palauttavalla tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="trigger"></a>
-**Virtaava liike & jooga**
-
-Helposti lähestyttäviä kehoa helliviä (terapeuttisia) vapaan olemisen, tanssin ja joogan liikkeitä eteerisen musiikin tahdissa. Tällä tunnilla liikkeillä ei ole mitään oikeaa suoristustapaa, vaan jokaisella on mahdollista löytää oma rytmi ja tekniikka löyhän viitekehyksen sisällä. Tule, löydä & vapauta sisäinen tanssijasi!
 
 <a id="alkeet"></a>
-
 
 
 <a id="vahvistava"></a>
 **Lempeän vahvistava jatkojooga**
 
-Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. Hathajooga ja Kundalinijooga toimivat inspriraation lähteinä. Sopii jo jooganneille!
+Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
 
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
