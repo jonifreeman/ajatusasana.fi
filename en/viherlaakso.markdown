@@ -171,8 +171,9 @@ Tilaustunnit ja yksityisvalmennukset
 Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>.
  
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
-* [Ajatus & Asana Joogakurssi](#joogakurssi)
-* [Koirakkojoogameditaatio](#dog)
+* [Keskusteleva Joogarentoutus](rentoutus.html)
+* [Tule tutuksi-jooga](tule_tutuksi.html)
+* [Joogarentoutuskurssi Oma Voima](#joogakurssi)
 
 <div class="prices">
 
@@ -224,14 +225,6 @@ Sarjakortit
 
 *Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Kuten monet jo luonani käyneet tietävät, minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.*
 
-
-Motivoivat Ajatus & Asana joogakurssit 
---------------------------------------
-
---------- --------------------------------------------------------
-4 x 75 min 145 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
-           125 € (opiskelijat, eläkeläiset, työttömät)
---------- --------------------------------------------------------
 
 Ajatus & Asana Miniretriitit 
 ----------------------------
@@ -290,21 +283,28 @@ Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen j
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
 
-Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen tunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
+Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. 
 
-Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
 
 <a id="joogakurssi"></a>
-**Joogarentoutuskurssi**
+**Keskusteleva Joogarentoutuskurssi Oma Voima**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta hoitavasta potentiaalista? Tule Joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille, jotka etsivät rentoutta ja inspiraatiota elämään. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. 
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Valitsen ryhmään sopivat 4 henkilöä pienen jutustelun perusteella. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
 
-Seuraava 'Joogarentoutuskurssi Syykuussa 2016! Aina maanantaisin klo. 16.45-18.15
+Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
 
-3 tunnin mittainen mini-irtiotto arjesta!  Fokusoituja joogaharjoituksia, hengittelyä, ja joogameditaatiota vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 50 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset 35 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Kysy lisää: camisteph@gmail.com tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Syksyn 2016 teemat ilmestyvät tänne kesän aikana.
+3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
+**LA 24.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Feminiisyys, maskuliinisuus ja androgyynisyys naisessa**
+Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat naiselle tai naiseuttaan vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
+
+**LA 8.10 klo. 10.00-13.00 Miehisyyden Ylistys Jooga: Maskuliinisuus, feminiisyys ja androgyynisyys miehessä**
+Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat miehelle tai miehisyyttään vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea miehisyyttä? Mitä miehisyys tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista.
+
+**LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
+Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
 
 

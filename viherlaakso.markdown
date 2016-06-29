@@ -171,8 +171,9 @@ Tilaustunnit ja yksityisvalmennukset
 Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>.
  
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
-* [Ajatus & Asana Joogakurssi](#joogakurssi)
-* [Koirakkojoogameditaatio](#dog)
+* [Keskusteleva Joogarentoutus](rentoutus.html)
+* [Tule tutuksi-jooga](tule_tutuksi.html)
+* [Joogarentoutuskurssi Oma Voima](#joogakurssi)
 
 <div class="prices">
 
