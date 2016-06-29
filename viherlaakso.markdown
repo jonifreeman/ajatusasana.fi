@@ -225,14 +225,6 @@ Sarjakortit
 *Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Kuten monet jo luonani käyneet tietävät, minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.*
 
 
-Motivoivat Ajatus & Asana joogakurssit 
---------------------------------------
-
---------- --------------------------------------------------------
-4 x 75 min 145 € (sisältää jaettavat kotijoogaa tukevat materiaalit)
-           125 € (opiskelijat, eläkeläiset, työttömät)
---------- --------------------------------------------------------
-
 Ajatus & Asana Miniretriitit 
 ----------------------------
 
@@ -290,16 +282,15 @@ Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen j
 <a id="dog"></a>
 **Koirakkojoogameditaatio**
 
-Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. *Huom! Jokaisen tunnin lopuksi siivotaan perusteellisesti se osa joogatilasta, joka on ollut käytössä!*
+Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. 
 
-Seuraava koirajooga kevät-talvella (ajankohta selviää myöhemmin). Max 4 koirakkoa (4 koiraa ja 4 ihmistä) per tunti.
 
 <a id="joogakurssi"></a>
-**Joogarentoutuskurssi**
+**Joogarentoutuskurssi Oma Voima**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta hoitavasta potentiaalista? Tule Joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kaikenikäisille ja -muotoisille aikuisille kehoille & persoonille, jotka etsivät rentoutta ja inspiraatiota elämään. Saat joka kerta mukaasi myös itsenäistä harjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. 
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. 
 
-Seuraava 'Joogarentoutuskurssi Syykuussa 2016! Aina maanantaisin klo. 16.45-18.15
+Seuraava 'Joogarentoutuskurssi Syykuu-Marraskuu 2016! Aina maanantaisin klo. 16.30-18.00.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
