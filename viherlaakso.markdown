@@ -229,17 +229,8 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-puolipäivänen (3h)  50 € (35 € opiskelijat, eläkeläiset, työttömät)
+puolipäivänen (3h)  55 € (40) € opiskelijat, eläkeläiset, työttömät)
 ------------- ------------------------------------------------------------------------------
-
-Koirakkojoogameditaatio ja rentoutus 
------------------------------------- 
-
-*Tilauksesta ryhmille.*
-
----------------------------
-20 € / koirakko
----------------------------
 
 
 </div>
