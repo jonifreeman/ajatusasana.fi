@@ -12,11 +12,11 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 
 Hinta:   
 
- 1 krt   75 €
+ 1 krt   90 €
 
- 2 krt  135 €
+ 2 krt  150 €
 
- 3 krt  185 €
+ 3 krt  200 €
 
 
 Kuuntelen sinua koko kehollani.
