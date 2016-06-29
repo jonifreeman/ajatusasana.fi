@@ -4,7 +4,7 @@ title: Yksityisvalmennukset
 
 **Yksityiset Ajatus & Asana kotijoogavalmennukset**
 
-Paneudumme sessioissa juuri sinun persoonallesi ja kehollesi sopivaan joogaan ja meditaatioon. Saat joka kerta mukaasi myös itsenäistäjoogaharjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Ohjauksessani yhdistyvät Käyttäytymistieteellinen ymmärrys ihmisenä olemisesta sekä terapeuttinen kokonaisvaltainen jooga.
+Paneudumme sessioissa juuri sinun persoonallesi ja kehollesi sopivaan joogaan ja meditaatioon. Saat mukaasi itsenäistä  joogaharjoittelua tukevaa materiaalia sekä kehomielen tehtäviä (ajatuksia), joiden kautta saat syvemmän yhteyden kehon, motivaation ja tunteiden välisen suhteen ymmärtämiselle. Ohjauksessani yhdistyvät Käyttäytymistieteellinen ymmärrys ihmisenä olemisesta sekä kokemuksellinen, terapeuttinen ja kokonaisvaltainen jooga & rentoutus.
 
 
 </section>
@@ -13,7 +13,7 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 
 <p class="valmennus"/>
 
-Ajatus & Asana joogavalmennuspaketit
+Ajatus & Asana kotijoogavalmennuspaketit
 ===============================
 
 Oma Ajatus & Asana I
