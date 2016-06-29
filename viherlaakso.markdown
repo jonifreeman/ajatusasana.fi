@@ -301,7 +301,7 @@ Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 
 Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat naiselle tai naiseuttaan vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
 **LA 8.10 Miehisyyden Ylistys Jooga: Maskuliinisuus, feminiisyys ja androgyynisyys miehessä**
-Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat miehelle tai miehisyyttään vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä miehisyys tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista.
+Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat miehelle tai miehisyyttään vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea miehisyyttä? Mitä miehisyys tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista.
 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
