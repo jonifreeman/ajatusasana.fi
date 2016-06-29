@@ -28,7 +28,7 @@ Personal yoga program (includind detailed instructions and pictures of asanas so
 
 280 €
 
-
+All prices include communication outside the lesson. If you have any questions etc., just write an email or give me a call. Speaking out you mind is never a waste of time.
 
 Feel free to ask more!
 
