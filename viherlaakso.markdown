@@ -106,7 +106,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogarentoutuskurssi](#joogakurssi)
+  [Joogarentoutuskurssi Oma Voima](#joogakurssi)
   <div class="highlight">Syyskuussa 2016</div>
  </div>
  </td>
