@@ -8,7 +8,7 @@ Your specific needs are the starting point. Individual coaching sessions are bas
 
 **My Yoga I**
 
-Interview & orienting yoga practice 90 min
+Conversational interview & orienting yoga practice 90 min
 
 Private yoga lesson (90 min)
 
