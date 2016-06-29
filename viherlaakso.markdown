@@ -200,8 +200,8 @@ Yksityistunnit / -ryhmät
 
 -----      ------------------------
 90 min     110 € (ryhmät)
-            75 € (yksityistunti yhdelle)
-            90 € (yksityistunti kahdelle)
+            90 € (yksityistunti yhdelle)
+            70 € (yksityistunti kahdelle)
 -----      ------------------------
 
 Sarjakortit
@@ -243,10 +243,10 @@ puolipäivänen (3h)  50 € (35 € opiskelijat, eläkeläiset, työttömät)
 Koirakkojoogameditaatio ja rentoutus 
 ------------------------------------ 
 
-*Myös tilauksesta ryhmille.*
+*Tilauksesta ryhmille.*
 
 ---------------------------
-20 € 
+20 € / koirakko
 ---------------------------
 
 
