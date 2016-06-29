@@ -20,7 +20,7 @@ Prices:
 
 3 sessions 200 €
 
-All prices include communication outside the lesson. If you have any questions etc., just write an email or give me a call. Speaking out you mind is never a waste of time.
+All prices include communication outside the lesson. If you have any questions etc., just write an email or give me a call. Speaking out your mind is never a waste of time.
 
 Curious?
 
