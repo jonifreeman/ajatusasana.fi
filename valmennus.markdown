@@ -19,7 +19,7 @@ Ajatus & Asana kotijoogavalmennuspaketit
 Oma Ajatus & Asana I
 --------------------
 
-- Alkuhaastattelu & orientoiva harjoitus 90 min
+- Keskusteleva alkuhaastattelu & orientoiva harjoitus 90 min
 - Yksityisohjausta 90 min
 - Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - 200 €
@@ -27,7 +27,7 @@ Oma Ajatus & Asana I
 Oma Ajatus & Asana II
 --------------------
 
-- Alkuhaastattelu & orientoiva harjoitus 90 min
+- Keskusteleva alkuhaastattelu & orientoiva harjoitus 90 min
 - Yksityisohjausta 2 x 90 min ajanjaksolle n. 1kk 
 - Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - 280 €
