@@ -300,7 +300,7 @@ Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 
 **LA 24.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Feminiisyys, maskuliinisuus ja androgyynisyys naisessa**
 Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat naiselle tai naiseuttaan vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
-**LA 8.10 Miehisyyden Ylistys Jooga: Maskuliinisuus, feminiisyys ja androgyynisyys miehessä**
+**LA 8.10 klo. 10.00-13.00 Miehisyyden Ylistys Jooga: Maskuliinisuus, feminiisyys ja androgyynisyys miehessä**
 Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat miehelle tai miehisyyttään vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea miehisyyttä? Mitä miehisyys tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista.
 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
