@@ -290,7 +290,7 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. 
 
-Seuraava 'Joogarentoutuskurssi Syykuu-Marraskuu 2016! Aina maanantaisin klo. 16.30-18.00.
+Seuraava 'Joogarentoutuskurssi alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.30-18.00.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
