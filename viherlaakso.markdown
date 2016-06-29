@@ -286,11 +286,11 @@ Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole k
 
 
 <a id="joogakurssi"></a>
-**Joogarentoutuskurssi Oma Voima**
+**Keskusteleva Joogarentoutuskurssi Oma Voima**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. 
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Valitsen ryhmään sopivat 4 henkilöä pienen jutustelun perusteella. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
 
-Seuraava 'Joogarentoutuskurssi alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.30-18.00.
+Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät**
