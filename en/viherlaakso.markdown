@@ -116,7 +116,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava jatkojooga](#vahvistava)
+  [Lempeän vahvistava dynaaminen jooga](#vahvistava)
  </div>
  </td>
  <td>
@@ -180,7 +180,7 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
+Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%).
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Pay2Go-henkilöstön liikuntatuella!
 
@@ -230,17 +230,8 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-puolipäivänen (3h)  50 € (35 € opiskelijat, eläkeläiset, työttömät)
+puolipäivänen (3h)  55 € (40) € opiskelijat, eläkeläiset, työttömät)
 ------------- ------------------------------------------------------------------------------
-
-Koirakkojoogameditaatio ja rentoutus 
------------------------------------- 
-
-*Tilauksesta ryhmille.*
-
----------------------------
-20 € / koirakko
----------------------------
 
 
 </div>
@@ -276,20 +267,14 @@ Tällä Lihaksistoa sekä hermostoa lempeästi vetreyttävällä ja palauttavall
 
 
 <a id="vahvistava"></a>
-**Lempeän vahvistava jatkojooga**
+**Lempeän vahvistava dynaaminen jooga**
 
-Lempeän vahvistava jatkojooga pyrkii entistäkin syvempään itsetuntemukseen ja parempaan mielenhallintaan. Tunnilla tehdään hengitysharjoituksia ja introtaan niin kehollisesti kuin mielellisestikin haastavampia asanoita paremman mielen hallinnan saavuttamiseksi. Samalla annetaan tilaa jokaisella olla rauhassa tutuissa asanoissa. Sisällytän tuntiin myös tärkeitä kehon energia-järjestelmän joogisia periaatteita (esim.bandhat ja chakrat). Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
-
-<a id="dog"></a>
-**Koirakkojoogameditaatio**
-
-Oletko halunnut kokeilla meditaatiota ja tietoista rentoutumista, mutta et ole koiraharrastuksiltasi ehtinyt? Haluaisitko löytää keinoja, joilla rauhoittaa koiraasi? Nyt on oiva mahdollisuus kokeilla kaikkea tätä yhdessä koirasi kanssa. Uskon, että ihmisen ja koiran dynaamiseen energia-suhteeseen voi vaikuttaa meditaation avulla: kun ihminen rentoutuu, koira rentoutuu-kun koira rentoutuu, ihminen rentoutuu. Kaiken touhuamisen vastapainoksi koiran hyvivoinnin kannalta on tärkeää saada stressihormonit alas. Pitkään jatkunut stressi kun voi aiheuttaa pysyviä muutoksia koiran kehossa. Tunnilla tehdään varovaisia koiravenytyksia sekä kehittämiäni hengitys-ja mielikuvaharjoituksia rauhoittavan musiikin tahdissa. Mukavaa yhdessäoloa ja tottelevaisuutta siinä sivussa. Kun ilmoittaudut,kerrothan hieman koirastasi etukäteen. Oma koirani on ollut mukana luomassa konseptia. 
-
+Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Valitsen ryhmään sopivat 4 henkilöä pienen jutustelun perusteella. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
 
 Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 

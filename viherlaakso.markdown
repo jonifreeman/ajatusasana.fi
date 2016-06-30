@@ -116,7 +116,7 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava jatkojooga](#vahvistava)
+  [Lempeän vahvistava dynaaminen jooga](#vahvistava)
  </div>
  </td>
  <td>
