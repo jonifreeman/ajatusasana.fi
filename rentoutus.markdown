@@ -10,6 +10,8 @@ Session pituus: 90 min
 
 Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>.
 
+Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
+
 Hinta:   
 
  1 krt   90 €
