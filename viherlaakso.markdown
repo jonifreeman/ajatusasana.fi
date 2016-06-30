@@ -180,7 +180,7 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10% ja konsultaatio 24%).
+Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%).
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Pay2Go-henkilöstön liikuntatuella!
 
