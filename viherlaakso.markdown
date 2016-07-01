@@ -191,7 +191,7 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassi
 
 -----     -------------------------
 90 min     25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
-           21 € (opiskelijat, eläkeläiset, työttömät, tutustumiskerta 15 €)
+           21 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 15 €)
 -----     -------------------------
 
 </div>
@@ -210,9 +210,9 @@ Sarjakortit
 
 ---------- ---------------------------------
  5 x 90 min 115 € (Voimassa 3 kk ostopäivästä)
-            95 € (opiskelijat, eläkeläiset, työttömät)
+            95 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
-            170 € (opiskelijat, eläkeläiset, työttömät)
+            170 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ---------- ---------------------------------
 
 <p>
@@ -223,14 +223,14 @@ Sarjakortit
 
 *Kaikki Viherlaakson joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
 
-*Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Kuten monet jo luonani käyneet tietävät, minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.*
+*Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Kuten useat jo luonani käyneet tietävät, minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.*
 
 
 Ajatus & Asana Miniretriitit 
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-puolipäivänen (3h)  55 € (40) € opiskelijat, eläkeläiset, työttömät)
+puolipäivänen (3h)  55 € (40) € opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ------------- ------------------------------------------------------------------------------
 
 
@@ -247,14 +247,9 @@ Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseks
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="yin"></a>
-**Yin & lempeän vahvistava jooga**
+**Syvärauhoittava & avaava jooga**
 
-Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin-tyyppisiä tuettuja jooga-liikkeitä, joissa pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
-
-<a id="rauhoittava"></a>
-**Yin**
-
-Yin jooga hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Se avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Teemme harjoituksen tuetusti, rauhallisesti ja turvallisesti. Pysymme jokaisessa asanassa 3-5 min. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy loppurentoutukseen.
+Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Pysymme jokaisessa asanassa 3-5 min. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="palauttava"></a>
 **Palauttava lempeä jooga**
