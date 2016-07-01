@@ -70,9 +70,8 @@ Viikko-ohjelma
  <td></td>
  <td>
  <div class="session">
-  **11.00 - 12.30** <br /> <!-- <img class="signup" src="/img/signup.png"></img> -->
-  [Palauttava lempeä jooga](#palauttava)
-  <div class="highlight">Kesätauolla, jatkuu taas Syyskuussa</div>
+  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Lempeän virtaava ja avaava jooga](#virtaava)
  </div>
  </td>
  <td>
@@ -129,8 +128,8 @@ Viikko-ohjelma
 <tr>
  <td>
  <div class="session">
- **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Palauttava lempeä jooga](#palauttava)
+  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Hidas lempeän vahvistava jooga](#hidas)
  </div>
  </td>
  <td>
@@ -142,13 +141,13 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **18.30-20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Yin & lempeän vahvistava jooga](#yin)
+  [Syvärauhoittava avaava jooga](#yin)
  </div>
  </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Yin jooga](#rauhoittava)
+ [Syvärauhoittava avaava jooga](#yin)
  </div>
  </td>
  <td></td>
@@ -255,6 +254,10 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 **Palauttava lempeä jooga**
 
 Tällä Lihaksistoa sekä hermostoa lempeästi vetreyttävällä ja palauttavalla tunnilla tehdään kehoa avaavia, palauttavia, joogavälineillä tuettuja joogaliikkeitä, rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+
+<a id="virtaava"></a>
+**Lempeän virtaava ja avaava jooga**
+
 
 <a id="trigger"></a>
 
