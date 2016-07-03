@@ -161,7 +161,7 @@ Viikko-ohjelma
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
-Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki viikkotunnit ovat pienryhmätunteja.
+Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki viikkotunnit ovat pienryhmätunteja. Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa tulla kyllä, mutta ykistyistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin mulle viikkotunnille.
 
 
 Tilaustunnit ja yksityisvalmennukset
@@ -221,8 +221,6 @@ Sarjakortit
 <p>
 
 *Kaikki Viherlaakson joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
-
-*Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Kuten useat jo luonani käyneet tietävät, minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.*
 
 
 Ajatus & Asana Miniretriitit 
