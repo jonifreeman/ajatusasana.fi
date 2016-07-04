@@ -270,9 +270,12 @@ Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 
 Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
 <a id="retriitti"></a>
-**Ajatus & Asana miniretriitit ja teemapäivät**
+**Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
+
+**LA 13.8 klo. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus**
+Elokuinen aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa kuuluu kaikille :)
 
 **LA 24.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Feminiisyys, maskuliinisuus ja androgyynisyys naisessa**
 Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat naiselle tai naiseuttaan vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
