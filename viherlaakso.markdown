@@ -141,13 +141,13 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **18.30-20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Syvärauhoittava avaava jooga](#yin)
+  [Syvärentouttava avaava jooga](#yin)
  </div>
  </td>
  <td>
  <div class="session">
  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Syvärauhoittava avaava jooga](#yin)
+ [Syvärentouttava avaava jooga](#yin)
  </div>
  </td>
  <td></td>
@@ -244,7 +244,7 @@ Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseks
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="yin"></a>
-**Syvärauhoittava & avaava jooga**
+**Syvärentouttava & avaava jooga**
 
 Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Pysymme jokaisessa asanassa 3-5 min. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
