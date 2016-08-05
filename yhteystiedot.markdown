@@ -30,8 +30,9 @@ Kysy CV:tä.
 
 **Viherlaakso**
 ===============
-
 Viehättävät tilat Espoon Viherlaaksossa Vanhan Turuntien varressa (Kavallinmäki 13 A, 4. kerros). Mäen päällä olevalla taloyhtiön parkkipaikalla on runsaasti ilmaista parkkitilaa iltaisin. Julkisen liikenteeen käyttäjät pääsevät Leppävaarasta busseilla 21 ja 29 ja Helsingistä bussilla 270.
+
+UUDET RAIKKAAT TOIMITILAT SYYSKUUSTA 2016 ALKAEN: Kavallinmäki 15 (3. krs. Vanhalta Turuntieltä katsottuna,  mutta sisäänkäynti Kavallinmäen puolelta, yhdet rappuset ylös ja ovesta sisään).
 
 <div class="tilat">
 <image class="side-image" src="/img/viher1.jpg"/>
