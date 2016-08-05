@@ -199,7 +199,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%).
 
-Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Pay2Go-henkilöstön liikuntatuella!
+Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Benify-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
@@ -264,7 +264,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaas
 <a id="yin"></a>
 **Syvärentouttava & avaava jooga**
 
-Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Pysymme jokaisessa asanassa 3-5 min. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="virtaava"></a>
 **Lempeän virtaava ja avaava jooga**
