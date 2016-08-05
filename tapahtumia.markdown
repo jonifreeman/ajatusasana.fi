@@ -20,7 +20,7 @@ Vierailunsa yhteydessä, Brian ja hänen vaimonsa Francoise, tarjoavat uniikin K
 
 Mahdollisuus henkilökohtaiseen tapaamiseen ja luentaan 17/18/19/20/21 Kesäkuuta 2016. Varaathan aikasi Stephanielta (0405224889) [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi). Jos englanninkielesi ei ole kovin vahva, Stephanie voi tarpeen tullen toimia kielenkääntäjänä.
 
-Lisätietoja: [www.briansnellgrove.net](http://www.briansnellgrove.net) 
+Lisätietoja: [www.briansnellgrove.net](http://www.briansnellgrove.net). PYSYTHÄN KUULOLLA: TULOSSA TYÖPAJA VUONNA 2017 YHTEISTYÖSSÄ AJATUS & ASANAN KANSSA!
 
 <p><p>
 
