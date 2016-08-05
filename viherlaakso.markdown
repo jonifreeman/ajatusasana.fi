@@ -28,7 +28,14 @@ title: Viherlaakso / Leppävaara / Espoo
  </div>
 </div>
 
+Ajatus & Asana Viherlaakson uusien toimitilojen avajaiset la 3.9 2016
+=====================================================================
+
 <div class="ale">
+Ilmoittaduthan pian, sillä paikkoja rajoitettu määrä. Katso [esite](/img/ajatusasana_uusi.jpg).
+
+Ennakkoilmoittautumiset alla olevasta viikkokalenterista tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) / 040 522 4889
+
 </div>
 
 Viikko-ohjelma
@@ -76,9 +83,15 @@ Viikko-ohjelma
  </td>
  <td>
  <div class="course">
+  **12.30 - 14.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Ajatus & Asana avajaiset 3.9.: Lempeän vahvistava dynaaminen jooga](#vahvistava)
+ </div>
+<!--
+ <div class="course">
   <img class="signup" src="/img/signup.png"></img>
   [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
  </div>
+-->
  </td>
  <td>
  <div class="course">
@@ -120,7 +133,12 @@ Viikko-ohjelma
  </td>
  <td>
  </td>
- <td></td>
+ <td>
+ <div class="course">
+  **15.00 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Ajatus & Asana avajaiset 3.9.: Syvärentouttava avaava jooga](#yin)
+ </div>
+ </td>
  <td></td>
 </tr>
 
