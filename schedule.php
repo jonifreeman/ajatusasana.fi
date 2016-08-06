@@ -38,7 +38,6 @@ header('Content-Type: text/html; charset=utf-8');
 ?>
 
 
-<div class="schedule-container">
 <table class="schedule">
 <thead>
 <tr>
@@ -63,7 +62,7 @@ header('Content-Type: text/html; charset=utf-8');
   <?php if ($group_class['start_time']): ?>
   <strong><?= $group_class['start_time'] ?> - <?= $group_class['end_time'] ?></strong> <br />
   <? endif; ?>
-  <img class="signup" src="/img/signup.png"></img>
+  <img class="signup" src="img/signup.png"></img>
   <a href="#<?= $group_class['anchor'] ?>"><?= $group_class['name'] ?></a>
  </div>
 <?php endif; ?>
@@ -75,4 +74,3 @@ header('Content-Type: text/html; charset=utf-8');
 
 </tbody>
 </table>
-</div>

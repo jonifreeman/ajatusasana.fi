@@ -2,6 +2,12 @@
 title: Viherlaakso / Leppävaara / Espoo
 ---
 
+<script type="text/javascript">
+  $.get("schedule.php", function(data) {
+    $(".schedule-container").html(data)
+  })
+</script>
+
 <div class="popup signup-popup">
 <div class="popup-content">
  <img class="close" src="/img/popup_close.png" />
@@ -42,139 +48,6 @@ Viikko-ohjelma
 ==============
 
 <div class="schedule-container">
-<table class="schedule">
-<thead>
-<tr>
- <th>Ma</th>
- <th>Ti</th>
- <th>Ke</th>
- <th>To</th>
- <th>Pe</th>
- <th>La</th>
- <th>Su</th>
-</tr>
-</thead>
-
-<tbody>
-<!-- ~8:00 -->
-<tr>
- <td></td>
- <td></td>
- <td>
- </td>
- <td></td>
- <td></td>
- <td>
- </td>
- <td></td>
-</tr>
-
-<!-- ~11:00 -->
-<tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td>
- <div class="session">
-  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän virtaava ja avaava jooga](#virtaava)
- </div>
- </td>
- <td>
- <div class="course">
-  **12.30 - 14.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana avajaiset 3.9.: Lempeän vahvistava dynaaminen jooga](#vahvistava)
- </div>
-<!--
- <div class="course">
-  <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
- </div>
--->
- </td>
- <td>
- <div class="course">
-  Teematapahtumia
- </div>
- </td>
-</tr>
-
-<!-- ~14:00 -->
-<tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td>
- </td>
- <td>
- </td>
-</tr>
-
-<!-- ~17:00 -->
-<tr>
- <td>
- <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogarentoutuskurssi Oma Voima](#joogakurssi)
-  <div class="highlight">Syyskuussa 2016</div>
- </div>
- </td>
- <td></td>
- <td>
- </td>
- <td>
- <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava dynaaminen jooga](#vahvistava)
- </div>
- </td>
- <td>
- </td>
- <td>
- <div class="course">
-  **15.00 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana avajaiset 3.9.: Syvärentouttava avaava jooga](#yin)
- </div>
- </td>
- <td></td>
-</tr>
-
-<!-- ~18:00 -->
-<tr>
- <td>
- <div class="session">
-  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava dynaaminen jooga](#vahvistava)
- </div>
- </td>
- <td>
- <div class="session">
-  **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Hidas lempeän vahvistava jooga](#hidas)
- </div>
- </td>
- <td>
- <div class="session">
-  **18.30-20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Syvärentouttava avaava jooga](#yin)
- </div>
- </td>
- <td>
- <div class="session">
- **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Syvärentouttava avaava jooga](#yin)
- </div>
- </td>
- <td></td>
- <td></td>
- <td></td>
-</tr>
-</tbody>
-
-</table>
 </div>
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)

@@ -32,7 +32,7 @@ $(function() {
 })
 
 function setupSignup() {
-  $('.schedule .signup').click(function(e) {
+  $('.schedule-container').on('click', '.signup', function(e) {
     validate()
     $('.popup').hide()
     var time = $(e.currentTarget).parent('div').find('strong').text()
