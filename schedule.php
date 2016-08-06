@@ -9,6 +9,10 @@ function query_group_classes() {
   return sql_query($sql);
 }
 
+function format_time($t) {
+  return str_replace(":", ".", substr($t, 0, 5));
+}
+
 $miniretreat = array(
   "name" => "Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa",
   "day" => "la",
@@ -60,7 +64,7 @@ header('Content-Type: text/html; charset=utf-8');
 <?php if ($group_class['day'] == $day): ?>
  <div class="<?= $group_class['session_type'] ?>">
   <?php if ($group_class['start_time']): ?>
-  <strong><?= $group_class['start_time'] ?> - <?= $group_class['end_time'] ?></strong> <br />
+  <strong><?= format_time($group_class['start_time']) ?> - <?= format_time($group_class['end_time']) ?></strong> <br />
   <? endif; ?>
   <img class="signup" src="img/signup.png"></img>
   <a href="#<?= $group_class['anchor'] ?>"><?= $group_class['name'] ?></a>
