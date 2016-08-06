@@ -49,6 +49,7 @@ create index miniretreat_index on group_class(start, is_saturday_miniretreat);
 create table if not exists cancelled_class(
   group_class_id bigint(20) NOT NULL,
   when date NOT NULL,
+  reason varchar(255) NOT NULL,
   PRIMARY KEY (when, group_class_id),
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
