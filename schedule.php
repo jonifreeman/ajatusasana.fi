@@ -30,7 +30,7 @@ $group_classes_bins = array();
 foreach ($bins as $bin) {
   $bin_array = array();
   foreach ($all_group_classes as $group_class_key => $group_class) {
-    if ($group_class['start_time_hour'] > $bin) {
+    if ($group_class['start_time_hour'] >= $bin) {
       array_push($bin_array, $group_class);
       unset($all_group_classes[$group_class_key]);
     }
