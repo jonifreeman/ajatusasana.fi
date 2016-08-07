@@ -32,6 +32,7 @@ create table if not exists auth_token(
 
 create table if not exists group_class(
   id bigint(20) NOT NULL auto_increment,
+  display_start datetime NOT NULL,
   start datetime NOT NULL,
   end datetime,
   day varchar(2) NOT NULL,

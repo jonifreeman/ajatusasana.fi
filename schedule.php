@@ -4,7 +4,7 @@ include ('common.php');
 
 function query_group_classes() {
   $sql = function($conn) {
-    return "SELECT *, HOUR(start_time) as start_time_hour, 'session' as 'session_type' FROM group_class WHERE NOW() >= start AND (NOW() < end OR end IS NULL) AND is_saturday_miniretreat is false";
+    return "SELECT *, HOUR(start_time) as start_time_hour, 'session' as 'session_type' FROM group_class WHERE NOW() >= display_start AND (NOW() < end OR end IS NULL) AND is_saturday_miniretreat is false";
   };
   return sql_query($sql);
 }
