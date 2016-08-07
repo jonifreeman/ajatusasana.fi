@@ -68,6 +68,9 @@ header('Content-Type: text/html; charset=utf-8');
   <? endif; ?>
   <img class="signup" src="img/signup.png"></img>
   <a href="#<?= $group_class['anchor'] ?>"><?= $group_class['name'] ?></a>
+  <?php if ($group_class['highlight']): ?>
+  <div class="highlight"><?= $group_class['highlight'] ?></div>
+  <? endif; ?>
  </div>
 <?php endif; ?>
 <?php endforeach; ?>

@@ -41,6 +41,7 @@ create table if not exists group_class(
   max_size int NOT NULL,
   is_saturday_miniretreat bool NOT NULL,
   anchor varchar(255),
+  highlight varchar(255),
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
 
