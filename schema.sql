@@ -48,18 +48,22 @@ create table if not exists group_class(
 
 create index miniretreat_index on group_class(start, is_saturday_miniretreat);
 
+-- TODO check indexes!
+
 create table if not exists cancelled_class(
   group_class_id bigint(20) NOT NULL,
-  when date NOT NULL,
+  when_date date NOT NULL,
   reason varchar(255) NOT NULL,
-  PRIMARY KEY (when, group_class_id),
+  PRIMARY KEY (when_date, group_class_id),
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
 
 create table if not exists regular_client(
+  id bigint(20) NOT NULL auto_increment,
   email varchar(255) NOT NULL,
   group_class_id bigint(20) NOT NULL,
-  PRIMARY KEY (email, group_class_id),
+  PRIMARY KEY (id),
+  UNIQUE KEY (email),
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
 
@@ -67,16 +71,17 @@ create table if not exists regular_client(
 create table if not exists booking(
   email varchar(255) NOT NULL,
   group_class_id bigint(20) NOT NULL,
-  when date NOT NULL,
+  when_date date NOT NULL,
   phone varchar(255),
-  PRIMARY KEY (email, group_class_id, when),
+  PRIMARY KEY (email, group_class_id, when_date),
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
 
 create table if not exists cancelled_regular(
-  email varchar(255) NOT NULL,
+  regular_client_id bigint(20) NOT NULL,
   group_class_id bigint(20) NOT NULL,
-  when date NOT NULL,
-  PRIMARY KEY (email, group_class_id, when),
+  when_date date NOT NULL,
+  PRIMARY KEY (regular_client_id, group_class_id, when_date),
+  FOREIGN KEY (regular_client_id) REFERENCES regular_client(id) ON DELETE CASCADE,
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
