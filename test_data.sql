@@ -16,3 +16,4 @@ insert into regular_client(email, group_class_id) values ('joni@example.com', 1)
 insert into regular_client(email, group_class_id) values ('joni2@example.com', 1);
 insert into cancelled_regular(regular_client_id, group_class_id, when_date) values (1, 1, '2016-08-14');
 insert into cancelled_regular(regular_client_id, group_class_id, when_date) values (2, 1, '2016-08-21');
+insert into cancelled_class values (1, '2016-08-22', 'Syysloma');

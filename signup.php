@@ -53,7 +53,7 @@ function query_group_class($id) {
 
 function query_group_class_cancellations($id) {
   $sql = function($conn) use ($id) {
-    return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between now() and now() + interval 1 month";
+    return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between now() and now() + interval 1 month)";
   };
   return sql_query($sql);
 }
@@ -79,11 +79,16 @@ function query_miniretreats() {
 function get_classes($id) {
   $group_class = query_group_class($id);
   $next_class = mysql_date(strtotime('next '.$group_class['day']));
-  // TODO remove cancelled classes
+  $cancellations = query_group_class_cancellations($id);
   $dates = array($next_class, mysql_date(strtotime($next_class.' + 1 week')), mysql_date(strtotime($next_class.' + 2 weeks')), mysql_date(strtotime($next_class.' + 3 weeks')));
-  $availability = array_map(function($date) use($id, $group_class) {
-      $bookings = count_bookings($id, $date);
-      return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings));
+  $availability = array_map(function($date) use($id, $group_class, $cancellations) {
+      $cancelled = array_filter($cancellations, function($cancellation) use($date) { return $cancellation['when_date'] == $date; });
+      if ($cancelled) {
+        return array('date' => $date, 'cancelled' => true, 'reason' => $cancelled[0]['reason']);
+      } else {
+        $bookings = count_bookings($id, $date);
+        return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings));
+      }
     }, $dates);
   $result_json = json_encode($availability);
   echo $result_json;
