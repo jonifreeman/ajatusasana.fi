@@ -35,7 +35,7 @@ create table if not exists group_class(
   display_start datetime NOT NULL,
   start datetime NOT NULL,
   end datetime,
-  day varchar(2) NOT NULL,
+  day varchar(3) NOT NULL,
   start_time time NOT NULL,
   end_time time NOT NULL,
   name varchar(255) NOT NULL,

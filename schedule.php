@@ -15,13 +15,13 @@ function format_time($t) {
 
 $miniretreat = array(
   "name" => "Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa",
-  "day" => "la",
+  "day" => "sat",
   "anchor" => "retriitti",
   "start_time_hour" => 11,
   "session_type" => "course"
 );
 
-$weekdays = array('ma', 'ti', 'ke', 'to', 'pe', 'la', 'su');
+$weekdays = array('mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun');
 // create array of arrays binned by start time: 8, 11, 14, 18
 $bins = array(18, 14, 11, 8);
 $all_group_classes = query_group_classes();

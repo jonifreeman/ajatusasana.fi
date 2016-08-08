@@ -48,27 +48,27 @@ function query_group_class($id) {
   $sql = function($conn) use ($id) {
     return "SELECT * FROM group_class WHERE id = $id";
   };
-  return sql($sql);
+  return sql_query_one($sql);
 }
 
 function query_group_class_cancellations($id) {
   $sql = function($conn) use ($id) {
     return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between now() and now() + interval 1 month";
   };
-  return sql($sql);
+  return sql_query($sql);
 }
 
 function count_bookings($id, $when) {
-  $count_sql = function($conn) use ($id) {
+  $count_sql = function($conn) use ($id, $when) {
     $w = mysqli_real_escape_string($conn, $when);
-    return "SELECT count(1) FROM booking WHERE group_class_id = $id and when_date = $w";
+    return "SELECT count(1) as count FROM booking WHERE group_class_id = $id and when_date = '$w'";
   };
-  $count_regulars_sql = function($conn) use ($id) {
+  $count_regulars_sql = function($conn) use ($id, $when) {
     $w = mysqli_real_escape_string($conn, $when);
-    return "SELECT count(1) FROM regular_client AS rc LEFT JOIN cancelled_regular AS c ON (rc.id = c.regular_client_id and rc.group_class_id = c.group_class_id and c.when_date = $w) WHERE rc.group_class_id = $id and c.regular_client_id IS NULL";
+    return "SELECT count(1) as count FROM regular_client AS rc LEFT JOIN cancelled_regular AS c ON (rc.id = c.regular_client_id and rc.group_class_id = c.group_class_id and c.when_date = '$w') WHERE rc.group_class_id = $id and c.regular_client_id IS NULL";
   };
-  $bookings = sql($count_sql);
-  $regulars = sql($count_regulars_sql);
+  $bookings = sql_query_one($count_sql)['count'];
+  $regulars = sql_query_one($count_regulars_sql)['count'];
   return $bookings + $regulars;
 }
 
@@ -77,8 +77,19 @@ function query_miniretreats() {
 }
 
 function get_classes($id) {
+  $group_class = query_group_class($id);
+  $next_class = mysql_date(strtotime('next '.$group_class['day']));
+  // TODO remove cancelled classes
+  $dates = array($next_class, mysql_date(strtotime($next_class.' + 1 week')), mysql_date(strtotime($next_class.' + 2 weeks')), mysql_date(strtotime($next_class.' + 3 weeks')));
+  $availability = array_map(function($date) use($id, $group_class) {
+      $bookings = count_bookings($id, $date);
+      return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings));
+    }, $dates);
+  $result_json = json_encode($availability);
+  echo $result_json;
 }
 
+header('Content-Type: application/json');
 $method = $_SERVER['REQUEST_METHOD'];
 
 if ($method == 'POST') {

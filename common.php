@@ -30,6 +30,15 @@ function sql_query($sql) {
   return $rows;
 }
 
+function sql_query_one($sql) {
+  $res = sql_query($sql);
+  if (count($res) != 1) {
+    internal_server_error("SQL error");
+  }
+
+  return $res[0];
+}
+
 function sql_set($sql) {
   global $db_server, $db_database, $db_username, $db_password;
   
@@ -73,6 +82,10 @@ function human_date($date) {
 
 function human_time($date) {
   return $date->format('H:i');
+}
+
+function mysql_date($date) {
+  return date("Y-m-d", $date);
 }
 
 function send_mail_to_client($to, $subject, $plain_text, $template_file, $variables) {
