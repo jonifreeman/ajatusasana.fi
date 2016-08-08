@@ -500,3 +500,17 @@ section {
 .ajanvaraus-link a {
   color: #3a87ad;  
 }
+
+.available-class.disabled label {
+  text-decoration: line-through;
+}
+
+.cancellation-reason {
+  margin-left: 10px;
+}
+
+.booking-attention {
+  margin-left: 10px;
+  font-size: 12px;
+  color: red;  
+}

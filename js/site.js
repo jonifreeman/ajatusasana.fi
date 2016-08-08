@@ -33,15 +33,41 @@ $(function() {
 
 function setupSignup() {
   $('.schedule-container').on('click', '.signup', function(e) {
-    validate()
-    $('.popup').hide()
-    var time = $(e.currentTarget).parent('div').find('strong').text()
-    var course = $(e.currentTarget).next().text()
-    $('.signup-popup .course').text(time + " " + course)
-    $('.signup-popup').show()
-    $('.signup-popup').find('.main-content').show()
-    $('.signup-popup').find('.error').hide()
-    $('.signup-popup').find('.success').hide()
+    var id = $(e.currentTarget).attr('data-id')
+    $.get('signup.php?course=' + id, function(classes) {
+      validate()
+      $('.popup').hide()
+      var time = $(e.currentTarget).parent('div').find('strong').text()
+      var course = $(e.currentTarget).next().text()
+      $('.signup-popup .course').text(time + " " + course)
+      $('.signup-popup').show()
+      $('.signup-popup').find('.main-content').show()
+      $('.signup-popup').find('.error').hide()
+      $('.signup-popup').find('.success').hide()
+
+      var classHtml = $('.signup-popup').find('.classes')
+      classHtml.html('')
+      for (var i = 0; i < classes.length; ++i) {
+        var group_class = classes[i]
+        console.log(group_class)
+        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + group_class.date + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span></div>')
+        if (group_class.cancelled) {
+          $row.addClass("disabled")
+          $row.find('input').attr("disabled", true)
+          $row.find('.cancellation-reason').text(group_class.reason)
+          $row.find('.booking-attention').remove()
+        }
+        else if (group_class.available < 1) {
+          $row.addClass("disabled")
+          $row.find('input').attr("disabled", true)
+          $row.find('.booking-attention').text('Täynnä')
+        }
+        else if (group_class.available < 3) {
+          $row.find('.booking-attention').text('Paikkoja jäljellä: ' + group_class.available)
+        }
+        classHtml.append($row)
+      }
+    })
   })
 
   $('.schedule .cancelled').click(function(e) {

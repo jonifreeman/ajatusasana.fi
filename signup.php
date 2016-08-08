@@ -80,6 +80,7 @@ function get_classes($id) {
   $group_class = query_group_class($id);
   $next_class = mysql_date(strtotime('next '.$group_class['day']));
   $cancellations = query_group_class_cancellations($id);
+  // TODO, only until end date
   $dates = array($next_class, mysql_date(strtotime($next_class.' + 1 week')), mysql_date(strtotime($next_class.' + 2 weeks')), mysql_date(strtotime($next_class.' + 3 weeks')));
   $availability = array_map(function($date) use($id, $group_class, $cancellations) {
       $cancelled = array_filter($cancellations, function($cancellation) use($date) { return $cancellation['when_date'] == $date; });
