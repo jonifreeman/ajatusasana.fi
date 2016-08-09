@@ -292,14 +292,10 @@ Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 20.8 klo. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus**
+**LA 20.8 klo. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
 Elokuinen aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa kuuluu kaikille :)
 
-**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Feminiisyys, maskuliinisuus ja androgyynisyys naisessa**
-Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat naiselle tai naiseuttaan vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
-
-**LA 8.10 klo. 10.00-13.00 Miehisyyden Ylistys Jooga: Maskuliinisuus, feminiisyys ja androgyynisyys miehessä**
-Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat miehelle tai miehisyyttään vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea miehisyyttä? Mitä miehisyys tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista.
+**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä. Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
