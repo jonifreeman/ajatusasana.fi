@@ -42,7 +42,6 @@ function setupSignup() {
   $('.schedule-container').on('click', '.signup', function(e) {
     var id = $(e.currentTarget).attr('data-id')
     $.get('signup.php?course=' + id, function(classes) {
-      validate()
       $('.popup').hide()
       var time = $(e.currentTarget).parent('div').find('strong').text()
       var course = $(e.currentTarget).next().text()
@@ -77,6 +76,7 @@ function setupSignup() {
         }
         classHtml.append($row)
       }
+      validate()
     })
   })
 
@@ -95,7 +95,7 @@ function setupSignup() {
   }
 
   function validate() {
-    if (name().length == 0 || (email().length == 0 && phone().length == 0) || dates().length == 0) {
+    if (name().length == 0 || email().length == 0 || dates().length == 0) {
       $('.signup-popup .signup-button').attr('disabled', 'disabled')
     } else {
       $('.signup-popup .signup-button').removeAttr('disabled')
