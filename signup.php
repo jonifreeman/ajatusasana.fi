@@ -2,21 +2,52 @@
 
 include ('common.php');
 
+function query_group_class($id) {
+  $sql = function($conn) use ($id) {
+    return "SELECT * FROM group_class WHERE id = $id";
+  };
+  return sql_query_one($sql);
+}
+
+function addBooking($email, $group_class_id, $date, $phone) {
+  $sql = function($conn) use ($email, $group_class_id, $date, $phone) {
+    $e = mysqli_real_escape_string($conn, $email);
+    $d = mysqli_real_escape_string($conn, $date);
+    $p = mysqli_real_escape_string($conn, $phone);
+    return "INSERT INTO booking(email, group_class_id, when_date, phone) VALUES ('$e', $group_class_id, '$d', '$p') ON DUPLICATE KEY UPDATE email='$e'";
+  };
+  sql_set($sql);
+}
+
 function signup() {
-  $to      = 'stephanie@ajatusasana.fi';
-  $course  = $_POST['course'];
-  $subject = 'Ilmoittautuminen: ' . $course;
+  $id = $_POST['course'];
+  $dates = $_POST['dates'];
+  $to = 'stephanie@ajatusasana.fi';
   $name = $_POST['name'];
   $email = $_POST['email'];
   $phone = $_POST['phone'];
-  $message = 'Kurssi: ' . $course . "\r\n\r\nNimi: " . $name . "\r\n\r\nEmail: " . $email . "\r\n\r\nPuh: " . $phone;
+
+  $group_class = query_group_class($id);
+  $subject = 'Ilmoittautuminen: ' . $group_class['name'];
+  
+  $datesArray = explode(",", $dates);
+  // TODO validate
+  foreach ($datesArray as $date) {
+    addBooking($email, $group_class['id'], $date, $phone);
+  }
+
+  // TODO response JSON
+  echo '{}';
+
+  $message = 'Kurssi: ' . $group_class['name'] . "\r\n\r\nNimi: " . $name . "\r\n\r\nEmail: " . $email . "\r\n\r\nPuh: " . $phone;
   $headers = 'From: webmaster@ajatusasana.fi' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-  mail($to, $subject, $message, $headers);
+  // TODO enable mails
+  //mail($to, $subject, $message, $headers);
 
   if (isset($email)) {
-    $variables = array("course" => $course);
+    $variables = array("course" => $group_class['name']);
     $html = file_get_contents("mail/kiitos_ilmoittautuminen.html");
 
     foreach($variables as $key => $value) {
@@ -34,21 +65,14 @@ function signup() {
     $message .= "\r\n\r\n--" . $boundary . "\r\n";
     $message .= "Content-type: text/plain;charset=utf-8\r\n\r\n";
 
-    $message .= "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$course."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi";
+    $message .= "Kiitos ilmoittautumisesta!\r\n\r\nTervetuloa tunnille: ".$group_class['name']."\r\n\r\nAjatus & Asana\r\nhttp://www.ajatusasana.fi";
     $message .= "\r\n\r\n--" . $boundary . "\r\n";
     $message .= "Content-type: text/html;charset=utf-8\r\n\r\n";
 
     $message .= $html;
 
-    mail('', 'Ajatus & Asana, varaus', $message, $headers);
+    //mail('', 'Ajatus & Asana, varaus', $message, $headers);
   }
-}
-
-function query_group_class($id) {
-  $sql = function($conn) use ($id) {
-    return "SELECT * FROM group_class WHERE id = $id";
-  };
-  return sql_query_one($sql);
 }
 
 function query_group_class_cancellations($id) {

@@ -14,6 +14,7 @@ title: Viherlaakso / Leppävaara / Espoo
  <h2>Ilmoittautuminen</h2>
  <div class="course"></div>
  <div class="main-content">
+  <input type="hidden" class="course-id" name="course-id" value="" />
   <div class="contact-info">Nimi: </div><input type="text" name="name" class="name" />
   <div class="contact-info">Sähköposti: </div><input type="text" name="email" class="email" />
   <div class="contact-info">Puhelin: </div><input type="text" name="phone" class="phone" />

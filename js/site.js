@@ -47,6 +47,7 @@ function setupSignup() {
       var time = $(e.currentTarget).parent('div').find('strong').text()
       var course = $(e.currentTarget).next().text()
       $('.signup-popup .course').text(time + " " + course)
+      $('.signup-popup .course-id').val(id)
       $('.signup-popup').show()
       $('.signup-popup').find('.main-content').show()
       $('.signup-popup').find('.error').hide()
@@ -87,9 +88,14 @@ function setupSignup() {
   function name() { return $('.signup-popup .name').val() }
   function email() { return $('.signup-popup .email').val() }
   function phone() { return $('.signup-popup .phone').val() }
+  function dates() {
+    return $('.signup-popup .available-class input:checked').map(function() {
+      return $(this).val();
+    }).get()
+  }
 
   function validate() {
-    if (name().length == 0 || (email().length == 0 && phone().length == 0) || $('.signup-popup .available-class input:checked').length == 0) {
+    if (name().length == 0 || (email().length == 0 && phone().length == 0) || dates().length == 0) {
       $('.signup-popup .signup-button').attr('disabled', 'disabled')
     } else {
       $('.signup-popup .signup-button').removeAttr('disabled')
@@ -116,10 +122,11 @@ function setupSignup() {
 
   $('.signup-popup .signup-button').click(function(e) {
     data = {
-      course:  $('.signup-popup .course').text(),
+      course:  parseInt($('.signup-popup .course-id').val()),
       name:    name(),
       email:   email(),
-      phone:   phone()
+      phone:   phone(),
+      dates:   dates().join(',')
     }
     $.post("signup.php", data, function() {
       $('.signup-popup').find('.main-content').hide()
