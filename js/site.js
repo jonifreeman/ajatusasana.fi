@@ -31,6 +31,13 @@ $(function() {
   });
 })
 
+function formatDate(date) {
+  var parts = date.split('-')
+  var month = parts[1]
+  var day = parts[2]
+  return day + '.' + month
+}
+
 function setupSignup() {
   $('.schedule-container').on('click', '.signup', function(e) {
     var id = $(e.currentTarget).attr('data-id')
@@ -50,7 +57,7 @@ function setupSignup() {
       for (var i = 0; i < classes.length; ++i) {
         var group_class = classes[i]
         console.log(group_class)
-        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + group_class.date + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span></div>')
+        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + formatDate(group_class.date) + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span></div>')
         if (group_class.cancelled) {
           $row.addClass("disabled")
           $row.find('input').attr("disabled", true)
