@@ -17,6 +17,7 @@ title: Viherlaakso / Leppävaara / Espoo
   <div class="contact-info">Nimi: </div><input type="text" name="name" class="name" />
   <div class="contact-info">Sähköposti: </div><input type="text" name="email" class="email" />
   <div class="contact-info">Puhelin: </div><input type="text" name="phone" class="phone" />
+  <div class="class-info">Voit ilmoittautua kerralla useamman viikon tunneille:</div>
   <div class="classes"></div>
   <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
   <input class="signup-button" type="button" value="Ilmoittaudu" />
