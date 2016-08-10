@@ -56,7 +56,6 @@ function setupSignup() {
       classHtml.html('')
       for (var i = 0; i < classes.length; ++i) {
         var group_class = classes[i]
-        console.log(group_class)
         var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + formatDate(group_class.date) + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span></div>')
         if (group_class.cancelled) {
           $row.addClass("disabled")
@@ -71,6 +70,9 @@ function setupSignup() {
         }
         else if (group_class.available < 3) {
           $row.find('.booking-attention').text('Paikkoja jäljellä: ' + group_class.available)
+        }
+        if (! $row.hasClass('disabled') && i == 0) {
+          $row.find('input').prop('checked', true)
         }
         classHtml.append($row)
       }
@@ -87,7 +89,7 @@ function setupSignup() {
   function phone() { return $('.signup-popup .phone').val() }
 
   function validate() {
-    if (name().length == 0 || (email().length == 0 && phone().length == 0)) {
+    if (name().length == 0 || (email().length == 0 && phone().length == 0) || $('.signup-popup .available-class input:checked').length == 0) {
       $('.signup-popup .signup-button').attr('disabled', 'disabled')
     } else {
       $('.signup-popup .signup-button').removeAttr('disabled')
@@ -108,7 +110,7 @@ function setupSignup() {
     }
   }
 
-  $('.signup-popup input').bind("keyup blur", function(event) {
+  $('.signup-popup').on("keyup blur change", "input", function(event) {
     validate()
   })
 
