@@ -14,6 +14,7 @@ function format_time($t) {
 }
 
 $miniretreat = array(
+  "id" => -1,
   "name" => "Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa",
   "day" => "sat",
   "anchor" => "retriitti",

@@ -56,7 +56,7 @@ function setupSignup() {
       classHtml.html('')
       for (var i = 0; i < classes.length; ++i) {
         var group_class = classes[i]
-        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + formatDate(group_class.date) + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span></div>')
+        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + formatDate(group_class.date) + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span><span class="date-info">' + (group_class.info || '') + '</span></div>')
         if (group_class.cancelled) {
           $row.addClass("disabled")
           $row.find('input').attr("disabled", true)

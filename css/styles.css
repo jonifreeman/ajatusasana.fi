@@ -421,6 +421,11 @@ blockquote cite:before {
   margin-top: 10px;
 }
 
+.signup-popup .date-info {
+  font-weight: bold;
+  font-style: italic;
+}
+
 .signup-popup-ok {
   font-weight: bold;
   font-size: 20px;
@@ -503,6 +508,10 @@ section {
 
 .ajanvaraus-link a {
   color: #3a87ad;  
+}
+
+.available-class {
+  padding-bottom: 5px;
 }
 
 .available-class.disabled label {

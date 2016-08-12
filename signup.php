@@ -9,6 +9,13 @@ function query_group_class($id) {
   return sql_query_one($sql);
 }
 
+function query_miniretreats() {
+  $sql = function($conn) use ($id) {
+    return "SELECT * FROM group_class WHERE is_saturday_miniretreat IS true and start>now()";
+  };
+  return sql_query($sql);
+}
+
 function addBooking($email, $group_class_id, $date, $phone) {
   $sql = function($conn) use ($email, $group_class_id, $date, $phone) {
     $e = mysqli_real_escape_string($conn, $email);
@@ -96,8 +103,19 @@ function count_bookings($id, $when) {
   return $bookings + $regulars;
 }
 
-function query_miniretreats() {
-  // TODO
+function get_miniretreats() {
+  $miniretreats = query_miniretreats();
+  $availability = array();
+  // TODO add availability info
+  foreach ($miniretreats as $miniretreat) {
+    $data = array(
+      "date" => date('Y-m-d', strtotime($miniretreat['start'])),
+      "info" => $miniretreat['name']
+    );
+    array_push($availability, $data);
+  }
+  $result_json = json_encode($availability);
+  echo $result_json;
 }
 
 function get_classes($id) {
@@ -106,7 +124,7 @@ function get_classes($id) {
   $cancellations = query_group_class_cancellations($id);
   $dates = array($next_class);
   $end_time = $group_class['end'] ? strtotime($group_class['end']) : PHP_INT_MAX;
-  for ($i = 1; $i <= 4; $i++) {
+  for ($i = 1; $i <= 3; $i++) {
     $next_date = strtotime($next_class.' + '.$i.' week');
     if ($next_date <= $end_time) {
       array_push($dates, mysql_date($next_date));
@@ -132,7 +150,11 @@ if ($method == 'POST') {
   signup();
 } else if ($method == 'GET') {
   $id = $_GET['course'];
-  get_classes($id);
+  if ($id == '-1') {
+    get_miniretreats();
+  } else {
+    get_classes($id);
+  }
 }
 
 ?>
