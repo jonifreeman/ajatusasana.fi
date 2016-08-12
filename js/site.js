@@ -75,6 +75,14 @@ function setupSignup() {
           $row.find('input').prop('checked', true)
         }
         classHtml.append($row)
+        if (group_class.is_course) {
+          if (! $row.hasClass('disabled')) {
+            $row.find('input').prop('checked', true)
+          }
+          $row.find('label').hide()
+          $('.signup-popup .class-info').hide()
+          break;
+        }
       }
       validate()
     })

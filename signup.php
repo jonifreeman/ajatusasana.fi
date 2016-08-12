@@ -139,7 +139,7 @@ function get_miniretreats() {
 function get_classes($id) {
   $group_class = query_group_class($id);
   $now = time();
-  $start_date = $now > strtotime($group_class['start']) ? $now : strtotime($group_class['start']);
+  $start_date = ($now > strtotime($group_class['start']) && !$group_class['is_course']) ? $now : strtotime($group_class['start']);
   $next_class = mysql_date(strtotime('next '.$group_class['day'], $start_date));
   $cancellations = query_group_class_cancellations($id);
   $dates = array($next_class);
@@ -156,7 +156,7 @@ function get_classes($id) {
         return array('date' => $date, 'cancelled' => true, 'reason' => $cancelled[0]['reason']);
       } else {
         $bookings = count_bookings($id, $date);
-        return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings));
+        return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings), 'is_course' => ($group_class['is_course'] == 0x01));
       }
     }, $dates);
   $result_json = json_encode($availability);
