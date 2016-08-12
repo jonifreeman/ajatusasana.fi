@@ -16,6 +16,14 @@ function query_miniretreats() {
   return sql_query($sql);
 }
 
+function query_miniretreat($date) {
+  $sql = function($conn) use ($date) {
+    $d = mysqli_real_escape_string($conn, $date);
+    return "SELECT id FROM group_class WHERE is_saturday_miniretreat IS true and date(start)='$d'";
+  };
+  return sql_query_one($sql)['id'];
+}
+
 function addBooking($email, $group_class_id, $date, $phone) {
   $sql = function($conn) use ($email, $group_class_id, $date, $phone) {
     $e = mysqli_real_escape_string($conn, $email);
@@ -27,6 +35,8 @@ function addBooking($email, $group_class_id, $date, $phone) {
 }
 
 function signup() {
+  global $miniretreat;
+  
   $id = $_POST['course'];
   $dates = $_POST['dates'];
   $to = 'stephanie@ajatusasana.fi';
@@ -34,13 +44,19 @@ function signup() {
   $email = $_POST['email'];
   $phone = $_POST['phone'];
 
-  $group_class = query_group_class($id);
+  $group_class = $id == '-1' ? $miniretreat : query_group_class($id);
   $subject = 'Ilmoittautuminen: ' . $group_class['name'];
   
   $datesArray = explode(",", $dates);
   // TODO validate
+  $group_class_id = $group_class['id'];
   foreach ($datesArray as $date) {
-    addBooking($email, $group_class['id'], $date, $phone);
+    if ($group_class_id == -1) {
+      $class_id = query_miniretreat($date);
+      addBooking($email, $class_id, $date, $phone);
+    } else {
+      addBooking($email, $group_class_id, $date, $phone);
+    }
   }
 
   // TODO response JSON with validation info

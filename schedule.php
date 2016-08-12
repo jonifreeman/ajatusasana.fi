@@ -13,15 +13,6 @@ function format_time($t) {
   return str_replace(":", ".", substr($t, 0, 5));
 }
 
-$miniretreat = array(
-  "id" => -1,
-  "name" => "Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa",
-  "day" => "sat",
-  "anchor" => "retriitti",
-  "start_time_hour" => 11,
-  "session_type" => "course"
-);
-
 $weekdays = array('mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun');
 // create array of arrays binned by start time: 8, 11, 14, 18
 $bins = array(18, 14, 11, 8);

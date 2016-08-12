@@ -119,5 +119,13 @@ function send_mail_to_aa($subject, $message) {
   mail('stephanie@ajatusasana.fi', $subject, $message, 'From: webmaster@ajatusasana.fi');
 }
 
+$miniretreat = array(
+  "id" => -1,
+  "name" => "Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa",
+  "day" => "sat",
+  "anchor" => "retriitti",
+  "start_time_hour" => 11,
+  "session_type" => "course"
+);
 
 ?>
