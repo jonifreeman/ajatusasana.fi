@@ -49,6 +49,7 @@ function setupSignup() {
       $('.signup-popup .course-id').val(id)
       $('.signup-popup').show()
       $('.signup-popup').find('.main-content').show()
+      $('.signup-popup .class-info').show()
       $('.signup-popup').find('.error').hide()
       $('.signup-popup').find('.success').hide()
 
