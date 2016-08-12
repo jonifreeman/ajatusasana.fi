@@ -122,11 +122,13 @@ function count_bookings($id, $when) {
 function get_miniretreats() {
   $miniretreats = query_miniretreats();
   $availability = array();
-  // TODO add availability info
   foreach ($miniretreats as $miniretreat) {
+    $date = date('Y-m-d', strtotime($miniretreat['start']));
+    $bookings = count_bookings($miniretreat['id'], $date);
     $data = array(
-      "date" => date('Y-m-d', strtotime($miniretreat['start'])),
-      "info" => $miniretreat['name']
+      'date' => $date,
+      'info' => $miniretreat['name'],
+      'available' => $miniretreat['max_size'] - $bookings
     );
     array_push($availability, $data);
   }
