@@ -36,7 +36,7 @@ function signup() {
     addBooking($email, $group_class['id'], $date, $phone);
   }
 
-  // TODO response JSON
+  // TODO response JSON with validation info
   echo '{}';
 
   $message = 'Kurssi: ' . $group_class['name'] . "\r\n\r\nNimi: " . $name . "\r\n\r\nEmail: " . $email . "\r\n\r\nPuh: " . $phone;
@@ -102,11 +102,16 @@ function query_miniretreats() {
 
 function get_classes($id) {
   $group_class = query_group_class($id);
-  $next_class = mysql_date(strtotime('next '.$group_class['day']));
+  $next_class = mysql_date(strtotime('next '.$group_class['day'], strtotime($group_class['start'])));
   $cancellations = query_group_class_cancellations($id);
-  // TODO, start from start date
-  // TODO, only until end date
-  $dates = array($next_class, mysql_date(strtotime($next_class.' + 1 week')), mysql_date(strtotime($next_class.' + 2 weeks')), mysql_date(strtotime($next_class.' + 3 weeks')));
+  $dates = array($next_class);
+  $end_time = $group_class['end'] ? strtotime($group_class['end']) : PHP_INT_MAX;
+  for ($i = 1; $i <= 4; $i++) {
+    $next_date = strtotime($next_class.' + '.$i.' week');
+    if ($next_date <= $end_time) {
+      array_push($dates, mysql_date($next_date));
+    }
+  }
   $availability = array_map(function($date) use($id, $group_class, $cancellations) {
       $cancelled = array_filter($cancellations, function($cancellation) use($date) { return $cancellation['when_date'] == $date; });
       if ($cancelled) {
