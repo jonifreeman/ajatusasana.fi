@@ -1,4 +1,4 @@
-insert into group_class (display_start, start, day, start_time, end_time, name, max_size, is_saturday_miniretreat, anchor, highlight) values (now(), now(), 'mon', '16:45', '18:15', 'Joogarentoutuskurssi Oma Voima', 7, false, 'joogakurssi', 'Syyskuussa 2016');
+insert into group_class (display_start, start, day, start_time, end_time, name, max_size, is_saturday_miniretreat, is_course, anchor, highlight) values (now(), now(), 'mon', '16:45', '18:15', 'Joogarentoutuskurssi Oma Voima', 7, false, true, 'joogakurssi', 'Syyskuussa 2016');
 
 insert into group_class (display_start, start, day, start_time, end_time, name, max_size, is_saturday_miniretreat, anchor) values (now(), now(), 'mon', '18:30', '20:00', 'Lempeän vahvistava dynaaminen jooga', 7, false, 'vahvistava');
 

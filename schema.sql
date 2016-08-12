@@ -41,6 +41,7 @@ create table if not exists group_class(
   name varchar(255) NOT NULL,
   max_size int NOT NULL,
   is_saturday_miniretreat bool NOT NULL,
+  is_course bool NOT NULL,
   anchor varchar(255),
   highlight varchar(255),
   PRIMARY KEY (id)
