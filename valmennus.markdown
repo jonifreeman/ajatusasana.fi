@@ -34,7 +34,7 @@ Minun Ajatus & Asana II
 - Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
 - 280 €
 
-Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
+Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
 
 **Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
 
