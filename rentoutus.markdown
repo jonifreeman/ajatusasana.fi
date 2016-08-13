@@ -23,7 +23,7 @@ Hinta:
 
 Kuuntelen sinua koko kehollani!
 
-Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
+Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
 
 Kysy rohkasti lisää!
 
