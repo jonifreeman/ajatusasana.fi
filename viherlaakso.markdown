@@ -179,7 +179,7 @@ Viikko-ohjelma
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
-Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki viikkotunnit ovat pienryhmätunteja. Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille.
+Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Tässä tapauksessa tulee sinun ainoastaan ilmoittaa kun et pääse, kuitenkin viimeistään klo. 12.00 samana päivänä. Peruttamattomasta tunnista veloitetaan kertakäyntimaksu. Kaikki viikkotunnit ovat pienryhmätunteja (max 6 osallistujaa). Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille. 
 
 
 Tilaustunnit ja yksityisvalmennukset
