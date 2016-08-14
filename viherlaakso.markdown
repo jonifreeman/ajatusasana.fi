@@ -179,7 +179,7 @@ Viikko-ohjelma
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
-Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Tässä tapauksessa tulee sinun ainoastaan ilmoittaa kun et pääse, kuitenkin viimeistään klo. 12.00 samana päivänä. Peruttamattomasta tunnista veloitetaan kertakäyntimaksu. Kaikki viikkotunnit ovat pienryhmätunteja (max 6 osallistujaa). Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille. 
+Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Tässä tapauksessa tulee sinun ainoastaan ilmoittaa kun et pääse, kuitenkin viimeistään klo. 12.00 samana päivänä. Peruttamattomasta tunnista veloitetaan kertakäyntimaksu. Kaikki viikkotunnit ovat pienryhmätunteja (max 6 osallistujaa). Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille. 
 
 
 Tilaustunnit ja yksityisvalmennukset
@@ -238,9 +238,6 @@ Sarjakortit
 
 <p>
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
-
-
 Ajatus & Asana Miniretriitit 
 ----------------------------
 
@@ -292,12 +289,13 @@ Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 20.8 klo. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
-Elokuinen aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa kuuluu kaikille :)
-
-**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä. Miten jooga ja somaattiset  meditaatioharjoitukset** voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
+**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
+Meissä kaikissa asuun monta puolta: feminiini, maskuliini ja androgyyni. Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
+
+**Marraskuussa, ajankohta ilmoitetaan myöhemmin. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja minä kuuluu kaikille :)
 
 
