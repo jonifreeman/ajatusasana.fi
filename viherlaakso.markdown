@@ -263,10 +263,6 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaas
 
 Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
-<a id="virtaava"></a>
-**Lempeän virtaava ja avaava jooga**
-Tällä kehoa elvyttävällä tunnilla tehdään lihaksistoa sekä hermostoa vetreyttiä ja avaavia lempeän virtaavia joogaliikkeitä ja hengitysharjoituksia rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy loppurentoutukseen.
-
 <a id="trigger"></a>
 
 <a id="alkeet"></a>
@@ -281,6 +277,7 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 <a id="teema"></a>
 **Kohti viikonloppua-teemajoogatunti**
 
+Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan aina viikon alussa. Esim. Vahva ja eloisa rintaranka ja sydänkeskus; juurevat jalat & turvattu takamaus; pitkä ja hengittävä selkä; Yoga Nidra rentoutus jne...
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima**
