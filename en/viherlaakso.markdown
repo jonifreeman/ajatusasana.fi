@@ -76,10 +76,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="session">
-  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän virtaava ja avaava jooga](#virtaava)
- </div>
  </td>
  <td>
  <div class="course">
@@ -132,6 +128,10 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
+ <div class="session">
+  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Kohti viikonloppua-teemajoogatunti](#teema)
+ </div>
  </td>
  <td>
  <div class="course">
@@ -179,7 +179,7 @@ Viikko-ohjelma
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
 
-Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki viikkotunnit ovat pienryhmätunteja. Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille.
+Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Tässä tapauksessa tulee sinun ainoastaan ilmoittaa kun et pääse, kuitenkin viimeistään klo. 12.00 samana päivänä. Peruttamattomasta tunnista veloitetaan kertakäyntimaksu. Kaikki viikkotunnit ovat pienryhmätunteja (max 6 osallistujaa). Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille. 
 
 
 Tilaustunnit ja yksityisvalmennukset
@@ -199,7 +199,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%).
 
-Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Pay2Go-henkilöstön liikuntatuella!
+Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Benify-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
@@ -238,9 +238,6 @@ Sarjakortit
 
 <p>
 
-*Kaikki Viherlaakson joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden.*
-
-
 Ajatus & Asana Miniretriitit 
 ----------------------------
 
@@ -264,7 +261,7 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaas
 <a id="yin"></a>
 **Syvärentouttava & avaava jooga**
 
-Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Pysymme jokaisessa asanassa 3-5 min. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="virtaava"></a>
 **Lempeän virtaava ja avaava jooga**
@@ -280,6 +277,11 @@ Tällä kehoa elvyttävällä tunnilla tehdään lihaksistoa sekä hermostoa vet
 
 Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
 
+
+<a id="teema"></a>
+**Kohti viikonloppua-teemajoogatunti**
+
+
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima**
 
@@ -292,16 +294,13 @@ Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 20.8 klo. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus**
-Elokuinen aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa kuuluu kaikille :)
-
-**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Feminiisyys, maskuliinisuus ja androgyynisyys naisessa**
-Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat naiselle tai naiseuttaan vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
-
-**LA 8.10 klo. 10.00-13.00 Miehisyyden Ylistys Jooga: Maskuliinisuus, feminiisyys ja androgyynisyys miehessä**
-Meissä kaikissa asuu monta puolta. Mitä nämä puolet tarkoittavat miehelle tai miehisyyttään vaalivalle? Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea miehisyyttä? Mitä miehisyys tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista.
+**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
+Meissä kaikissa asuun monta puolta: feminiini, maskuliini ja androgyyni. Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
+
+**Marraskuussa, ajankohta ilmoitetaan myöhemmin. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja minä kuuluu kaikille :)
 
 

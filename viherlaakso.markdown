@@ -76,10 +76,6 @@ Viikko-ohjelma
  <td></td>
  <td></td>
  <td>
- <div class="session">
-  **11.00 - 12.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän virtaava ja avaava jooga](#virtaava)
- </div>
  </td>
  <td>
  <div class="course">
@@ -132,6 +128,10 @@ Viikko-ohjelma
  </div>
  </td>
  <td>
+ <div class="session">
+  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Kohti viikonloppua-teemajoogatunti](#teema)
+ </div>
  </td>
  <td>
  <div class="course">
@@ -276,6 +276,11 @@ Tällä kehoa elvyttävällä tunnilla tehdään lihaksistoa sekä hermostoa vet
 **Lempeän vahvistava dynaaminen jooga**
 
 Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
+
+
+<a id="teema"></a>
+**Kohti viikonloppua-teemajoogatunti**
+
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima**
