@@ -32,22 +32,21 @@ create table if not exists auth_token(
 
 create table if not exists group_class(
   id bigint(20) NOT NULL auto_increment,
-  display_start datetime NOT NULL,
-  start datetime NOT NULL,
-  end datetime,
+  display_start date NOT NULL,
+  start date NOT NULL,
+  end date,
   day varchar(3) NOT NULL,
   start_time time NOT NULL,
   end_time time NOT NULL,
   name varchar(255) NOT NULL,
   max_size int NOT NULL,
-  is_saturday_miniretreat bool NOT NULL,
-  is_course bool NOT NULL,
+  class_type ENUM('normal', 'miniretreat', 'course'),
   anchor varchar(255),
   highlight varchar(255),
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
 
-create index miniretreat_index on group_class(start, is_saturday_miniretreat);
+create index class_type_index on group_class(start, class_type);
 
 -- TODO check indexes!
 

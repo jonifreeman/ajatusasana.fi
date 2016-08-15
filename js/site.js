@@ -77,7 +77,7 @@ function setupSignup() {
           $row.find('input').prop('checked', true)
         }
         classHtml.append($row)
-        if (group_class.is_course) {
+        if (group_class.class_type == 'course') {
           if (! $row.hasClass('disabled')) {
             $row.find('input').prop('checked', true)
           }

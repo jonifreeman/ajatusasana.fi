@@ -11,7 +11,7 @@ function query_group_class($id) {
 
 function query_miniretreats() {
   $sql = function($conn) use ($id) {
-    return "SELECT * FROM group_class WHERE is_saturday_miniretreat IS true and start>now()";
+    return "SELECT * FROM group_class WHERE class_type = 'miniretreat' and start>now()";
   };
   return sql_query($sql);
 }
@@ -19,7 +19,7 @@ function query_miniretreats() {
 function query_miniretreat($date) {
   $sql = function($conn) use ($date) {
     $d = mysqli_real_escape_string($conn, $date);
-    return "SELECT id FROM group_class WHERE is_saturday_miniretreat IS true and date(start)='$d'";
+    return "SELECT id FROM group_class WHERE class_type = 'miniretreat' and date(start)='$d'";
   };
   return sql_query_one($sql)['id'];
 }
@@ -139,7 +139,7 @@ function get_miniretreats() {
 function get_classes($id) {
   $group_class = query_group_class($id);
   $now = time();
-  $start_date = ($now > strtotime($group_class['start']) && !$group_class['is_course']) ? $now : strtotime($group_class['start']);
+  $start_date = ($now > strtotime($group_class['start']) && $group_class['class_type'] != 'course') ? $now : strtotime($group_class['start']);
   $next_class = mysql_date(strtotime('next '.$group_class['day'], $start_date));
   $cancellations = query_group_class_cancellations($id);
   $dates = array($next_class);
@@ -156,7 +156,7 @@ function get_classes($id) {
         return array('date' => $date, 'cancelled' => true, 'reason' => $cancelled[0]['reason']);
       } else {
         $bookings = count_bookings($id, $date);
-        return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings), 'is_course' => ($group_class['is_course'] == 0x01));
+        return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings), 'class_type' => $group_class['class_type']);
       }
     }, $dates);
   $result_json = json_encode($availability);
