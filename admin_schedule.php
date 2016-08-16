@@ -19,7 +19,19 @@ $group_classes = query_open_group_classes();
 header('Content-Type: text/html; charset=utf-8');
 ?>
 
-<table>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Kalenterin ylläpito</title>
+  <meta charset="utf-8"  />
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="js/admin_schedule.js"></script>  <!-- TODO: add / -->
+</head>
+
+<body>
+
+<table class="schedule">
   <thead>
     <tr>
       <th>Tyyppi</th>
@@ -38,7 +50,7 @@ header('Content-Type: text/html; charset=utf-8');
 
   <tbody>
     <?php foreach ($group_classes as $group_class): ?>
-    <tr>
+    <tr class="group_class" data-id="<?= $group_class['id'] ?>">
       <td>
         <input type="radio" name="type-<?= $group_class['id'] ?>" value="normal" <?= ($group_class['class_type'] == 'normal') ? 'checked' : '' ?> >Normaali</input>
         <input type="radio" name="type-<?= $group_class['id'] ?>" value="miniretreat" <?= ($group_class['class_type'] == 'miniretreat') ? 'checked' : '' ?> >Miniretriitti</input>
@@ -53,9 +65,13 @@ header('Content-Type: text/html; charset=utf-8');
       <td><input type="text" name="max_size" value="<?= $group_class['max_size'] ?>"/></td>
       <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
       <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
-      <td><textarea name="name"><?= $group_class['regulars'] ?></textarea></td>
+      <td><textarea name="regulars"><?= $group_class['regulars'] ?></textarea></td>
+      <td><input class="save" type="submit" value="Tallenna"/></td>
     </tr>
     <?php endforeach; ?>
   </tbody>
 
 </table>
+
+</body>
+</html>
