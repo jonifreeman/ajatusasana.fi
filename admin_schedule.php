@@ -13,6 +13,8 @@ function query_open_group_classes() {
 }
 
 $group_classes = query_open_group_classes();
+$new_row = array('class_type' => 'normal');
+array_push($group_classes, $new_row);
 
 // TODO access control
 

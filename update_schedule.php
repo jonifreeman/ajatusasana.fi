@@ -43,7 +43,9 @@ function create_or_update_group_class() {
   $regulars = explode(",", $_POST['regulars']);
   delete_regulars($group_class_id);
   foreach ($regulars as $regular) {
-    insert_regular($group_class_id, trim($regular));
+    if (trim($regular) != '') {
+      insert_regular($group_class_id, trim($regular));
+    }
   }
 }
 
