@@ -2,9 +2,24 @@
 
 include ('common.php');
 
+function delete_regulars($group_class_id) {
+  $sql = function($conn) use ($group_class_id) {
+    return "DELETE FROM regular_client WHERE group_class_id=$group_class_id";
+  };
+  sql_set($sql);
+}
+
+function insert_regular($group_class_id, $regular) {
+  $sql = function($conn) use ($group_class_id, $regular) {
+    $email = mysqli_real_escape_string($conn, $regular);
+    return "INSERT INTO regular_client(email, group_class_id) VALUES ('$email', $group_class_id)";
+  };
+  sql_set($sql);
+}
+
 function create_or_update_group_class() {
-  $sql = function($conn) {
-    $id = $_POST['id'];
+  $id = $_POST['id'];
+  $sql = function($conn) use ($id) {
     $ds = mysqli_real_escape_string($conn, $_POST['display_start']);
     $s = mysqli_real_escape_string($conn, $_POST['start']);
     $d = mysqli_real_escape_string($conn, $_POST['day']);
@@ -24,7 +39,12 @@ function create_or_update_group_class() {
   };
   sql_set($sql);
 
-  // TODO save requlars
+  $group_class_id = $id ? $id : mysqli_insert_id($conn);
+  $regulars = explode(",", $_POST['regulars']);
+  delete_regulars($group_class_id);
+  foreach ($regulars as $regular) {
+    insert_regular($group_class_id, trim($regular));
+  }
 }
 
 // TODO access control

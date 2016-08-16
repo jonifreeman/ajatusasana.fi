@@ -63,7 +63,7 @@ create table if not exists regular_client(
   email varchar(255) NOT NULL,
   group_class_id bigint(20) NOT NULL,
   PRIMARY KEY (id),
-  UNIQUE KEY (email),
+  UNIQUE KEY (email, group_class_id),
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
 
