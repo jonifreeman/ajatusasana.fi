@@ -120,6 +120,11 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td>
+ <div class="session">
+  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana](#keskustelevajoogakurssi)
+  <div class="highlight">Syyskuussa 2016</div>
+ </div>
  </td>
  <td>
  <div class="session">
@@ -286,6 +291,10 @@ Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
 
 Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
+
+<a id="keskustelevajoogakurssi"></a>
+**Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana**
+
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
