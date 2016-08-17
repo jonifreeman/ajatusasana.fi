@@ -52,8 +52,6 @@ function create_or_update_group_class() {
 
 // TODO access control
 
-header('Content-Type: application/json; charset=utf-8');
-
 $method = $_SERVER['REQUEST_METHOD'];
 
 if ($method == 'POST') {
