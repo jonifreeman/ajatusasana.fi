@@ -27,7 +27,13 @@ header('Content-Type: text/html; charset=utf-8');
 <head>
   <title>Kalenterin ylläpito</title>
   <meta charset="utf-8"  />
+  <link rel="stylesheet" type="text/css" href="/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.css">
   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.11.2/lodash.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/lang/fi.js"></script>
   <script src="js/admin_schedule.js"></script>  <!-- TODO: add / -->
 </head>
 
@@ -74,6 +80,8 @@ header('Content-Type: text/html; charset=utf-8');
   </tbody>
 
 </table>
+
+<div id='calendar'></div>
 
 </body>
 </html>

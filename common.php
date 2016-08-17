@@ -88,6 +88,14 @@ function mysql_date($date) {
   return date("Y-m-d", $date);
 }
 
+function parse_hour($time) {
+  return (int) explode(':', $time)[0];
+}
+
+function parse_minute($time) {
+  return (int) explode(':', $time)[1];
+}
+
 function send_mail_to_client($to, $subject, $plain_text, $template_file, $variables) {
   $html = file_get_contents($template_file);
 

@@ -39,6 +39,7 @@ function create_or_update_group_class() {
   };
   sql_set($sql);
 
+  // TODO mysqli_insert_id does not work
   $group_class_id = $id ? $id : mysqli_insert_id($conn);
   $regulars = explode(",", $_POST['regulars']);
   delete_regulars($group_class_id);
