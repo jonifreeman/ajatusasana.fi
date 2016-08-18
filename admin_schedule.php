@@ -29,12 +29,13 @@ header('Content-Type: text/html; charset=utf-8');
   <meta charset="utf-8"  />
   <link rel="stylesheet" type="text/css" href="/css/reset.css">
   <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/styles.css">
   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.11.2/lodash.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/lang/fi.js"></script>
-  <script src="js/admin_schedule.js"></script>  <!-- TODO: add / -->
+  <script src="/js/admin_schedule.js"></script>
 </head>
 
 <body>
@@ -80,6 +81,15 @@ header('Content-Type: text/html; charset=utf-8');
   </tbody>
 
 </table>
+
+<div class="popup group-class-popup">
+  <div class="popup-content">
+   <img class="close" src="/img/popup_close.png" />
+   <h2 class="name"></h2>
+   <div class="error">Muutos epäonnistui. Yritä hetken kuluttua uudestaan.</div>
+   <input class="cancel-group-class-button" type="button" value="Peruuta tunti" />
+  </div>
+</div>
 
 <div id='calendar'></div>
 

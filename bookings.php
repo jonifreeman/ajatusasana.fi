@@ -30,6 +30,7 @@ function get_bookings($start, $end) {
       $s = create_next_datetime($start, $group_class['day'], $group_class['start_time']);
       $e = create_next_datetime($start, $group_class['day'], $group_class['end_time']);
       return array(
+        'id' => $group_class['id'],
         'title' => $group_class['name'],
         'start' => $s->format($date_format),
         'end' => $e->format($date_format)

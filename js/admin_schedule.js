@@ -14,6 +14,8 @@ $(function() {
     })
   })
 
+  var groupClassPopup = setupGroupClassPopup()
+
   $('#calendar').fullCalendar({
     lang: 'fi',
     events: 'bookings.php',
@@ -26,26 +28,68 @@ $(function() {
     //  element.find('.fc-time').hide()
     //},
     eventClick: function(calEvent, jsEvent, view) {
-      /*
-      var times = ['<option class="time" value="">Valitse ajankohta</option>']
-      var first = calEvent.start.clone()
-      var last = calEvent.end.clone().subtract(90, 'minutes')
-      for (i = first; i <= last; first.add(15, 'minutes')) {
-        var t = i.format('HH:mm')
-        var range = t + ' - ' + i.clone().add(90, 'minutes').format('HH:mm')
-        times.push('<option class="time" value="' + t + '">' + range + '</option>')
-      }
-      addAppointmentPopup.formFields.start().html(times.join(''))
-      addAppointmentPopup.formFields.date().html(calEvent.start.format('dd D.M'))
-
-      addAppointmentPopup.open(jsEvent, {
-        date: calEvent.start,
-        onSuccess: function() {
-          $('#calendar').fullCalendar('refetchEvents')
-        }
+      var id = calEvent.id
+      $.get('group_class.php?id=' + id, function(groupClass) {
+        groupClassPopup.open(jsEvent, {
+          id: id,
+          onSuccess: function() {
+            $('#calendar').fullCalendar('refetchEvents')
+          }
+        })
       })
-*/
     }
   })
 
 })
+
+function setupGroupClassPopup() {
+  var $container = $('.group-class-popup')
+
+  function validate() {
+  }
+
+  $container.find('.cancel-group-class-button').click(function(e) {
+    var containerData = $container.data().data
+    data = {
+      id: containerData.id,
+    }
+    $.post("cancel_group_class.php", data, function() {
+      $container.hide()
+      if (containerData.onSuccess)
+        containerData.onSuccess()
+    })
+    .fail(function() {
+      $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+    })
+  })
+
+  return setupPopup($container, validate, {})
+}
+
+function setupPopup($container, validate, formFields) {
+  var open = function(e, containerData) {
+    $container.data('data', containerData)
+    $container.find('.main-content').show()
+    $container.find('.error').hide()
+    $container.find('.success').hide()
+    setTimeout(function() {
+      $container.find('input:nth(0)').focus()
+    }, 0)
+    validate()
+    $('.popup').hide()
+    $container.show()
+  }
+
+  $container.find('select').bind("change", function(event) {
+    validate()
+  })
+  $container.find('input').bind("keyup blur change", function(event) {
+    validate()
+  })
+
+  $container.find('.close').click(function() {
+    $container.hide()
+  })
+
+  return {open: open, formFields: formFields}
+}
