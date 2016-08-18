@@ -32,6 +32,7 @@ $(function() {
       $.get('group_class.php?id=' + id, function(groupClass) {
         groupClassPopup.open(jsEvent, {
           id: id,
+          date: calEvent.start.format('YYYY-MM-DD'),
           onSuccess: function() {
             $('#calendar').fullCalendar('refetchEvents')
           }
@@ -45,6 +46,8 @@ $(function() {
 function setupGroupClassPopup() {
   var $container = $('.group-class-popup')
 
+  function reason() { return $container.find('.reason') }
+
   function validate() {
   }
 
@@ -52,6 +55,8 @@ function setupGroupClassPopup() {
     var containerData = $container.data().data
     data = {
       id: containerData.id,
+      date: containerData.date,
+      reason: reason().val()
     }
     $.post("cancel_group_class.php", data, function() {
       $container.hide()

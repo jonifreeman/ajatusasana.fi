@@ -84,10 +84,11 @@ header('Content-Type: text/html; charset=utf-8');
 
 <div class="popup group-class-popup">
   <div class="popup-content">
-   <img class="close" src="/img/popup_close.png" />
-   <h2 class="name"></h2>
-   <div class="error">Muutos epäonnistui. Yritä hetken kuluttua uudestaan.</div>
-   <input class="cancel-group-class-button" type="button" value="Peruuta tunti" />
+    <img class="close" src="/img/popup_close.png" />
+    <h2 class="name"></h2>
+    <div class="error">Muutos epäonnistui. Yritä hetken kuluttua uudestaan.</div>
+     <div class="contact-info">Peruutuksen syy: </div><input type="text" class="reason" />    
+    <input class="cancel-group-class-button" type="button" value="Peruuta tunti" />
   </div>
 </div>
 
