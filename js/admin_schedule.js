@@ -29,10 +29,12 @@ $(function() {
     //},
     eventClick: function(calEvent, jsEvent, view) {
       var id = calEvent.id
-      $.get('group_class.php?id=' + id, function(groupClass) {
+      var date = calEvent.start.format('YYYY-MM-DD')
+      $.get('group_class.php?id=' + id + "&date=" + date, function(groupClass) {
+        groupClassPopup.render(groupClass)
         groupClassPopup.open(jsEvent, {
           id: id,
-          date: calEvent.start.format('YYYY-MM-DD'),
+          date: date,
           onSuccess: function() {
             $('#calendar').fullCalendar('refetchEvents')
           }
@@ -45,6 +47,10 @@ $(function() {
 
 function setupGroupClassPopup() {
   var $container = $('.group-class-popup')
+
+  function render(groupClass) {
+    $container.find('.name').text(groupClass.name)
+  }
 
   function reason() { return $container.find('.reason') }
 
@@ -68,7 +74,7 @@ function setupGroupClassPopup() {
     })
   })
 
-  return setupPopup($container, validate, {})
+  return _.extend({}, setupPopup($container, validate, {}), {render: render})
 }
 
 function setupPopup($container, validate, formFields) {
