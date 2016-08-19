@@ -231,16 +231,12 @@ Yksityistunnit / -ryhmät
 Sarjakortit
 -----------
 
----------- ---------------------------------
-
- 5 x 90 min 125 € (Voimassa 3 kk ostopäivästä)
-            105 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 90 min 220 € (Voimassa 6 kk ostopäivästä)
-            190 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-            
-
-
----------- ---------------------------------
+------------  ---------------------------------
+ 5 x 90 min   125 € (Voimassa 3 kk ostopäivästä)
+              105 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 90 min   220 € (Voimassa 6 kk ostopäivästä)
+              190 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+----------    ---------------------------------
 
 <p>
 

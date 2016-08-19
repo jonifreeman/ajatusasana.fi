@@ -120,6 +120,11 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td>
+ <div class="session">
+  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana](#keskustelevajoogakurssi)
+  <div class="highlight">Syyskuussa 2016</div>
+ </div>
  </td>
  <td>
  <div class="session">
@@ -131,6 +136,7 @@ Viikko-ohjelma
  <div class="session">
   **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Kohti viikonloppua-teemajoogatunti](#teema)
+  <div class="highlight">26.8 alkaen</div>
  </div>
  </td>
  <td>
@@ -197,7 +203,7 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%).
+Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%). Hinnasto päivitetty 19.8 2016.
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Benify-henkilöstön liikuntatuella!
 
@@ -207,8 +213,8 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassi
 ----------
 
 -----     -------------------------
-90 min     25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
-           21 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 15 €)
+90 min     27 € (<span itemprop="description">tutustumiskerta</span> 20 €)
+           23 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 18 €)
 -----     -------------------------
 
 </div>
@@ -217,20 +223,20 @@ Yksityistunnit / -ryhmät
 -------------------------
 
 -----      ------------------------
-90 min     110 € (ryhmät)
+90 min     120 € (ryhmät)
             90 € (yksityistunti yhdelle)
-            70 € (yksityistunti kahdelle)
+           100 € (yksityistunti kahdelle)
 -----      ------------------------
 
 Sarjakortit
 -----------
 
----------- ---------------------------------
- 5 x 90 min 115 € (Voimassa 3 kk ostopäivästä)
-            95 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
-            170 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
----------- ---------------------------------
+------------  ---------------------------------
+ 5 x 90 min   125 € (Voimassa 3 kk ostopäivästä)
+              105 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 90 min   220 € (Voimassa 6 kk ostopäivästä)
+              190 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+----------    ---------------------------------
 
 <p>
 
@@ -263,10 +269,6 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaas
 
 Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
-<a id="virtaava"></a>
-**Lempeän virtaava ja avaava jooga**
-Tällä kehoa elvyttävällä tunnilla tehdään lihaksistoa sekä hermostoa vetreyttiä ja avaavia lempeän virtaavia joogaliikkeitä ja hengitysharjoituksia rauhallisesti turvallisesti ja omaa kehoa kuunnellen. Annan eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy loppurentoutukseen.
-
 <a id="trigger"></a>
 
 <a id="alkeet"></a>
@@ -281,6 +283,7 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 <a id="teema"></a>
 **Kohti viikonloppua-teemajoogatunti**
 
+Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan aina viikon alussa. Esim. Vahva ja eloisa rintaranka ja sydänkeskus; juurevat jalat & turvattu takamaus; pitkä ja hengittävä selkä; Yoga Nidra rentoutus jne...
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima**
@@ -288,6 +291,13 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
 
 Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
+
+<a id="keskustelevajoogakurssi"></a>
+**Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana**
+
+Kamppailetko jatkuvien kipujen kanssa? Kaipaako fyysinen kehosi rentoutumista ja hyväksyvämpää, lempeämpää mieltä? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista huolimatta fyysisen kehosi muutoksista?  Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Täällä voit heittää hyvästit entiselle ja toivottavaa uuden tervetulleeksi. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, hyväksyvän mielen, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. Vertaisryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi.
+
+Seuraava kurssi alkaa Syykuun 7. ja loppuu Marraskuun 30. 2016! Aina keskiviikkoisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 31.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
@@ -300,7 +310,7 @@ Meissä kaikissa asuun monta puolta: feminiini, maskuliini ja androgyyni. Miten 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
 
-**Marraskuussa, ajankohta ilmoitetaan myöhemmin. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+**LA 19.11 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
 Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja minä kuuluu kaikille :)
 
 
