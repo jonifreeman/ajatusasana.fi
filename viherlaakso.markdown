@@ -213,8 +213,8 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassi
 ----------
 
 -----     -------------------------
-90 min     25 € (<span itemprop="description">tutustumiskerta</span> 18 €)
-           21 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 15 €)
+90 min     27 € (<span itemprop="description">tutustumiskerta</span> 20 €)
+           23 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 18 €)
 -----     -------------------------
 
 </div>
@@ -223,19 +223,25 @@ Yksityistunnit / -ryhmät
 -------------------------
 
 -----      ------------------------
-90 min     110 € (ryhmät)
+90 min     120 € (ryhmät)
             90 € (yksityistunti yhdelle)
-            70 € (yksityistunti kahdelle)
+           100 € (yksityistunti kahdelle)
 -----      ------------------------
 
 Sarjakortit
 -----------
 
 ---------- ---------------------------------
- 5 x 90 min 115 € (Voimassa 3 kk ostopäivästä)
-            95 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 90 min 200 € (Voimassa 6 kk ostopäivästä)
-            170 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+
+ 3 x 90 min  50 € (tutustumiskortti uusille, voimassa 2 kk ostopäivästä)
+ 
+ 5 x 90 min 125 € (Voimassa 3 kk ostopäivästä)
+            105 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 90 min 220 € (Voimassa 6 kk ostopäivästä)
+            190 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+            
+
+
 ---------- ---------------------------------
 
 <p>
