@@ -203,7 +203,7 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%).
+Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%). Hinnasto päivitetty 19.8 2016.
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Benify-henkilöstön liikuntatuella!
 
@@ -233,8 +233,6 @@ Sarjakortit
 
 ---------- ---------------------------------
 
- 3 x 90 min  50 € (tutustumiskortti uusille, voimassa 2 kk ostopäivästä)
- 
  5 x 90 min 125 € (Voimassa 3 kk ostopäivästä)
             105 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 10 x 90 min 220 € (Voimassa 6 kk ostopäivästä)
@@ -316,7 +314,7 @@ Meissä kaikissa asuun monta puolta: feminiini, maskuliini ja androgyyni. Miten 
 **LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
 Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
 
-**Marraskuussa, ajankohta ilmoitetaan myöhemmin. 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+**LA 19.11 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
 Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja minä kuuluu kaikille :)
 
 
