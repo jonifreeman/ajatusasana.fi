@@ -1,3 +1,17 @@
-.cancelled_regular {
+.group-class-popup h3 {
+  font-weight: bold;
+  margin: 20px 0 4px 0;
+}
+
+.group-class-popup li {
+  margin-bottom: 4px;
+}
+
+.group-class-popup .toggle-regular-cancellation, .group-class-popup .booking-cancellation {
+  position: absolute;
+  right: 20px;
+}
+
+.group-class-popup .cancelled-regular {
   text-decoration: line-through;
 }

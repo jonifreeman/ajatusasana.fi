@@ -53,13 +53,13 @@ function setupGroupClassPopup() {
     $container.find('.name').text(groupClass.name)
     var regularsHtml = _.map(groupClass.regulars, function(regular) {
       var isCancelled = _.find(groupClass.cancellations, {email: regular}) != undefined
-      var cl = isCancelled ? 'cancelled_regular' : ''
-      return '<li class="' + cl + '">' + regular + '</li>'
+      var cl = isCancelled ? 'cancelled-regular' : ''
+      return '<li><span class="' + cl + '">' + regular + '</span><button class="toggle-regular-cancellation">' + (isCancelled ? 'Palauta' : 'Peruuta') + '</button></li>'
     })
     $container.find('.regulars').html(regularsHtml.join('\n'))
     
     var bookingsHtml = _.map(groupClass.bookings, function(booking) {
-      return '<li>' + booking.email + '<li>'
+      return '<li><span>' + booking.email + '</span><button class="booking-cancellation">Peruuta</button></li>'
     })
     $container.find('.bookings').html(bookingsHtml.join('\n'))
   }
