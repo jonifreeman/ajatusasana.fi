@@ -30,6 +30,7 @@ header('Content-Type: text/html; charset=utf-8');
   <link rel="stylesheet" type="text/css" href="/css/reset.css">
   <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.css">
   <link rel="stylesheet" type="text/css" href="/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="/css/admin.css">
   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.11.2/lodash.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
@@ -86,6 +87,13 @@ header('Content-Type: text/html; charset=utf-8');
   <div class="popup-content">
     <img class="close" src="/img/popup_close.png" />
     <h2 class="name"></h2>
+  
+    <h3>Vakioasiakkaat</h3>
+    <ul class="regulars"></ul>
+
+    <h3>Ilmoittautuneet</h3>
+    <ul class="bookings"></ul>
+
     <div class="error">Muutos epäonnistui. Yritä hetken kuluttua uudestaan.</div>
      <div class="contact-info">Peruutuksen syy: </div><input type="text" class="reason" />    
     <input class="cancel-group-class-button" type="button" value="Peruuta tunti" />
