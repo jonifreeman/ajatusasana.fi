@@ -9,7 +9,7 @@ $(function() {
       var name = field.name.indexOf('type') == -1 ? field.name : 'class_type'
       data[name] = field.value
     }
-    $.post("update_schedule.php", data, function() {
+    $.post("/update_schedule.php", data, function() {
       $('#calendar').fullCalendar('refetchEvents')
     })
   })
@@ -30,8 +30,8 @@ $(function() {
     eventClick: function(calEvent, jsEvent, view) {
       var id = calEvent.id
       var date = calEvent.start.format('YYYY-MM-DD')
-      $.get('group_class.php?id=' + id + "&date=" + date, function(groupClass) {
-        groupClassPopup.render(groupClass)
+      $.get('/group_class.php?id=' + id + "&date=" + date, function(groupClass) {
+        groupClassPopup.render(groupClass, date)
         groupClassPopup.open(jsEvent, {
           id: id,
           date: date,
@@ -48,18 +48,39 @@ $(function() {
 function setupGroupClassPopup() {
   var $container = $('.group-class-popup')
 
-  function render(groupClass) {
-    console.log(groupClass)
+  $container.on('click', '.toggle-regular-cancellation', function(e) {
+    var data = JSON.parse($(e.currentTarget).attr('data-cancellation'))
+    $.post('/cancel_regular.php', data, function() {
+      // TODO repaint
+    })
+    .fail(function() {
+      $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+    })
+  })
+
+  $container.on('click', '.booking-cancellation', function(e) {
+    var data = JSON.parse($(e.currentTarget).attr('data-cancellation'))
+    $.post('/cancel_booking.php', data, function() {
+      // TODO repaint
+    })
+    .fail(function() {
+      $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
+    })
+  })
+  
+  function render(groupClass, date) {
     $container.find('.name').text(groupClass.name)
     var regularsHtml = _.map(groupClass.regulars, function(regular) {
       var isCancelled = _.find(groupClass.cancellations, {email: regular}) != undefined
       var cl = isCancelled ? 'cancelled-regular' : ''
-      return '<li><span class="' + cl + '">' + regular + '</span><button class="toggle-regular-cancellation">' + (isCancelled ? 'Palauta' : 'Peruuta') + '</button></li>'
+      var cancellationData = {id: groupClass.id, email: regular, date: date}
+      return '<li><span class="' + cl + '">' + regular + "</span><button data-cancellation='" + JSON.stringify(cancellationData) + "' class='toggle-regular-cancellation'>" + (isCancelled ? 'Palauta' : 'Peruuta') + '</button></li>'
     })
     $container.find('.regulars').html(regularsHtml.join('\n'))
     
     var bookingsHtml = _.map(groupClass.bookings, function(booking) {
-      return '<li><span>' + booking.email + '</span><button class="booking-cancellation">Peruuta</button></li>'
+      var cancellationData = {id: groupClass.id, email: booking.email, date: date}
+      return '<li><span>' + booking.email + "</span><button class='booking-cancellation' data-cancellation='" + JSON.stringify(cancellationData) + "'>Peruuta</button></li>"
     })
     $container.find('.bookings').html(bookingsHtml.join('\n'))
   }
@@ -76,7 +97,7 @@ function setupGroupClassPopup() {
       date: containerData.date,
       reason: reason().val()
     }
-    $.post("cancel_group_class.php", data, function() {
+    $.post("/cancel_group_class.php", data, function() {
       $container.hide()
       if (containerData.onSuccess)
         containerData.onSuccess()

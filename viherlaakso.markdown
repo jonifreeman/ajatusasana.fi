@@ -3,7 +3,7 @@ title: Viherlaakso / Leppävaara / Espoo
 ---
 
 <script type="text/javascript">
-  $.get("schedule.php", function(data) {
+  $.get("/schedule.php", function(data) {
     $(".schedule-container").html(data)
   })
 </script>
