@@ -141,8 +141,9 @@ Viikko-ohjelma
  </td>
  <td>
  <div class="course">
-  **15.00 - 16.30** <br /> <img class="signup" src="/img/signup.png"></img>
+  **15.00 - 16.30** <br />
   [Ajatus & Asana avajaiset 3.9.: Syvärentouttava avaava jooga](#yin)
+  <div class="highlight">TÄYNNÄ</div>
  </div>
  </td>
  <td></td>
