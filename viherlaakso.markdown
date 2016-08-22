@@ -136,7 +136,6 @@ Viikko-ohjelma
  <div class="session">
   **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Kohti viikonloppua-teemajoogatunti](#teema)
-  <div class="highlight">26.8 alkaen</div>
  </div>
  </td>
  <td>
