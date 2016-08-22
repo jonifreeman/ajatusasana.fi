@@ -118,6 +118,7 @@ function setupGroupClassPopup() {
     }
     $.post("/cancel_group_class.php", data, function() {
       repaint()
+      containerData.onSuccess()
     })
     .fail(function() {
       $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
