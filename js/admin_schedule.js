@@ -92,6 +92,16 @@ function setupGroupClassPopup() {
       return '<li><span>' + booking.email + "</span><button class='booking-cancellation' data-cancellation='" + JSON.stringify(cancellationData) + "'>Peruuta</button></li>"
     })
     $container.find('.bookings').html(bookingsHtml.join('\n'))
+
+    if (groupClass.is_cancelled) {
+      $container.find('.cancel-group-class-info').hide()
+      $container.find('.cancel-group-class-input').hide()
+      $container.find('.cancel-group-class-button').val('Peruuta peruutus')
+    } else {
+      $container.find('.cancel-group-class-info').show()
+      $container.find('.cancel-group-class-input').show()
+      $container.find('.cancel-group-class-button').val('Peruuta tunti')
+    }
   }
 
   function reason() { return $container.find('.reason') }
@@ -107,9 +117,7 @@ function setupGroupClassPopup() {
       reason: reason().val()
     }
     $.post("/cancel_group_class.php", data, function() {
-      $container.hide()
-      if (containerData.onSuccess)
-        containerData.onSuccess()
+      repaint()
     })
     .fail(function() {
       $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)

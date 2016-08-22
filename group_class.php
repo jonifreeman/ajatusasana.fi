@@ -2,11 +2,18 @@
 
 include ('common.php');
 
-function query_group_class($id) {
-  $sql = function($conn) use ($id) {
-    return "SELECT gc.*, GROUP_CONCAT(rc.email) AS regulars FROM group_class gc LEFT JOIN regular_client rc ON gc.id=rc.group_class_id WHERE gc.id=$id";
+function query_group_class($id, $date) {
+  $sql = function($conn) use ($id, $date) {
+    $d = mysqli_real_escape_string($conn, $date);
+    return "SELECT gc.*, GROUP_CONCAT(rc.email) AS regulars, cc.group_class_id IS NOT NULL AS is_cancelled
+            FROM group_class gc 
+            LEFT JOIN regular_client rc ON gc.id=rc.group_class_id
+            LEFT JOIN cancelled_class cc ON gc.id=cc.group_class_id AND cc.when_date='$d'
+            WHERE gc.id=$id";
   };
-  return sql_query_one($sql);
+  $group_class = sql_query_one($sql);
+  $group_class['is_cancelled'] = (bool)$group_class['is_cancelled'];
+  return $group_class;
 }
 
 function query_bookings($id, $date) {
@@ -26,7 +33,7 @@ function query_cancellations($id, $date) {
 }
 
 function get_group_class($id, $date) {
-  $group_class = query_group_class($id);
+  $group_class = query_group_class($id, $date);
   if ($group_class['regulars']) {
     $group_class['regulars'] = explode(",", $group_class['regulars']);
   } else {

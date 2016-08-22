@@ -95,7 +95,7 @@ header('Content-Type: text/html; charset=utf-8');
     <ul class="bookings"></ul>
 
     <div class="error">Muutos epäonnistui. Yritä hetken kuluttua uudestaan.</div>
-     <div class="contact-info">Peruutuksen syy: </div><input type="text" class="reason" />    
+    <div class="cancel-group-class-info contact-info">Peruutuksen syy: </div><input type="text" class="cancel-group-class-input reason" />
     <input class="cancel-group-class-button" type="button" value="Peruuta tunti" />
   </div>
 </div>
