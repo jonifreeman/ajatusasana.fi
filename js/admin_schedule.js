@@ -48,10 +48,19 @@ $(function() {
 function setupGroupClassPopup() {
   var $container = $('.group-class-popup')
 
+  function repaint() {
+    var containerData = $container.data().data
+    var id = containerData.id
+    var date = containerData.date
+    $.get('/group_class.php?id=' + id + "&date=" + date, function(groupClass) {
+      render(groupClass, date)
+    })
+  }
+
   $container.on('click', '.toggle-regular-cancellation', function(e) {
     var data = JSON.parse($(e.currentTarget).attr('data-cancellation'))
     $.post('/cancel_regular.php', data, function() {
-      // TODO repaint
+      repaint()
     })
     .fail(function() {
       $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
@@ -61,7 +70,7 @@ function setupGroupClassPopup() {
   $container.on('click', '.booking-cancellation', function(e) {
     var data = JSON.parse($(e.currentTarget).attr('data-cancellation'))
     $.post('/cancel_booking.php', data, function() {
-      // TODO repaint
+      repaint()
     })
     .fail(function() {
       $container.find('.error').fadeIn(500).delay(10000).fadeOut(500)
