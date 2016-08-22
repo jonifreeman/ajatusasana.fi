@@ -15,3 +15,24 @@
 .group-class-popup .cancelled-regular {
   text-decoration: line-through;
 }
+
+.admin-schedule {
+  table-layout: fixed;
+  margin-top: 40px;
+}
+
+.admin-schedule td:nth-child(3) input {
+  width: 40px;
+}
+
+.admin-schedule td:nth-child(4) input {
+  width: 40px;
+}
+
+.admin-schedule td:nth-child(8) input {
+  width: 20px;
+}
+
+.admin-schedule td:nth-child(10) input {
+  width: 60px;
+}

@@ -84,6 +84,11 @@ function human_time($date) {
   return $date->format('H:i');
 }
 
+function format_time($time) {
+  $parts = explode(':', $time);
+  return $parts[0].':'.$parts[1];
+}
+
 function mysql_date($date) {
   return date("Y-m-d", $date);
 }

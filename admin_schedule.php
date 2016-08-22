@@ -41,48 +41,6 @@ header('Content-Type: text/html; charset=utf-8');
 
 <body>
 
-<table class="schedule">
-  <thead>
-    <tr>
-      <th>Tyyppi</th>
-      <th>Nimi</th>
-      <th>Viikonpäivä</th>
-      <th>Kello</th>
-      <th>Alkaa</th>
-      <th>Päättyy</th>
-      <th>Näkyy kalenterissa alkaen</th>
-      <th>Max</th>
-      <th>Huom!</th>
-      <th>Linkki</th>
-      <th>Vakiokävijät</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <?php foreach ($group_classes as $group_class): ?>
-    <tr class="group_class" data-id="<?= $group_class['id'] ?>">
-      <td>
-        <input type="radio" name="type-<?= $group_class['id'] ?>" value="normal" <?= ($group_class['class_type'] == 'normal') ? 'checked' : '' ?> >Normaali</input>
-        <input type="radio" name="type-<?= $group_class['id'] ?>" value="miniretreat" <?= ($group_class['class_type'] == 'miniretreat') ? 'checked' : '' ?> >Miniretriitti</input>
-        <input type="radio" name="type-<?= $group_class['id'] ?>" value="course" <?= ($group_class['class_type'] == 'course') ? 'checked' : '' ?> >Kurssi</input>
-      </td>
-      <td><input type="text" name="name" value="<?= $group_class['name'] ?>"/></td>
-      <td><input type="text" name="day" value="<?= $group_class['day'] ?>"/></td>
-      <td><input type="text" name="start_time" value="<?= $group_class['start_time'] ?>"/> - <input type="text" name="end_time" value="<?= $group_class['end_time'] ?>"/</td>
-      <td><input type="text" name="start" value="<?= $group_class['start'] ?>"/></td>
-      <td><input type="text" name="end" value="<?= $group_class['end'] ?>"/></td>
-      <td><input type="text" name="display_start" value="<?= $group_class['display_start'] ?>"/></td>
-      <td><input type="text" name="max_size" value="<?= $group_class['max_size'] ?>"/></td>
-      <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
-      <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
-      <td><textarea name="regulars"><?= $group_class['regulars'] ?></textarea></td>
-      <td><input class="save" type="submit" value="Tallenna"/></td>
-    </tr>
-    <?php endforeach; ?>
-  </tbody>
-
-</table>
-
 <div class="popup group-class-popup">
   <div class="popup-content">
     <img class="close" src="/img/popup_close.png" />
@@ -101,6 +59,48 @@ header('Content-Type: text/html; charset=utf-8');
 </div>
 
 <div id='calendar'></div>
+
+<table class="admin-schedule">
+  <thead>
+    <tr>
+      <th>Tyyppi</th>
+      <th>Nimi</th>
+      <th>Pv</th>
+      <th>Kello</th>
+      <th>Alkaa</th>
+      <th>Päättyy</th>
+      <th>Näkyy kalenterissa alkaen</th>
+      <th>Max</th>
+      <th>Huom!</th>
+      <th>Linkki</th>
+      <th>Vakiokävijät</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <?php foreach ($group_classes as $group_class): ?>
+    <tr class="group_class" data-id="<?= $group_class['id'] ?>">
+      <td>
+        <input type="radio" name="type-<?= $group_class['id'] ?>" value="normal" <?= ($group_class['class_type'] == 'normal') ? 'checked' : '' ?> >N</input>
+        <input type="radio" name="type-<?= $group_class['id'] ?>" value="miniretreat" <?= ($group_class['class_type'] == 'miniretreat') ? 'checked' : '' ?> >M</input>
+        <input type="radio" name="type-<?= $group_class['id'] ?>" value="course" <?= ($group_class['class_type'] == 'course') ? 'checked' : '' ?> >K</input>
+      </td>
+      <td><input type="text" name="name" value="<?= $group_class['name'] ?>"/></td>
+      <td><input type="text" name="day" value="<?= $group_class['day'] ?>"/></td>
+      <td><input type="text" name="start_time" value="<?= format_time($group_class['start_time']) ?>"/> - <input type="text" name="end_time" value="<?= format_time($group_class['end_time']) ?>"/</td>
+      <td><input type="text" name="start" value="<?= $group_class['start'] ?>"/></td>
+      <td><input type="text" name="end" value="<?= $group_class['end'] ?>"/></td>
+      <td><input type="text" name="display_start" value="<?= $group_class['display_start'] ?>"/></td>
+      <td><input type="text" name="max_size" value="<?= $group_class['max_size'] ?>"/></td>
+      <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
+      <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
+      <td><textarea name="regulars"><?= $group_class['regulars'] ?></textarea></td>
+      <td><input class="save" type="submit" value="Tallenna"/></td>
+    </tr>
+    <?php endforeach; ?>
+  </tbody>
+
+</table>
 
 </body>
 </html>
