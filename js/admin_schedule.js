@@ -1,6 +1,6 @@
 $(function() {
 
-  $('.schedule').on('click', '.save', function(e) {
+  $('.admin-schedule').on('click', '.save', function(e) {
     var groupClass = $(e.currentTarget).parents('.group_class')
     var fields = groupClass.find('input, textarea').serializeArray()
     var data = {id: groupClass.attr('data-id') ? parseInt(groupClass.attr('data-id')) : undefined}

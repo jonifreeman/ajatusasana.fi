@@ -85,8 +85,12 @@ function human_time($date) {
 }
 
 function format_timestring($time) {
-  $parts = explode(':', $time);
-  return $parts[0].':'.$parts[1];
+  if ($time != '') {
+    $parts = explode(':', $time);
+    return $parts[0].':'.$parts[1];
+  } else {
+    return '';
+  }
 }
 
 function mysql_date($date) {

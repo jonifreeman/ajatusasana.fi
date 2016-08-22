@@ -16,9 +16,27 @@
   text-decoration: line-through;
 }
 
+.schedule-body {
+  margin: 20px 10px 30px 10px;
+}
+
+.schedule-body h1 {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 20px 0 16px 0;
+}
+
 .admin-schedule {
   table-layout: fixed;
   margin-top: 40px;
+}
+
+.admin-schedule td {
+  padding: 0 5px;
+}
+
+.admin-schedule td:nth-child(2) input {
+  width: 250px;
 }
 
 .admin-schedule td:nth-child(3) input {
@@ -28,6 +46,9 @@
 .admin-schedule td:nth-child(4) input {
   width: 40px;
 }
+.admin-schedule td:nth-child(5) input, .admin-schedule td:nth-child(6) input, .admin-schedule td:nth-child(7) input {
+  width: 80px;
+}
 
 .admin-schedule td:nth-child(8) input {
   width: 20px;
@@ -35,4 +56,16 @@
 
 .admin-schedule td:nth-child(10) input {
   width: 60px;
+}
+
+.instructions {
+  margin-top: 60px;
+}
+
+.instructions b {
+  font-weight: bold;
+}
+
+.instructions li {
+  padding: 6px 0 6px 0;
 }

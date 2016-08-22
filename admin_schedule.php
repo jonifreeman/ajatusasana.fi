@@ -58,18 +58,20 @@ header('Content-Type: text/html; charset=utf-8');
   </div>
 </div>
 
+<div class="schedule-body">
 <div id='calendar'></div>
 
 <table class="admin-schedule">
   <thead>
     <tr>
-      <th>Tyyppi</th>
+      <th>Tyyppi<br>N/M/K
+      </th>
       <th>Nimi</th>
       <th>Pv</th>
       <th>Kello</th>
       <th>Alkaa</th>
       <th>Päättyy</th>
-      <th>Näkyy kalenterissa alkaen</th>
+      <th>Kalenterissa</th>
       <th>Max</th>
       <th>Huom!</th>
       <th>Linkki</th>
@@ -81,9 +83,9 @@ header('Content-Type: text/html; charset=utf-8');
     <?php foreach ($group_classes as $group_class): ?>
     <tr class="group_class" data-id="<?= $group_class['id'] ?>">
       <td>
-        <input type="radio" name="type-<?= $group_class['id'] ?>" value="normal" <?= ($group_class['class_type'] == 'normal') ? 'checked' : '' ?> >N</input>
-        <input type="radio" name="type-<?= $group_class['id'] ?>" value="miniretreat" <?= ($group_class['class_type'] == 'miniretreat') ? 'checked' : '' ?> >M</input>
-        <input type="radio" name="type-<?= $group_class['id'] ?>" value="course" <?= ($group_class['class_type'] == 'course') ? 'checked' : '' ?> >K</input>
+        <input type="radio" name="type-<?= $group_class['id'] ?>" value="normal" <?= ($group_class['class_type'] == 'normal') ? 'checked' : '' ?> ></input>
+        <input type="radio" name="type-<?= $group_class['id'] ?>" value="miniretreat" <?= ($group_class['class_type'] == 'miniretreat') ? 'checked' : '' ?> ></input>
+        <input type="radio" name="type-<?= $group_class['id'] ?>" value="course" <?= ($group_class['class_type'] == 'course') ? 'checked' : '' ?> ></input>
       </td>
       <td><input type="text" name="name" value="<?= $group_class['name'] ?>"/></td>
       <td><input type="text" name="day" value="<?= $group_class['day'] ?>"/></td>
@@ -95,12 +97,39 @@ header('Content-Type: text/html; charset=utf-8');
       <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
       <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
       <td><textarea name="regulars"><?= $group_class['regulars'] ?></textarea></td>
-      <td><input class="save" type="submit" value="Tallenna"/></td>
+      <td><input class="save" type="submit" value="<?= $group_class['id'] ? 'Tallenna' : 'Luo uusi' ?>"/></td>
     </tr>
     <?php endforeach; ?>
   </tbody>
 
 </table>
 
+<div class="instructions">
+
+<h1>Ohjeet</h1>
+
+<ul>
+  <li><b>Tyyppi</b></li>
+  N = normaali viikkotunti, M = miniretriitti, K = kurssi
+  <li><b>Pv</b></li>
+  mon, tue, wed, thu, fri, sat, sun
+  <li><b>Kello</b></li>
+  Esim. 12:30
+  <li><b>Päivämäärät</b></li>
+  Formaatissa vuosi-kk-pv, esim 2017-08-14
+  <li><b>Kalenterissa</b></li>
+  Päivämäärä milloin ilmestyy näkyville kalenteriin. Eli voi laittaa kalenteriin näkyville ennen kuin tunnit varsinaisesti alkavat.
+  <li><b>Max</b></li>
+  Maksimi osallistujamäärä
+  <li><b>Huom!</b></li>
+  Tällä voi asettaa pienen huomitekstin tunnin kuvaukseen. Esim. 'Alkaa Syyskuussa 2018!'
+  <li><b>Linkki</b></li>
+  Linkki tuntikuvauksiin.
+  <li><b>Vakiokävijät</b></li>
+  Pilkulla eroteltu lista vakkarikävijöiden sähköpostiosoitteista.
+</ul>
+</div>
+
+</div>
 </body>
 </html>
