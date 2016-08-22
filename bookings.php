@@ -8,7 +8,7 @@ function query_group_classes($start, $end) {
     $e = mysqli_real_escape_string($conn, $end);
     return "SELECT gc.*, cc.group_class_id IS NOT NULL AS is_cancelled 
             FROM group_class gc
-            LEFT JOIN cancelled_class cc ON gc.id=cc.group_class_id AND cc.when_date BETWEEN '$s' AND '$e'
+            LEFT JOIN cancelled_class cc ON gc.id=cc.group_class_id AND (cc.when_date >= '$s' AND cc.when_date < '$e')
             WHERE gc.start <= '$e' AND (gc.end >= '$s' OR gc.end IS NULL) ORDER BY gc.start";
   };
 
