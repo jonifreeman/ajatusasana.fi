@@ -47,7 +47,7 @@
   width: 40px;
 }
 .admin-schedule td:nth-child(5) input, .admin-schedule td:nth-child(6) input, .admin-schedule td:nth-child(7) input {
-  width: 80px;
+  width: 120px;
 }
 
 .admin-schedule td:nth-child(8) input {
