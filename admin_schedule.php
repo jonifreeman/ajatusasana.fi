@@ -87,7 +87,7 @@ header('Content-Type: text/html; charset=utf-8');
       </td>
       <td><input type="text" name="name" value="<?= $group_class['name'] ?>"/></td>
       <td><input type="text" name="day" value="<?= $group_class['day'] ?>"/></td>
-      <td><input type="text" name="start_time" value="<?= format_time($group_class['start_time']) ?>"/> - <input type="text" name="end_time" value="<?= format_time($group_class['end_time']) ?>"/</td>
+      <td><input type="text" name="start_time" value="<?= format_timestring($group_class['start_time']) ?>"/> - <input type="text" name="end_time" value="<?= format_timestring($group_class['end_time']) ?>"/</td>
       <td><input type="text" name="start" value="<?= $group_class['start'] ?>"/></td>
       <td><input type="text" name="end" value="<?= $group_class['end'] ?>"/></td>
       <td><input type="text" name="display_start" value="<?= $group_class['display_start'] ?>"/></td>

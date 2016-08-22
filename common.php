@@ -84,7 +84,7 @@ function human_time($date) {
   return $date->format('H:i');
 }
 
-function format_time($time) {
+function format_timestring($time) {
   $parts = explode(':', $time);
   return $parts[0].':'.$parts[1];
 }
