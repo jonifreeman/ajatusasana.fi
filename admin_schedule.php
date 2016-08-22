@@ -96,7 +96,7 @@ header('Content-Type: text/html; charset=utf-8');
       <td><input type="text" name="max_size" value="<?= $group_class['max_size'] ?>"/></td>
       <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
       <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
-      <td><textarea name="regulars"><?= $group_class['regulars'] ?></textarea></td>
+      <td><textarea rows="4" name="regulars"><?= $group_class['regulars'] ?></textarea></td>
       <td><input class="save" type="submit" value="<?= $group_class['id'] ? 'Tallenna' : 'Luo uusi' ?>"/></td>
     </tr>
     <?php endforeach; ?>
@@ -120,7 +120,7 @@ header('Content-Type: text/html; charset=utf-8');
   <li><b>Max</b></li>
   Maksimi osallistujamäärä
   <li><b>Huom!</b></li>
-  Tällä voi asettaa pienen huomitekstin tunnin kuvaukseen. Esim. 'Alkaa Syyskuussa 2018!'
+  Tällä voi asettaa pienen huomiotekstin tunnin kuvaukseen. Esim. 'Alkaa Syyskuussa 2018!'
   <li><b>Linkki</b></li>
   Linkki tuntikuvauksiin.
   <li><b>Vakiokävijät</b></li>

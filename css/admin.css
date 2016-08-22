@@ -58,6 +58,16 @@
   width: 60px;
 }
 
+.admin-schedule td.highlight-row {
+  background-color: green;
+  transition: background-color 1s linear;
+}
+
+.admin-schedule td.highlight-row-error {
+  background-color: red;
+  transition: background-color 1s linear;
+}
+
 .instructions {
   margin-top: 60px;
 }

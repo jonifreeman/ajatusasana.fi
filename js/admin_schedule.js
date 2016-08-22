@@ -11,6 +11,11 @@ $(function() {
     }
     $.post("/update_schedule.php", data, function() {
       $('#calendar').fullCalendar('refetchEvents')
+      groupClass.find('td').addClass('highlight-row')
+      setTimeout(function() { groupClass.find('td').removeClass('highlight-row') }, 2000)
+    }).fail(function() {
+      groupClass.find('td').addClass('highlight-row-error')
+      setTimeout(function() { groupClass.find('td').removeClass('highlight-row-error') }, 2000)
     })
   })
 
