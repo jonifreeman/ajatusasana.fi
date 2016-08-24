@@ -283,9 +283,8 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 <a id="teema"></a>
 **Kohti viikonloppua-teemajoogatunti**
 
-Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan aina viikon alussa. Tulevia teemoja: 
+Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan aina viikon alussa. Tulevia teematunnit: 
 26.4 Vahva ja eloisa rintaranka ja sydänkeskus
-2.9 Juurevat jalat & turvallisuuden tunne
 9.10 Jooga & pitkä Yoga Nidra rentoutus
 16.10 Avaava Jooga & Meditaatio tuetussa istuma-asennossa (55 min + 35 min)
 
