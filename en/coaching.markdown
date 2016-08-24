@@ -6,7 +6,7 @@ title: Individual coaching
 
 Your specific needs are the starting point. Individual coaching sessions are based on therapeutic yoga as well as psychological, sociological and physiological knowledge of being-in-the-world. You will get your inividual yoga and or meditation program
 
-** Ajatus & Asana I: learn to practice yoga and relaxation techniques at home**
+**Ajatus & Asana I: learn to practice yoga and relaxation techniques at home**
 
 Conversational interview & orienting yoga practice 90 min
 
@@ -19,7 +19,7 @@ A get-to-gether about 3-5 months after starting your personal program for update
 300€
 
 
-** Ajatus & Asana II: learn to practice yoga and relaxation techniques at home**
+**Ajatus & Asana II: learn to practice yoga and relaxation techniques at home**
 
 Conversational interview & orienting yoga practice 90 min
 
