@@ -18,21 +18,23 @@ Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
 Ajatus & Asana kotijoogavalmennuspaketit
 ===============================
 
-Minun Ajatus & Asana I
+Ajatus & Asana I : opi joogaamaan ja rauhoittumaan kotona
 --------------------
 
 - Keskusteleva alkuhaastattelu & orientoiva harjoitus 90 min
-- Yksityisohjausta 90 min
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- 220 €
+- Oma Ajatus & Asana kotijoogaohjelma materiaaleineen  
+- Yksityisohjausta 90 min, jossa käydään läpi henkilökohtainen ohjelma
+- Tapaaminen, yksityisohjaus & muutokset kotiohjelmaan 90 min n. 3-5 kk kotiohjelman käyttöönoton jälkeen
+- 300 €
 
-Minun Ajatus & Asana II
+Ajatus & Asana II: opi joogaamaan ja rauhoittumaan kotona
 --------------------
 
 - Keskusteleva alkuhaastattelu & orientoiva harjoitus 90 min
 - Yksityisohjausta 2 x 90 min 
-- Oma Ajatus & Asana kotijooga-ohjelma materiaaleineen  
-- 280 €
+- Oma Ajatus & Asana kotijoogaohjelma materiaaleineen  
+- Tapaaminen, yksityisohjaus & muutokset kotiohjelmaa 2 x 90 min n. 3-5 kk kotiohjelman käyttöönoton jälkeen
+- 400 €
 
 Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
 
