@@ -49,7 +49,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 
 header('Content-Type: application/json; charset=utf-8');
 
-// TODO access control
+verify_auth_token();
 
 if ($method == 'GET') {
   get_group_class($_GET['id'], $_GET['date']);

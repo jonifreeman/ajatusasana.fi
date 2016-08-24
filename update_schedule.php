@@ -51,9 +51,10 @@ function create_or_update_group_class() {
   echo '{"id":'.$group_class_id."}";
 }
 
-// TODO access control
-
 header('Content-Type: application/json; charset=utf-8');
+
+verify_auth_token();
+
 $method = $_SERVER['REQUEST_METHOD'];
 
 if ($method == 'POST') {

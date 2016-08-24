@@ -57,7 +57,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 
 header('Content-Type: application/json; charset=utf-8');
 
-// TODO access control
+verify_auth_token();
 
 if ($method == 'GET') {
   $start = $_GET['start'];

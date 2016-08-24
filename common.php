@@ -70,7 +70,7 @@ function cleanup_auth_tokens() {
   return sql_set($sql);
 }
 
-function verify_auth_token() {
+function check_auth_token() {
   cleanup_auth_tokens();
   $auth_token = $_COOKIE['session_id'];
   $sql = function($conn) use ($auth_token) {
@@ -78,14 +78,21 @@ function verify_auth_token() {
     return "SELECT COUNT(1) AS count FROM auth_token WHERE token='$token' and valid_until>NOW()";
   };
   if (sql_query($sql)[0]['count'] == 0) {
-    var_dump(http_response_code(403));
-    die();
+    return FALSE;
   } else {
     $update_validity_sql = function($conn) use ($auth_token) {
       $token = mysqli_real_escape_string($conn, $auth_token);
       return "UPDATE auth_token SET valid_until=NOW()+INTERVAL 3 HOUR WHERE token='$token'";
     };
     sql_set($update_validity_sql);
+    return TRUE;
+  }
+}
+
+function verify_auth_token() {
+  if (check_auth_token() == FALSE) {
+    var_dump(http_response_code(403));
+    die();
   }
 }
 

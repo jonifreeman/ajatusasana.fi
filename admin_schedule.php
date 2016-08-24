@@ -16,9 +16,21 @@ $group_classes = query_open_group_classes();
 $new_row = array('class_type' => 'normal');
 array_push($group_classes, $new_row);
 
-// TODO access control
-
 header('Content-Type: text/html; charset=utf-8');
+
+if (check_auth_token() == FALSE) {
+  echo
+    '<div id="login">
+      <form method="POST" action="auth.php">
+      <input type="hidden" name="goto" value="/admin_schedule.php"/>
+      <div class="contact-info">Käyttäjätunnus: </div><input type="text" class="username" name="username"/>
+      <div class="contact-info">Salasana: </div><input type="password" class="password" name="password"/>
+      <input type="submit" value="Kirjaudu" />
+      </form>
+     </div>';
+  return;
+}
+
 ?>
 
 <!DOCTYPE html>

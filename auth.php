@@ -11,7 +11,7 @@ function store_auth_token($auth_token) {
   sql_set($sql);
 }
 
-function auth($username, $password) {
+function auth($username, $password, $goto) {
   $sql = function($conn) use ($username, $password) {
     $u = mysqli_real_escape_string($conn, $username);
     return "SELECT password FROM auth WHERE username='$u'";
@@ -21,7 +21,11 @@ function auth($username, $password) {
     $auth_token = md5(rand());
     store_auth_token($auth_token);
     setcookie('session_id', $auth_token);
-    header("location: ajanvaraus.html");
+    if ($goto) {
+      header("location: ".$goto);
+    } else {
+      header("location: ajanvaraus.html");
+    }
   } else {
     var_dump(http_response_code(403));
     echo "Login failed";
@@ -32,7 +36,7 @@ function auth($username, $password) {
 $method = $_SERVER['REQUEST_METHOD'];
 
 if ($method == 'POST') {
-  auth($_POST['username'], $_POST['password']);
+  auth($_POST['username'], $_POST['password'], $_POST['goto']);
 }
 
 ?>

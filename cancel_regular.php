@@ -49,7 +49,7 @@ $method = $_SERVER['REQUEST_METHOD'];
 
 header('Content-Type: application/json; charset=utf-8');
 
-// TODO access control
+verify_auth_token();
 
 if ($method == 'POST') {
   cancel($_POST['id'], $_POST['date'], $_POST['email']);
