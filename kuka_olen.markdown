@@ -1,6 +1,6 @@
 ---
 title: Kuka olen
-image: stefi3.jpg
+image: stefi4.jpg
 imagewidth: 170px
 ---
 
