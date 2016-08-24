@@ -158,9 +158,8 @@ Viikko-ohjelma
  </td>
  <td>
  <div class="session">
-  **18.00 - 19.30** <br /> <!-- <img class="signup" src="/img/signup.png"></img> -->
+  **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
   [Hidas lempeän vahvistava jooga](#hidas)
-  <div class="highlight">23.8 TÄYNNÄ</div>
  </div>
  </td>
  <td>
