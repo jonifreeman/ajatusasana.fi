@@ -50,6 +50,19 @@ function sql_set($sql) {
   mysqli_close($conn);
 }
 
+function sql_set_and_get_id($sql) {
+  global $db_server, $db_database, $db_username, $db_password;
+  
+  $conn = mysqli_connect($db_server, $db_username, $db_password, $db_database);
+  if (!$conn) {
+    internal_server_error("Connection failed: " . mysqli_connect_error());
+  }
+  mysqli_query($conn, $sql($conn)) or internal_server_error(mysqli_error($conn));
+  $id = mysqli_insert_id($conn);
+  mysqli_close($conn);
+  return $id;
+}
+
 function cleanup_auth_tokens() {
   $sql = function($conn) {
     return "DELETE FROM auth_token WHERE valid_until<NOW()";

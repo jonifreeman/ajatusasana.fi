@@ -37,10 +37,9 @@ function create_or_update_group_class() {
       return "INSERT INTO group_class(display_start, start, end, day, start_time, end_time, name, max_size, class_type, anchor, highlight) VALUES ('$ds', '$s', $e, '$d', '$st', '$et', '$n', $max, '$ct', '$a', '$h')";
     }
   };
-  sql_set($sql);
+  $gen_id = sql_set_and_get_id($sql);
 
-  // TODO mysqli_insert_id does not work
-  $group_class_id = $id ? $id : mysqli_insert_id($conn);
+  $group_class_id = $id ? $id : $gen_id;
   $regulars = explode(",", $_POST['regulars']);
   delete_regulars($group_class_id);
   foreach ($regulars as $regular) {
@@ -48,10 +47,13 @@ function create_or_update_group_class() {
       insert_regular($group_class_id, trim($regular));
     }
   }
+
+  echo '{"id":'.$group_class_id."}";
 }
 
 // TODO access control
 
+header('Content-Type: application/json; charset=utf-8');
 $method = $_SERVER['REQUEST_METHOD'];
 
 if ($method == 'POST') {

@@ -9,8 +9,15 @@ $(function() {
       var name = field.name.indexOf('type') == -1 ? field.name : 'class_type'
       data[name] = field.value
     }
-    $.post("/update_schedule.php", data, function() {
+    $.post("/update_schedule.php", data, function(resp) {
       $('#calendar').fullCalendar('refetchEvents')
+      if (_.isEmpty(groupClass.attr('data-id'))) {
+        var $newTr = $('.admin-schedule tbody tr:last').clone()
+        groupClass.attr('data-id', resp.id)
+        groupClass.find('.save').val('Tallenna')
+        $newTr.find('input[type="text"], textarea').val('')
+        $('.admin-schedule tbody').append($newTr)
+      }
       groupClass.find('td').addClass('highlight-row')
       setTimeout(function() { groupClass.find('td').removeClass('highlight-row') }, 2000)
     }).fail(function() {
