@@ -10,9 +10,11 @@ Olen jo pitkään saanut kokea joogan uudistavaa potentiaalia.
 
 Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
 
-Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
+Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ.
 
-Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. Vasta silloin ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
+Ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
+
+Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. 
 
 Voimme olla luovia jos kuuntelemme, mitä keho ja tunteet kertovat itsestä ja ympäristöstä.
 
