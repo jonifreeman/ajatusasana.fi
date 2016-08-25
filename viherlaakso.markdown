@@ -114,8 +114,8 @@ Viikko-ohjelma
  <td>
  <div class="session">
   **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Joogarentoutuskurssi Oma Voima](#joogakurssi)
-  <div class="highlight">Syyskuussa 2016</div>
+  [Keskusteleva Joogarentoutuskurssi: Oma Voima & Vapaus Kahdelle](#joogakurssi)
+  <div class="highlight">Lokakuussa 2016</div>
  </div>
  </td>
  <td></td>
@@ -160,6 +160,11 @@ Viikko-ohjelma
  <div class="session">
   **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
   [Hidas lempeän vahvistava jooga](#hidas)
+ </div>
+ <div class="session">
+  **19.45 - 21.15** <br /> <img class="signup" src="/img/signup.png"></img>
+  [Keskusteleva Joogarentoutuskurssi: Oma Voima & Vapaus Kahdelle](#joogakurssi)
+  <div class="highlight">Lokakuussa 2016</div>
  </div>
  </td>
  <td>

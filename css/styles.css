@@ -316,6 +316,7 @@ blockquote cite:before {
 }
 
 .schedule td {
+  vertical-align: top;
   border-width: 0px 1px;
   border-style: solid;
   border-color: #ffffff #98b49b;
