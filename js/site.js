@@ -52,6 +52,9 @@ function setupSignup() {
       $('.signup-popup .class-info').show()
       $('.signup-popup').find('.error').hide()
       $('.signup-popup').find('.success').hide()
+      var savedData = loadNameAndEmail()
+      $('.signup-popup').find('.name').val(savedData.name)
+      $('.signup-popup').find('.email').val(savedData.email)
 
       var classHtml = $('.signup-popup').find('.classes')
       classHtml.html('')
@@ -137,6 +140,7 @@ function setupSignup() {
       phone:   phone(),
       dates:   dates().join(',')
     }
+    saveNameAndEmail(data.name, data.email)
     $.post("signup.php", data, function() {
       $('.signup-popup').find('.main-content').hide()
       $('.signup-popup-ok').fadeIn(500)
@@ -196,4 +200,22 @@ function setupMailinglist() {
       $('.mailinglist-form .error').fadeIn(500).delay(10000).fadeOut(500)
     })
   })
+}
+
+function saveNameAndEmail(name, email) {
+  if (typeof (window.sessionStorage) != 'undefined') {
+    sessionStorage.setItem('user-data', JSON.stringify({name: name, email: email}))
+  }
+}
+
+function loadNameAndEmail() {
+  if (typeof (window.sessionStorage) != 'undefined') {
+    var data = sessionStorage.getItem('user-data')
+    if (data) {
+      try {
+        return JSON.parse(data)
+      } catch (err) {}
+    }
+  }
+  return {name: '', email: ''}
 }

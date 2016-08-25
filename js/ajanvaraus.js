@@ -24,6 +24,9 @@ $(function() {
         }
         addAppointmentPopup.formFields.start().html(times.join(''))
         addAppointmentPopup.formFields.date().html(calEvent.start.format('dd D.M'))
+        var savedData = loadNameAndEmail()
+        addAppointmentPopup.formFields.name().val(savedData.name)
+        addAppointmentPopup.formFields.email().val(savedData.email)
 
         addAppointmentPopup.open(jsEvent, {
           date: calEvent.start,
@@ -133,6 +136,7 @@ function setupAddAppointmentPopup() {
       phone: phone().val(),
       comment: comment().val()
     }
+    saveNameAndEmail(data.name, data.email)
     $.post("enrollments.php", data, function() {
       $container.find('.main-content').hide()
       $container.find('.success').fadeIn(500)
@@ -150,7 +154,7 @@ function setupAddAppointmentPopup() {
     })
   })
 
-  return setupPopup($container, validate, {start: start, date: date})
+  return setupPopup($container, validate, {start: start, date: date, name: name, email: email})
 }
 
 function setupEditTimePopup() {
@@ -240,4 +244,22 @@ function getCookie(cname) {
     }
   }
   return ""
+}
+
+function saveNameAndEmail(name, email) {
+  if (typeof (window.sessionStorage) != 'undefined') {
+    sessionStorage.setItem('user-data', JSON.stringify({name: name, email: email}))
+  }
+}
+
+function loadNameAndEmail() {
+  if (typeof (window.sessionStorage) != 'undefined') {
+    var data = sessionStorage.getItem('user-data')
+    if (data) {
+      try {
+        return JSON.parse(data)
+      } catch (err) {}
+    }
+  }
+  return {name: '', email: ''}
 }
