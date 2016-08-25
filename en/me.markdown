@@ -16,7 +16,9 @@ If we learn to relax and unwind we can better learn how to become more attuned o
 
 I used to be a University researcher but over a period of 14 years I realised that my yoga lifestyle hobby was turning into a professional calling.
 
-I took a two-year course in training to become a yoga teacher in Helsinki. Only then did I became fully aware that the process of becoming creative and productive, of taking away the barriers of stress, can be a joy and pleasure.
+Gradually I became aware that the process of becoming creative and productive, of taking away the barriers of stress, can be a joy and pleasure.
+
+I also took a two-year course in training to become a yoga teacher in Helsinki. 
 
 As a result, my company Ajatus and Asana was born in April 2013.
 
