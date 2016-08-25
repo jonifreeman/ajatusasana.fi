@@ -289,16 +289,21 @@ Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen
 16.10 Avaava Jooga & Meditaatio tuetussa istuma-asennossa (55 min + 35 min)
 
 <a id="joogakurssi"></a>
-**Keskusteleva Joogarentoutuskurssi Oma Voima**
+**Keskusteleva Joogarentoutuskurssi Oma Voima Kahdelle**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. 
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin.  Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässäViime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
-Seuraava 'Joogarentoutuskurssi Oma Voima' alkaa Syykuun 5. ja loppuu Marraskuun 28. 2016! Aina maanantaisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 29.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
+Seuraavat kurssit:
+
+Alkaa Lokakuu 3. ja loppuu Marraskuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
+
+Alkaa Lokakuu 4. ja loppuu Marraskuun 25. 2016! Aina tiistaisin klo. 19.45-21.15 Sitovat ilmoittautumiset ti 27.9 2016 mennessä. 
+
 
 <a id="keskustelevajoogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana**
 
-Kamppailetko jatkuvien kipujen kanssa? Kaipaako fyysinen kehosi rentoutumista ja hyväksyvämpää, lempeämpää mieltä? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista huolimatta fyysisen kehosi muutoksista?  Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Täällä voit heittää hyvästit entiselle ja toivottavaa uuden tervetulleeksi. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, hyväksyvän mielen, kehon tuntemusten ja tunteiden välillä! Max 4 osallistujaa. Vertaisryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi.
+Kamppailetko jatkuvien kipujen kanssa? Kaipaako fyysinen kehosi rentoutumista ja hyväksyvämpää, lempeämpää mieltä? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista huolimatta fyysisen kehosi muutoksista?  Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Täällä voit heittää hyvästit entiselle ja toivottavaa uuden tervetulleeksi. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, hyväksyvän mielen, kehon tuntemusten ja tunteiden välillä! 4 osallistujaa. Vertaisryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi.
 
 Seuraava kurssi alkaa Syykuun 7. ja loppuu Marraskuun 30. 2016! Aina keskiviikkoisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 31.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
