@@ -51,6 +51,7 @@ Viikko-ohjelma
 ==============
 
 <div class="schedule-container">
+  <div class="schedule-loading"></div>
 </div>
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)

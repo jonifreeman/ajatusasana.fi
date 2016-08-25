@@ -527,3 +527,11 @@ section {
   font-size: 12px;
   color: red;  
 }
+
+.schedule-loading {
+  background: url(/img/spinner.svg);
+  background-size: 200px 200px;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
