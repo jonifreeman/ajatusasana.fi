@@ -295,9 +295,9 @@ Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 
 
 Seuraavat kurssit:
 
-Alkaa Lokakuu 3. ja loppuu Marraskuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
+Alkaa Lokakuu 3. ja loppuu Lokakuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
 
-Alkaa Lokakuu 4. ja loppuu Marraskuun 25. 2016! Aina tiistaisin klo. 19.45-21.15 Sitovat ilmoittautumiset ti 27.9 2016 mennessä. 
+Alkaa Lokakuu 4. ja loppuu Lokakuun 25. 2016! Aina tiistaisin klo. 19.45-21.15 Sitovat ilmoittautumiset ti 27.9 2016 mennessä. 
 
 
 <a id="keskustelevajoogakurssi"></a>
