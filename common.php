@@ -113,6 +113,10 @@ function format_timestring($time) {
   }
 }
 
+function escape_brackets($s) {
+  return str_replace(">", "&gt;", str_replace("<", "&lt;", $s));
+}
+
 function mysql_date($date) {
   return date("Y-m-d", $date);
 }

@@ -50,10 +50,10 @@ $method = $_SERVER['REQUEST_METHOD'];
 
 if ($method == 'POST') {
   $start = $_POST['start'];
-  $name = $_POST['name'];
-  $email = $_POST['email'];
-  $phone = $_POST['phone'];
-  $comment = $_POST['comment'];
+  $name = escape_brackets($_POST['name']);
+  $email = escape_brackets($_POST['email']);
+  $phone = escape_brackets($_POST['phone']);
+  $comment = escape_brackets($_POST['comment']);
   add_enrollment($start, $name, $email, $phone, $comment);
 }
 

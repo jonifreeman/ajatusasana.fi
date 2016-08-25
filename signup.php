@@ -40,9 +40,9 @@ function signup() {
   $id = $_POST['course'];
   $dates = $_POST['dates'];
   $to = 'stephanie@ajatusasana.fi';
-  $name = $_POST['name'];
-  $email = $_POST['email'];
-  $phone = $_POST['phone'];
+  $name = escape_brackets($_POST['name']);
+  $email = escape_brackets($_POST['email']);
+  $phone = escape_brackets($_POST['phone']);
 
   $group_class = $id == '-1' ? $miniretreat : query_group_class($id);
   $subject = 'Ilmoittautuminen: ' . $group_class['name'];
