@@ -41,7 +41,6 @@ function formatDate(date) {
 function setupSignup() {
   $('.schedule-container').on('click', '.signup', function(e) {
     var id = $(e.currentTarget).attr('data-id')
-    // TODO add spinner (also to schedule)
     $.get('signup.php?course=' + id, function(classes) {
       $('.popup').hide()
       var time = $(e.currentTarget).parent('div').find('strong').text()

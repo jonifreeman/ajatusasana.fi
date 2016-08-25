@@ -46,10 +46,6 @@ create table if not exists group_class(
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
 
-create index class_type_index on group_class(start, class_type);
-
--- TODO check indexes!
-
 create table if not exists cancelled_class(
   group_class_id bigint(20) NOT NULL,
   when_date date NOT NULL,
@@ -85,3 +81,10 @@ create table if not exists cancelled_regular(
   FOREIGN KEY (regular_client_id) REFERENCES regular_client(id) ON DELETE CASCADE,
   FOREIGN KEY (group_class_id) REFERENCES group_class(id) ON DELETE CASCADE
 ) ENGINE=InnoDB;
+
+
+create index class_type_index on group_class(start, class_type);
+create index group_class_end on group_class(end);
+create index cancelled_class_index on cancelled_class(group_class_id, when_date);
+create index booking_index on booking(group_class_id, when_date);
+
