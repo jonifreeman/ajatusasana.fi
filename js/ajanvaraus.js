@@ -247,14 +247,14 @@ function getCookie(cname) {
 }
 
 function saveNameAndEmail(name, email) {
-  if (typeof (window.sessionStorage) != 'undefined') {
-    sessionStorage.setItem('user-data', JSON.stringify({name: name, email: email}))
+  if (typeof (window.localStorage) != 'undefined') {
+    localStorage.setItem('user-data', JSON.stringify({name: name, email: email}))
   }
 }
 
 function loadNameAndEmail() {
-  if (typeof (window.sessionStorage) != 'undefined') {
-    var data = sessionStorage.getItem('user-data')
+  if (typeof (window.localStorage) != 'undefined') {
+    var data = localStorage.getItem('user-data')
     if (data) {
       try {
         return JSON.parse(data)
