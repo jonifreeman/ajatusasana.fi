@@ -35,26 +35,43 @@
   padding: 0 5px;
 }
 
+.admin-schedule {
+  font-size: 12px;
+}
+
+.admin-schedule tr {
+  width: 100%;
+}
+
+.admin-schedule td:nth-child(1) input {
+  width: 20px;
+  display: block;
+}
+
 .admin-schedule td:nth-child(2) input {
-  width: 250px;
+  width: 210px;
 }
 
 .admin-schedule td:nth-child(3) input {
-  width: 40px;
+  width: 30px;
 }
 
 .admin-schedule td:nth-child(4) input {
   width: 40px;
 }
-.admin-schedule td:nth-child(5) input, .admin-schedule td:nth-child(6) input, .admin-schedule td:nth-child(7) input {
-  width: 120px;
+.admin-schedule td:nth-child(5) input, .admin-schedule td:nth-child(6) input {
+  width: 125px;
 }
 
-.admin-schedule td:nth-child(8) input {
+.admin-schedule td:nth-child(7) input {
   width: 20px;
 }
 
-.admin-schedule td:nth-child(10) input {
+.admin-schedule td:nth-child(8) input {
+  width: 110px;
+}
+
+.admin-schedule td:nth-child(9) input {
   width: 60px;
 }
 
