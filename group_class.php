@@ -18,8 +18,12 @@ function query_group_class($id, $date) {
 
 function query_bookings($id, $date) {
   $sql = function($conn) use ($id, $date) {
-    $d = mysqli_real_escape_string($conn, $date);
-    return "SELECT email, phone FROM booking WHERE group_class_id=$id AND when_date='$d'";
+    if ($date != NULL) {
+      $d = mysqli_real_escape_string($conn, $date);
+      return "SELECT email, phone FROM booking WHERE group_class_id=$id AND when_date='$d'";
+    } else {
+      return "SELECT email, phone FROM booking WHERE group_class_id=$id";
+    }
   };
   return sql_query($sql);
 }
@@ -40,7 +44,8 @@ function get_group_class($id, $date) {
     $group_class['regulars'] = array();
   }
 
-  $group_class['bookings'] = query_bookings($id, $date);
+  $booking_date = $group_class['class_type'] == 'course' ? NULL : $date;
+  $group_class['bookings'] = query_bookings($id, $booking_date);
   $group_class['cancellations'] = query_cancellations($id, $date);
   echo json_encode($group_class);
 }
