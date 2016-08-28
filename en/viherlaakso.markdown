@@ -136,6 +136,7 @@ Viikko-ohjelma
  <div class="session">
   **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
   [Kohti viikonloppua-teemajoogatunti](#teema)
+  <div class="highlight">Lokakuussa 2016</div>
  </div>
  </td>
  <td>
@@ -294,15 +295,15 @@ Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen
 16.10 Avaava Jooga & Meditaatio tuetussa istuma-asennossa (55 min + 35 min)
 
 <a id="joogakurssi"></a>
-**Keskusteleva Joogarentoutuskurssi Oma Voima Kahdelle**
+**Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin.  Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässäViime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin.  Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
 Seuraavat kurssit:
 
-Alkaa Lokakuu 3. ja loppuu Marraskuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
+Alkaa Lokakuu 3. ja loppuu Lokakuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
 
-Alkaa Lokakuu 4. ja loppuu Marraskuun 25. 2016! Aina tiistaisin klo. 19.45-21.15 Sitovat ilmoittautumiset ti 27.9 2016 mennessä. 
+Alkaa Lokakuu 4. ja loppuu Lokakuun 25. 2016! Aina tiistaisin klo. 19.45-21.15 Sitovat ilmoittautumiset ti 27.9 2016 mennessä. 
 
 
 <a id="keskustelevajoogakurssi"></a>
