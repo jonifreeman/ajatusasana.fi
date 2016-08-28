@@ -10,21 +10,24 @@ Olen jo pitkään saanut kokea joogan uudistavaa potentiaalia.
 
 Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
 
-Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ.
+Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
 
 Ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
-
-Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. 
 
 Voimme olla luovia jos kuuntelemme, mitä keho ja tunteet kertovat itsestä ja ympäristöstä.
 
 Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
 
+Rentouen voimme ymmärtää paremmin sosiaalisia suhteitamme ja vapautua ristiriidoista.
+
 Yritykseni Ajatus & Asana Oy syntyi Huhtikuussa 2013.
 
 Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen.
 
-Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava.
+Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. 
+
+Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava. 
+
 
 Jos kiinnostuit ja haluat tietää lisää, kysy vaan rohkeasti, sillä jooga voi olla yksi elämäsi tärkeimmmistä investoinneista!
 
