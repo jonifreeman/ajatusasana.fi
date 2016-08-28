@@ -18,9 +18,9 @@ We can be creative without stress if we learn to stay true to our body sensation
 
 If we learn to relax and unwind we can better learn how to become more attuned our real selves.
 
-When relaxed, we can also better understand our social situations and relationships, and free ourselves of possible contradictions.
+When relaxed we can also understand our social situations and relationships better, and free ourselves of possible contradictions.
 
-Whe we are comfortable in our social interactions, we have more energy to create.
+When we are comfortable in our social interactions, we have more energy for being creative.
 
 My company Ajatus and Asana was born in April 2013.
 
