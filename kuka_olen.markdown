@@ -20,6 +20,8 @@ Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
 
 Rentouen voimme myös ymmärtää paremmin sosiaalisia suhteitamme ja vapautua mahdollisista ristiriidoista.
 
+Kun sosiaalinen elämämme on tasapainoista ja ympärillämme on oikeat ihmiset, jää myös enemmän energiaa luovuudelle. 
+
 Yritykseni Ajatus & Asana Oy syntyi Huhtikuussa 2013.
 
 Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen.
