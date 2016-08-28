@@ -18,7 +18,7 @@ Voimme olla luovia jos kuuntelemme, mitä keho ja tunteet kertovat itsestä ja y
 
 Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
 
-Rentouen voimme ymmärtää paremmin sosiaalisia suhteitamme ja vapautua ristiriidoista.
+Rentouen voimme ymmärtää paremmin sosiaalisia suhteitamme ja vapautua elämän ristiriidoista.
 
 Yritykseni Ajatus & Asana Oy syntyi Huhtikuussa 2013.
 
