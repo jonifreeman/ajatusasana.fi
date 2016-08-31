@@ -321,7 +321,7 @@ Seuraava kurssi alkaa Syykuun 7. ja loppuu Marraskuun 30. 2016! Aina keskiviikko
 **LA 29.10 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
 Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
-**LA 19.11 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
-Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja minä kuuluu kaikille :)
+**LA 19.11 10.00-13.00 Oma Sosiaalinen Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja tyytyväinen minä kuuluu kaikille!
 
 
