@@ -120,11 +120,6 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td>
- <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana](#keskustelevajoogakurssi)
-  <div class="highlight">Syyskuussa 2016</div>
- </div>
  </td>
  <td>
  <div class="session">
@@ -164,8 +159,7 @@ Viikko-ohjelma
  </div>
  <div class="session">
   **19.45 - 21.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Keskusteleva Joogarentoutuskurssi: Oma Voima & Vapaus Kahdelle](#joogakurssi)
-  <div class="highlight">Lokakuussa 2016</div>
+  [Syvärentouttava avaava jooga](#yin)
  </div>
  </td>
  <td>

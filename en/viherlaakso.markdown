@@ -120,11 +120,6 @@ Viikko-ohjelma
  </td>
  <td></td>
  <td>
- <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana](#keskustelevajoogakurssi)
-  <div class="highlight">Syyskuussa 2016</div>
- </div>
  </td>
  <td>
  <div class="session">
@@ -164,8 +159,7 @@ Viikko-ohjelma
  </div>
  <div class="session">
   **19.45 - 21.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Keskusteleva Joogarentoutuskurssi: Oma Voima & Vapaus Kahdelle](#joogakurssi)
-  <div class="highlight">Lokakuussa 2016</div>
+  [Syvärentouttava avaava jooga](#yin)
  </div>
  </td>
  <td>
@@ -299,32 +293,27 @@ Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen
 
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin.  Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
 
-Seuraavat kurssit:
+Seuraava kurssi:
 
 Alkaa Lokakuu 3. ja loppuu Lokakuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
-
-Alkaa Lokakuu 4. ja loppuu Lokakuun 25. 2016! Aina tiistaisin klo. 19.45-21.15 Sitovat ilmoittautumiset ti 27.9 2016 mennessä. 
 
 
 <a id="keskustelevajoogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana**
 
-Kamppailetko jatkuvien kipujen kanssa? Kaipaako fyysinen kehosi rentoutumista ja hyväksyvämpää, lempeämpää mieltä? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista huolimatta fyysisen kehosi muutoksista?  Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Täällä voit heittää hyvästit entiselle ja toivottavaa uuden tervetulleeksi. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, hyväksyvän mielen, kehon tuntemusten ja tunteiden välillä! 4 osallistujaa. Vertaisryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi.
+Kamppailetko jatkuvien kipujen kanssa? Kaipaako fyysinen kehosi rentoutumista ja hyväksyvämpää, lempeämpää mieltä? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista huolimatta fyysisen kehosi muutoksista?  Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Täällä voit heittää hyvästit entiselle ja toivottavaa uuden tervetulleeksi. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, hyväksyvän mielen, kehon tuntemusten ja tunteiden välillä! 4 osallistujaa. Vertaisryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. Ota yhteyttä niin koootaan sopiva neljän hengen porukka yhteen!
 
-Seuraava kurssi alkaa Syykuun 7. ja loppuu Marraskuun 30. 2016! Aina keskiviikkoisin klo. 16.45-18.15. Kokoonnumme yhteensä 13 kertaa aina 90 min kerrallaan. Hinta 3 kuukaudelta yht. 330 €. Voit maksaa laskun kahdessa erässä. Sitovat ilmoittautumiset 31.8 2016 mennessä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
+
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 17.9 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
-Meissä kaikissa asuun monta puolta: feminiini, maskuliini ja androgyyni. Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
+**LA 29.10 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
+Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
-**LA 29.10 klo. 10.00-13.00 Hyvästit kiukulle -tervetuloa rakkaus, huumori ja ilo**
-Jokainen tuntee välillä kiukkua, pientä tai suurta. Kehon ja mielen hyvinvoinnin kannalta on tärkeää puhdistaa koko olemus, ja sen jälkeen täytttää se hyvällä energialla. Teemme hauskoja kiukunpurkamisharjoituksia joogan ja muiden kehollisten tekniikoiden avulla. Kun keho & mieli on tyhjennetty, täytämme itsemme joogaharjoituksella, joka on täynnä lempeyttä, positiivisuutta ja tervettä itserakkautta.
-
-**LA 19.11 10.00-13.00 Oma Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
-Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja minä kuuluu kaikille :)
+**LA 19.11 10.00-13.00 Oma Sosiaalinen Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja tyytyväinen minä kuuluu kaikille!
 
 
