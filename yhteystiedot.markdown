@@ -36,6 +36,10 @@ UUDET RAIKKAAT TOIMITILAT saman kadun varressa kuin entiset tilat: Kavallinmäki
 <div>
 <image src="/img/ajatusasana_uusi.jpg"/>
 </div>
+<div style="text-align:center;">
+<image style="width:250px;" src="/img/viher1.jpg"/>
+<image style="width:250px;" src="/img/viher2.jpg"/>
+</div>
 <div class="tilat">
 </div>
 
