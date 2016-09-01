@@ -16,9 +16,9 @@ Prices:
 
 1 session 90 €
 
-2 sessions 150 €
+2 sessions 160 €
 
-3 sessions 200 €
+3 sessions 220 €
 
 All prices include communication outside the lesson. If you have any questions etc., just write an email or give me a call. Speaking out your mind is never a waste of time.
 
