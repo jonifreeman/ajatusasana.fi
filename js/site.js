@@ -38,6 +38,11 @@ function formatDate(date) {
   return day + '.' + month
 }
 
+function formatTime(t) {
+  var parts = t.split(':')
+  return parts[0] + ':' + parts[1]
+}
+
 function setupSignup() {
   $('.schedule-container').on('click', '.signup', function(e) {
     var id = $(e.currentTarget).attr('data-id')
@@ -60,7 +65,8 @@ function setupSignup() {
       classHtml.html('')
       for (var i = 0; i < classes.length; ++i) {
         var group_class = classes[i]
-        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + formatDate(group_class.date) + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span><span class="date-info">' + (group_class.info || '') + '</span></div>')
+        var dateString = group_class.start_time ? (formatDate(group_class.date) + " klo " + formatTime(group_class.start_time) + "-" + formatTime(group_class.end_time)) : formatDate(group_class.date)
+        var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + dateString + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span><span class="date-info">' + (group_class.info || '') + '</span></div>')
         if (group_class.cancelled) {
           $row.addClass("disabled")
           $row.find('input').attr("disabled", true)

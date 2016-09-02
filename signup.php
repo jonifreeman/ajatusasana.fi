@@ -128,6 +128,8 @@ function get_miniretreats() {
     $data = array(
       'date' => $date,
       'info' => $miniretreat['name'],
+      'start_time' => $miniretreat['start_time'],
+      'end_time' => $miniretreat['end_time'],
       'available' => $miniretreat['max_size'] - $bookings
     );
     array_push($availability, $data);
