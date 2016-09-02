@@ -62,14 +62,15 @@ function signup() {
   // TODO response JSON with validation info
   echo '{}';
 
-  $message = 'Kurssi: ' . $group_class['name'] . "\r\n\r\nNimi: " . $name . "\r\n\r\nEmail: " . $email . "\r\n\r\nPuh: " . $phone;
+  $dates_formatted = join(', ', array_map(function($date) { return human_day(new DateTime($date)); }, $datesArray));
+
+  $message = 'Kurssi: ' . $group_class['name'] . " (" . $group_class['day'] . " klo " . $group_class['start_time'] . ")\r\n\r\nPäivät: " . $dates_formatted . "\r\n\r\nNimi: " . $name . "\r\n\r\nEmail: " . $email . "\r\n\r\nPuh: " . $phone;
   $headers = 'From: webmaster@ajatusasana.fi' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
   mail($to, $subject, $message, $headers);
 
   if (isset($email)) {
-    $dates_formatted = join(', ', array_map(function($date) { return human_day(new DateTime($date)); }, $datesArray));
     $variables = array("course" => $group_class['name'], "dates" => $dates_formatted);
     $html = file_get_contents("mail/kiitos_ilmoittautuminen.html");
 
