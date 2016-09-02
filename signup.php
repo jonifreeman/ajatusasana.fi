@@ -94,7 +94,7 @@ function signup() {
 
     $message .= $html;
 
-    //mail('', 'Ajatus & Asana, varaus', $message, $headers);
+    mail('', 'Ajatus & Asana, varaus', $message, $headers);
   }
 }
 
