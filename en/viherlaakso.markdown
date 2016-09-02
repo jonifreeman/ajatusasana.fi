@@ -2,15 +2,24 @@
 title: Viherlaakso / Leppävaara / Espoo
 ---
 
+<script type="text/javascript">
+  $.get("/schedule.php", function(data) {
+    $(".schedule-container").html(data)
+  })
+</script>
+
 <div class="popup signup-popup">
 <div class="popup-content">
  <img class="close" src="/img/popup_close.png" />
  <h2>Ilmoittautuminen</h2>
  <div class="course"></div>
  <div class="main-content">
+  <input type="hidden" class="course-id" name="course-id" value="" />
   <div class="contact-info">Nimi: </div><input type="text" name="name" class="name" />
   <div class="contact-info">Sähköposti: </div><input type="text" name="email" class="email" />
   <div class="contact-info">Puhelin: </div><input type="text" name="phone" class="phone" />
+  <div class="class-info">Voit ilmoittautua kerralla useamman viikon tunneille:</div>
+  <div class="classes"></div>
   <div class="error">Ilmoittautuminen epäonnistui. Yritä hetken kuluttua uudestaan.</div>
   <input class="signup-button" type="button" value="Ilmoittaudu" />
  </div>
@@ -42,145 +51,7 @@ Viikko-ohjelma
 ==============
 
 <div class="schedule-container">
-<table class="schedule">
-<thead>
-<tr>
- <th>Ma</th>
- <th>Ti</th>
- <th>Ke</th>
- <th>To</th>
- <th>Pe</th>
- <th>La</th>
- <th>Su</th>
-</tr>
-</thead>
-
-<tbody>
-<!-- ~8:00 -->
-<tr>
- <td></td>
- <td></td>
- <td>
- </td>
- <td></td>
- <td></td>
- <td>
- </td>
- <td></td>
-</tr>
-
-<!-- ~11:00 -->
-<tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td>
- </td>
- <td>
- <div class="course">
-  **12.30 - 14.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana avajaiset 3.9.: Lempeän vahvistava dynaaminen jooga](#vahvistava)
- </div>
-<!--
- <div class="course">
-  <img class="signup" src="/img/signup.png"></img>
-  [Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa](#retriitti)
- </div>
--->
- </td>
- <td>
- <div class="course">
-  Teematapahtumia
- </div>
- </td>
-</tr>
-
-<!-- ~14:00 -->
-<tr>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td></td>
- <td>
- </td>
- <td>
- </td>
-</tr>
-
-<!-- ~17:00 -->
-<tr>
- <td>
- <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Keskusteleva Joogarentoutuskurssi: Oma Voima & Vapaus Kahdelle](#joogakurssi)
-  <div class="highlight">Lokakuussa 2016</div>
- </div>
- </td>
- <td></td>
- <td>
- </td>
- <td>
- <div class="session">
-  **16.45 - 18.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava dynaaminen jooga](#vahvistava)
- </div>
- </td>
- <td>
- <div class="session">
-  **17.30 - 19.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Kohti viikonloppua-teemajoogatunti](#teema)
-  <div class="highlight">Lokakuussa 2016</div>
- </div>
- </td>
- <td>
- <div class="course">
-  **15.00 - 16.30** <br />
-  [Ajatus & Asana avajaiset 3.9.: Syvärentouttava avaava jooga](#yin)
-  <div style="color: red;">TÄYNNÄ</div>
- </div>
- </td>
- <td></td>
-</tr>
-
-<!-- ~18:00 -->
-<tr>
- <td>
- <div class="session">
-  **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Lempeän vahvistava dynaaminen jooga](#vahvistava)
- </div>
- </td>
- <td>
- <div class="session">
-  **18.00 - 19.30** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Hidas lempeän vahvistava jooga](#hidas)
- </div>
- <div class="session">
-  **19.45 - 21.15** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Syvärentouttava avaava jooga](#yin)
- </div>
- </td>
- <td>
- <div class="session">
-  **18.30-20.00** <br /> <img class="signup" src="/img/signup.png"></img>
-  [Syvärentouttava avaava jooga](#yin)
- </div>
- </td>
- <td>
- <div class="session">
- **18.30 - 20.00** <br /> <img class="signup" src="/img/signup.png"></img>
- [Syvärentouttava avaava jooga](#yin)
- </div>
- </td>
- <td></td>
- <td></td>
- <td></td>
-</tr>
-</tbody>
-
-</table>
+  <div class="schedule-loading"></div>
 </div>
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi)
@@ -291,12 +162,13 @@ Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin.  Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla.
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin.  Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. 
 
 Seuraava kurssi:
 
 Alkaa Lokakuu 3. ja loppuu Lokakuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
 
+Huom! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
 <a id="keskustelevajoogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana**
