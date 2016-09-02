@@ -1,3 +1,7 @@
+.popup {
+  width: 350px !important;
+}
+
 .group-class-popup h3 {
   font-weight: bold;
   margin: 20px 0 4px 0;
