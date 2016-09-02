@@ -1,6 +1,6 @@
 ---
 title: Kuka olen
-image: stefi3.jpg
+image: stefi4.jpg
 imagewidth: 170px
 ---
 
@@ -12,17 +12,24 @@ Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edel
 
 Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
 
-Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. Vasta silloin ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
+Ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
 
 Voimme olla luovia jos kuuntelemme, mitä keho ja tunteet kertovat itsestä ja ympäristöstä.
 
 Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
 
+Rentouen voimme myös ymmärtää paremmin sosiaalisia suhteitamme ja vapautua mahdollisista ristiriidoista.
+
+Kun sosiaalinen elämämme on tasapainoista ja ympärillämme ovat oikeat ihmiset, jää myös enemmän energiaa luovalle toiminnalle. 
+
 Yritykseni Ajatus & Asana Oy syntyi Huhtikuussa 2013.
 
 Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen.
 
-Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava.
+Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. 
+
+Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava. 
+
 
 Jos kiinnostuit ja haluat tietää lisää, kysy vaan rohkeasti, sillä jooga voi olla yksi elämäsi tärkeimmmistä investoinneista!
 

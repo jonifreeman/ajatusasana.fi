@@ -16,14 +16,14 @@ Hinta:
 
  1 krt   90 €
 
- 2 krt  150 €
+ 2 krt  160 €
 
- 3 krt  200 €
+ 3 krt  220 €
 
 
 Kuuntelen sinua koko kehollani!
 
-Kaikkiin hintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
+Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
 
 Kysy rohkasti lisää!
 

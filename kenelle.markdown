@@ -10,13 +10,13 @@ syventää ymmärrystä itsestäsi ja maailmastasi
 
 oppia joogaamaan ajasta ja paikasta riippumatta
 
-löytää elinikäisiä työvälineitä emotionaalisen stressin hallintaan
+löytää elinikäisiä työvälineitä emotionaalisen ja sosiaalisen elämän hallintaan
 
 rentoutta, iloa, inspiraatiota ja luovuutta elämääsi
 
 yksilöllistä (jooga/kehomielen) valmennusta 
 
-yksilön huomioivaa ohjausta pienryhmässä (max 8 hlö per tunti)
+yksilön huomioivaa ohjausta pienryhmässä (max 6 hlö per tunti)
 
 
 Vastaan mielelläni kysymyksiisi!
