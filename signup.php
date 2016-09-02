@@ -11,7 +11,7 @@ function query_group_class($id) {
 
 function query_miniretreats() {
   $sql = function($conn) use ($id) {
-    return "SELECT * FROM group_class WHERE class_type = 'miniretreat' and start>now()";
+    return "SELECT * FROM group_class WHERE class_type = 'miniretreat' and start>now() order by start";
   };
   return sql_query($sql);
 }
