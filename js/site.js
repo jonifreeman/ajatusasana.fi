@@ -46,7 +46,7 @@ function formatTime(t) {
 function setupSignup() {
   $('.schedule-container').on('click', '.signup', function(e) {
     var id = $(e.currentTarget).attr('data-id')
-    $.get('signup.php?course=' + id, function(classes) {
+    $.get('/signup.php?course=' + id, function(classes) {
       $('.popup').hide()
       var time = $(e.currentTarget).parent('div').find('strong').text()
       var course = $(e.currentTarget).next().text()
@@ -147,7 +147,7 @@ function setupSignup() {
       dates:   dates().join(',')
     }
     saveNameAndEmail(data.name, data.email)
-    $.post("signup.php", data, function() {
+    $.post("/signup.php", data, function() {
       $('.signup-popup').find('.main-content').hide()
       $('.signup-popup-ok').fadeIn(500)
     })
