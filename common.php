@@ -100,6 +100,10 @@ function human_date($date) {
   return $date->format('d.m.Y H:i');
 }
 
+function human_day($date) {
+  return $date->format('d.m.');
+}
+
 function human_time($date) {
   return $date->format('H:i');
 }

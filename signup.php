@@ -66,11 +66,11 @@ function signup() {
   $headers = 'From: webmaster@ajatusasana.fi' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-  // TODO enable mails
-  //mail($to, $subject, $message, $headers);
+  mail($to, $subject, $message, $headers);
 
   if (isset($email)) {
-    $variables = array("course" => $group_class['name']);
+    $dates_formatted = join(', ', array_map(function($date) { return human_day(new DateTime($date)); }, $datesArray));
+    $variables = array("course" => $group_class['name'], "dates" => $dates_formatted);
     $html = file_get_contents("mail/kiitos_ilmoittautuminen.html");
 
     foreach($variables as $key => $value) {
