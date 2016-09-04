@@ -37,15 +37,6 @@ title: Viherlaakso / Leppävaara / Espoo
  </div>
 </div>
 
-Ajatus & Asana Viherlaakson uusien toimitilojen avajaiset la 3.9 2016
-=====================================================================
-
-<div class="ale">
-Ilmoittaduthan pian, sillä paikkoja rajoitettu määrä. Katso [esite](/img/ajatusasana_uusi.jpg).
-
-Ennakkoilmoittautumiset alla olevasta viikkokalenterista tai [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) / 040 522 4889
-
-</div>
 
 Viikko-ohjelma
 ==============
