@@ -142,9 +142,14 @@ function get_miniretreats() {
 function get_classes($id) {
   $group_class = query_group_class($id);
   $now = time();
-  $start_date = ($now > strtotime($group_class['start']) && $group_class['class_type'] != 'course') ? strtotime('next '.$group_class['day'], $now) : strtotime($group_class['start']);
-  if (date('Ymd') == date('Ymd', $group_class['start'])) {
-    $start_date = $now;
+  if ($now > strtotime($group_class['start']) && $group_class['class_type'] != 'course') {
+    if (strtolower(date('D', $now)) == $group_class['day']) {
+      $start_date = $now;
+    } else {
+      $start_date = strtotime('next '.$group_class['day'], $now);
+    }
+  } else {
+    $start_date = strtotime($group_class['start']);
   }
   $next_class = mysql_date($start_date);
   $cancellations = query_group_class_cancellations($id);
