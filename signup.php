@@ -143,6 +143,9 @@ function get_classes($id) {
   $group_class = query_group_class($id);
   $now = time();
   $start_date = ($now > strtotime($group_class['start']) && $group_class['class_type'] != 'course') ? strtotime('next '.$group_class['day'], $now) : strtotime($group_class['start']);
+  if (date('Ymd') == date('Ymd', $group_class['start'])) {
+    $start_date = $now;
+  }
   $next_class = mysql_date($start_date);
   $cancellations = query_group_class_cancellations($id);
   $dates = array($next_class);
