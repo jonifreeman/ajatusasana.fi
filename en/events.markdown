@@ -20,7 +20,7 @@ In the course of their visit Brian and his wife Francoise offered a unique Katsa
 
 Please make your inquiries with Stephanie (0405224889) [stephanie@ajatusasana.fi](stephanie@ajatusasana.fi). If your English is not so good she is available as a translator.
 
-More information:[www.briansnellgrove.net](http://www.briansnellgrove.net). STAY TUNED FOR MORE OF BRIAN & FRANCOISE IN FINLAND IN 2017 - IN COLLABORATION WITH AJATUS & ASANA.
+STAY TUNED FOR MORE OF BRIAN & FRANCOISE IN FINLAND IN 2017 - IN COLLABORATION WITH AJATUS & ASANA.
 
 <p><p>
 
