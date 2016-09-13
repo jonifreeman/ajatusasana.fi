@@ -20,7 +20,7 @@ Vierailunsa yhteydessä, Brian ja hänen vaimonsa Francoise, tarjosivat uniikin 
 
 Varaathan aikasi Stephanielta (0405224889) [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) jos kiinnostuit. Jos englanninkielesi ei ole kovin vahva, Stephanie voi tarpeen tullen toimia kielenkääntäjänä.
 
-Lisätietoja: [www.briansnellgrove.net](http://www.briansnellgrove.net). PYSYTHÄN KUULOLLA: LISÄÄ BRIANIA & FRANCOISEA TIEDOSSA TYÖPAJAN MUODOSSA VUONNA 2017- YHTEISTYÖSSÄ AJATUS & ASANAN KANSSA!
+PYSYTHÄN KUULOLLA: LISÄÄ BRIANIA & FRANCOISEA TIEDOSSA TYÖPAJAN MUODOSSA VUONNA 2017- YHTEISTYÖSSÄ AJATUS & ASANAN KANSSA!
 
 <p><p>
 
