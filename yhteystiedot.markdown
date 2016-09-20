@@ -33,9 +33,6 @@ Kysy CV:tä.
 
 UUDET RAIKKAAT TOIMITILAT saman kadun varressa kuin entiset tilat: Kavallinmäki 15 (3. krs. Vanhalta Turuntieltä katsottuna,  mutta sisäänkäynti Kavallinmäen puolelta A-rapusta, yhdet rappuset ylös, ovesta sisää, 3. ovi oikealla). Talon edessä olevalla parkkipaikalla on hyvin tilaa iltaisin. Voit myös käyttää Elokuun loppuun asti vanhaa yläparkkista. Julkisen liikenteeen käyttäjät pääsevät Leppävaarasta busseilla 21 ja 29 ja Helsingistä bussilla 270.
 
-<div>
-<image src="/img/ajatusasana_uusi.jpg"/>
-</div>
 <div style="text-align:center;">
 <image style="width:250px;" src="/img/viher1.jpg"/>
 <image style="width:250px;" src="/img/viher2.jpg"/>
