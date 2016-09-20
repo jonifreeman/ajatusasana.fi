@@ -9,6 +9,8 @@ Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta voimasta ja potentiaali
 Miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kaikkien asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. Tule kokeilemaan vaikkapa pienellä ystäväporukalla! Hinta rippuu osallistujamäärästä. 
 
 Kysy rohkeasti lisää!
+
 Stephanie Freeman, Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
+
 stephanie@ajatusasana.fi 0405224889
 
