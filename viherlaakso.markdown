@@ -57,7 +57,6 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
  
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
 * [Keskusteleva Joogarentoutus](rentoutus.html)
-* [Tule tutuksi-jooga](tule_tutuksi.html)
 * [Joogarentoutuskurssi Oma Voima](#joogakurssi)
 
 <div class="prices">
@@ -87,7 +86,8 @@ Yksityistunnit / -ryhmät
 -----      ------------------------
 90 min     120 € (ryhmät)
            110 € (yksityistunti yhdelle)
-           -----      ------------------------
+           
+-----      ------------------------
 
 Sarjakortit
 -----------
@@ -147,6 +147,7 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 Ihana tapa laskeutua viikonloppuun. Vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan erikseen. Tulevia teematunnit: 
 pe 7.10 Pitkä ja vahva selkä & Yoga Nidra rentoutus
 pe 21.10 Aivoja stimuloiva jooga & lempeä meditaatio tuetussa istuma-asennossa (55 min + 35 min)
+pe 11.11 Tasapaino
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
@@ -164,10 +165,13 @@ Huom! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille so
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 29.10 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
+**LA 29.10 2016 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
 Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
 
-**LA 19.11 10.00-13.00 Oma Sosiaalinen Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
+**LA 19.11 2016 klo. 10.00-13.00 Oma Sosiaalinen Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
 Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja tyytyväinen minä kuuluu kaikille!
+
+**LA 21.1 2017  klo. 10.00-13.0 Pari(skunta) Jooga: Yhdessä hyvä mieli**
+Teemme mukavia lempeitä, vahvoja & yksinkertaisia jooga, meditaatio & rentoutumisharjoituksia yksin ja yhdessä oman parin kanssa. Ei tarvitse osata mitään etukäteen!  
 
 
