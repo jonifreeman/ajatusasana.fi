@@ -85,9 +85,7 @@ Yksityistunnit / -ryhmät
 
 -----      ------------------------
 90 min     120 € (ryhmät)
-
            110 € (yksityistunti yhdelle)
-           
 -----      ------------------------
 
 Sarjakortit

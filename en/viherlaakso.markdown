@@ -57,7 +57,6 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
  
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
 * [Keskusteleva Joogarentoutus](rentoutus.html)
-* [Tule tutuksi-jooga](tule_tutuksi.html)
 * [Joogarentoutuskurssi Oma Voima](#joogakurssi)
 
 <div class="prices">
@@ -86,8 +85,7 @@ Yksityistunnit / -ryhmät
 
 -----      ------------------------
 90 min     120 € (ryhmät)
-            90 € (yksityistunti yhdelle)
-           100 € (yksityistunti kahdelle)
+           110 € (yksityistunti yhdelle)
 -----      ------------------------
 
 Sarjakortit
@@ -145,10 +143,9 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 <a id="teema"></a>
 **Kohti viikonloppua-teemajoogatunti**
 
-Ihana tapa laskeutua viikonloppuun. Joka viikko vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan aina viikon alussa. Tulevia teematunnit: 
-26.8 Vahva ja eloisa rintaranka ja sydänkeskus
-9.10 Jooga & pitkä Yoga Nidra rentoutus
-16.10 Avaava Jooga & Meditaatio tuetussa istuma-asennossa (55 min + 35 min)
+Ihana tapa laskeutua viikonloppuun. Vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan erikseen. Tulevia teematunnit: 
+pe 7.10 Pitkä ja vahva selkä & Yoga Nidra rentoutus
+pe 21.10 Aivoja stimuloiva jooga & lempeä meditaatio tuetussa istuma-asennossa (55 min + 35 min)
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
@@ -160,13 +157,6 @@ Seuraava kurssi:
 Alkaa Lokakuu 3. ja loppuu Lokakuun 24. 2016! Aina maanantaisin klo. 16.45-18.15 Sitovat ilmoittautumiset ma 26.9 2016 mennessä. 
 
 Huom! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
-
-<a id="keskustelevajoogakurssi"></a>
-**Keskusteleva Joogarentoutuskurssi: Hyväksyvä keho ja mieli elämän voimavarana**
-
-Kamppailetko jatkuvien kipujen kanssa? Kaipaako fyysinen kehosi rentoutumista ja hyväksyvämpää, lempeämpää mieltä? Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista huolimatta fyysisen kehosi muutoksista?  Tule 3 kk kestävälle joogarentoutuskurssille rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Täällä voit heittää hyvästit entiselle ja toivottavaa uuden tervetulleeksi. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä. Löydä yhteys inspiraation, kommmunikaation, hyväksyvän mielen, kehon tuntemusten ja tunteiden välillä! 4 osallistujaa. Vertaisryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi. Ota yhteyttä niin koootaan sopiva neljän hengen porukka yhteen!
-
-
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
