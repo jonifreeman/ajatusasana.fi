@@ -70,7 +70,7 @@ function setupSignup() {
         if (group_class.cancelled) {
           $row.addClass("disabled")
           $row.find('input').attr("disabled", true)
-          $row.find('.cancellation-reason').text(group_class.reason)
+          $row.find('.cancellation-reason').text(group_class.reason || '')
           $row.find('.booking-attention').remove()
         }
         else if (group_class.available < 1) {
