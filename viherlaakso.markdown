@@ -147,7 +147,8 @@ Ihana tapa laskeutua viikonloppuun. Vaihtuva iloinen kehon ja mielen jooga tai m
 pe 7.10 Pitkä ja vahva selkä & Yoga Nidra rentoutus
 pe 21.10 Aivoja stimuloiva jooga & lempeä meditaatio tuetussa istuma-asennossa (55 min + 35 min)
 pe 11.11 Tasapaino
-pe 25.11 Kundalinin valo ja voima
+pe 25.11 Kehon kiertoliikket: potkua aineenvaihduntaan
+pe 9.12 Valo ja voima: puhdistava lempeä tulihengitys, syvä lempeä joogahengitys & ihanat lempeän voimalliset asanat
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
