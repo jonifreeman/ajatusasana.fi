@@ -1,8 +1,8 @@
 ---
 title: Muita tapahtumia
-image: brian-snellgrove.jpg
-imagewidth: 170px
 ---
+**Menneet tapahtumat**
+
 
 Miten pysyä mieleltään terveenä tässä hullussa maailmassa?
 ==========================================================
@@ -18,9 +18,6 @@ Englanninkielinen luento pidettiin Torstaina 16. Kesäkuuta 2016 klo. 19.00 Ajat
 
 Vierailunsa yhteydessä, Brian ja hänen vaimonsa Francoise, tarjosivat uniikin Katsastus palvelun, jossa sait yksityiskohtaisen ja analyyttisen luennan omasta aurastasi. Brian on tehnyt 40 vuoden työuransa aikana yli 25,000 henkilökohtaista energialuentaa, ja hänellä on ilmiömäinen taito löytää ne asiat, joihin kiinnittämällä huomiota voit syventää itsetuntemustasi ja kasvaa ihmisenä.
 
-Varaathan aikasi Stephanielta (0405224889) [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) jos kiinnostuit. Jos englanninkielesi ei ole kovin vahva, Stephanie voi tarpeen tullen toimia kielenkääntäjänä.
-
-PYSYTHÄN KUULOLLA: LISÄÄ BRIANIA & FRANCOISEA TIEDOSSA TYÖPAJAN MUODOSSA VUONNA 2017- YHTEISTYÖSSÄ AJATUS & ASANAN KANSSA!
 
 <p><p>
 
