@@ -10,7 +10,7 @@ Olen jo pitkään saanut kokea joogan uudistavaa potentiaalia.
 
 Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
 
-Olin pitkään Yliopistotutkijana, mutta 14 vuoden aikana rakkaasta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
+Olin pitkään Yliopistotutkijana, mutta rakkaasta pitkä-aikaisesta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
 
 Ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistaminen - voi olla myös nautinnollinen oppimiskokemus.
 
@@ -28,7 +28,7 @@ Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutu
 
 Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä. 
 
-Joogaan ja ihmistieteisiin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava. 
+Joogaan, elävään elämään ja ihmistieteelliseenkin (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava. 
 
 
 Jos kiinnostuit ja haluat tietää lisää, kysy vaan rohkeasti, sillä jooga voi olla yksi elämäsi tärkeimmmistä investoinneista!
@@ -44,4 +44,3 @@ Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-j
 
 [Julkaisut](/julkaisut.html)
 
-<iframe width="854" height="510" src="https://www.youtube.com/embed/YC8UwBy42Ro" frameborder="0" allowfullscreen></iframe>
