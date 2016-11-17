@@ -10,7 +10,7 @@ For a long time now I have realised the transformative power of yoga.
 
 The good news is that process of becoming creative and productive does not have to involve anguish or emotional anxiety.
 
-I used to be a University researcher but over a period of 14 years I realised that my yoga lifestyle hobby was turning into a professional calling. 
+I used to be a University researcher but my long-lasting yoga lifestyle hobby was turning into a professional calling. 
 
 Gradually I became aware that the process of becoming creative and productive, of taking away the barriers of stress, can be a joy and pleasure.
 
