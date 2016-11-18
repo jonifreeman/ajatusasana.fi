@@ -20,7 +20,7 @@ Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
 
 Rentouen voimme myös ymmärtää paremmin sosiaalisia suhteitamme ja vapautua mahdollisista ristiriidoista.
 
-Kun sosiaalinen elämämme on tasapainoista ja ympärillämme ovat oikeat ihmiset, jää myös enemmän energiaa luovalle toiminnalle. 
+Kun sosiaalinen elämämme on tasapainoista ja ympärillämme ovat oikeat ihmiset, jää myös enemmän energiaa luovalle toiminnalle, ja avaran maailmankaikkeuden ihmettelylle. 
 
 Yritykseni Ajatus & Asana Oy syntyi Huhtikuussa 2013.
 
