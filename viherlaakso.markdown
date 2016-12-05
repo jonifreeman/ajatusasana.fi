@@ -162,13 +162,8 @@ Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Huom! Järjestän kursseja
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 29.10 2016 klo. 10.00-13.00 Naiseuden Ylistys Jooga: Lantio luovuuden lähteenä.** 
-Miten jooga ja somaattiset  meditaatioharjoitukset voivat valaista ja tukea naiseutta? Mitä naiseus tarkoittaa sinulle? Liikettä, liikkumattomuutta, keskustelua & rentoutumista. 
-
-**LA 19.11 2016 klo. 10.00-13.00 Oma Sosiaalinen Napa- Kehon ja Mielen Voimakeskus. Tasapainoinen solar plexus**
-Aurinkoinen itsetunnon ja kehon kohotusharjoitus. Lähestymmme napakeskusta eri näkökulmista joogan, meditaation ja rentoutumisen kautta. Iloinen vatsa ja tyytyväinen minä kuuluu kaikille!
-
 **LA 21.1 2017  klo. 10.00-13.0 Pari(skunta) Jooga: Yhdessä hyvä mieli**
 Teemme mukavia lempeitä, vahvoja & yksinkertaisia jooga, meditaatio & rentoutumisharjoituksia yksin ja yhdessä oman parin kanssa. Ei tarvitse osata mitään etukäteen!  
 
-
+**LA 4.2 klo. 10.00-13.00 Hengitellen vapautta elämään** 
+Tämä 3-tuntinen alkaa lempeällä virtaavalla kehoa avaavalla joogaharjoituksella, jonka jälkeen keskitymme 90 min kestävään ohjattuun hengitysharjoitukseen, joka tapahtuu mukavasti selinmakuulla. Lempeä oman hengityksen tarkkailu voi avata kehon ja mielen lukkoja, ja tehdä näkyväksi asioita, jotka ehkä muuten jäisivät taka-alalle. Anna omalle hengityksellesi mahdollisuus uudenlaiseen elämäntarinaan!
