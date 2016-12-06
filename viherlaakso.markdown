@@ -155,7 +155,7 @@ pe 9.12 Valo ja voima: puhdistava lempeä tulihengitys, syvä lempeä joogahengi
 
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. 
 
-Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Huom! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
+Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
@@ -165,5 +165,5 @@ Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Huom! Järjestän kursseja
 **LA 21.1 2017  klo. 10.00-13.0 Pari(skunta) Jooga: Yhdessä hyvä mieli**
 Teemme mukavia lempeitä, vahvoja & yksinkertaisia jooga, meditaatio & rentoutumisharjoituksia yksin ja yhdessä oman parin kanssa. Ei tarvitse osata mitään etukäteen!  
 
-**LA 4.2 klo. 10.00-13.00 Hengitellen vapautta elämään** 
+**LA 4.2 klo. 10.00-13.00 Hengitellen vapautta ja iloa elämään** 
 Tämä 3-tuntinen alkaa lempeällä virtaavalla kehoa avaavalla joogaharjoituksella, jonka jälkeen keskitymme 90 min kestävään ohjattuun hengitysharjoitukseen, joka tapahtuu mukavasti selinmakuulla. Lempeä oman hengityksen tarkkailu voi avata kehon ja mielen lukkoja, ja tehdä näkyväksi asioita, jotka ehkä muuten jäisivät taka-alalle. Anna omalle hengityksellesi mahdollisuus uudenlaiseen elämäntarinaan!
