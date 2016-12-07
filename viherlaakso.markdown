@@ -160,6 +160,7 @@ Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Järjestän kursseja myös
 <a id="jooganalkeet"></a>
 **Joogan ja rentoutumisen alkeet**
 
+Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. Sopii kaikille itsensä hoitamisesta kiinnostuneille. Saat mukaasi myös kirjallisen miniharjoituksen kuvineen ja ohjeineen, jotta voit jatkaa tutustumista joogaan itsenäisesti kotona tai matkalla - missä ikinä liikutkin! Kurssin hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. 
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
