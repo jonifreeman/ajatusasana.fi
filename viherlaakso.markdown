@@ -157,6 +157,10 @@ Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 
 
 Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
+<a id="jooganalkeet"></a>
+**Joogan ja rentoutumisen alkeet**
+
+
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
 
