@@ -45,7 +45,7 @@ Viikko-ohjelma
   <div class="schedule-loading"></div>
 </div>
 
-Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) Kalenteri näyttää kun paikkoja on jäljellä enää 2 tai 1, ja kun sen on täynnä. Jos tunnin päällä on viiva, tuntia ei pidetä. 
+Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) Kalenteri näyttää kun paikkoja on jäljellä enää 2 tai 1, ja kun se on täynnä. Jos tunnin päällä on viiva, tuntia ei pidetä. 
 
 Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki joogatunnit ovat pituudeltaan 90 min, jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin.  Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Tässä tapauksessa tulee sinun ainoastaan ilmoittaa kun et pääse, kuitenkin viimeistään klo. 12.00 samana päivänä. Jos ilmoittaudut aina erikseen viikkotunneille, etkä jostain syystä pääsekään, tulee sinun peruttaa tunti vähintään 4 tuntia ennen tunnin alkua (jotta paikka vapautuu toiselle). Kaikista peruttamattomissta tunneista ja viime hetken perumisista veloitetaan kertakäyntimaksu. Kaikki viikkotunnit ovat pienryhmätunteja (max 6 osallistujaa). Vähimmäisosallistujamäärä pienryhmätunneille on 2 henkilöä. Jos olet ainoa tunnille tulija, voit halutessa kyllä tulla, mutta yksityistuntimaisen luonteen takia, tulee sinun maksaa tunnista tuplahinta. Voit myös vaihtoehtoisesti ottaa ystävän mukaan tai tulla jollekin muulle viikkotunnille. 
 
@@ -140,22 +140,14 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
 
 
-<a id="teema"></a>
-**Kohti viikonloppua-teemajoogatunti**
-
-Ihana tapa laskeutua viikonloppuun. Vaihtuva iloinen kehon ja mielen jooga tai meditaatio tai rentoutusteema, joka ilmoitetaan erikseen. Tulevia teematunnit: 
-pe 7.10 Pitkä ja vahva selkä & Yoga Nidra rentoutus
-pe 21.10 Aivoja stimuloiva jooga & lempeä meditaatio tuetussa istuma-asennossa (55 min + 35 min)
-pe 4.11 Tasapaino
-pe 2.12 Kehon kiertoliikket: potkua aineenvaihduntaan
-pe 9.12 Valo ja voima: puhdistava lempeä tulihengitys, syvä lempeä joogahengitys & ihanat lempeän voimalliset asanat
-
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
 
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. 
 
-Seuraava kurssi Tammikuussa 2017. Pysythän kuulolla! Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
+Seuraava kurssi alkaa Tammikuussa 2017 aina maanantaisin (9.1, 16.1, 23.1 & 30.1).
+
+Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
 <a id="jooganalkeet"></a>
 **Joogan ja rentoutumisen alkeet**
