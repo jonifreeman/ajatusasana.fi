@@ -117,7 +117,7 @@ puolipäivänen (3h)  55 € (40) € opiskelijat, eläkeläiset, työttömät, 
 Tuntikuvaukset
 ==============
 
-Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Tunneilla käyetään myös syvempään kehotietoisuuteen ja tietoiseen olemiseen tähtääviä (rentoutus) tekniikoita. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa joogakipinän saanut, voi löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio (itsensä hiljainen kohtaaminen) on olennainen osa kokonaisvaltaista joogaa.
+Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Tunneilla käyetään myös syvempään kehotietoisuuteen ja tietoiseen olemiseen tähtääviä (rentoutus) tekniikoita. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa joogakipinän saanut, voi löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Jokainen tunti on sisällöllisesti erilainen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio (itsensä hiljainen kohtaaminen) on olennainen osa kokonaisvaltaista joogaa.
 
 <a id="hidas"></a>
 **Hidas lempeän vahvistava jooga**
@@ -145,7 +145,7 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. 
 
-Seuraava kurssi alkaa Tammikuussa 2017 aina maanantaisin (9.1, 16.1, 23.1 & 30.1).
+Seuraava kurssi alkaa Helmikuussa 2017 aina maanantaisin (6.2, 13.2, 20.2 & 27.2).
 
 Järjestän kursseja myös tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
