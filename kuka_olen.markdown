@@ -42,5 +42,10 @@ Stephanie Freeman (Filosofian Tohtori, Kasvatustieteiden Maisteri & Diplomijooga
 
 Lue myös [yrittäjätarinani UKKO.fi blogista.](http://www.ukko.fi/tutkijasta-joogayrittajaksi-stephanie-freeman/)
 
+Seuraa myös Ajatus & Asana Blogia, joka käsittelee kehoa, mieltä, joogaa ja sosiaalisia taitoja:* [https://medium.com/ajatus-asana](https://medium.com/ajatus-asana)
+
+[Kirjoittamani joogamotivaatiota koskeva artikkeli (Ananda 3/2014)](/ananda.html).
+
+
 [Julkaisut](/julkaisut.html)
 
