@@ -101,7 +101,7 @@ function signup() {
 
 function query_group_class_cancellations($id) {
   $sql = function($conn) use ($id) {
-    return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between now() and now() + interval 1 month)";
+    return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between now() - interval 1 day and now() + interval 1 month)";
   };
   return sql_query($sql);
 }
