@@ -159,11 +159,9 @@ Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. S
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
-**LA 21.1 2017  klo. 10.00-13.0 Pari(skunta) Jooga: Yhdessä hyvä mieli**
-Teemme mukavia lempeitä, vahvoja & yksinkertaisia jooga, meditaatio & rentoutumisharjoituksia yksin ja yhdessä oman parin kanssa. Ei tarvitse osata mitään etukäteen!  
-
-**LA 4.2 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille**  
-Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman : 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
 
 **LA 4.3 klo. 10.00-13.00 Hengitellen vapautta ja iloa elämään** 
 Tämä 3-tuntinen alkaa lempeällä virtaavalla kehoa avaavalla joogaharjoituksella, jonka jälkeen keskitymme 90 min kestävään ohjattuun hengitysharjoitukseen, joka tapahtuu mukavasti selinmakuulla. Lempeä oman hengityksen tarkkailu voi avata kehon ja mielen lukkoja, ja tehdä näkyväksi asioita, jotka ehkä muuten jäisivät taka-alalle. Anna omalle hengityksellesi mahdollisuus uudenlaiseen elämäntarinaan!
+
+**LA 1.4 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** 
+Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman: 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
