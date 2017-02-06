@@ -163,5 +163,5 @@ Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. S
 **LA 4.3 klo. 10.00-13.00 Hengitellen vapautta ja iloa elämään** 
 Tämä 3-tuntinen alkaa lempeällä virtaavalla kehoa avaavalla joogaharjoituksella, jonka jälkeen keskitymme 90 min kestävään ohjattuun hengitysharjoitukseen, joka tapahtuu mukavasti selinmakuulla. Lempeä oman hengityksen tarkkailu voi avata kehon ja mielen lukkoja, ja tehdä näkyväksi asioita, jotka ehkä muuten jäisivät taka-alalle. Anna omalle hengityksellesi mahdollisuus uudenlaiseen elämäntarinaan!
 
-**LA 1.4 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** 
+**LA 1.4 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** Yleisön pynnöstä järjestän tämän uudelleen.
 Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman: 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
