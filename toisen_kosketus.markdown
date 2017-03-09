@@ -10,4 +10,4 @@ Joskus kiire ja maallisen maailman asiat vievät niin mennessään, ettei omaa i
 
 45 min 55 € (sis ALV 10 %)
 
-Ajanavaraus: stephanie@ajatusasana.fi tai 0405224889
+Ajanvaraus: stephanie@ajatusasana.fi tai 0405224889
