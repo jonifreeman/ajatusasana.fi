@@ -157,7 +157,6 @@ Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. S
 
 
 **LA 20.5 klo. 10.00-13.00 Vapaa sukellus valon lähteelle jooga**
-
 Miten ihanasti ihmisen sisäinen valo voikaan loistaa kun sille antaa mahdollisuuden! Luvassa lempeitä yllätyksiä monipuolisen 3-tuntisen joogahetken muodossa.Harjoituksen lomassa pidämme valoisasta aiheesta pienen vapaamuotoisen keskustelutuokion, jonka aikana nautimme teetä ja jotain pientä suupalaa. 
 
 **LA 10.6 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** 
