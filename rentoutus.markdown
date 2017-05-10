@@ -8,9 +8,7 @@ Haluatko rentoutuen purkaa ajatuksiasi elämästä(si), tulla aidosti kuulluksi?
 
 Session pituus: 90 min
 
-Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>.
-
-Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
+Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-link">[sähköisestä kalenterista](ajanvaraus.html)</span>. 
 
 Hinta:   
 
@@ -20,6 +18,9 @@ Hinta:
 
  3 krt  220 €
 
+Voin järjestää myös mininkurssin kahdelle, jos haluat tulla vaikkapa ystäväsi tai kumppanisi kanssa keskustelemaan ja joogaamaan (hinta määritellään erikseen).
+
+Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
 
 Kuuntelen sinua koko kehollani!
 
