@@ -14,8 +14,7 @@ Tämä aika tarvitsee kipeästi juuri tällaistä keidasta jota Sinä ja Joogahu
 </blockquote>
 
 </blockquote>
-Tunnin" loputtua tuntunut pitkä tunne osoittautui todeksi kun istuin autoon ja huomasin kuskin säädöistä, että joogatunnille oli ajanut kääpiö. Pois päin ajoi pidempi ihminen =)
-Stefin huomassa kasvaa moneen suuntaan!
+Tunnin loputtua kehossani tuntunut "pitkä tunne" osoittautui todeksi kun istuin autoon, ja huomasin kuskin säädöistä, että joogatunnille oli kurvannut lyhyt versio itsestäni. Pois päin ajoi pidempi ihminen =) Stefin huomassa kasvaa moneen suuntaan!
 
 <cite>Midi</cite>
 
