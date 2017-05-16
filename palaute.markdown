@@ -13,7 +13,7 @@ Tämä aika tarvitsee kipeästi juuri tällaistä keidasta jota Sinä ja Joogahu
 
 </blockquote>
 
-</blockquote>
+<blockquote>
 Tunnin loputtua kehossani tuntunut "pitkä tunne" osoittautui todeksi kun istuin autoon, ja huomasin kuskin säädöistä, että joogatunnille oli kurvannut lyhyt versio itsestäni. Pois päin ajoi pidempi ihminen =) Stefin huomassa kasvaa moneen suuntaan!
 
 <cite>Midi</cite>
