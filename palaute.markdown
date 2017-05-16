@@ -13,6 +13,14 @@ Tämä aika tarvitsee kipeästi juuri tällaistä keidasta jota Sinä ja Joogahu
 
 </blockquote>
 
+</blockquote>
+Tunnin" loputtua tuntunut pitkä tunne osoittautui todeksi kun istuin autoon ja huomasin kuskin säädöistä, että joogatunnille oli ajanut kääpiö. Pois päin ajoi pidempi ihminen =)
+Stefin huomassa kasvaa moneen suuntaan!
+
+<cite>Midi</cite>
+
+</blockquote>
+
 <blockquote>
 Tää oman kropan tiedostaminen on ollut ihan avainasemassa kirjoittamisen vireen säätelyssä. Ansioksesi mä kyllä lasken tuon levollisuuden löytämisen, ja sen, että pystyit artikuloimaan mulle joogaliikkeen yhteyden fiilikseen. Ne restoratiiviset liikkeet on aivan huikeita, ja on hurjaa huomata kuinka konkreettisesti liikkeillä voi vaikuttaa mieleen.
 
