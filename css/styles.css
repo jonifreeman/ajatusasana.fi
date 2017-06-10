@@ -1,3 +1,7 @@
+body {
+  background-color: #f5f7ed;
+}
+
 .error {
   color: red;
   display: none;
