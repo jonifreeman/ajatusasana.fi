@@ -156,8 +156,7 @@ Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. S
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
 **LA 26.08 klo 10:00-13:00 Lempeän Joogan alkeet-kurssi aloittelijoille**
-Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV)
-Tule tutustmaan monipuolisen joogan ja rentoutumisen maailmaan! Sopii kaikille!
+Tule tutustmaan monipuolisen joogan ja rentoutumisen maailmaan! Sopii kaikille! Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV).
 
 **LA klo. 10.00-13.00 23.09 klo 10:00-13:00 Lymfa & Acuhieronta- Joogaa- miniretriitti** 
 Luvassa kaikkea ihanaa, rentouttavaa ja uudistavaa. Anna itsellesi hetki Rakkautta <3
