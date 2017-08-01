@@ -155,9 +155,13 @@ Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. S
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
 
+**LA 26.08 klo 10:00-13:00 Lempeän Joogan alkeet-kurssi aloittelijoille**
+Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV)
+Tule tutustmaan monipuolisen joogan ja rentoutumisen maailmaan! Sopii kaikille!
 
-**LA 20.5 klo. 10.00-13.00 Vapaa sukellus valon lähteelle jooga**
-Miten ihanasti ihmisen sisäinen valo voikaan loistaa kun sille antaa mahdollisuuden! Luvassa lempeitä yllätyksiä monipuolisen 3-tuntisen joogahetken muodossa.Harjoituksen lomassa pidämme valoisasta aiheesta pienen vapaamuotoisen keskustelutuokion, jonka aikana nautimme teetä ja jotain pientä suupalaa. 
+**LA klo. 10.00-13.00 23.09 klo 10:00-13:00 Lymfa & Acuhieronta- Joogaa- miniretriitti** 
+Luvassa kaikkea ihanaa, rentouttavaa ja uudistavaa. Anna itsellesi hetki Rakkautta <3
 
-**LA 10.6 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** 
+Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV)
+**LA 21.10 klo 10:00-13:00 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** Tämä retriitii nyt jo 4. kerran!
 Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman: 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
