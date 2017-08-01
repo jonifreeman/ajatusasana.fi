@@ -161,7 +161,7 @@ Tule tutustmaan monipuolisen joogan ja rentoutumisen maailmaan! Sopii kaikille!
 
 **LA klo. 10.00-13.00 23.09 klo 10:00-13:00 Lymfa & Acuhieronta- Joogaa- miniretriitti** 
 Luvassa kaikkea ihanaa, rentouttavaa ja uudistavaa. Anna itsellesi hetki Rakkautta <3
-
 Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV)
+
 **LA 21.10 klo 10:00-13:00 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** Tämä retriitii nyt jo 4. kerran!
 Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman: 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
