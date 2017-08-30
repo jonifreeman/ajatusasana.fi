@@ -31,7 +31,7 @@ Kysy CV:tä.
 **Viherlaakso**
 ===============
 
-UUDET RAIKKAAT TOIMITILAT saman kadun varressa kuin entiset tilat: Kavallinmäki 15 (3. krs. Vanhalta Turuntieltä katsottuna,  mutta sisäänkäynti Kavallinmäen puolelta A-rapusta, yhdet rappuset ylös, ovesta sisää, 3. ovi oikealla). Talon edessä olevalla parkkipaikalla on hyvin tilaa iltaisin. Voit myös käyttää Elokuun loppuun asti vanhaa yläparkkista. Julkisen liikenteeen käyttäjät pääsevät Leppävaarasta busseilla 21 ja 29 ja Helsingistä bussilla 270.
+VIIHTYISÄT JA RAIKKAAT TOIMITILAT: Kavallinmäki 15 (3. krs. Vanhalta Turuntieltä katsottuna,  mutta sisäänkäynti Kavallinmäen puolelta A-rapusta, yhdet rappuset ylös, ovesta sisää, 3. ovi oikealla). Talon edessä olevalla parkkipaikalla on hyvin tilaa iltaisin.Julkisen liikenteeen käyttäjät pääsevät Leppävaarasta busseilla 236 ja 239 ja Helsingistä bussilla 270.
 
 <div style="text-align:center;">
 <image style="width:250px;" src="/img/viher8.jpg"/>
