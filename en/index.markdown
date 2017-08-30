@@ -22,7 +22,7 @@ Ajatus & Asana, located in Espoo Viherlaakso, offers inspiring pedagogical BodyM
 
 
 For more information, see the weekly yoga class schedule (teaching in small groups), possibilities for individual coaching 
-sessions & home yoga programmes, and the 3-hour mini retreats.
+sessions & home yoga programmes, and the 3-hour mini retreats. **ENGLISH SPEAKING RELAXING YOGA CLASS ON MONDAYS 16.45-18.15!**
 
 
 Curious? I will gladly tell you more!
