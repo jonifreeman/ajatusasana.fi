@@ -74,8 +74,8 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassi
 ----------
 
 -----     -------------------------
-90 min     27 € (<span itemprop="description">tutustumiskerta</span> 20 €)
-           23 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 18 €)
+90 min     30 € (<span itemprop="description">tutustumiskerta</span> 22 €)
+           25 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 20 €)
 -----     -------------------------
 
 </div>
@@ -84,18 +84,18 @@ Yksityistunnit / -ryhmät
 -------------------------
 
 -----      ------------------------
-90 min     120 € (ryhmät)
-            90 € (yksityistunti yhdelle)
+90 min     125 € (ryhmät)
+            95 € (yksityistunti yhdelle)
 -----      ------------------------
 
 Sarjakortit
 -----------
 
 ------------  ---------------------------------
- 5 x 90 min   125 € (Voimassa 3 kk ostopäivästä)
-              105 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 90 min   220 € (Voimassa 6 kk ostopäivästä)
-              190 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+ 5 x 90 min   130 € (Voimassa 3 kk ostopäivästä)
+              110 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 90 min   230 € (Voimassa 6 kk ostopäivästä)
+              195 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------    ---------------------------------
 
 <p>
@@ -143,7 +143,7 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
 
-Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 275€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. Järjestän tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
+Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 280€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. Järjestän tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
 <a id="jooganalkeet"></a>
 **Joogan ja rentoutumisen alkeet**
@@ -154,9 +154,6 @@ Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. S
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Miniretriitit pidetään jos vähimmäisosallistujamäärä (4 hlöä) toteutuu. Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. 
-
-**LA 26.08 klo 10:00-13:00 Lempeän Joogan alkeet-kurssi aloittelijoille**
-Tule tutustmaan monipuolisen joogan ja rentoutumisen maailmaan! Sopii kaikille! Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV).
 
 **LA klo. 10.00-13.00 23.09 klo 10:00-13:00 Lymfa & Acuhieronta- Joogaa- miniretriitti** 
 Luvassa kaikkea ihanaa, rentouttavaa ja uudistavaa. Anna itsellesi hetki Rakkautta <3
