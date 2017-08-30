@@ -145,10 +145,6 @@ Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haasteta
 
 Haluatko tulla tietoisemmaksi omassa itsessäsi olevasta potentiaalista? Tule 4 kerran joogarentoutusintesiiville rentoutumaan ja oppimaan lisää omasta hengityksestä, kehosta ja mielestä. Et tarvitse aikaisempaa kokemusta mistään rentoutustekniikoista tai joogasta. Sopii kehoille & persoonille, jotka etsivät rentoutta ja vahvempaa tietoisuutta omasta voimasta ja kyvyistä, ja haluavat vapautua jostain heitä askarrauttavasta asiasta. Löydä yhteys inspiraation, kommmunikaation, kehon tuntemusten ja tunteiden välillä! Kurssille otetaan vain 2 henkilöä. Kahden hengen miniryhmässä voit turvallisesti jakaa kokemuksiasi ja näkemyksiäsi, ja meillä on aikaa paneutua kunnolla kummankin asioihin. Kokoonnumme yhteensä 4 kertaa aina 90 min kerrallaan. 280€. Voit maksaa laskun kahdessa erässä. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan. Jos et pääse jollekin kerralle mukaan, voit korvata käynnin muulla viikkotunnilla. Järjestän tilauksesta vaikkapa ystäville juuri teille sopivaan ajankohtaan.
 
-<a id="jooganalkeet"></a>
-**Joogan ja rentoutumisen alkeet**
-
-Tämä 3-tuntinen johdattaa sinut lempeästi joogan ja rentoutumisen saloihin. Sopii kaikille itsensä hoitamisesta kiinnostuneille. Saat mukaasi myös kirjallisen miniharjoituksen kuvineen ja ohjeineen, jotta voit jatkaa tutustumista joogaan itsenäisesti kotona tai matkalla - missä ikinä liikutkin! Kurssin hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 40 € / hlö (sis. ALV). Max osallistujamäärä on 6. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. 
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
