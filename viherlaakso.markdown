@@ -64,7 +64,7 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%). Hinnasto päivitetty 19.8 2016.
+Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%). Hinnasto päivitetty 30.8 2017.
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla) sekä Benify-henkilöstön liikuntatuella!
 
