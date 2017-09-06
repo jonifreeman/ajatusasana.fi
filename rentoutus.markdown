@@ -12,11 +12,11 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 
 Hinta:   
 
- 1 krt   90 €
+ 1 krt   95 €
 
- 2 krt  160 €
+ 2 krt  165 €
 
- 3 krt  220 €
+ 3 krt  225 €
 
 Voin järjestää myös mininkurssin kahdelle, jos haluat tulla vaikkapa ystäväsi tai kumppanisi kanssa keskustelemaan ja joogaamaan (hinta määritellään erikseen).
 
