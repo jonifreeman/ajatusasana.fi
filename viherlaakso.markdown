@@ -140,7 +140,7 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
 
 **Dynaamisen Joogan Workshop** 
-Kerran kuussa lauantaisin 10.00-12.00 (ks. kalenteri). Kahden tunnin vahvistava ja syventävä irtiotto arjesta - poweria viikonloppuun! Hinta 40 € (sis. ALV, Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 35 € / hlö (sis. ALV).  Voit myös käyttää voimassaolevaa sarjakorttiasi ( 2 kertakäyntiä).
+Kerran kuussa lauantaisin 10.00-12.00 (ks. kalenteri). Kahden tunnin vahvistava ja syventävä irtiotto arjesta - poweria viikonloppuun! Hinta 40 €. Voit myös käyttää voimassaolevaa sarjakorttiasi ( 2 kertakäyntiä).
 
 
 <a id="joogakurssi"></a>
