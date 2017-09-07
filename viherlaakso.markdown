@@ -139,6 +139,9 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 
 Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
 
+**Dynaamisen Joogan Workshop** 
+Kerran kuussa lauantaisin 10.00-12.00 (ks. kalenteri). Kahden tunnin vahvistava ja syventävä irtiotto arjesta - poweria viikonloppuun! Hinta 40 € (sis. ALV, Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 35 € / hlö (sis. ALV).  Voit myös käyttää voimassaolevaa sarjakorttiasi ( 2 kertakäyntiä).
+
 
 <a id="joogakurssi"></a>
 **Keskusteleva Joogarentoutuskurssi Oma Voima ja Vapaus Kahdelle**
@@ -158,6 +161,4 @@ Hinta: 55 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äit
 **LA 21.10 klo 10:00-13:00 klo. 10.00-13.00  Joogaa kaikille chakroille ja aisteille** Tämä retriitii nyt jo 4. kerran!
 Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman: 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
 
-**Dynaamisen Joogan Workshop** 
-Kerran kuussa lauantaisin 10.00-12.00 (ks. kalenteri). Kahden tunnin vahvistava ja syventävä irtiotto arjesta - poweria viikonloppuun! Hinta 40 € (sis. ALV, Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 35 € / hlö (sis. ALV).  Voit myös käyttää voimassaolevaa sarjakorttiasi ( 2 kertakäyntiä).
 
