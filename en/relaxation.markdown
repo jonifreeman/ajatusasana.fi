@@ -6,7 +6,7 @@ title: Conversational Yoga Relaxation
 
 *For individuals in search of a new direction in their life*
 
-*For couples in search of a deeper and meaningful connection* 
+*For couples in search of a deeper and more meaningful interconnection* 
 
 Would you like to unwind in a relaxing atmosphere and be genuinely heard?  Are you searching for inspiration in some area of your (working) life or your relationship?  Or perhaps you just need a little nudge to better trust your intuition in decision-making? 
 
