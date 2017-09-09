@@ -4,7 +4,7 @@ title: Keskusteleva Joogarentoutus
 
 **Keskusteleva Joogarentoutus  - Tule Kuulluksi!**
 
-*Yksilöille, jotka etsivät uuttaa suuntaa ja yhteyttä elämään*
+*Yksilöille, jotka etsivät uutta suuntaa ja yhteyttä elämään*
 
 *Pareille/pariskunnille, jotka etsivät syvempää yhteyttä toisiinsa*
 
@@ -22,7 +22,7 @@ Hinta:
 
  3 krt  225 €
 
-Voin järjestää myös mininkurssin kahdelle, jos haluat tulla vaikkapa ystäväsi tai kumppanisi kanssa keskustelemaan ja joogaamaan (hinta määritellään erikseen).
+Voin järjestää myös pidemmän kurssin kahdelle, jos haluat tulla vaikkapa ystäväsi tai kumppanisi kanssa keskustelemaan ja joogaamaan (hinta määritellään erikseen).
 
 Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
 
