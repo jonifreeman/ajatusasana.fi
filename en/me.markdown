@@ -26,7 +26,7 @@ My company Ajatus and Asana was born in April 2013.
 
 One of the exciting things about teaching is the interaction and learning experienced by the students and the teacher together. I see my students as “ fellow yoga travellers" who participate fully in the growth of themselves and their fellow students.
 
-I also took a two-year course in training to become a yoga teacher in Helsinki.
+I also took a two-year course in training to become a yoga teacher in Helsinki in 2010-2012.
 
 You can expect to experience a 'science and yoga-based' educational service which combines
 psychological, sociological and physiological knowledge but which is also fun and challenging.
