@@ -108,7 +108,7 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ------------- ------------------------------------------------------------------------------
-puolipäivänen (3h)  55 € (40) € opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+(3h)  60 € (50) € opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ------------- ------------------------------------------------------------------------------
 
 
