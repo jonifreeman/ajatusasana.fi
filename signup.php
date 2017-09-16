@@ -99,9 +99,10 @@ function signup() {
   }
 }
 
-function query_group_class_cancellations($id) {
-  $sql = function($conn) use ($id) {
-    return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between now() - interval 1 day and now() + interval 1 month)";
+function query_group_class_cancellations($id, $from) {
+  $sql = function($conn) use ($id, $from) {
+    $s = mysqli_real_escape_string($conn, $from);
+    return "SELECT * FROM cancelled_class WHERE group_class_id = $id and (when_date between '$s' - interval 1 day and '$s' + interval 1 month)";
   };
   return sql_query($sql);
 }
@@ -152,7 +153,7 @@ function get_classes($id) {
     $start_date = strtotime($group_class['start']);
   }
   $next_class = mysql_date($start_date);
-  $cancellations = query_group_class_cancellations($id);
+  $cancellations = query_group_class_cancellations($id, $next_class);
   $dates = array($next_class);
   $end_time = $group_class['end'] ? strtotime($group_class['end']) : PHP_INT_MAX;
   for ($i = 1; $i <= 3; $i++) {
