@@ -67,7 +67,10 @@ function setupSignup() {
         var group_class = classes[i]
         var dateString = group_class.start_time ? (formatDate(group_class.date) + " klo " + formatTime(group_class.start_time) + "-" + formatTime(group_class.end_time)) : formatDate(group_class.date)
         var $row = $('<div class="available-class"><label><input type="checkbox" value="' + group_class.date + '"></input>' + dateString + '</label><span class="booking-attention"></span><span class="cancellation-reason"></span><span class="date-info">' + (group_class.info || '') + '</span></div>')
-        if (group_class.cancelled) {
+        if (group_class.hide) {
+          $row.addClass("hidden")
+        }
+        else if (group_class.cancelled) {
           $row.addClass("disabled")
           $row.find('input').attr("disabled", true)
           $row.find('.cancellation-reason').text(group_class.reason || '')

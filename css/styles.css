@@ -13,6 +13,10 @@ body {
   font-family: 'aaarghnormal';
 }
 
+.hidden {
+  display: none;
+}
+
 .error {
   color: red;
   display: none;

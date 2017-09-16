@@ -7,7 +7,11 @@ $(function() {
     for (var i = 0, len = fields.length; i < len; i++) {
       var field = fields[i]
       var name = field.name.indexOf('type') == -1 ? field.name : 'class_type'
-      data[name] = field.value
+      if (name === 'hide_cancelled') {
+        data[name] = field.value === 'on' ? true : false
+      } else {
+        data[name] = field.value
+      }
     }
     $.post("/update_schedule.php", data, function(resp) {
       $('#calendar').fullCalendar('refetchEvents')

@@ -43,6 +43,7 @@ create table if not exists group_class(
   class_type ENUM('normal', 'miniretreat', 'course'),
   anchor varchar(255),
   highlight varchar(255),
+  hide_cancelled BOOL NOT NULL DEFAULT 0,
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
 

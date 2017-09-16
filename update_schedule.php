@@ -27,14 +27,15 @@ function create_or_update_group_class() {
     $et = mysqli_real_escape_string($conn, $_POST['end_time']);
     $n = mysqli_real_escape_string($conn, $_POST['name']);
     $max = (int) $_POST['max_size'];
+    $hide_cancelled = (bool) $_POST['hide_cancelled'];
     $ct = mysqli_real_escape_string($conn, $_POST['class_type']);
     $a = mysqli_real_escape_string($conn, $_POST['anchor']);
     $h = mysqli_real_escape_string($conn, $_POST['highlight']);
     $e = $_POST['end'] == '' ? 'NULL' : "'".mysqli_real_escape_string($conn, $_POST['end'])."'";
     if ($id) {
-      return "UPDATE group_class SET display_start='$ds', start='$s', end=$e, day='$d', start_time='$st', end_time='$et', name='$n', max_size=$max, class_type='$ct', anchor='$a', highlight='$h' WHERE id=$id";
+      return "UPDATE group_class SET display_start='$ds', start='$s', end=$e, day='$d', start_time='$st', end_time='$et', name='$n', max_size=$max, hide_cancelled=$hide_cancelled, class_type='$ct', anchor='$a', highlight='$h' WHERE id=$id";
     } else {
-      return "INSERT INTO group_class(display_start, start, end, day, start_time, end_time, name, max_size, class_type, anchor, highlight) VALUES ('$ds', '$s', $e, '$d', '$st', '$et', '$n', $max, '$ct', '$a', '$h')";
+      return "INSERT INTO group_class(display_start, start, end, day, start_time, end_time, name, max_size, hide_cancelled, class_type, anchor, highlight) VALUES ('$ds', '$s', $e, '$d', '$st', '$et', '$n', $max, '$hide_cancelled', '$ct', '$a', '$h')";
     }
   };
   $gen_id = sql_set_and_get_id($sql);

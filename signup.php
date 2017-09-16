@@ -165,7 +165,7 @@ function get_classes($id) {
   $availability = array_map(function($date) use($id, $group_class, $cancellations) {
       $cancelled = array_filter($cancellations, function($cancellation) use($date) { return $cancellation['when_date'] == $date; });
       if ($cancelled) {
-        return array('date' => $date, 'cancelled' => true, 'reason' => $cancelled[0]['reason']);
+        return array('date' => $date, 'cancelled' => true, 'reason' => $cancelled[0]['reason'], 'hide' => $group_class['hide_cancelled'] ? true : false);
       } else {
         $bookings = count_bookings($id, $date);
         return array('date' => $date, 'available' => ($group_class['max_size'] - $bookings), 'class_type' => $group_class['class_type']);

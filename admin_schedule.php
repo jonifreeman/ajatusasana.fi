@@ -84,6 +84,7 @@ if (check_auth_token() == FALSE) {
       <th>Alkaa/Päättyy</th>
       <th>Kalenterissa</th>
       <th>Max</th>
+      <th>Piilota peruutetut</th>
       <th>Huom!</th>
       <th>Linkki</th>
       <th>Vakiokävijät</th>
@@ -104,6 +105,7 @@ if (check_auth_token() == FALSE) {
       <td><input type="date" name="start" value="<?= $group_class['start'] ?>"/> - <input type="date" name="end" value="<?= $group_class['end'] ?>"/></td>
       <td><input type="date" name="display_start" value="<?= $group_class['display_start'] ?>"/></td>
       <td><input type="text" name="max_size" value="<?= $group_class['max_size'] ?>"/></td>
+      <td><input type="checkbox" name="hide_cancelled" <?php echo ($group_class['hide_cancelled']==1 ? 'checked' : '');?>/></td>
       <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
       <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
       <td><textarea rows="4" name="regulars"><?= $group_class['regulars'] ?></textarea></td>
