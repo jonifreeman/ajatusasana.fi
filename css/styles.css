@@ -502,10 +502,10 @@ section {
 }
 
 .blog {
-  width: 270px;
+  width: 190px;
   min-height: 500px;
   float: right;
-  margin: 10px;
+  margin-left: 10px;
 }
 
 .success {
