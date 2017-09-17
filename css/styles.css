@@ -501,11 +501,18 @@ section {
   color: #a8d733;
 }
 
-.blog {
-  width: 190px;
-  min-height: 500px;
-  float: right;
-  margin-left: 10px;
+@media only screen and (min-width : 676px) {
+  .idea {
+    float: left;
+    width: 53%;
+  }
+
+  .blog {
+    width: 40%;
+    min-height: 500px;
+    float: right;
+    margin-left: 10px;
+  }
 }
 
 .success {

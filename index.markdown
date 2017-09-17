@@ -2,9 +2,8 @@
 title: Idea
 ---
 
-<div class="blog">
-<script async src="https://static.medium.com/embed.js"></script><a class="m-collection" href="https://medium.com/ajatus-asana">Ajatus & Asana</a>
-</div>
+<div class="idea">
+
 
 **RENTOUTUMISEN MAAILMA**
 
@@ -26,7 +25,9 @@ Filosofian Tohtori, Kasvatustieteiden Maisteri, Diplomijoogaohjaaja
 0405224889
 
 
+</div>
 
-
-
+<div class="blog">
+<script async src="https://static.medium.com/embed.js"></script><a class="m-collection" href="https://medium.com/ajatus-asana">Ajatus & Asana</a>
+</div>
 
