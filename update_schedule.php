@@ -33,7 +33,7 @@ function create_or_update_group_class() {
     $h = mysqli_real_escape_string($conn, $_POST['highlight']);
     $e = $_POST['end'] == '' ? 'NULL' : "'".mysqli_real_escape_string($conn, $_POST['end'])."'";
     if ($id) {
-      return "UPDATE group_class SET display_start='$ds', start='$s', end=$e, day='$d', start_time='$st', end_time='$et', name='$n', max_size=$max, hide_cancelled=$hide_cancelled, class_type='$ct', anchor='$a', highlight='$h' WHERE id=$id";
+      return "UPDATE group_class SET display_start='$ds', start='$s', end=$e, day='$d', start_time='$st', end_time='$et', name='$n', max_size=$max, hide_cancelled='$hide_cancelled', class_type='$ct', anchor='$a', highlight='$h' WHERE id=$id";
     } else {
       return "INSERT INTO group_class(display_start, start, end, day, start_time, end_time, name, max_size, hide_cancelled, class_type, anchor, highlight) VALUES ('$ds', '$s', $e, '$d', '$st', '$et', '$n', $max, '$hide_cancelled', '$ct', '$a', '$h')";
     }
