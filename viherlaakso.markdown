@@ -155,6 +155,6 @@ Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äit
 **LA 21.10 klo 10:00-13:00 Joogaa kaikille chakroille ja aisteille** Tämä retriitii nyt jo 4. kerran!
 Tässä monipuolisessa kehoa ja mieltä tasapainottavassa 3-tuntisessa käymme läpi kaikki chakrat joogan ja hengitysharjoitusten keinoin. Samalla kirkastamme kaikkia aistejamme. Saat miniretriitin päätteeksi mukaasi yksinkertaisen Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman.Kurssin hinta: sisältää Joogaa kaikille chakroille ja aisteille-kotijoogaohjelman: 70 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 55 € / hlö (sis. ALV).
 
-**LA 25.11 klo. 10.00-13.00 Elävöittävä Kundalini** Anna elämän energian nousta selkärangan tyvestä kohti päälakea, universumin kruunua. Tunne elämä itsessäni juuri nyt. Tunne se rakastettava ihminen, joka jo olet. Voimaa, uskallusta, toivoa, irtipäästämistä ja myötätuntoa. Tässä joogasessiossa sulassa sovussa Kundalinijoogaa & Hathajoogaa. Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 50 € / hlö (sis. ALV).
+**LA 2.12 klo. 10.00-13.00 Elävöittävä Kundalini** Anna elämän energian nousta selkärangan tyvestä kohti päälakea, universumin kruunua. Tunne elämä itsessäni juuri nyt. Tunne se rakastettava ihminen, joka jo olet. Voimaa, uskallusta, toivoa, irtipäästämistä ja myötätuntoa. Tässä joogasessiossa sulassa sovussa Kundalinijoogaa & Hathajoogaa. Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 50 € / hlö (sis. ALV).
 
 
