@@ -66,7 +66,7 @@ Hinnasto
 
 Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%). Hinnasto päivitetty 30.8 2017.
 
-Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla), Tyky-Kuntoseteli ja Tyky-Online sekä Benify-henkilöstön liikuntatuella!
+Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, ePassilla (sporttipassilla), Eazybreak mobiililiikuntaseteillä, Tyky-Kuntoseteli ja Tyky-Online sekä Benify-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
