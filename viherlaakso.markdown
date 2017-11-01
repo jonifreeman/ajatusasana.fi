@@ -135,9 +135,9 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 
 
 <a id="vahvistava"></a>
-**Lempeän vahvistava dynaaminen jooga**
+**Dynaaminen jooga**
 
-Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa hieman enemmän kuin Hidas Lempeän vahvistava-tunnilla. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy pieneen palautukseen & meditaatioon ja loppurentoutukseen. 
+Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa ja mieltä lempeän päättäväisesti. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy palauttaviin liikkeisiin ja loppurentoutukseen. 
 
 **Dynaamisen Joogan Workshop** 
 Kerran kuussa lauantaisin 10.00-12.00 (ks. kalenteri). Kahden tunnin vahvistava ja syventävä irtiotto arjesta - poweria viikonloppuun! Hinta 40 €. Voit myös käyttää voimassaolevaa sarjakorttiasi ( 2 kertakäyntiä).
