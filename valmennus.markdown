@@ -37,16 +37,16 @@ Ajatus & Asana II: opi joogaamaan ja rauhoittumaan kotona
 
 Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
 
-**Keholliset työnohjaukset tieteellisen luovan työn tekijälle ja opettajille**
+**Keholliset työnohjaukset luovan työn tekijälle**
 
-Jumittaako gradun, väitöskirjan tai artikkelin kirjoittaminen? Tuntuuko, että tukehdut luokka/seminaarihuoneessa? Huutaako ja kiroileeko kehosi? Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. 
+ Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. 
 
 Lalla Pohjanpalo & Erika Maksniemi (2014). 'Rauhoittunut ope', podcast. Asiantuntijahaastattelussa mm. Stephanie Freeman.
 
 * [Kuuntele haastattelu](RauhoittunutOpe.mp3)
 * [Lähteet](RauhoittunutOpe.pdf)
 
-Kysy lisää!
+Kysy lisää! 
 
 Stephanie Freeman, Filosofian tohtori, Kasvatustieteiden maisteri, Diplomijoogaohjaaja
 
