@@ -57,7 +57,6 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
  
 * [Yksityiset Ajatus & Asana valmennukset ja keholliset työnohjaukset](valmennus.html)
 * [Keskusteleva Joogarentoutus](rentoutus.html)
-* [Joogarentoutuskurssi Oma Voima](#joogakurssi)
 
 <div class="prices">
 
@@ -137,7 +136,7 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 <a id="vahvistava"></a>
 **Dynaaminen jooga**
 
-Tällä hyvin monipuolisella tunnilla tehdään hengitysharjoituksia ja haastetaan kehoa ja mieltä lempeän päättäväisesti. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy palauttaviin liikkeisiin ja loppurentoutukseen. 
+Tällä hyvin monipuolisella tunnilla luodaan yhetys omaan hengitykseen sekä haastetaan kehoa ja mieltä lempeän päättäväisesti. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy palauttaviin liikkeisiin ja loppurentoutukseen. 
 
 
 <a id="retriitti"></a>
