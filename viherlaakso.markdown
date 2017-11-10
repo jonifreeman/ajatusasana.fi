@@ -99,7 +99,7 @@ Sarjakortit
 
 <p>
 
-*Huom! Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
+*Huom! Ostopäivä tarkoittaa joogalaskun yhteydessä olevaa eräpäiväää. Jos maksat jollain muulla tavalla, ostopäiväksi luetaan maksupäivä. Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
 
 <p>
 
