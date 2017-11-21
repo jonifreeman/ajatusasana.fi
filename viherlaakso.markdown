@@ -47,7 +47,7 @@ Viikko-ohjelma
 
 Ilmoittautuminen <img class="signup-info" src="/img/signup.png"></img> -nappia painamalla (tai Stephanie Freeman / 040 522 4889 / [stephanie@ajatusasana.fi](mailto:stephanie@ajatusasana.fi) Kalenteri näyttää kun paikkoja on jäljellä enää 2 tai 1, ja kun se on täynnä. Jos tunnin päällä on viiva, tuntia ei pidetä. 
 
-Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Kaikki joogatunnit ovat 90 min pienryhmätunteja (max 7), jolloin ehdimme paneutua syvemmin ja kiireettömämmin kaikkiin harjoituksen eri elementteihin ja osiin. Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Vakipaikan varanneiden tuntiperuutukset tulee tehdä 5 päivää aikaisemmin, muussa tapauksessa veloitetaan kertakäyntimaksu. Poikkeuksena sairastumiset, jolloin veloitan 10 E viime hetken peruutuksesta.Verkon kautta tunneille erikseen imoittautuvilta peritään viime hetken perumisesta tai perumattomista tunneista kertakäyntimaksu, poikkeuksena sairastumiset, jolloin veloitan 10 E viime hetken peruutuksesta.
+Tuntikuvaukset löytyvät painamalla lukujärjestyksessä tunnin nimeä. Joogatunnit ovat 90 min ja 60 min pienryhmätunteja (max 7), jolloin ehdimme paneutua syvemmin ja kiireettömämmin harjoituksen eri elementteihin ja yksilölliseenkin ohjaukseen. Minulle on tärkeää, että Sinä rentoudut ja opit lisää itsestäsi. Täällä voit aloittaa pienryhmissä joogailun ympäri vuoden. Jos haluat varata vakipaikan joltain viikkotunnilta, ilmoitahan minulle. Vakipaikan varanneiden tuntiperuutukset tulee tehdä 5 päivää aikaisemmin, muussa tapauksessa veloitetaan kertakäyntimaksu. Poikkeuksena sairastumiset, jolloin veloitan 10 E viime hetken peruutuksesta. Verkon kautta tunneille erikseen imoittautuvilta peritään viime hetken perumisesta tai perumattomista tunneista kertakäyntimaksu, poikkeuksena sairastumiset, jolloin veloitan 10 E viime hetken peruutuksesta.
 
 
 Tilaustunnit ja yksityisvalmennukset
@@ -87,8 +87,15 @@ Yksityistunnit / -ryhmät
             95 € (yksityistunti yhdelle)
 -----      ------------------------
 
-Sarjakortit
+Sarjakortit 60 min ja 90 min
 -----------
+
+-----------  ---------------------------------
+ 5 x 60 min   95 € (Voimassa 3 kk ostopäivästä)
+              80 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 60 min   165 € (Voimassa 6 kk ostopäivästä)
+              150 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+----------    ---------------------------------
 
 ------------  ---------------------------------
  5 x 90 min   130 € (Voimassa 3 kk ostopäivästä)
@@ -97,12 +104,6 @@ Sarjakortit
               195 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------    ---------------------------------
 
------------  ---------------------------------
- 5 x 60 min   95 € (Voimassa 3 kk ostopäivästä)
-              80 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 60 min   165 € (Voimassa 6 kk ostopäivästä)
-              150 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-----------    ---------------------------------
 
 <p>
 
