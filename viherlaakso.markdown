@@ -97,6 +97,13 @@ Sarjakortit
               195 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------    ---------------------------------
 
+-----------  ---------------------------------
+ 5 x 60 min   95 € (Voimassa 3 kk ostopäivästä)
+              80 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 60 min   165 € (Voimassa 6 kk ostopäivästä)
+              150 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+----------    ---------------------------------
+
 <p>
 
 *Huom! Ostopäivä tarkoittaa joogalaskun yhteydessä olevaa eräpäiväää. Jos maksat jollain muulla tavalla, ostopäiväksi luetaan maksupäivä. Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia.*
