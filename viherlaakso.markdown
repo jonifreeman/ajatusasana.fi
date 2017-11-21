@@ -127,7 +127,7 @@ Tuntikuvaukset
 Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Tunneilla käyetään myös syvempään kehotietoisuuteen ja tietoiseen olemiseen tähtääviä (rentoutus) tekniikoita. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa joogakipinän saanut, voi löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Jokainen tunti on sisällöllisesti erilainen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio (itsensä hiljainen kohtaaminen) on olennainen osa kokonaisvaltaista joogaa.
 
 <a id="hidas"></a>
-**Hidas lempeän vahvistava jooga**
+**Lempeästi vahvistava jooga**
 
 Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
