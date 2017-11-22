@@ -75,12 +75,12 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, Edenre
 ----------
 
 -----     -------------------------
-60 min     25 € (<span itemprop="description"></span>)
+60 min     25 €
            20 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 -----     -------------------------
 
 -----     -------------------------
-90 min     30 € (<span itemprop="description"></span>)
+90 min     30 €
            25 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 -----     -------------------------
 
