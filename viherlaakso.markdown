@@ -71,12 +71,15 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, Edenre
 
 <span itemprop="name">Kertamaksu</span> 
 ----------
-
+**Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 35 €**
 -----     -------------------------
-90 min     30 € (<span itemprop="description">tutustumiskerta</span> 22 €)
-           25 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, tutustumiskerta 20 €)
+90 min     30 € (<span itemprop="description">)
+           25 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+       -----     -------------------------
 -----     -------------------------
-
+60 min     25 € (<span itemprop="description">)
+           20 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+       -----     -------------------------
 </div>
 
 Yksityistunnit / -ryhmät
