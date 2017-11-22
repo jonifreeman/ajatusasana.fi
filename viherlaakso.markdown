@@ -74,13 +74,14 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, Edenre
 **Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 35 €**
 
 -----     -------------------------
-60 min     25 € (<span itemprop="description">)
+60 min     25 € (<span itemprop="description"></span>)
            20 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-       -----     -------------------------
 -----     -------------------------
-90 min     30 € (<span itemprop="description">)
+
+-----     -------------------------
+90 min     30 € (<span itemprop="description"></span>)
            25 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-       -----     -------------------------
+-----     -------------------------
 
 </div>
 
@@ -119,9 +120,9 @@ Sarjakortit 60 min ja 90 min
 Ajatus & Asana Miniretriitit 
 ----------------------------
 
-------------- ------------------------------------------------------------------------------
-(3h)  60 € (50) € opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-------------- ------------------------------------------------------------------------------
+----------------------------------------------------------------------
+(3h) 60€ (50€ opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+----------------------------------------------------------------------
 
 
 </div>
