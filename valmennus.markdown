@@ -35,8 +35,6 @@ Ajatus & Asana II: opi joogaamaan ja rauhoittumaan kotona
 - Tapaaminen, yksityisohjaus & muutokset kotiohjelmaa 2 x 90 min n. 3-5 kk kotiohjelman käyttöönoton jälkeen
 - 400 €
 
-Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
-
 **Keholliset työnohjaukset luovan työn tekijälle**
 
  Ajatus & Asana Kehollinen Työnohjaus auttaa tietotyöntekijää löytämään vastauksia ja välineitä luovuuteen omasta kehostaan. 
