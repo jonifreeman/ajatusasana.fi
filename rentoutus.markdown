@@ -26,9 +26,8 @@ Voin järjestää myös pidemmän kurssin kahdelle, jos haluat tulla vaikkapa ys
 
 Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
 
-Kuuntelen sinua koko kehollani!
+Kuuntelen sinua koko kehollani.
 
-Kaikkiin yksilövalmennushintoihini sisältyy kommunikaatio tuntien ulkopuolella. Minulle voi aina laittaa sähköpostia ja soittaa jos tunnilla tai tuntien jälkeen herää ajatuksia tai kysymyksiä. Puhuminen kannattaa aina.
 
 Kysy rohkasti lisää!
 
