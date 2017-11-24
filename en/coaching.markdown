@@ -31,8 +31,6 @@ A get-to-gether about 3-5 months after starting your personal program for update
 
 400 €
 
-All prices include communication outside the lesson. If you have any questions etc., just write an email or give me a call. Speaking out your mind is never a waste of time.
-
 Feel free to ask more!
 
 Stephanie Freeman, PhD, Diploma yoga teacher
