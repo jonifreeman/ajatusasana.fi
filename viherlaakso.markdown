@@ -147,7 +147,6 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 
 <a id="alkeet"></a>
 
-
 <a id="vahvistava"></a>
 **Dynaaminen jooga**
 
