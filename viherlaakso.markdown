@@ -114,7 +114,7 @@ Sarjakortit 60 min ja 90 min
 
 <p>
 
-*Huom! Ostopäivä tarkoittaa joogalaskun yhteydessä olevaa eräpäiväää. Jos maksat jollain muulla tavalla, ostopäiväksi luetaan maksupäivä. Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia. jos sinulla on 90 min sarjakortti ja haluat tulla 60 min tunnille, voit käyttää puolikkaan kertakäynnin kortistasi ja lisäksi maksaa 5 € paikanpäällä. Vastaavasti jos sinulla on tulevaisuudessa 60 min sarjakortti, voit kuitata 90 min tunnin kertakäyntimaksulla ja lisäksi maksaa 10 €.*
+*Huom! Ostopäivä tarkoittaa joogalaskun yhteydessä olevaa eräpäiväää. Jos maksat jollain muulla tavalla, ostopäiväksi luetaan maksupäivä. Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia. Jos sinulla on 90 min sarjakortti ja haluat tulla 60 min tunnille, voit käyttää puolikkaan kertakäynnin kortistasi ja lisäksi maksaa 5 € paikanpäällä. Vastaavasti jos sinulla on tulevaisuudessa 60 min sarjakortti, voit kuitata 90 min tunnin kertakäyntimaksulla ja lisäksi maksaa 10 €.*
 
 <p>
 
