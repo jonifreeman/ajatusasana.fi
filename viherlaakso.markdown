@@ -153,6 +153,10 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 Tällä hyvin monipuolisella tunnilla luodaan yhteys omaan hengitykseen sekä haastetaan kehoa ja mieltä lempeän päättäväisesti. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy palauttaviin liikkeisiin ja loppurentoutukseen. 
 
 
+<a id="kundaliini"></a>
+**Elävöittävä Kundaliini jooga**
+
+
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
 
