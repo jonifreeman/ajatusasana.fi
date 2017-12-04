@@ -158,7 +158,7 @@ Tällä hyvin monipuolisella tunnilla luodaan yhteys omaan hengitykseen sekä ha
 
 
 <a id="retriitti"></a>
-**Ajatus & Asana miniretriitit ja teemapäivät/tunnit**
+**Ajatus & Asana miniretriitit**
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Max osallistujamäärä on 7. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.  Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 50 € / hlö (sis. ALV).
 
