@@ -150,7 +150,7 @@ Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaik
 <a id="vahvistava"></a>
 **Dynaaminen jooga**
 
-Tällä hyvin monipuolisella tunnilla luodaan yhetys omaan hengitykseen sekä haastetaan kehoa ja mieltä lempeän päättäväisesti. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy palauttaviin liikkeisiin ja loppurentoutukseen. 
+Tällä hyvin monipuolisella tunnilla luodaan yhteys omaan hengitykseen sekä haastetaan kehoa ja mieltä lempeän päättäväisesti. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. Tunti päättyy palauttaviin liikkeisiin ja loppurentoutukseen. 
 
 
 <a id="retriitti"></a>
