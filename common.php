@@ -166,7 +166,7 @@ function send_mail_to_aa($subject, $message) {
 
 $miniretreat = array(
   "id" => -1,
-  "name" => "Ajatus & Asana miniretriitit ja teemapäivät kerran kuussa",
+  "name" => "Ajatus & Asana miniretriitit",
   "day" => "sat",
   "anchor" => "retriitti",
   "start_time_hour" => 11,
