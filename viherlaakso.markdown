@@ -143,10 +143,6 @@ Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaas
 
 Tunnilla tehdään kehoa ja mieltä avaavia ja rauhoittavia Yin joogastakin vaikutteita saaneita jooga-liikkeitä tuetusti ja turvallisesti. Pysymme 3-5 min per asana. Hoitaa erityisesti sidekudosta ja niveliä, sekä syvärauhoittaa hermostoa. Tunti avaa kehoa ja mieltä, sekä poistaa tehokkaasti stressiä. Kehoa palautellaan välillä lempeän vahvistavilla ja energisoivilla asanoilla. Tunti päättyy loppurentoutukseen. Annan erilaisia terapeuttisia liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
-<a id="trigger"></a>
-
-<a id="alkeet"></a>
-
 <a id="vahvistava"></a>
 **Dynaaminen jooga**
 
