@@ -154,9 +154,9 @@ Tällä hyvin monipuolisella tunnilla luodaan yhteys omaan hengitykseen sekä ha
 
 
 <a id="kundaliini"></a>
-**Elävöittävä Kundaliini jooga**
+**Elävöittävä kundalini jooga**
 
-Tämä tunti saa pääasiallisesti inspiraationsa kundalinijoogasta. Ihanan virtaavia ja puhdistavia hengityksiä ja liikesarjoja maaten, istuen ja seisten. kundalinimantramusiikin tukemana. Päätämme harjoituksen palauttaviin joogaliikkeisiin ja loppurentoutukseen. Heitä hyvästit arkiviikolle ja laskeudu tulevaan viikonloppuun!
+Tämä tunti saa pääasiallisen inspiraationsa kundalinijoogasta. Ihanan virtaavia ja puhdistavia hengityksiä ja liikesarjoja maaten, istuen ja seisten. Kundalinimantramusiikin tukemana. Päätämme harjoituksen palauttaviin joogaliikkeisiin ja loppurentoutukseen. Heitä hyvästit arkiviikolle ja laskeudu tulevaan viikonloppuun!
 
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit**
