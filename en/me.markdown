@@ -6,7 +6,7 @@ imagewidth: 170px
 
 My name is Stephanie Freeman and I would like to thank you for visiting my website.
 
-For a long time now I have realised the transformative power of yoga.
+I have experienced the transformative power of yoga in one form or another since 2003.
 
 The good news is that process of becoming creative and productive does not have to involve anguish or emotional anxiety.
 
@@ -26,7 +26,7 @@ My company Ajatus and Asana was born in April 2013.
 
 One of the exciting things about teaching is the interaction and learning experienced by the students and the teacher together. I see my students as “ fellow yoga travellers" who participate fully in the growth of themselves and their fellow students.
 
-I also took a two-year course in training to become a yoga teacher in Helsinki in 2010-2012.
+I also took a two-year training to become a yoga teacher in Helsinki in 2010-2012.
 
 You can expect to experience a 'science and yoga-based' educational service which combines
 psychological, sociological and physiological knowledge but which is also fun and challenging.
