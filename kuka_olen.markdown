@@ -6,7 +6,7 @@ imagewidth: 170px
 
 Nimeni on Stephanie Freeman, ja haluan kiittää Sinua käynnistäsi sivuillani.
 
-Olen jo pitkään saanut kokea joogan uudistavaa potentiaalia.
+Olen saanut kokea joogan uudistavaa potentiaalia muodossa tai toisessa jo vuodesta 2003.
 
 Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
 
@@ -24,11 +24,11 @@ Kun sosiaalinen elämämme on tasapainoista ja ympärillämme ovat oikeat ihmise
 
 Yritykseni Ajatus & Asana Oy syntyi Huhtikuussa 2013.
 
-Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen.
+Yksi suuri opettaja minulle jooga-ja kehotietoisuuden opettajana on vuorovaikutus oppilaiden kanssa eli kanssajoogaaminen. Näen joogaoppilaani kanssamatkustajina, jotka osallistuvat intohimoisesti ja täysilla omaan kasvuun ja kehitykseen. 
 
 Olen myös kouluttautunut joogaopettajaksi 2-vuotisessa joogaohjaakoulutuksessa Helsingissä 2010-2012. 
 
-Joogaan, elävään elämään ja ihmistieteelliseenkin ymmärrykseen (psykologia, yhteiskuntatieteet ja fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava. 
+Joogaan, elävään elämään ja ihmistieteelliseenkin ymmärrykseen (psykologia, yhteiskuntatieteet, fysiologia & anatomia) pohjautuva hyvinvointipalveluni vie sinut matkalle, joka on samalla sekä hauska että haastava. 
 
 
 Jos kiinnostuit ja haluat tietää lisää, kysy vaan rohkeasti, sillä jooga voi olla yksi elämäsi tärkeimmmistä investoinneista!
