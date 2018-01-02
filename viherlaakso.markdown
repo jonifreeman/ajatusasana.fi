@@ -161,7 +161,7 @@ Tämä tunti saa pääasiallisen inspiraationsa kundalinijoogasta. Ihanan virtaa
 
 KEVÄÄN 2018 MINIRETRIITTITEEMAT:
 
-LA 02.02 klo 10:00-13:00 Valon, varjojen ja värien meditaatio. Syväsukellus sisäiseen maailmaan -Hiljaisuudesta rakkauden säveliin.
+LA 03.02 klo 10:00-13:00 Valon, varjojen ja värien meditaatio. Syväsukellus sisäiseen maailmaan -Hiljaisuudesta rakkauden säveliin.
 
 
 LA 24.03 klo 10:00-13:00 Vuodenajat joogassa: talvesta kevääseen siirtyminen. Kehon (meridiaanien & sisäelinten), mielen ja sielun tukeminen siirryttäessä talven tuiskuista ja kylmyydestä kevätauringon lämpöön ja uuden kasvukauden alkuun.
