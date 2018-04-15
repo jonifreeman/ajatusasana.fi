@@ -8,7 +8,9 @@ Nimeni on Stephanie Freeman, ja haluan kiittää Sinua käynnistäsi sivuillani.
 
 Olen saanut kokea joogan uudistavaa potentiaalia muodossa tai toisessa jo vuodesta 2003.
 
-Hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
+Minulla on myös syvä yhteys henkimaailmaan selvänköisyyteni kautta. Tätä rakkauden valoa pyrin välittämään tunneillani ja yksityissessioissa.
+
+Ja hyvä uutinen heti alkuun: luovuus ja tuotteliaisuus eivät välttämättä edellytä stressiä ja eksistentiaalista tuskaa. 
 
 Olin pitkään Yliopistotutkijana, mutta rakkaasta pitkä-aikaisesta harrastuksesta ja elämäntavasta tuli kutsumuksellinen työ. 
 
@@ -16,7 +18,7 @@ Ymmärsin, että luovaksi tuleminen - luovuuden tiellä olevan stressin poistami
 
 Voimme olla luovia jos kuuntelemme, mitä keho ja tunteet kertovat itsestä ja ympäristöstä.
 
-Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä.
+Kun rentoudumme, voimme päästä lähemmäksi aitoa itseä, korkeinpaa minäämme.
 
 Rentouen voimme myös ymmärtää paremmin sosiaalisia suhteitamme ja vapautua mahdollisista ristiriidoista.
 
