@@ -2,13 +2,12 @@
 title: Keskusteleva Joogarentoutus
 ---
 
-**Keskusteleva Joogarentoutus  - Tule Kuulluksi!**
+**Rakkauden Energiaa & Rentoutusta**
 
-*Yksilöille, jotka etsivät uutta suuntaa ja yhteyttä elämään*
+*Henkisen polun kulkijalle tai etsijälle*
 
-*Pareille/pariskunnille, jotka etsivät syvempää yhteyttä toisiinsa*
+Kanavoin universaalia rakkauden energiaa, jotta sinä kokisit syvempää yhteyttä korkeimpaan autentttiseen minääsi ja maailmankaikkeuteesi. Työskentelen yhteistyössä valon henkien kanssa. Käytän myös syvää (akateemista) psykologista ymmärrystä ihmisenä olemisesta, joogaa, selvänäköäni, ääntäni, soittimien äänimaailmaa ja käsieni välittämää energiaa. Sessio on sinulle, joka koet tarvitsevasi kokonaisvaltaista kuuntelijaa ja uuttaa energiaa henkisellä elämänpolullasi.
 
-Haluatko rentoutuen purkaa ajatuksiasi elämästä(si) tai parisuhteestanne, tulla aidosti kuulluksi? Haluatko tulla tietoisemmaksi omassa itsessäsi /parisuhteessanne olevasta voimasta ja potentiaalista? Oletko etsimässä uuttaa suuntaa ja inspiraatiota jollain elämänalueellasi? Haluatko luottaa päätöksenteossa omaan intuitioosi vieläkin syvemmin? Haluatko saada lisävalaistusta sosiaalisiin suhteisiisi? Keskusteleva joogarentoutus on tarkoitettu kenelle tahansa arkisen tai pyhän asian kanssa kamppailevalle ihmiselle, jota kiinnostaa oman kehon tuntemusten, tunteiden välisen yhteyden ymmärtäminen ja syventäminen sekä (työ)elämän ja maailmanmenon ihmettely. Sinulla ei tarvitse olla aikaisempaan joogataustaa tai rentoutuskokemusta. Riittää, että tunnet tarvetta kokeilla. Sessiossa yhdistän mm. kokonaisvaltaista joogaa moniin muihin rentoutustekniikkoihin, sekä syvää (tieteellistäkin) ymmärrystä ihmisenä olemisen rikkaudesta.
 
 Session pituus: 90 min
 
@@ -22,7 +21,7 @@ Hinta:
 
  3 krt  225 €
 
-Voin järjestää myös pidemmän kurssin kahdelle, jos haluat tulla vaikkapa ystäväsi tai kumppanisi kanssa keskustelemaan ja joogaamaan (hinta määritellään erikseen).
+Teen myös sessioita pareille jos vaikkapa ystäväsi tai kumppanisi kanssa haluatte tulla keskustelemaan ja energisoitumaan.
 
 Teen myös tarvittaessa kotikäyntejä liikunta/liikerajoitteisille asiakkaille.
 
