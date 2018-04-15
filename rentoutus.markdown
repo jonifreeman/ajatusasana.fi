@@ -6,7 +6,7 @@ title: Keskusteleva Joogarentoutus
 
 *Henkisen polun kulkijalle tai etsijälle*
 
-Kanavoin universaalia rakkauden energiaa, jotta sinä kokisit syvempää yhteyttä korkeimpaan autentttiseen minääsi ja maailmankaikkeuteesi. Työskentelen yhteistyössä valon henkien kanssa. Käytän myös syvää (akateemista) psykologista ymmärrystä ihmisenä olemisesta, joogaa, selvänäköäni, ääntäni, soittimien äänimaailmaa ja käsieni välittämää energiaa. Sessio on sinulle, joka koet tarvitsevasi kokonaisvaltaista kuuntelijaa ja uuttaa energiaa henkisellä elämänpolullasi.
+Kanavoin universaalia rakkauden energiaa, jotta sinä kokisit syvempää yhteyttä korkeimpaan autentttiseen minääsi ja maailmankaikkeuteesi. Työskentelen yhteistyössä valon henkien kanssa. Käytän myös syvää (akateemista) psykologista ymmärrystä ihmisenä olemisesta, joogaa, selvänäköäni, ääntäni, soittimien äänimaailmaa ja käsieni välittämää energiaa. Sessio on sinulle, joka koet tarvitsevasi kokonaisvaltaista kuuntelijaa ja uutta energiaa henkisellä elämänpolullasi.
 
 
 Session pituus: 90 min
