@@ -8,6 +8,8 @@ My name is Stephanie Freeman and I would like to thank you for visiting my websi
 
 I have experienced the transformative power of yoga in one form or another since 2003.
 
+I'm also blessed with clairvoyance and a strong connection with the spirit world, and hence use this energy of light and love in my classes and private sessions.
+
 The good news is that process of becoming creative and productive does not have to involve anguish or emotional anxiety.
 
 I used to be a University researcher but my long-lasting yoga lifestyle hobby was turning into a professional calling. 
