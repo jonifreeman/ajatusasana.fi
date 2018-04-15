@@ -2,15 +2,9 @@
 title: Conversational Yoga Relaxation
 ---
 
-**CONVERSATIONAL YOGA RELAXATION**
+**Love Energy & Relaxation**
 
-*For individuals in search of a new direction in their life*
-
-*For couples in search of a more deeper and meaningful interconnection* 
-
-Would you like to unwind in a relaxing atmosphere and be genuinely heard?  Are you searching for inspiration in some area of your (working) life or your relationship?  Or perhaps you just need a little nudge to better trust your intuition in decision-making? 
-
-Conversational Yoga Relaxation is for anyone who would like to gain deeper awareness to a pressing issue in their (social)life. You do not need prior experience in relaxing or yoga. I combine different relaxation and somatic awareness techniques and holistic yoga with a deep socio-psychological understanding of the richness of human life.
+I channel healing energy of universal love and light so that you can experience a deeper connection to your true higher self and the universe. I work with light spirits by using my clairvoyance, voice, different healing sounds and my hands for transmitting healing energy. I also use my deep academic psychological understanding of being a person int his world. This session is for those need a comprehensive listener on their spiritual path.
 
 
 The length of the session: 90 min.
