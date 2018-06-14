@@ -159,7 +159,7 @@ Tämä tunti saa pääasiallisen inspiraationsa kundalinijoogasta. Ihanan virtaa
 
 3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Max osallistujamäärä on 7. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.  Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 50 € / hlö (sis. ALV).
 
-KEVÄÄN 2018 MINIRETRIITTITEEMAT:
+SYYSKAUDEN 2018 MINIRETRIITTITEEMAT:
 
 LA 22.9 2018 klo 10:00-13:00 Energiakehoa puhdistavat aaltoliikkeet- Lempeää liikkuvuutta niveljoogan keinoin. Koe lempeän keinuvan liikkeen terpeuttinen rakkaudellinen vaikutus kehoon, mieleen ja sieluun.
 
