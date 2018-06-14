@@ -134,9 +134,9 @@ Tuntikuvaukset
 Kaikilla tunneilla yhdistetään monen joogatradition elementtejä monipuoliseksi kokonaisuudeksi meditatiivisella otteella. Tunneilla käyetään myös syvempään kehotietoisuuteen ja tietoiseen olemiseen tähtääviä (rentoutus) tekniikoita. Lähtökohtana tunneille osallistumisessa on, että kuka tahansa joogakipinän saanut, voi löytää ikioman tavan joogata. Tunneilla käytetään tarvittaessa myös apuvälineitä anatomisesti parhaimman linjauksen saavuttamiseksi. Ohjaan jokaisen tunnin intuitiivisesti ja luovasti, joogaajien yksilöllisiä sekä koko ryhmän tarpeita kuunnellen. Jokainen tunti on sisällöllisesti erilainen. Pyrin jatkuvasti kehittämään opetusta ja tuntien sisältöjä. Meditaatio (itsensä hiljainen kohtaaminen) on olennainen osa kokonaisvaltaista joogaa.
 
 <a id="hidas"></a>
-**Lempeästi vahvistava jooga**
+**Dynaaminen iisimpi jooga**
 
-Tunnilla tehdään kehoa ja mieltä vahvistavia joogaliikkeitä erityisen hitaasta ja tunnustelevasti. Lopuksi tehdään muutama palauttava jooga-asana. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
+Tunnilla tehdään ensin kehoa ja mieltä vahvistavia yksinkertaisia joogaliikkeitä. Tunti päättyy lempeisiin rauhoittaviin avaaviin joogaliikkeisiin ja rentoutukseen. Vahvistaa lihaksia, lisää kehon elastisuutta, kehittää tasapainoa, ja rauhoittaa mieltä. Annan aina eri liikevaihtoehtoja yksilöllisten tarpeiden mukaan. 
 
 <a id="yin"></a>
 **Syvärentouttava & avaava jooga**
@@ -161,8 +161,7 @@ Tämä tunti saa pääasiallisen inspiraationsa kundalinijoogasta. Ihanan virtaa
 
 KEVÄÄN 2018 MINIRETRIITTITEEMAT:
 
-LA 12.05 2018 klo 10:00-13:00 Enkelten kuiskauksia - Rakkauden Joogaa. Rentouttavia ja korkeasti värähteleviä harjoituksia, valoisaa musiikkia. Yhteyttä korkeimpaan minääsi.
-
+LA 22.9 2018 klo 10:00-13:00 Energiakehoa puhdistavat aaltoliikkeet- Lempeää liikkuvuutta niveljoogan keinoin. Koe lempeän keinuvan liikkeen terpeuttinen rakkaudellinen vaikutus kehoon, mieleen ja sieluun.
 
 
 
