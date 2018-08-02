@@ -63,25 +63,25 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (jooga 10% ja konsultaatio/luennot 24%). Hinnasto päivitetty 30.8 2017.
+Hintoihin sisältyy ALV (10%). Hinnasto päivitetty 01.8 2018.
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, Edenred mobiilimaksulla (korteilla voi nyt maksaa verkon kautta), ePassilla (sporttipassilla), Eazybreak mobiililiikuntaseteillä, Tyky-Kuntoseteli ja Tyky-Online sekä Benify-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
-**Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 35 €**
+**Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 45 €**
 
 <span itemprop="name">Kertamaksu</span> 
 ----------
 
 -----     -------------------------
-60 min     25 €
-           20 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+60 min     27 €
+           24 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 -----     -------------------------
 
 -----     -------------------------
-90 min     30 €
-           25 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+90 min     34 €
+           30 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 -----     -------------------------
 
 </div>
@@ -90,25 +90,25 @@ Yksityistunnit / -ryhmät
 -------------------------
 
 -----      ------------------------
-90 min     125 € (ryhmät)
-            95 € (yksityistunti yhdelle)
+90 min     129 € (ryhmät)
+            99 € (yksityistunti yhdelle)
 -----      ------------------------
 
 Sarjakortit 60 min ja 90 min
 -----------
 
 -----------  ---------------------------------
- 5 x 60 min   95 € (Voimassa 3 kk ostopäivästä)
-              80 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 60 min   165 € (Voimassa 6 kk ostopäivästä)
-              150 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+ 5 x 60 min   100 € (Voimassa 3 kk ostopäivästä)
+              90 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 60 min   170 € (Voimassa 6 kk ostopäivästä)
+              153 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------    ---------------------------------
 
 ------------  ---------------------------------
- 5 x 90 min   130 € (Voimassa 3 kk ostopäivästä)
-              110 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
-10 x 90 min   230 € (Voimassa 6 kk ostopäivästä)
-              195 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+ 5 x 90 min   135 € (Voimassa 3 kk ostopäivästä)
+              122 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+10 x 90 min   235 € (Voimassa 6 kk ostopäivästä)
+              212 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------    ---------------------------------
 
 
@@ -122,7 +122,7 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ----------------------------------------------------------------------
-(3h) 60€ (50€ opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+(3h) 60€ (54€ opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------------------------------------------------------------------
 
 
@@ -157,7 +157,7 @@ Tämä tunti saa pääasiallisen inspiraationsa kundalinijoogasta. Ihanan virtaa
 <a id="retriitti"></a>
 **Ajatus & Asana miniretriitit**
 
-3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Max osallistujamäärä on 7. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.  Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 50 € / hlö (sis. ALV).
+3 tunnin mittainen mini-irtiotto arjesta! Fokusoituja joogaharjoituksia, hengittelyä, meditaatiota ja keskustelua vaihtuvin teemoin. Lopuksi teemme Yoga Nidran (syvä tietoisen rentoutumisen harjoitus) tai meditaation. Talo tarjoaa teetä & terveellistä suklaata pienen tauon aikana. Max osallistujamäärä on 7. Kysy lisää: stephanie@ajatusasana.fi tai 0405224889. Viime hetken perumisesta ei palauteta kurssimaksua muuta kuin lääkärintodistusta vastaan.  Hinta: 60 € / hlö (sis. ALV), Opiskelijat, työttömät, eläkeläiset & äitityslomalaiset 54 € / hlö (sis. ALV).
 
 SYYSKAUDEN 2018 MINIRETRIITTITEEMAT:
 
