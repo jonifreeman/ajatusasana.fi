@@ -63,13 +63,13 @@ Ota yhteyttä niin sovitaan ajankohta tai varaa aika <span class="ajanvaraus-lin
 Hinnasto
 ========
 
-Hintoihin sisältyy ALV (10%). Hinnasto päivitetty 01.8 2018.
+Hintoihin sisältyy ALV (10%). =piskelijat, eläkeläiset, työttömät, äitiyslomalaise saavat n. 10 % alennuksen. Hinnasto päivitetty 01.8 2018.
 
 Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, Edenred mobiilimaksulla (korteilla voi nyt maksaa verkon kautta), ePassilla (sporttipassilla), Eazybreak mobiililiikuntaseteillä, Tyky-Kuntoseteli ja Tyky-Online sekä Benify-henkilöstön liikuntatuella!
 
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
-**Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 45 €**
+**Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 40 €**
 
 <span itemprop="name">Kertamaksu</span> 
 ----------
@@ -98,14 +98,14 @@ Sarjakortit 60 min ja 90 min
 -----------
 
 -----------  ---------------------------------
- 5 x 60 min   100 € (Voimassa 3 kk ostopäivästä)
+ 5 x 60 min   100 € (Voimassa 4 kk ostopäivästä)
               90 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 10 x 60 min   170 € (Voimassa 6 kk ostopäivästä)
               153 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 ----------    ---------------------------------
 
 ------------  ---------------------------------
- 5 x 90 min   135 € (Voimassa 3 kk ostopäivästä)
+ 5 x 90 min   135 € (Voimassa 4 kk ostopäivästä)
               122 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
 10 x 90 min   235 € (Voimassa 6 kk ostopäivästä)
               212 € (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
@@ -114,7 +114,7 @@ Sarjakortit 60 min ja 90 min
 
 <p>
 
-*Huom! Ostopäivä tarkoittaa joogalaskun yhteydessä olevaa eräpäiväää. Jos maksat jollain muulla tavalla, ostopäiväksi luetaan maksupäivä. Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia. Jos sinulla on 90 min sarjakortti ja haluat tulla 60 min tunnille, voit käyttää puolikkaan kertakäynnin kortistasi ja lisäksi maksaa 5 € paikanpäällä. Vastaavasti jos sinulla on tulevaisuudessa 60 min sarjakortti, voit kuitata 90 min tunnin kertakäyntimaksulla ja lisäksi maksaa 10 €. Sarjakorteilla ei voi maksaa yksityistunteja*
+*Huom! Ostopäivä tarkoittaa joogalaskun yhteydessä olevaa eräpäiväää. Jos maksat jollain muulla tavalla, ostopäiväksi luetaan maksupäivä. Kortit ovat perhekohtaisia, jolloin saman talouden ihmiset voivat käyttää samaa sarjakorttia. Sarjakorteilla ei voi maksaa yksityistunteja*
 
 <p>
 
@@ -122,7 +122,7 @@ Ajatus & Asana Miniretriitit
 ----------------------------
 
 ----------------------------------------------------------------------
-(3h) 60€ (54€ opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset)
+(3h) 60€ (opiskelijat, eläkeläiset, työttömät, äitiyslomalaiset, 54€)
 ----------------------------------------------------------------------
 
 
