@@ -70,6 +70,7 @@ Voit maksaa myös Smartum liikuntaseteleillä, Edenred Virikeseteleillä, Edenre
 <div itemscope itemtype="http://data-vocabulary.org/Product">
 
 **Tutustumistarjous: osallistuminen mille tahansa kahdelle viikkotunnille yht. 40 €**
+**Tutustumistarjous uusille: 5 x 60 min sarjakortti (80 €) ja 5 x 90 min sarjakortti (110€)**
 
 <span itemprop="name">Kertamaksu</span> 
 ----------
