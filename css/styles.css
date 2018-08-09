@@ -164,7 +164,7 @@ h1, h2, strong, a {
   float: left;
   width: 45%;
   line-height: 22px;
-  font-size: 16px;
+  font-size: 16px !important;
   color: #0aa7d3;
   margin-top: 52px;
   margin-left: 10px;
@@ -197,6 +197,11 @@ h1, h2, strong, a {
 .content h2 {
   font-weight: bold;
   padding-bottom: 12px;
+  font-size: 16px !important;
+}
+
+.content input {
+  font-size: 11px !important;
 }
 
 .content .side-image {
