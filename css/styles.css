@@ -322,9 +322,13 @@ blockquote cite:before {
 }
 
 .schedule {
-  width: 1050px;
+  width: 900px;
   margin-bottom: 40px;
   border: 1px solid #98b49b;
+}
+
+.schedule-white .schedule {
+  background-color: #ffffff;
 }
 
 .schedule td {
