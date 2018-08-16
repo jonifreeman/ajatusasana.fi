@@ -38,8 +38,6 @@ main = hakyll $ do
     
     match "*.markdown" $ content "templates/default.html"
 
-    match "en/*.markdown" $ content "templates/default_en.html"
-    
     match "templates/*" $ compile templateCompiler
 
 
