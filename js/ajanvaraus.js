@@ -16,10 +16,10 @@ $(function() {
       eventClick: function(calEvent, jsEvent, view) {
         var times = ['<option class="time" value="">Valitse ajankohta</option>']
         var first = calEvent.start.clone()
-        var last = calEvent.end.clone().subtract(90, 'minutes')
+        var last = calEvent.end.clone().subtract(75, 'minutes')
         for (i = first; i <= last; first.add(15, 'minutes')) {
           var t = i.format('HH:mm')
-          var range = t + ' - ' + i.clone().add(90, 'minutes').format('HH:mm')
+          var range = t + ' - ' + i.clone().add(75, 'minutes').format('HH:mm')
           times.push('<option class="time" value="' + t + '">' + range + '</option>')
         }
         addAppointmentPopup.formFields.start().html(times.join(''))

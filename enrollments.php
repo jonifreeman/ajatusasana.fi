@@ -23,7 +23,7 @@ function validate_enrollment($start, $name, $email, $phone) {
 
 function add_enrollment($start, $name, $email, $phone, $comment) {
   $endDate = new DateTime($start);
-  $endDate->modify('+90 minutes');
+  $endDate->modify('+75 minutes');
   $end = $endDate->format('Y-m-d H:i:s');
   validate_enrollment($start, $name, $email, $phone);
   validate_enrollment_time($start, $end);
