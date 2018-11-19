@@ -116,49 +116,49 @@ h1, h2, strong, a {
   color: #a8d733;
 }
 
-.navi .pull {  
+.navi .pull {
   display: none;
   margin-bottom: 20px;
 }
-  
+
 .navi .pull a {
   vertical-align: middle;
 }
 
 .navi .pull img {
-  width: 30px;  
+  width: 30px;
   height: 30px;
   vertical-align: middle;
-}  
+}
 
 @media only screen and (max-width : 675px) {
-  .navi {  
+  .navi {
     border-bottom: 0;
   }
 
-  .content { 
-    clear: both; 
+  .content {
+    clear: both;
     width: 90% !important;
   }
 
   .navi ul {
     padding: 8px;
     position: absolute;
-    display: none;  
-    height: auto; 
+    display: none;
+    height: auto;
     z-index: 10;
     opacity: 0.95;
     background-color: #c9d754;
     border-radius: 5px;
     -moz-border-radius: 5px;
   }
-  
-  .navi .pull {  
-    display: block;  
-    width: 100%;  
-    position: relative;  
+
+  .navi .pull {
+    display: block;
+    width: 100%;
+    position: relative;
   }
-}  
+}
 
 .content {
   float: left;
@@ -309,7 +309,7 @@ blockquote cite {
   display: block;
   margin-top: 5px;
 }
- 
+
 blockquote cite:before {
   content: "\2014 \2009";
 }
@@ -345,7 +345,7 @@ blockquote cite:before {
 
 .schedule th {
   width: 14%;
-  font-weight: bold;  
+  font-weight: bold;
   padding-top: 2px;
   padding-bottom: 2px;
   border: 1px solid #98b49b;
@@ -418,8 +418,12 @@ blockquote cite:before {
 }
 
 .popup .popup-content {
-  margin: 15px;
+  margin: 0 10px 0 10px;
   position: relative;
+}
+
+.popup .popup-content h2 {
+  margin-top: 10px;
 }
 
 .signup-popup .contact-info {
@@ -431,7 +435,7 @@ blockquote cite:before {
 }
 
 .signup-popup .signup-button {
-  margin-top: 30px;    
+  margin-top: 10px;
 }
 
 .signup-popup .class-info, .signup-popup .classes {
@@ -450,9 +454,13 @@ blockquote cite:before {
   text-align: center;
 }
 
+.signup-popup .main-content p {
+  margin-bottom: 0;
+}
+
 .ale {
   color: #b7c74b;
-  font-weight: bold;  
+  font-weight: bold;
 }
 
 .prices {
@@ -531,7 +539,7 @@ section {
 }
 
 .ajanvaraus-link a {
-  color: #3a87ad;  
+  color: #3a87ad;
 }
 
 .available-class {
@@ -549,7 +557,7 @@ section {
 .booking-attention {
   margin-left: 10px;
   font-size: 12px;
-  color: red;  
+  color: red;
 }
 
 .schedule-loading {
