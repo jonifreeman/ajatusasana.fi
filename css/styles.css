@@ -424,10 +424,11 @@ blockquote cite:before {
 
 .popup .popup-content h2 {
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .signup-popup .contact-info {
-  margin-top: 8px;
+  margin-top: 6px;
 }
 
 .signup-popup input[type="text"] {
@@ -436,6 +437,7 @@ blockquote cite:before {
 
 .signup-popup .signup-button {
   margin-top: 10px;
+  margin-bottom: 4px;
 }
 
 .signup-popup .class-info, .signup-popup .classes {
@@ -454,8 +456,16 @@ blockquote cite:before {
   text-align: center;
 }
 
+.signup-popup .popup-content p {
+  margin-bottom: 10px;
+}
+
 .signup-popup .main-content p {
   margin-bottom: 0;
+}
+
+.signup-popup .main-content input[type="text"] {
+  padding: 0 4px 0 4px;
 }
 
 .ale {
