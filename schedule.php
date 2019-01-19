@@ -59,10 +59,12 @@ header('Content-Type: text/html; charset=utf-8');
   <strong><?= format_time($group_class['start_time']) ?> - <?= format_time($group_class['end_time']) ?></strong>
   <? endif; ?>
   <?php if ($group_class['session_type'] == 'course' || $group_class['max_size'] > 0): ?>
-  <img data-id="<?= $group_class['id'] ?>" class="signup" src="/img/signup.png"></img>
+  <a href="javascript:void(0);" data-id="<?= $group_class['id'] ?>" class="signup">
+    <img src="/img/signup.png"></img>
+  </a>
   <? endif; ?>
   <div>
-    <a href="#<?= $group_class['anchor'] ?>"><?= $group_class['name'] ?></a>
+    <?= $group_class['name'] ?>
     <?php if ($group_class['highlight']): ?>
     <div class="highlight"><?= $group_class['highlight'] ?></div>
     <? endif; ?>

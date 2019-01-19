@@ -382,19 +382,23 @@ blockquote cite:before {
 }
 
 .signup {
-  width: 20px;
-  height: 20px;
-  margin: 0 5px 5px 6px;
+  display: inline-block;
 }
 
-/* Increase touch area */
-.signup:after {
-  content: '';
-  position: absolute;
-  top: -10px;
-  bottom: -10px;
-  left: -10px;
-  right: -10px;
+.signup:hover {
+  background-color: #0aa7d3;
+}
+
+.signup, .signup:link, .signup:visited, .signup:active {
+  text-decoration: none;
+  border: 0;
+  vertical-align: middle;
+}
+
+.signup img {
+  width: 20px;
+  height: 20px;
+  margin: 5px 5px 5px 6px;
 }
 
 /*
