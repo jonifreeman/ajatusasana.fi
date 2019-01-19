@@ -56,15 +56,17 @@ header('Content-Type: text/html; charset=utf-8');
 <?php if ($group_class['day'] == $day): ?>
  <div class="<?= $group_class['session_type'] ?>">
   <?php if ($group_class['start_time']): ?>
-  <strong><?= format_time($group_class['start_time']) ?> - <?= format_time($group_class['end_time']) ?></strong> <br />
+  <strong><?= format_time($group_class['start_time']) ?> - <?= format_time($group_class['end_time']) ?></strong>
   <? endif; ?>
   <?php if ($group_class['session_type'] == 'course' || $group_class['max_size'] > 0): ?>
   <img data-id="<?= $group_class['id'] ?>" class="signup" src="/img/signup.png"></img>
   <? endif; ?>
-  <a href="#<?= $group_class['anchor'] ?>"><?= $group_class['name'] ?></a>
-  <?php if ($group_class['highlight']): ?>
-  <div class="highlight"><?= $group_class['highlight'] ?></div>
-  <? endif; ?>
+  <div>
+    <a href="#<?= $group_class['anchor'] ?>"><?= $group_class['name'] ?></a>
+    <?php if ($group_class['highlight']): ?>
+    <div class="highlight"><?= $group_class['highlight'] ?></div>
+    <? endif; ?>
+  </div>
  </div>
 <?php endif; ?>
 <?php endforeach; ?>
