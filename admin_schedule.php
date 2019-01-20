@@ -4,9 +4,9 @@ include ('common.php');
 
 function query_open_group_classes() {
   $sql = function($conn) {
-    return "SELECT gc.*, GROUP_CONCAT(rc.email ORDER BY rc.group_class_id) AS regulars 
-            FROM group_class gc 
-            LEFT JOIN regular_client rc ON gc.id=rc.group_class_id 
+    return "SELECT gc.*, GROUP_CONCAT(rc.email ORDER BY rc.group_class_id) AS regulars
+            FROM group_class gc
+            LEFT JOIN regular_client rc ON gc.id=rc.group_class_id
             WHERE NOW() < gc.end OR gc.end IS NULL GROUP BY gc.id";
   };
   return sql_query($sql);
@@ -57,7 +57,7 @@ if (check_auth_token() == FALSE) {
   <div class="popup-content">
     <img class="close" src="/img/popup_close.png" />
     <h2 class="name"></h2>
-  
+
     <h3>Vakioasiakkaat</h3>
     <ul class="regulars"></ul>
 
@@ -86,7 +86,6 @@ if (check_auth_token() == FALSE) {
       <th>Max</th>
       <th>Piilota peruutetut</th>
       <th>Huom!</th>
-      <th>Linkki</th>
       <th>Vakiokävijät</th>
     </tr>
   </thead>
@@ -107,7 +106,6 @@ if (check_auth_token() == FALSE) {
       <td><input type="text" name="max_size" value="<?= $group_class['max_size'] ?>"/></td>
       <td><input type="checkbox" name="hide_cancelled" <?php echo ($group_class['hide_cancelled']==1 ? 'checked' : '');?>/></td>
       <td><input type="text" name="highlight" value="<?= $group_class['highlight'] ?>"/></td>
-      <td><input type="text" name="anchor" value="<?= $group_class['anchor'] ?>"/></td>
       <td><textarea rows="4" name="regulars"><?= $group_class['regulars'] ?></textarea></td>
       <td><input class="save" type="submit" value="<?= $group_class['id'] ? 'Tallenna' : 'Luo uusi' ?>"/></td>
     </tr>
@@ -133,8 +131,6 @@ if (check_auth_token() == FALSE) {
   Maksimi osallistujamäärä
   <li><b>Huom!</b></li>
   Tällä voi asettaa pienen huomiotekstin tunnin kuvaukseen. Esim. 'Alkaa Syyskuussa 2018!'
-  <li><b>Linkki</b></li>
-  Linkki tuntikuvauksiin.
   <li><b>Vakiokävijät</b></li>
   Pilkulla eroteltu lista vakkarikävijöiden sähköpostiosoitteista.
 </ul>
