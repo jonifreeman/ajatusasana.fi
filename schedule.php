@@ -55,14 +55,18 @@ header('Content-Type: text/html; charset=utf-8');
 <?php foreach ($group_classes as $group_class): ?>
 <?php if ($group_class['day'] == $day): ?>
  <div class="<?= $group_class['session_type'] ?>">
-  <?php if ($group_class['start_time']): ?>
-  <strong><?= format_time($group_class['start_time']) ?> - <?= format_time($group_class['end_time']) ?></strong>
-  <? endif; ?>
-  <?php if ($group_class['session_type'] == 'course' || $group_class['max_size'] > 0): ?>
-  <a href="javascript:void(0);" data-id="<?= $group_class['id'] ?>" class="signup">
-    <img src="/img/signup.png"></img>
-  </a>
-  <? endif; ?>
+  <div class="signup-header">
+    <strong>
+      <?php if ($group_class['start_time']): ?>
+        <?= format_time($group_class['start_time']) ?> - <?= format_time($group_class['end_time']) ?>
+      <? endif; ?>
+    </strong>
+    <?php if ($group_class['session_type'] == 'course' || $group_class['max_size'] > 0): ?>
+    <a href="javascript:void(0);" data-id="<?= $group_class['id'] ?>" class="signup">
+      <img src="/img/signup.png"></img>
+    </a>
+    <? endif; ?>
+  </div>
   <div>
     <?= $group_class['name'] ?>
     <?php if ($group_class['highlight']): ?>
